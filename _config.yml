@@ -11,7 +11,7 @@ keywords:
   - Forge
   - Master Forge
 author: Tangent Chang
-language: [en, zh-TW]
+language: en
 timezone: Asia/Taipei
 
 # URL
@@ -101,8 +101,6 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-plugins:
-  - hexo-footnote
 theme: next
 
 # Deployment
@@ -126,6 +124,9 @@ markdown:
     - markdown-it-ins
     - markdown-it-sub
     - markdown-it-sup
+    - markdown-it-container
+    - markdown-it-mark
+    - markdown-it-emoji
   anchors:
     level: 2
     collisionSuffix: "v"

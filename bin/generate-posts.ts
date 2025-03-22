@@ -9,10 +9,25 @@ function slugify(input: string): string {
     .replace(/[ '\-,]+/g, "-");
 }
 
+function replaceNoteUrl(
+  noteContent: string,
+  urlToFileName: Record<string, string>
+) {
+  let result = noteContent;
+  Object.entries(urlToFileName).forEach(([url, fileName]) => {
+    result = result.replace(
+      new RegExp(`\\[([^\\]]+)\\]\\(${url}\\)`, "g"),
+      `{% post_link ${fileName} $1 %}`
+    );
+  });
+  return result;
+}
+
 (async () => {
-  const notes: Note[] = JSON.parse(
+  const rawNotes: Note[] = JSON.parse(
     readFileSync("./res/hackmd-note-data.json", { encoding: "utf8" })
   );
+  const notes = rawNotes.filter((n) => n.title.match(/^[\w\-,' ]+$/));
   const urlToFileName: Record<string, string> = {};
   for (const note of notes) {
     const url = note.publishLink.replace("https://hackmd.io", "");
@@ -22,22 +37,22 @@ function slugify(input: string): string {
   for (const note of notes) {
     const url = note.publishLink.replace("https://hackmd.io", "");
     const fileName = urlToFileName[url];
-    const lang = note.title.match(/^[\w\-,' ]+$/) ? "en" : "zh-TW";
     const markdownFileContent = `---
 title: ${note.title}
 date: ${moment(note.createdAt).format("YYYY-MM-DD HH:mm:ss")}
 updated: ${moment(note.lastChangedAt).format("YYYY-MM-DD HH:mm:ss")}
-lang: ${lang}
 ---
-${note.content
-  .replace(/\[TOC\]\n/g, "")
-  .replace(/==/g, "*")
-  .replace(/:::info/g, "")
-  .replace(/:::warning/g, "")
-  .replace(/:::spoiler/g, "")
-  .replace(/:::/g, "")
-  .replace(/:\w+: ?/g, "")}
+${replaceNoteUrl(
+  note.content
+    .replace(/\[TOC\]\n/g, "")
+    .replace(/:::info/g, "{% blockquote %}")
+    .replace(/:::warning/g, "{% blockquote %}")
+    .replace(/:::spoiler( .*)?/g, "{% blockquote %}")
+    .replace(/:::/g, "{% endblockquote %}")
+    .replace(/\[^\w+\]/g, " $0"),
+  urlToFileName
+)}}
 `;
-    writeFileSync(`source/_posts/${lang}/${fileName}.md`, markdownFileContent);
+    writeFileSync(`source/_posts/${fileName}.md`, markdownFileContent);
   }
 })();
