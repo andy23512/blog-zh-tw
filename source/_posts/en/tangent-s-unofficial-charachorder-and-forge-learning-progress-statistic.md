@@ -8,7 +8,6 @@ lang: en
    :information_source: [The official CharaChorder Speed Tracker is here.](https://docs.google.com/spreadsheets/d/1LYi3Y6Ombi1V5bWt-75SnHn9ONvl1KOFugYUBTVNgjM/edit?gid=0#gid=0)
 :::
 
-[TOC]
 
 ## Preface
 

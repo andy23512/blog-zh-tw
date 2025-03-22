@@ -4,7 +4,6 @@ date: 2024-03-18 22:33:41
 updated: 2025-01-08 00:23:54
 lang: zh-TW
 ---
-[TOC]
 
 # CharaChorder One (CC1) 上的注音鍵盤佈局
 

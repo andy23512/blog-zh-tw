@@ -6,7 +6,6 @@ lang: zh-TW
 ---
 註：你也可以查看[CharaChorder 官方文件中的常見問題](https://docs.charachorder.com/FAQs.html)。
 
-[TOC]
 
 
 ## 全部裝置 (Master Forge 和 CharaChorder One/Two)

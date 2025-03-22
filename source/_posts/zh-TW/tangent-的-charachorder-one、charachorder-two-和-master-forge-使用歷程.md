@@ -4,7 +4,6 @@ date: 2024-03-27 16:53:19
 updated: 2025-03-08 21:07:05
 lang: zh-TW
 ---
-[TOC]
 
 # 1. 我如何遇見 CharaChorder One (CC1)
 

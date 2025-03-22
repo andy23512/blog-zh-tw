@@ -4,7 +4,6 @@ date: 2025-03-13 23:32:48
 updated: 2025-03-13 23:59:28
 lang: zh-TW
 ---
-[TOC]
 
 # 開箱 (==Kickstarter 之前的預訂==)
 

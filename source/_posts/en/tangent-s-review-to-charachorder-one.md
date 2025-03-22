@@ -4,7 +4,6 @@ date: 2024-08-05 23:13:26
 updated: 2024-12-29 12:21:50
 lang: en
 ---
-[TOC]
 
 ## Preface
 

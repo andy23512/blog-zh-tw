@@ -8,7 +8,6 @@ lang: zh-TW
    :information_source: [官方的 CharaChorder 打字速度追蹤表在這裡。](https://docs.google.com/spreadsheets/d/1LYi3Y6Ombi1V5bWt-75SnHn9ONvl1KOFugYUBTVNgjM/edit?gid=0#gid=0)
 :::
 
-[TOC]
 
 ## 前言
 

@@ -30,7 +30,7 @@ date: ${moment(note.createdAt).format("YYYY-MM-DD HH:mm:ss")}
 updated: ${moment(note.lastChangedAt).format("YYYY-MM-DD HH:mm:ss")}
 lang: ${lang}
 ---
-${note.content}
+${note.content.replace(/\[TOC\]\n/g, "")}
 `;
     writeFileSync(`source/_posts/${lang}/${fileName}.md`, markdownFileContent);
   }

@@ -6,7 +6,6 @@ lang: en
 ---
 Note: You could also check [the FAQ on the official CharaChorder document](https://docs.charachorder.com/FAQs.html).
 
-[TOC]
 
 ## All (Master Forge and CharaChorder One/Two)
 

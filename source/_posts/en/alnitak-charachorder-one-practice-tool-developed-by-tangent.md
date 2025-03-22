@@ -10,7 +10,6 @@ lang: en
 
 ![截圖 2025-02-19 23.15.27](https://hackmd.io/_uploads/HJR3BOX51l.png)
 
-[TOC]
 
 # Links
 

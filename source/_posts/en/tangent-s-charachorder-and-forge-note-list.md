@@ -4,7 +4,6 @@ date: 2024-04-11 09:57:28
 updated: 2025-03-18 00:55:51
 lang: en
 ---
-[TOC]
 
 ## Other Language
 
