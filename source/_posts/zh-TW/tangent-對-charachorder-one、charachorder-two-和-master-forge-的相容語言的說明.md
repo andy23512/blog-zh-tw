@@ -16,7 +16,7 @@ lang: zh-TW
     - 只能在 QWERTY 佈局下使用
   - 生成式文字選單 (Generative Text Menu, GTM) 和即時添加和弦選單 (Impulse Chord Menu)
     - 在非 QWERTY 佈局下使用，文字介面會是亂碼
-  - ==[部分支援]== 裝置管理工具 (Device Manager) 上顯示的裝置佈局和和弦輸出
+  - *[部分支援]* 裝置管理工具 (Device Manager) 上顯示的裝置佈局和和弦輸出
     - 一些按鍵（如 Shift 層的鍵）會顯示按鍵或和弦在「QWERTY - US」佈局下的輸出，而不是目前所使用的作業系統佈局。
   - 和弦修飾功能
     - 主要是使用英文的修飾規則

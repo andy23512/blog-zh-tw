@@ -5,10 +5,10 @@ updated: 2025-03-15 00:19:38
 lang: en
 ---
 
-# Out of the Box (==Pre-Kickstarter Pre-Order==)
+# Out of the Box (*Pre-Kickstarter Pre-Order*)
 
 :::info
-   :information_source: The parts shown here are the contents of the Master Forge bundle of the ==PRE-KICKSTARTER PRE-ORDER==. If yours is Kickstarter or post-kickstarter order, your contents might be different from this.
+   :information_source: The parts shown here are the contents of the Master Forge bundle of the *PRE-KICKSTARTER PRE-ORDER*. If yours is Kickstarter or post-kickstarter order, your contents might be different from this.
 :::
 
 :::info
@@ -73,7 +73,7 @@ Those parts can be put on the cleat to prevent them from missing.
 
 ![image](https://hackmd.io/_uploads/BymbRPx3ke.png)
 
-After that, I used the provided USB-C to USB-C cable to connect the ==left port== of the right digitizer and the ==right port== of the left digitizer. Then I could connect it to my computer again and use it.
+After that, I used the provided USB-C to USB-C cable to connect the *left port* of the right digitizer and the *right port* of the left digitizer. Then I could connect it to my computer again and use it.
 
 ![20250308_192831](https://hackmd.io/_uploads/rkSuJOe2yg.jpg)
 

@@ -15,9 +15,9 @@ lang: zh-TW
 
 #### [charachorder.io](https://charachorder.io/)
 
-#### ==(已過時)== [CharaChorder Device Manager](https://manager.charachorder.com/)
+#### *(已過時)* [CharaChorder Device Manager](https://manager.charachorder.com/)
 
-#### ==(已過時)== [CharaChorder Launchpad - Chord Manager](https://launchpad.charachorder.com/#/manager) (註：這個網站只支援 CCOS 以前的裝置。)
+#### *(已過時)* [CharaChorder Launchpad - Chord Manager](https://launchpad.charachorder.com/#/manager) (註：這個網站只支援 CCOS 以前的裝置。)
 
 ### 首頁
 
@@ -42,7 +42,7 @@ CharaChorder Essentials 是 are in-depth tutorial videos that CharaChorder has c
 ### 練習工具
 
 #### [dot i/o](https://www.iq-eq.io/#/)
-#### ==(已過時)== [CharaChorder Launchpad](https://launchpad.charachorder.com/#/)
+#### *(已過時)* [CharaChorder Launchpad](https://launchpad.charachorder.com/#/)
 
 ### 影片
 
@@ -80,13 +80,13 @@ VoiceBox 是一個即時文字轉語音的網頁應用程式。在[它的正式�
 
 ### Wiki
 
-#### ==(已過時)== [CCOS Community Wiki](https://docs.google.com/document/u/2/d/1NWgIFE1yl-gQc8hmqbDO00kSV3ETgtKgsIzdntMR_hI/mobilebasic)
+#### *(已過時)* [CCOS Community Wiki](https://docs.google.com/document/u/2/d/1NWgIFE1yl-gQc8hmqbDO00kSV3ETgtKgsIzdntMR_hI/mobilebasic)
 
 :::spoiler
 一個舊的社群 Wiki。很久沒有更新。建議改用[官方文件](https://docs.charachorder.com/)。
 :::
 
-#### ==(已過時)== [CharaChorder One Wiki](https://charachorder.notion.site/CharaChorder-One-Wiki-f6f24cdfa4f94df7988d48e9b69fbacc)
+#### *(已過時)* [CharaChorder One Wiki](https://charachorder.notion.site/CharaChorder-One-Wiki-f6f24cdfa4f94df7988d48e9b69fbacc)
 
 :::spoiler
 一個舊的社群 Wiki。很久沒有更新。建議改用[官方文件](https://docs.charachorder.com/)。
@@ -109,7 +109,7 @@ VoiceBox 是一個即時文字轉語音的網頁應用程式。在[它的正式�
 GitHub 代碼庫: https://github.com/typing-tech/monkeytype
 :::
 
-#### ==(已過時)== [CharaChorder Config](https://charachorder-config.com/)
+#### *(已過時)* [CharaChorder Config](https://charachorder-config.com/)
 
 :::spoiler
 一個舊的社群工具，可以用來設定你的裝置。建議改用[官方的裝置管理工具](https://manager.charachorder.com/)。

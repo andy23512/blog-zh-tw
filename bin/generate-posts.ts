@@ -19,7 +19,6 @@ function slugify(input: string): string {
     const fileName = slugify(note.title);
     urlToFileName[url] = fileName;
   }
-  console.log(urlToFileName);
   for (const note of notes) {
     const url = note.publishLink.replace("https://hackmd.io", "");
     const fileName = urlToFileName[url];
@@ -30,7 +29,7 @@ date: ${moment(note.createdAt).format("YYYY-MM-DD HH:mm:ss")}
 updated: ${moment(note.lastChangedAt).format("YYYY-MM-DD HH:mm:ss")}
 lang: ${lang}
 ---
-${note.content.replace(/\[TOC\]\n/g, "")}
+${note.content.replace(/\[TOC\]\n/g, "").replace(/==/g, "*")}
 `;
     writeFileSync(`source/_posts/${lang}/${fileName}.md`, markdownFileContent);
   }

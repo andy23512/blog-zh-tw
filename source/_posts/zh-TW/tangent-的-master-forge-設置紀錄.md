@@ -1,14 +1,14 @@
 ---
 title: Tangent 的 Master Forge 設置紀錄
 date: 2025-03-13 23:32:48
-updated: 2025-03-13 23:59:28
+updated: 2025-03-22 20:55:57
 lang: zh-TW
 ---
 
-# 開箱 (==Kickstarter 之前的預訂==)
+# 開箱 (*Kickstarter 之前的預訂*)
 
 :::info
-   :information_source: 在此展示的零件是「==Kickstarter 以前的預訂==」的內容。如果 The parts shown here are the contents of the Master Forge bundle of the ==PRE-KICKSTARTER PRE-ORDER==。如果你的訂單是 Kickstarter 或者在 Kickstarter 之後的預訂，你的訂單的內容物可能與這邊所展示的不同。
+   :information_source: 在此展示的零件是「*Kickstarter 以前的預訂*」的內容。如果你的訂單是 Kickstarter 或者在 Kickstarter 之後的預訂，你的訂單的內容物可能與這邊所展示的不同。
 :::
 
 :::info
@@ -73,7 +73,7 @@ Cleat 的近照如下圖，它上面帶有一個內六角扳手。
 
 ![image](https://hackmd.io/_uploads/BymbRPx3ke.png)
 
-分離之後，我用提供的 USB-C 對 USB-C 連接線來將右半裝置的==左接口==與左半裝置的==右接口==連在一起。之後就可以再連接到電腦上使用。
+分離之後，我用提供的 USB-C 對 USB-C 連接線來將右半裝置的*左接口*與左半裝置的*右接口*連在一起。之後就可以再連接到電腦上使用。
 
 ![20250308_192831](https://hackmd.io/_uploads/rkSuJOe2yg.jpg)
 

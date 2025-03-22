@@ -21,7 +21,7 @@ https://docs.charachorder.com/CharaChorder%20One.html#:~:text=Design%20of%20the%
 
 CC and Forge devices runs on CCOS, which currently supports 3 layers. However, having more layers is a highly requested feature, so it's very possible that they'll implement more layers in the near future.
 
-==Source:== [Discord message](https://discord.com/channels/861730583092658206/1176366370678653010/1287904186473779322)
+*Source:* [Discord message](https://discord.com/channels/861730583092658206/1176366370678653010/1287904186473779322)
 
 ### Compatible languages 
 
@@ -45,7 +45,7 @@ There's a few parts to this:
 2. YouTube membership for early access / exclusive content access + badge.
 3. They will also be introducing 2 new discord badges, "VIP" & "Immortal"
 
-==Source:== [Discord message](https://discord.com/channels/861730583092658206/1176366370678653010/1278025573620519065)
+*Source:* [Discord message](https://discord.com/channels/861730583092658206/1176366370678653010/1278025573620519065)
 
 ### Way to Get the VIP Role in Discord
 
@@ -59,13 +59,13 @@ https://discord.com/channels/861730583092658206/1176366370678653010/127941328742
 
 Master Forge can have a million chords, and CC1 only supports 16000 chords.
 
-==Source:== [Discord message](https://youtu.be/x2swE9URxeA?feature=shared&t=178)
+*Source:* [Discord message](https://youtu.be/x2swE9URxeA?feature=shared&t=178)
 
 ### Default Keycaps
 
 Planning to use the new cap shown in [this video](https://youtu.be/8px7PLQuOkA?feature=shared&t=407). 
 
-==Source:== [Discord message](https://discord.com/channels/861730583092658206/894760876727472178/1295785195219193886)
+*Source:* [Discord message](https://discord.com/channels/861730583092658206/894760876727472178/1295785195219193886)
 
 ### Spec
 
@@ -75,7 +75,7 @@ This video shows a spec comparison between M4G (Master Forge), CC1 and market-le
 
 M4G is the community chosen abbreviation for Master Forge.
 
-==Source:== [Discord message](https://discord.com/channels/861730583092658206/894760876727472178/1294087476272435220)
+*Source:* [Discord message](https://discord.com/channels/861730583092658206/894760876727472178/1294087476272435220)
 
 ### Differences from CharaChorder One
 
@@ -102,4 +102,4 @@ It's not easy to perform and many users avoid it. You can just use an easier cho
 
 CC2 is only supported on https://charachorder.io/ .
 
-==Source:== [Discord message](https://discord.com/channels/861730583092658206/1300831235928621098/1303559373250887720)
+*Source:* [Discord message](https://discord.com/channels/861730583092658206/1300831235928621098/1303559373250887720)

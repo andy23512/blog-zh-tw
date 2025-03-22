@@ -19,7 +19,7 @@ lang: en
     - It only works under the QWERTY OS layout.
   - Startup Text, Generative Text Menu (GTM) and Impulse Chord Menu
     - Text interface would be garbled when under a non-QWERTY OS layout.
-  - ==[Partial Support]== Device Manager (layout display and chord output)
+  - *[Partial Support]* Device Manager (layout display and chord output)
     - Some keys (ex: shift layer keys) on the layout and chord output show the output under the `QWERTY - US` OS layout but not the current OS layout.
   - Chord Modifier
     - Modification rules are mainly for English.

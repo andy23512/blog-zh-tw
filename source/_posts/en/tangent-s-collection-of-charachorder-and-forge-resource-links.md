@@ -14,9 +14,9 @@ lang: en
 
 #### [charachorder.io](https://charachorder.io/)
 
-#### ==(Outdated)== [CharaChorder Device Manager](https://manager.charachorder.com/)
+#### *(Outdated)* [CharaChorder Device Manager](https://manager.charachorder.com/)
 
-#### ==(Outdated)== [CharaChorder Launchpad - Chord Manager](https://launchpad.charachorder.com/#/manager) (Note: This website only supports pre-CCOS devices.)
+#### *(Outdated)* [CharaChorder Launchpad - Chord Manager](https://launchpad.charachorder.com/#/manager) (Note: This website only supports pre-CCOS devices.)
 
 ### Home Page
 
@@ -35,7 +35,7 @@ lang: en
 ### Practice Tool
 
 #### [dot i/o](https://www.iq-eq.io/#/)
-#### ==(Outdated)== [CharaChorder Launchpad](https://launchpad.charachorder.com/#/)
+#### *(Outdated)* [CharaChorder Launchpad](https://launchpad.charachorder.com/#/)
 
 ### Videos
 
@@ -79,13 +79,13 @@ This repository collects the CAD & CAM files of some parts of CharaChorder devic
 
 ### Wiki
 
-#### ==(Outdated)== [CCOS Community Wiki](https://docs.google.com/document/u/2/d/1NWgIFE1yl-gQc8hmqbDO00kSV3ETgtKgsIzdntMR_hI/mobilebasic)
+#### *(Outdated)* [CCOS Community Wiki](https://docs.google.com/document/u/2/d/1NWgIFE1yl-gQc8hmqbDO00kSV3ETgtKgsIzdntMR_hI/mobilebasic)
 
 :::spoiler
 An old community Wiki but not updated for a long time. Recommend to use [the official documentation](https://docs.charachorder.com/) instead.
 :::
 
-#### ==(Outdated)== [CharaChorder One Wiki](https://charachorder.notion.site/CharaChorder-One-Wiki-f6f24cdfa4f94df7988d48e9b69fbacc)
+#### *(Outdated)* [CharaChorder One Wiki](https://charachorder.notion.site/CharaChorder-One-Wiki-f6f24cdfa4f94df7988d48e9b69fbacc)
 
 :::spoiler
 An old community Wiki but not updated for a long time. Recommend to use [the official documentation](https://docs.charachorder.com/) instead.
@@ -107,7 +107,7 @@ Differences from Monkeytype:
 GitHub Repo: https://github.com/typing-tech/monkeytype
 :::
 
-#### ==(Outdated)== [CharaChorder Config](https://charachorder-config.com/)
+#### *(Outdated)* [CharaChorder Config](https://charachorder-config.com/)
 
 :::spoiler
 An old community tool to configure your device. Recommend to use [the official device manager](https://manager.charachorder.com/) instead.

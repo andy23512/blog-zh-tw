@@ -16,7 +16,7 @@ Notice:
 
 ||[Master Forge (M4G)](https://forgekeyboard.com/products/master-forge)|[CharaChorder Two (CC2)](https://www.charachorder.com/products/cc2)|CharaChorder One (CC1)|[CharaChorder Lite (CCL)](https://www.charachorder.com/products/charachorder-lite)|[CharaChorder X (CCX)](https://www.charachorder.com/products/charachorder-x)|[Svalboard (Sval)](https://svalboard.com/)|Market Leading Keyboard|
 |-|-|-|-|-|-|-|-|
-|==**Computational**==|==**------M4G------**==|==**------CC2------**==|==**------CC1------**==|==**------CCL------**==|==**------CCX------**==|==**------Sval------**==|==**--------------**==|
+|***Computational***|***------M4G------***|***------CC2------***|***------CC1------***|***------CCL------***|***------CCX------***|***------Sval------***|***--------------***|
 |**Modalities**|Programmable Keys & Key Combinations|Programmable Keys & Key Combinations|Programmable Keys & Key Combinations|Programmable Keys & Key Combinations|Programmable Keys & Key Combinations|Programmable Keys & Key Combinations|Individually Programmable Keys Only|
 |**Possible Inputs**|> 13,000,000,000|> 13,000,000,000|> 13,000,000,000|> 17,000,000,000|> 17,000,000,000[^ccx_possible_input]|???|< 200|
 |**Memory**|1,000,000 Actions|60,000 Actions|16,000 Actions|65,000 Actions[^ccl_memory]|65,000 Actions[^ccx_memory]|???|Uses Host CPU Resources|
@@ -26,12 +26,12 @@ Notice:
 |**Microprocessor**|240 MHz Dual Core|240 MHz Dual Core|48 MHz|???|???|133 MHz Dual Core|150 MHz Single Core|
 |**Input Style**|Fluid Chorded / Character Entry|Fluid Chorded / Character Entry|Fluid Chorded / Character Entry|Fluid Chorded / Character Entry|Fluid Chorded / Character Entry|Character Entry and Combos[^sval_input_style]|Character Entry Only|
 |**API**|Open Serial API Specification|Open Serial API Specification|Open Serial API Specification|Open Serial API Specification|Open Serial API Specification|???|None|
-|==**Electrical**==|==**------M4G------**==|==**------CC2------**==|==**------CC1------**==|==**------CCL------**==|==**------CCX------**==|==**------Sval------**==|==**--------------**==|
+|***Electrical***|***------M4G------***|***------CC2------***|***------CC1------***|***------CCL------***|***------CCX------***|***------Sval------***|***--------------***|
 |**Routing Style**|AntiMatrix with Dedicated Channels|AntiMatrix with Dedicated Channels*|AntiMatrix with Dedicated Channels|AntiMatrix with Dedicated Channels*|N/A[^ccx_dependence]|???|Traditional Key Matrix|
 |**Anti-Ghosting**|NKRO+|NKRO+*|NKRO+|NKRO+*|N/A[^ccx_dependence]|NKRO|NKRO|
 |**HID Keyboard Schema**|Extended 12 Key Schema|Extended 12 Key Schema*|Extended 12 Key Schema|Extended 12 Key Schema*|Extended 12 Key Schema*|???|6 Key Schema|
 |**USB-Hub Ports**|3|X|X|X|X|???|0-1|
-|==**Mechanical**==|==**------M4G------**==|==**------CC2------**==|==**------CC1------**==|==**------CCL------**==|==**------CCX------**==|==**------Sval------**==|==**--------------**==|
+|***Mechanical***|***------M4G------***|***------CC2------***|***------CC1------***|***------CCL------***|***------CCX------***|***------Sval------***|***--------------***|
 |**Size (L\*W\*H)**|228\*115\*38 (mm)|295\*111\*29 (mm)[^cc2_size]|296\*110\*38 (mm)|295\*105\*33 (mm)[^cclite_size]|59\*23.25\*16.15 (mm)[^ccx_size]|190\*130\*90 (mm)[^sval_size]|450\*158\*38 (mm)|
 |**Weight (Full Device, both hands)**|346-500 g|303 g[^cc2_weight]|308 g|468 g[^cclite_weight]|???|550 g[^sval_weight]|989 g|
 |**Switch Style**|3-D Snap Action|3-D Tactile|3-D Tactile|1-D Mechanical[^ccl_switch]|N/A[^ccx_dependence]|3-D Magneto-optical|1-D Mechanical / Optical / Halls|
@@ -41,10 +41,10 @@ Notice:
 |**Number of 3D Switches**|16|18|18|N/A|N/A|10 (Key Clusters)|N/A|
 |**Number of Keys on each 3D Switch**|4|5|5|N/A|N/A|5|N/A|
 |**Switch**|[Omron Electronics D2LS-21(20M)](https://eu.mouser.com/ProductDetail/Omron-Electronics/D2LS-2120M?qs=OcgtsXO%2B3gskSBgTf6V7tw%3D%3D)|[Alps Alpine SKRHADE010](https://tech.alpsalpine.com/e/products/detail/SKRHADE010/)|[Alps Alpine SKRHABE010](https://tech.alpsalpine.com/e/products/detail/SKRHABE010/)|Gateron Clear/White|N/A|???|???|
-|==**Material**==|==**------M4G------**==|==**------CC2------**==|==**------CC1------**==|==**------CCL------**==|==**------CCX------**==|==**------Sval------**==|==**--------------**==|
+|***Material***|***------M4G------***|***------CC2------***|***------CC1------***|***------CCL------***|***------CCX------***|***------Sval------***|***--------------***|
 |**Shell**|5052 Aluminium Alloy[^m4g_shell_material]|Injection Molded ABS Plastic[^cc2_half_material]|Injection Molded ABS Plastic[^cc1_half_material]|ABS Plastic[^ccl_shell_material]|Injection Molded Plastic[^ccx_shell_material]|ABS Plastic|???|
 |**Baseplate**|3D-printed Plastic[^m4g_base_material]|3D-printed Plastic[^cc2_half_material]|Injection Molded ABS Plastic[^cc1_half_material]|ABS Plastic[^ccl_base_material]|N/A|N/A|???|
-|==**Other**==|==**------M4G------**==|==**------CC2------**==|==**------CC1------**==|==**------CCL------**==|==**------CCX------**==|==**------Sval------**==|==**--------------**==|==**------M4G------**==|==**------CC2------**==|==**------CC1------**==|==**------CCL------**==|==**------CCX------**==|==**------Sval------**==|==**--------------**==|==**------M4G------**==|==**------CC2------**==|==**------CC1------**==|==**------CCL------**==|==**------CCX------**==|==**------Sval------**==|==**--------------**==|
+|***Other***|***------M4G------***|***------CC2------***|***------CC1------***|***------CCL------***|***------CCX------***|***------Sval------***|***--------------***|***------M4G------***|***------CC2------***|***------CC1------***|***------CCL------***|***------CCX------***|***------Sval------***|***--------------***|***------M4G------***|***------CC2------***|***------CC1------***|***------CCL------***|***------CCX------***|***------Sval------***|***--------------***|
 |**Pointing Device**[^pointing_device]|Trackball / None[^m4g_pointing_device]|Cursor Movement Key|Cursor Movement Key|None|None|Trackball / Touchpad / Trackpoint / None|???|
 
 - **Quietness**: CC2 > CC1 > M4G
