@@ -7,13 +7,13 @@ lang: zh-TW
 
 # 開箱 (*Kickstarter 之前的預訂*)
 
-:::info
-   :information_source: 在此展示的零件是「*Kickstarter 以前的預訂*」的內容。如果你的訂單是 Kickstarter 或者在 Kickstarter 之後的預訂，你的訂單的內容物可能與這邊所展示的不同。
-:::
 
-:::info
-   :information_source: 這箱中並不包含軌跡球 Bolt-on。它將會在未來被分別寄出。
-:::
+   在此展示的零件是「*Kickstarter 以前的預訂*」的內容。如果你的訂單是 Kickstarter 或者在 Kickstarter 之後的預訂，你的訂單的內容物可能與這邊所展示的不同。
+
+
+
+   這箱中並不包含軌跡球 Bolt-on。它將會在未來被分別寄出。
+
 
 底下是一些在我開箱中所拍的照片。
 

@@ -57,7 +57,7 @@ The shortcuts are:
 |`cmd+alt+s`|Snap all windows to grid.|
 |`cmd+alt+[`|Set the focused window to the left half of the screen.|
 |`cmd+alt+]`|Set the focused window to the right half of the screen.|
-|`cmd+alt+\`, `cmd+alt+`:arrow_down: |Set the size of the focused window to half of the screen and center it.|
+|`cmd+alt+\`, `cmd+alt+`|Set the size of the focused window to half of the screen and center it.|
 |`cmd+alt+r`|Resize the focused window into a grid row.|
 |`cmd+alt+;`|Set the focused window to the cell at the top-right corner.|
 
@@ -85,8 +85,8 @@ To control the volume faster, I set two shortcuts to increase and decrease volum
 
 |Shortcut|Action|
 |-|-|
-|`cmd+alt+`:arrow_right:|Increase Volume by 10%|
-|`cmd+alt+`:arrow_left:|Decrease Volume by 10%|
+|`cmd+alt+`|Increase Volume by 10%|
+|`cmd+alt+`|Decrease Volume by 10%|
 
 ### Raycast
 

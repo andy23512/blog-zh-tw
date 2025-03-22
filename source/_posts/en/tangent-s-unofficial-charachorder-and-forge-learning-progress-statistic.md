@@ -4,9 +4,9 @@ date: 2025-01-19 23:23:56
 updated: 2025-03-07 15:37:47
 lang: en
 ---
-:::warning
-   :information_source: [The official CharaChorder Speed Tracker is here.](https://docs.google.com/spreadsheets/d/1LYi3Y6Ombi1V5bWt-75SnHn9ONvl1KOFugYUBTVNgjM/edit?gid=0#gid=0)
-:::
+
+   [The official CharaChorder Speed Tracker is here.](https://docs.google.com/spreadsheets/d/1LYi3Y6Ombi1V5bWt-75SnHn9ONvl1KOFugYUBTVNgjM/edit?gid=0#gid=0)
+
 
 
 ## Preface
@@ -15,9 +15,9 @@ Curious about the real learning curve of Charachorder devices, I try to mine dat
 
 ## Learning Curve Chart
 
-:::spoiler
+
   Here are the power-series trend lines and scatter plots of the typing speed and the days elapsed on each devices. The power-series trend lines can represent average learning progress on each device.
-:::
+
 
 [Open in new tab](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-GIGZcyrT2rhcVUUot14X00CK7XrqMDSI4gqKdE_8jQtrFqId4hD9-UvE6TS9RZjpaHkmyjfgEBZ6/pubhtml?gid=385574544&single=true)
 
@@ -25,7 +25,7 @@ Curious about the real learning curve of Charachorder devices, I try to mine dat
 
 ## Speed Achievement Stats
 
-:::spoiler
+
   Here are the statistics about how long it took users to reach some notable typing speeds. Their statistics metrics, boxplots, and histograms would be shown.
   
 Notable typing speeds:
@@ -37,7 +37,7 @@ Notable typing speeds:
 - (150+ WPM: Supersonic speed)
 - 250 WPM: Speed of thought, i.e. average human reading speed
 - (250+ WPM: Hypercerebral speed) 
-:::
+
 
 [Open in new tab](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-GIGZcyrT2rhcVUUot14X00CK7XrqMDSI4gqKdE_8jQtrFqId4hD9-UvE6TS9RZjpaHkmyjfgEBZ6/pubhtml?gid=644493207&amp;single=true)
 

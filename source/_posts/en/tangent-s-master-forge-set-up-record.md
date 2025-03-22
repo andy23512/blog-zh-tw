@@ -7,13 +7,13 @@ lang: en
 
 # Out of the Box (*Pre-Kickstarter Pre-Order*)
 
-:::info
-   :information_source: The parts shown here are the contents of the Master Forge bundle of the *PRE-KICKSTARTER PRE-ORDER*. If yours is Kickstarter or post-kickstarter order, your contents might be different from this.
-:::
 
-:::info
-   :information_source: This box doesn't include the Trackball Bolt-on. It will be shipped individually in the future.
-:::
+   The parts shown here are the contents of the Master Forge bundle of the *PRE-KICKSTARTER PRE-ORDER*. If yours is Kickstarter or post-kickstarter order, your contents might be different from this.
+
+
+
+   This box doesn't include the Trackball Bolt-on. It will be shipped individually in the future.
+
 
 Here are some photos taken during my unboxing.
 

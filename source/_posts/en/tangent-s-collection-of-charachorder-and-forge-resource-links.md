@@ -4,9 +4,9 @@ date: 2023-03-29 21:16:09
 updated: 2025-02-12 19:40:20
 lang: en
 ---
-:::warning
-  :information_source: [The official list of Web tools is here.](https://discord.com/channels/861730583092658206/1300503878495637624)
-:::
+
+  [The official list of Web tools is here.](https://discord.com/channels/861730583092658206/1300503878495637624)
+
 
 ## Official Resources
 
@@ -43,35 +43,35 @@ lang: en
 
 - [ChorderClub Essentials (Playlist)](https://youtube.com/playlist?list=PL5UG1PKtBJF7JQxwee2AwmUA2137eMHXL&feature=shared)
 
-:::spoiler
+
 CharaChorder Essentials 中有 CharaChorder 提供的深度教學影片。這些影片能幫助你充分發揮你的 CharaChorder 裝置的潛力。
-:::
+
 
 ### Others
 
 #### [Try CharaChorder](https://try.charachorder.com/)
 
-:::spoiler
+
 Try CharaChorder is a free CharaChorder emulator that you can try some features of CharaChorder devices directly on your browser with any keyboard. Check [the introduction video of Try CharaChorder](https://youtu.be/ZIzdo_hLbJw?feature=shared) for more detailed explanation and demostration.
-:::
+
 
 #### [Master Forge Estimator](https://wheresmyforge.charachorder.com/)
 
-:::spoiler
+
 It's a web tool that estimates the fulfillment date for your Master Forge order.
-:::
+
 
 #### [VoiceBox](https://voicebox.iq-eq.us/)
 
-:::spoiler
+
 VoiceBox is a live text-to-speech web app. Check [the official release video](https://youtu.be/76W4yvi2eW0?feature=shared) for demostration.
-:::
+
 
 #### [CharaChorder/CAD-CAM: CharaChorder's official repository of CAD & CAM files](https://github.com/CharaChorder/CAD-CAM)
 
-:::spoiler
+
 This repository collects the CAD & CAM files of some parts of CharaChorder devices, Forge devices and Forge Bolt-on.
-:::
+
 
 #### [CharaChorder/nexus: CharaChorder's logging and analysis desktop app, supporting Linux, Windows, and macOS.](https://github.com/CharaChorder/nexus)
 
@@ -81,23 +81,23 @@ This repository collects the CAD & CAM files of some parts of CharaChorder devic
 
 #### *(Outdated)* [CCOS Community Wiki](https://docs.google.com/document/u/2/d/1NWgIFE1yl-gQc8hmqbDO00kSV3ETgtKgsIzdntMR_hI/mobilebasic)
 
-:::spoiler
+
 An old community Wiki but not updated for a long time. Recommend to use [the official documentation](https://docs.charachorder.com/) instead.
-:::
+
 
 #### *(Outdated)* [CharaChorder One Wiki](https://charachorder.notion.site/CharaChorder-One-Wiki-f6f24cdfa4f94df7988d48e9b69fbacc)
 
-:::spoiler
+
 An old community Wiki but not updated for a long time. Recommend to use [the official documentation](https://docs.charachorder.com/) instead.
 
 It seems to me that the "Learn to Type" and "Learn to Chord" sections are still useful.
-:::
+
 
 ### Tool
 
 #### [CharaTyping](https://cctype.app/)
 
-:::spoiler
+
 It's a fork/clone of a typing test app, [Monkeytype](https://monkeytype.com/). 
 
 Differences from Monkeytype:
@@ -105,31 +105,31 @@ Differences from Monkeytype:
 - Chording would not affect the accuracy.
 
 GitHub Repo: https://github.com/typing-tech/monkeytype
-:::
+
 
 #### *(Outdated)* [CharaChorder Config](https://charachorder-config.com/)
 
-:::spoiler
+
 An old community tool to configure your device. Recommend to use [the official device manager](https://manager.charachorder.com/) instead.
-:::
+
 
 #### [CharaChorder Layout](https://charachorder-layouts.vercel.app/US)
 
-:::spoiler
+
 A web tool that shows the output characters of the default CC1 layout under different OS layout settings.
-:::
+
 
 #### [CharaChorder Utilities - Home](https://typing-tech.github.io/CharaChorder-utilities/)
 
-:::spoiler
+
 CharaChorder Utilities contains a collection of tools for CharaChorder users.
-:::
+
 
 #### [CharaChorder Builder (BETA) - Google Spreadsheet](https://docs.google.com/spreadsheets/d/1ZiVmLQewM9AFnHXMyyWmq5UpMn3w8RCFe9kPOmYsC4Y/edit?usp=sharing)
 
-:::spoiler
+
 CharaChorder Builder allows anyone to create computer-generated chord libraries from any word list.
-:::
+
 
 ### Data
 

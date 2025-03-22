@@ -4,11 +4,11 @@ date: 2024-03-27 20:49:00
 updated: 2025-01-16 01:14:02
 lang: zh-TW
 ---
-:::warning
-:information_source: 這個和弦表是用我在[這篇文章](/@andy23512/SycZrIzM1l)中提到的和弦使用方式建立。
-:::
 
-註 1：和弦的輸出中的 :no_entry_sign: 為 [KSC_00] 鍵。這個是用來是用來取消和弦的自動字尾加空白的功能。 
+這個和弦表是用我在[這篇文章](/@andy23512/SycZrIzM1l)中提到的和弦使用方式建立。
+
+
+註 1：和弦的輸出中的 為 [KSC_00] 鍵。這個是用來是用來取消和弦的自動字尾加空白的功能。 
 註 3：我最新的和弦備份檔案在[這裡](https://raw.githubusercontent.com/andy23512/setting-files/master/CharaChorder/chords.json)。
 
 # 英文（程式用）和弦
@@ -43,7 +43,7 @@ lang: zh-TW
 
 |輸入|輸出|描述|
 |-|-|-|
-|s+h|寿司:no_entry_sign:|我創造的第一個日文和弦。|
+|s+h|寿司|我創造的第一個日文和弦。|
 
 ## 棄用的和弦
 
@@ -56,6 +56,6 @@ lang: zh-TW
 |r+t|return|`return` 是一個在  [`JavaScript/TypeScript`](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Statements/return) 和 [`Python`](https://docs.python.org/zh-tw/3/tutorial/controlflow.html#defining-functions) 都常用的關鍵字。|
 |p+e|px|[`px`](https://developer.mozilla.org/zh-TW/docs/Glossary/CSS_pixel) 是 CSS 中常用的單位，並且它在 CC1 預設的英文佈局下較難打出。（`p` 是右手拇指第一搖桿的北鍵，`x` 是右手拇指第二搖桿的北鍵）|
 |a+n|angular|[`Angular`](https://angular.tw/) 是我在全端工程師的工作上所用的前端框架。|
-|ㄎ+ㄧ|可以:no_entry_sign:|一個中文常用詞。|
-|ㄑ+ㄜ|企鵝:no_entry_sign:|我創造的第一個中文和弦。|
+|ㄎ+ㄧ|可以|一個中文常用詞。|
+|ㄑ+ㄜ|企鵝|我創造的第一個中文和弦。|
 

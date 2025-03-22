@@ -19,9 +19,9 @@ The first and most important thing about CC1 for me, is its ergonomic design. Th
 
 To be honest, I completely forgot to consider typing Chinese, which is my native language, before buying CC1. I didn't have any preparation for that and then took a good time to find, implement, and practice Bopomofo input solutions on CC1. Thanks to the configurability of layout on CC1, I could freely design both the device layout and the Bopomofo layout and came up with some effective layouts that work well for all of English typing, Chinese typing, and programming.
 
-:::warning
-:information_source: I have [another article about my latest layout on CC1](/@andy23512/rJrX6HEWJe).
-:::
+
+I have [another article about my latest layout on CC1](/@andy23512/rJrX6HEWJe).
+
 
 ## Chording
 

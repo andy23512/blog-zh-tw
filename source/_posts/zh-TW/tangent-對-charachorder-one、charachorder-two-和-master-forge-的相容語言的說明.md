@@ -31,27 +31,27 @@ lang: zh-TW
 
 用一般鍵盤上的第二欄（有 `1` 鍵的那一欄）與 [QWERTY](https://zh.wikipedia.org/wiki/QWERTY%E9%8D%B5%E7%9B%A4) 佈局為例，底下的 GIF 中會展示鍵盤送出的掃描碼、作業系統佈局上對應的字元和輸出。
 
-:::spoiler 點擊以顯示 GIF
+ 點擊以顯示 GIF
   ![output](https://hackmd.io/_uploads/B1MM6Dr1Jx.gif)
-:::
+
 
 而當使用者將作業系統佈局切換到 [QWERTZ](https://zh.wikipedia.org/wiki/QWERTZ%E9%8D%B5%E7%9B%A4) 佈局時，如底下的 GIF 所示，鍵盤上該欄的掃描碼不會變，但是掃描碼 `1D` 輸出的字元從 `z` 變為 `y`，這是受作業系統佈局變化所影響。
 
-:::spoiler 點擊以顯示 GIF
+ 點擊以顯示 GIF
   ![output](https://hackmd.io/_uploads/rJNbeOHkJx.gif)
-:::
+
 
 換成其他作業系統佈局也會發生類似的事情，如 [JCUKEN](https://zh.wikipedia.org/wiki/JCUKEN%E9%8D%B5%E7%9B%A4) 佈局。
 
-:::spoiler 點擊以顯示 GIF
+ 點擊以顯示 GIF
   ![output](https://hackmd.io/_uploads/B1RL-uHy1x.gif)
-:::
+
 
 需要與輸入法一起使用的作業系統佈局也一樣，如[大千注音](https://zh.wikipedia.org/zh-tw/%E6%B3%A8%E9%9F%B3%E8%BC%B8%E5%85%A5%E6%B3%95#%E5%A4%A7%E5%8D%83%E6%B3%A8%E9%9F%B3%E9%8D%B5%E7%9B%A4%E6%8E%92%E5%88%97)佈局。
 
-:::spoiler 點擊以顯示 GIF
+ 點擊以顯示 GIF
   ![output](https://hackmd.io/_uploads/rkA1UuBkkg.gif)
-:::
+
 
 ## 二、在 CC1、CC2 和 M4G 上為何能輸入多種不同的語言？
 
@@ -59,24 +59,24 @@ lang: zh-TW
 
 舉例來說，我們使用裝置管理工具，在 CC1、CC2 或 M4G 的一個搖桿上的四個方向，分別設定了字元 `1`、`q`、`a` 和 `z`。跟一般鍵盤的 QWERTY 範例類似，它們對應的掃描碼會是 `1E`、`14`、`04` 和 `1D`。在這之後的流程就會跟一般鍵盤一樣。底下的 GIF 會同步比較一般鍵盤和 CC1、CC2 或 M4G 的流程。
 
-:::spoiler 點擊以顯示 GIF
+ 點擊以顯示 GIF
   ![output](https://hackmd.io/_uploads/BJ4TYuBJyl.gif)
-:::
+
 
 所以如你所期待的，當使用者換成其他作業系統佈局時，掃描碼會用跟一般鍵盤上一樣的方式，被換成輸出的字元。底下的 GIF 顯示其他作業系統佈局上的流程。
 
 
-:::spoiler 點擊以顯示 GIF (QWERTZ)
+ 點擊以顯示 GIF (QWERTZ)
   ![output](https://hackmd.io/_uploads/BkW-idS1yg.gif)
-:::
 
-:::spoiler 點擊以顯示 GIF (JCUKEN)
+
+ 點擊以顯示 GIF (JCUKEN)
   ![output](https://hackmd.io/_uploads/SyJKo_BJ1e.gif)
-:::
 
-:::spoiler 點擊以顯示 GIF (大千注音)
+
+ 點擊以顯示 GIF (大千注音)
   ![output](https://hackmd.io/_uploads/SkfIh_ryJl.gif)
-:::
+
 
 所以與一般鍵盤類似，你可以使用不同的作業系統佈局來在 CC1、CC2 或 M4G 上輸入不同語言。
 

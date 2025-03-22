@@ -29,7 +29,14 @@ date: ${moment(note.createdAt).format("YYYY-MM-DD HH:mm:ss")}
 updated: ${moment(note.lastChangedAt).format("YYYY-MM-DD HH:mm:ss")}
 lang: ${lang}
 ---
-${note.content.replace(/\[TOC\]\n/g, "").replace(/==/g, "*")}
+${note.content
+  .replace(/\[TOC\]\n/g, "")
+  .replace(/==/g, "*")
+  .replace(/:::info/g, "")
+  .replace(/:::warning/g, "")
+  .replace(/:::spoiler/g, "")
+  .replace(/:::/g, "")
+  .replace(/:\w+: ?/g, "")}
 `;
     writeFileSync(`source/_posts/${lang}/${fileName}.md`, markdownFileContent);
   }

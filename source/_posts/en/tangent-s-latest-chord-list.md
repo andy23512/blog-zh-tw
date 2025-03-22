@@ -4,11 +4,11 @@ date: 2024-03-14 10:39:04
 updated: 2025-01-16 01:09:49
 lang: en
 ---
-:::warning
-:information_source: This chord list is based on my chording ways mentioned in [this article](/@andy23512/H1OmcBzfye).
-:::
 
-P.S. 1: The :no_entry_sign: in the chord output is the [KSC_00] action, which is used to eliminate the auto space.
+This chord list is based on my chording ways mentioned in [this article](/@andy23512/H1OmcBzfye).
+
+
+P.S. 1: The in the chord output is the [KSC_00] action, which is used to eliminate the auto space.
 P.S. 2: The latest backup file of my chords is at [this url](https://raw.githubusercontent.com/andy23512/setting-files/master/CharaChorder/chords.json).
 
 ## English (Programming) chords
@@ -43,7 +43,7 @@ P.S. 2: The latest backup file of my chords is at [this url](https://raw.githubu
 
 |Input|Output|Description|
 |-|-|-|
-|s+h|寿司:no_entry_sign:|The first Japanese chord I made. [Sushi](https://en.wikipedia.org/wiki/Sushi).|
+|s+h|寿司|The first Japanese chord I made. [Sushi](https://en.wikipedia.org/wiki/Sushi).|
 
 ## Abandoned chords
 
@@ -56,5 +56,5 @@ P.S. 2: The latest backup file of my chords is at [this url](https://raw.githubu
 |p+v|private|[private](https://www.typescriptlang.org/docs/handbook/2/classes.html#private) is a frequently used keyword in TypeScript.|
 |p+e|px|[`px`](https://developer.mozilla.org/en-US/docs/Glossary/CSS_pixel) is a frequently used unit in CSS and is hard to type in characher entry on the default English layout of CC1. (`p` is at right-thumb_1-north and `x` is at right-thumb_2-north)|
 |r+t|return|`return` is a frequently used keyword in both [`JavaScript/TypeScript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return) and [`Python`](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)|
-|ㄎ+ㄧ|可以:no_entry_sign:|A frequenctly used word in Chinese. It means "can".|
-|ㄑ+ㄜ|企鵝:no_entry_sign:|The first Chinese chord I made. It means "penguin". [It doesn't mean businese goose.](https://www.chineseboost.com/blog/chinese-penguin-business-goose-tip-toe-goose/)|
+|ㄎ+ㄧ|可以|A frequenctly used word in Chinese. It means "can".|
+|ㄑ+ㄜ|企鵝|The first Chinese chord I made. It means "penguin". [It doesn't mean businese goose.](https://www.chineseboost.com/blog/chinese-penguin-business-goose-tip-toe-goose/)|

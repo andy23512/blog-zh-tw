@@ -15,15 +15,15 @@ Since the Bopomofo of any Chinese character has at most one consonant, rhyme, an
 
 All possible combinations of the Bopomofo chord can be looked up in some Chinese dictionaries, like [this Bopomofo index of a Chinese dictionary website](https://www.zdic.net/zd/zy/). It is useful when I want to add a new CC1 chord that does not conflict with Bopomofo chords.
 
-:::warning
+
 I have [another article about Bopomofo chords](/@andy23512/rywyCLGa0).
-:::
+
 
 ## CC1 Chord
 
-:::warning
+
 I list my CC1 chords in [this note](/@andy23512/BJ-I7kx0T).
-:::
+
 
 ### CC1 English Chord
 

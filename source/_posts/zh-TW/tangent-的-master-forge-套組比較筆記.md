@@ -9,25 +9,25 @@ lang: zh-TW
 註：
 
 1. 這個比較表主要是依據產品頁面或 Kickstarter 回報頁面的資訊。
-2. :heavy_check_mark: 表示該項目確定會在該套組中。
+2. 表示該項目確定會在該套組中。
 3. 如果你有任何疑問，你可以在 CharaChorder Discord 伺服器上進一步確認套組內容。
 
 |項目|KS 前預訂|[KS - Premium](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards#reward-UmV3YXJkLVVtVjNZWEprTFRFd01ETTVNelEx)|[KS 後預訂](https://forgekeyboard.com/products/master-forge)|[KS 後預訂 - Premium](https://forgekeyboard.com/collections/loadouts/products/master-forge-premium)|
 |-|-|-|-|-|
-|Digitizer Anchor-Bodies (Left+Right)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|Inbuilt Platinum CharaChorder Engine Core|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[Mechanical Bridge Bolt-On](https://forgekeyboard.com/collections/bolt-ons%E2%84%A2/products/mechanical-bridge)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|Trackball Bolt-On|:heavy_check_mark: (2)|:heavy_check_mark: (1)||:heavy_check_mark:(1)|
-|[Ergo Bolt-On](https://forgekeyboard.com/collections/bolt-ons%E2%84%A2/products/ergo-bolt-on%E2%84%A2) (4)|:heavy_check_mark: |:heavy_check_mark:||:heavy_check_mark:|
-|Electrical Bridge|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[Forge Cleat](https://forgekeyboard.com/collections/add-ons/products/forge-cleat)|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|
-|Digitizer Custom Keycaps (2 Sets)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|Coiled USB-C -> USB-C Cable[^cable]|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|
-|Braided USB-C -> USB-A Cable[^cable]|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|Tactical Carrying Case|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[Master Forge Deskmat & Reference Guide](https://forgekeyboard.com/collections/add-ons/products/desk-mat)|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|
-|Master Forge CAD - Unlimited Access|:heavy_check_mark:|:heavy_check_mark:||
-|Forge VIP Membership (2 Years)|:heavy_check_mark:|:heavy_check_mark:||
+|Digitizer Anchor-Bodies (Left+Right)|||||
+|Inbuilt Platinum CharaChorder Engine Core|||||
+|[Mechanical Bridge Bolt-On](https://forgekeyboard.com/collections/bolt-ons%E2%84%A2/products/mechanical-bridge)|||||
+|Trackball Bolt-On|(2)|(1)||(1)|
+|[Ergo Bolt-On](https://forgekeyboard.com/collections/bolt-ons%E2%84%A2/products/ergo-bolt-on%E2%84%A2) (4)|||||
+|Electrical Bridge|||||
+|[Forge Cleat](https://forgekeyboard.com/collections/add-ons/products/forge-cleat)|||||
+|Digitizer Custom Keycaps (2 Sets)|||||
+|Coiled USB-C -> USB-C Cable[^cable]|||||
+|Braided USB-C -> USB-A Cable[^cable]|||||
+|Tactical Carrying Case|||||
+|[Master Forge Deskmat & Reference Guide](https://forgekeyboard.com/collections/add-ons/products/desk-mat)|||||
+|Master Forge CAD - Unlimited Access||||
+|Forge VIP Membership (2 Years)||||
 
 ## References
 

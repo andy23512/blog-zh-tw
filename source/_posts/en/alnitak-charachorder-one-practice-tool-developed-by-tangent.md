@@ -4,9 +4,9 @@ date: 2024-05-01 19:10:38
 updated: 2025-03-01 22:30:19
 lang: en
 ---
-:::warning
-:information_source: Disclaimer: This tool is not affiliated, associated, authorized, endorsed by, or in any way officially connected with CharaChorder.
-:::
+
+Disclaimer: This tool is not affiliated, associated, authorized, endorsed by, or in any way officially connected with CharaChorder.
+
 
 ![截圖 2025-02-19 23.15.27](https://hackmd.io/_uploads/HJR3BOX51l.png)
 

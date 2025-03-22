@@ -57,7 +57,7 @@ lang: zh-TW
 |`cmd+alt+s`|將所有視窗自動貼齊網格。|
 |`cmd+alt+[`|將目前視窗移到螢幕左半邊。|
 |`cmd+alt+]`|將目前視窗移到螢幕右半邊。|
-|`cmd+alt+\`、`cmd+alt+`:arrow_down:|將目前視窗設為螢幕一半大小並置中。|
+|`cmd+alt+\`、`cmd+alt+`|將目前視窗設為螢幕一半大小並置中。|
 |`cmd+alt+r`|將目前視窗大小設定為網格中的一行。|
 |`cmd+alt+;`|將目前視窗放到右上角那一格。|
 
@@ -85,8 +85,8 @@ lang: zh-TW
 
 |快捷鍵|動作|
 |-|-|
-|`cmd+alt+`:arrow_right:|加大音量 10 %|
-|`cmd+alt+`:arrow_left:|減小音量 10 %|
+|`cmd+alt+`|加大音量 10 %|
+|`cmd+alt+`|減小音量 10 %|
 
 ### Raycast
 

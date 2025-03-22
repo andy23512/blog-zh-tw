@@ -4,9 +4,9 @@ date: 2025-01-21 18:23:40
 updated: 2025-03-07 15:38:57
 lang: zh-TW
 ---
-:::warning
-   :information_source: [官方的 CharaChorder 打字速度追蹤表在這裡。](https://docs.google.com/spreadsheets/d/1LYi3Y6Ombi1V5bWt-75SnHn9ONvl1KOFugYUBTVNgjM/edit?gid=0#gid=0)
-:::
+
+   [官方的 CharaChorder 打字速度追蹤表在這裡。](https://docs.google.com/spreadsheets/d/1LYi3Y6Ombi1V5bWt-75SnHn9ONvl1KOFugYUBTVNgjM/edit?gid=0#gid=0)
+
 
 
 ## 前言
@@ -15,9 +15,9 @@ lang: zh-TW
 
 ## 學習曲線圖
 
-:::spoiler
+
   底下是使用者在各裝置上的打字速度對經過天數的指數趨勢線和散布圖。指數趨勢線可用來代表在各個裝置上的平均學習過程。
-:::
+
 
 [在新分頁開啟](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-GIGZcyrT2rhcVUUot14X00CK7XrqMDSI4gqKdE_8jQtrFqId4hD9-UvE6TS9RZjpaHkmyjfgEBZ6/pubhtml?gid=172953668&single=true)
 
@@ -25,7 +25,7 @@ lang: zh-TW
 
 ## 速度成就統計
 
-:::spoiler
+
   底下是使用者達到一些指標性打字速度所費的時間的統計數字。會展示其統計指標數字、盒狀圖和直方圖。
   
 一些指標性（英文）打字速度：
@@ -37,7 +37,7 @@ lang: zh-TW
 - （每分鐘超過 150 字：超音速）
 - 每分鐘 250 字：思考速度，即一般人的閱讀速度
 - （每分鐘超過 250 字：超腦速）
-:::
+
 
 [在新分頁開啟](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-GIGZcyrT2rhcVUUot14X00CK7XrqMDSI4gqKdE_8jQtrFqId4hD9-UvE6TS9RZjpaHkmyjfgEBZ6/pubhtml?gid=1108057587&single=true)
 
