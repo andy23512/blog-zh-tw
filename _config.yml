@@ -11,8 +11,8 @@ keywords:
   - Forge
   - Master Forge
 author: Tangent Chang
-language: en
-timezone: ""
+language: [en, zh-TW]
+timezone: Asia/Taipei
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -67,6 +67,7 @@ index_generator:
   path: ""
   per_page: 10
   order_by: -date
+  single-language-index: true
 
 # Category & Tag
 default_category: uncategorized
@@ -106,43 +107,3 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ""
-
-# Markdown-it config
-# Docs: https://github.com/hexojs/hexo-renderer-markdown-it/wiki
-markdown:
-  render:
-    html: true
-    xhtmlOut: false
-    breaks: true
-    linkify: true
-    typographer: true
-    quotes: "“”‘’"
-  plugins:
-    - markdown-it-abbr
-    - markdown-it-footnote
-    - markdown-it-ins
-    - markdown-it-sub
-    - markdown-it-sup
-    - markdown-it-deflist
-    - markdown-it-imsize
-    - markdown-it-mark
-    - markdown-it-regexp
-    - markdown-it-task-checkbox
-    - name: markdown-it-container
-      options: success
-    - name: markdown-it-container
-      options: info
-    - name: markdown-it-container
-      options: warning
-    - name: markdown-it-container
-      options: danger
-    - markdown-it-deflist
-    - name: markdown-it-emoji
-      options:
-        shortcuts: {}
-  anchors:
-    level: 1
-    collisionSuffix: "v"
-    permalink: true
-    permalinkClass: header-anchor
-    permalinkSymbol: ""
