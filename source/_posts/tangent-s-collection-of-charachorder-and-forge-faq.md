@@ -102,4 +102,4 @@ It's not easy to perform and many users avoid it. You can just use an easier cho
 
 CC2 is only supported on https://charachorder.io/ .
 
-==Source:== [Discord message](https://discord.com/channels/861730583092658206/1300831235928621098/1303559373250887720)}
+==Source:== [Discord message](https://discord.com/channels/861730583092658206/1300831235928621098/1303559373250887720)

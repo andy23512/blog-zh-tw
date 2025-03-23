@@ -149,4 +149,4 @@ So the IME can be choosed the symbols in these pairs by the rule: When `ㄧ` or 
 ### Rule for `ㄥ-ㄦ`
 
 `ㄥ-ㄦ` pair is relatively simple. Since `ㄦ` doesn't have any combinations with any medial and consonant, the rule of IME is: When any medial or consonant exists in buffer, choose `ㄥ`. Otherwise, choose `ㄦ`.
-}
+

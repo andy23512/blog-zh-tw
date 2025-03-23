@@ -195,4 +195,4 @@ It's recommended to use "QWERTY - US Intl" if it supports your language.
 
 [^non_us_number_sign_and_tilde]: This information is from reference #5 at page 89 of [HID Usage Tables FOR Universal Serial Bus (USB)](https://usb.org/sites/default/files/hut1_21.pdf).
 
-[^non_us_backslash_and_pipe]: This information is from reference #9 at page 89 of [HID Usage Tables FOR Universal Serial Bus (USB)](https://usb.org/sites/default/files/hut1_21.pdf).}
+[^non_us_backslash_and_pipe]: This information is from reference #9 at page 89 of [HID Usage Tables FOR Universal Serial Bus (USB)](https://usb.org/sites/default/files/hut1_21.pdf).

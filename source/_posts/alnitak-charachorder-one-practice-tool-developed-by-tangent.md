@@ -86,4 +86,4 @@ The color of the meter chunk and the speed number are also changed in the same w
 - [Algorithm that converts temperature (K) to RGB](https://tannerhelland.com/2012/09/18/convert-temperature-rgb-algorithm-code.html)
 - [FS Sevegment Font](https://fontstruct.com/fontstructions/show/2390233/fs-sevegment)
 - [Speedometer Design Reference](https://www.youtube.com/watch?v=kyjPWP7NGuk)
-- [OS Keyboard Layout Reference](https://kbdlayout.info/)}
+- [OS Keyboard Layout Reference](https://kbdlayout.info/)

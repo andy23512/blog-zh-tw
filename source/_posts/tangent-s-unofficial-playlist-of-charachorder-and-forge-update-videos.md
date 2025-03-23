@@ -180,4 +180,4 @@ All videos are collected from the sources listed above. NONE of my accounts, my 
 
 [^serial]: If "Day XX" or "Week XX" is mentioned in the title or the content of the video, that serial number would be used. Otherwise, it would be decided from the uploaded time and the serial number of adjacent video, and it would be postfixed with a `*`. `D` means day and `W` means week.
 [^timezone]: North American Central Time Zone (CST/CDT) is used.
-[^backup]: Same videos from other websites for backup. `FB` means Facebook, `IG` means Instagram, `LI` means LinkedIn and `TT` means TikTok.}
+[^backup]: Same videos from other websites for backup. `FB` means Facebook, `IG` means Instagram, `LI` means LinkedIn and `TT` means TikTok.

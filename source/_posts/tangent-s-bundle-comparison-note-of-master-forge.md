@@ -39,4 +39,4 @@ Notice:
 - [Master Forge Kickstarter reward page](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards)
 - [Discord message](https://discord.com/channels/861730583092658206/1282698538144497755/1282699704416735272)
 
-[^cable]: There are various names of the cables across each bundles and websites. It seems to me that "Coiled USB-C -> USB-C Cable" (between two Digitizers) and "Braided USB-C -> USB-A Cable" (between PC and M4G) are reasonable.}
+[^cable]: There are various names of the cables across each bundles and websites. It seems to me that "Coiled USB-C -> USB-C Cable" (between two Digitizers) and "Braided USB-C -> USB-A Cable" (between PC and M4G) are reasonable.

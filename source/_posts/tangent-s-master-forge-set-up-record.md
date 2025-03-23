@@ -76,4 +76,4 @@ Those parts can be put on the cleat to prevent them from missing.
 After that, I used the provided USB-C to USB-C cable to connect the ==left port== of the right digitizer and the ==right port== of the left digitizer. Then I could connect it to my computer again and use it.
 
 ![20250308_192831](https://hackmd.io/_uploads/rkSuJOe2yg.jpg)
-}
+

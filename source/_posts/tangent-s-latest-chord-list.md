@@ -57,4 +57,4 @@ P.S. 2: The latest backup file of my chords is at [this url](https://raw.githubu
 |p+e|px|[`px`](https://developer.mozilla.org/en-US/docs/Glossary/CSS_pixel) is a frequently used unit in CSS and is hard to type in characher entry on the default English layout of CC1. (`p` is at right-thumb_1-north and `x` is at right-thumb_2-north)|
 |r+t|return|`return` is a frequently used keyword in both [`JavaScript/TypeScript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return) and [`Python`](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)|
 |ㄎ+ㄧ|可以:no_entry_sign:|A frequenctly used word in Chinese. It means "can".|
-|ㄑ+ㄜ|企鵝:no_entry_sign:|The first Chinese chord I made. It means "penguin". [It doesn't mean businese goose.](https://www.chineseboost.com/blog/chinese-penguin-business-goose-tip-toe-goose/)|}
+|ㄑ+ㄜ|企鵝:no_entry_sign:|The first Chinese chord I made. It means "penguin". [It doesn't mean businese goose.](https://www.chineseboost.com/blog/chinese-penguin-business-goose-tip-toe-goose/)|

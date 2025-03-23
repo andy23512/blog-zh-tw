@@ -57,4 +57,4 @@ To make the function keys more accessible, I remap them to the left half of the 
 
 As mentioned above, I use the mouse actions on the numeric layer. I place the mouse actions on the middle row, so I can shift my hands down to it (i.e. The tips of my thumb, middle finger, and ring finger are on the corresponding middle switches.). I call it `mouse mode`.
 
-There are all three click actions on both the left and right thumb middle switches, so I can access all the mouse actions with one hand.}
+There are all three click actions on both the left and right thumb middle switches, so I can access all the mouse actions with one hand.

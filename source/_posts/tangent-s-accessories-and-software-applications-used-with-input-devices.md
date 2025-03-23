@@ -90,4 +90,4 @@ To control the volume faster, I set two shortcuts to increase and decrease volum
 
 ### Raycast
 
-[Raycast](https://www.raycast.com/) is a collection of powerful productivity tools all within an extendable launcher. I use it to open applications, web pages, VSCode projects, etc.}
+[Raycast](https://www.raycast.com/) is a collection of powerful productivity tools all within an extendable launcher. I use it to open applications, web pages, VSCode projects, etc.

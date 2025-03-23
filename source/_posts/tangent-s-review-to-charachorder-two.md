@@ -31,4 +31,4 @@ On CC2, the switches are lighter, and it reduces the workload of my fingers. Esp
 
 ## Summary
 
-CC2 has many great improvements over CC1. The extended USB-C port makes it easier to be re-plugged. The new keycaps are not cold when used in cold weather, and they are more controllable. Moreover, the quietness helps me focus better, while the lighter keys make it more ergonomic. It has become more perfect than the previous generation!}
+CC2 has many great improvements over CC1. The extended USB-C port makes it easier to be re-plugged. The new keycaps are not cold when used in cold weather, and they are more controllable. Moreover, the quietness helps me focus better, while the lighter keys make it more ergonomic. It has become more perfect than the previous generation!

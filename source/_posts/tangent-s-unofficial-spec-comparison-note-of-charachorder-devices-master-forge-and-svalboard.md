@@ -117,4 +117,4 @@ Notice:
 
 [^pointing_device]: The default pointing devices on each device are listed. You can remap the cursor movement keys on CC devices, Master Forge, and Svalboard.
 
-[^m4g_pointing_device]: Some tiers of Master Forge bundle don't include the Trackball Bolt-on.}
+[^m4g_pointing_device]: Some tiers of Master Forge bundle don't include the Trackball Bolt-on.

@@ -1,7 +1,7 @@
 ---
 title: Tangent's Usages of Chording
 date: 2024-11-13 23:47:44
-updated: 2025-03-15 11:19:28
+updated: 2025-03-23 16:44:47
 categories: [Article,Chord]
 ---
 
@@ -41,11 +41,12 @@ For example, This is the `ㄑ+ㄜ -> 企鵝` chord in work. (企鵝 is penguin i
 
 And this is the sequence chart of how it works.
 
-```sequence
-User->CC1: e + 4\n(ㄑ+ㄜ)
-CC1->TC41 V5: eas4n
-TC41 V5->BPMF IME: ㄑㄧˋㄜˊ
-BPMF IME->Output: 企鵝
+```mermaid
+sequenceDiagram
+User->>CC1: e + 4 (ㄑ+ㄜ)
+CC1->>TC41 V5: eas4n
+TC41 V5->>BPMF IME: ㄑㄧˋㄜˊ
+BPMF IME->>Output: 企鵝
 ```
 
 So what I did is adding an `e + 4 -> eas4n[KSC_00]` chord in CC1. It is mapped to `ㄑ+ㄜ -> ㄑㄧˋㄜˊ[KSC_00]` under TC41 V5, and the output word `企鵝` is decided by the Bopomofo IME according to its dictionary.
@@ -70,10 +71,11 @@ For example, this is the `s+h -> すし(寿司)` chord in work. (same as CC1 Chi
 
 And this is the sequence chart of how it works.
 
-```sequence
-User->CC1: s + h
-CC1->JP IME: susi
-JP IME->Output: 寿司\n(or any homophones of すし)
+```mermaid
+sequenceDiagram
+    User->>CC1: s + h
+    CC1->>JP IME: susi
+    JP IME->>Output: 寿司 (or any homophones of すし)
 ```
 
 #### Limitation
@@ -82,4 +84,4 @@ The character reduction nature of Japanese IME would have problem with CC1's cho
 
 For example, chording `n+u` would types out ぬ(nu), うん(un), or 運(un). There would be randomly one or two character(s) in the buffer, depending on the key press order and the word priority decided by IME. Then CC device would generate two backspaces for the `n+u` chord. So if the output is single character, like ぬ or 運, a previous character would be removed.
 
-So the limitation of this kind of chord is one only can choose key combinations that the pre-output characters in any order wouldn't be reduced by IME. It may be easier to choose key combinations under romaji input method. (Just don't use vowel keys in chord input.) But it would be far more complex for Kana input method since there are too many combinations of Kana that can be transformed to Kanji, so it's not recommended to use Japanese chords under Kana input method. }
+So the limitation of this kind of chord is one only can choose key combinations that the pre-output characters in any order wouldn't be reduced by IME. It may be easier to choose key combinations under romaji input method. (Just don't use vowel keys in chord input.) But it would be far more complex for Kana input method since there are too many combinations of Kana that can be transformed to Kanji, so it's not recommended to use Japanese chords under Kana input method. 

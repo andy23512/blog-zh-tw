@@ -192,4 +192,4 @@ CharaChorder Builder allows anyone to create computer-generated chord libraries 
 
 ### Statistics
 
-- [My Unofficial CharaChorder Speed Statistics (Google Spreadsheet)](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-GIGZcyrT2rhcVUUot14X00CK7XrqMDSI4gqKdE_8jQtrFqId4hD9-UvE6TS9RZjpaHkmyjfgEBZ6/pubhtml?gid=385574544&single=true)}
+- [My Unofficial CharaChorder Speed Statistics (Google Spreadsheet)](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-GIGZcyrT2rhcVUUot14X00CK7XrqMDSI4gqKdE_8jQtrFqId4hD9-UvE6TS9RZjpaHkmyjfgEBZ6/pubhtml?gid=385574544&single=true)

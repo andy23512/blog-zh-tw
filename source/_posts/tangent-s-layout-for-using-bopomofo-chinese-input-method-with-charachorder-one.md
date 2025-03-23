@@ -229,4 +229,4 @@ For example, at my [TC36.V2](/@andy23512/r1tvdWQ1R#V2) layout, when I type `問�
 The workaround for now is to turn off the arpeggiate feature.
 
 [^err]: ㄦ is a special rhyme that doesn't have any combinations with other consonants or medials, so we can leave it alone from other rhyme keys. 
-[^41_keys]: Although there are 42 keys on the layout, the space key (first tone) usually isn't counted by other Bopomofo input methods, such as Eten 41.}
+[^41_keys]: Although there are 42 keys on the layout, the space key (first tone) usually isn't counted by other Bopomofo input methods, such as Eten 41.

@@ -56,4 +56,4 @@ Notable typing speeds:
 4. All speed numbers are rounded to the nearest whole number.[^speed_rounded]
 5. Chinese typing is too unique to be included in these statistics, so it's not collected. It's hard to decide how to convert Chinese CPM to English WPM.
 
-[^speed_rounded]: Monkeytype (and CCType) has a setting called "always show decimal places". If it's set to off, the rounded-to-whole-number speed value would get shown. As a result, the speed in some screenshots has decimal places, and some don't. So in this statistic, all speed numbers are rounded to a whole number before being collected.}
+[^speed_rounded]: Monkeytype (and CCType) has a setting called "always show decimal places". If it's set to off, the rounded-to-whole-number speed value would get shown. As a result, the speed in some screenshots has decimal places, and some don't. So in this statistic, all speed numbers are rounded to a whole number before being collected.
