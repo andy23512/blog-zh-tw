@@ -64,7 +64,7 @@ ${replaceNoteUrl(
     .replace(/:::/g, "{% endblockquote %}")
     .replace(/\[^\w+\]/g, " $0"),
   urlToFileName
-)}}
+)}
 `;
     writeFileSync(`source/_posts/${fileName}.md`, markdownFileContent);
   }
