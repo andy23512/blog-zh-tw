@@ -27,7 +27,12 @@ function replaceNoteUrl(
   const rawNotes: Note[] = JSON.parse(
     readFileSync("./res/hackmd-note-data.json", { encoding: "utf8" })
   );
-  const notes = rawNotes.filter((n) => n.title.match(/^[\w\-,' ]+$/));
+  const notes = rawNotes.filter(
+    (n) =>
+      n.title.match(/^[\w\-,' ]+$/) &&
+      n.title !== "Tangent's CharaChorder and Forge Notebook" &&
+      n.title !== "Tangent's CharaChorder and Forge Note List"
+  );
   const urlToFileName: Record<string, string> = {};
   for (const note of notes) {
     const url = note.publishLink.replace("https://hackmd.io", "");
