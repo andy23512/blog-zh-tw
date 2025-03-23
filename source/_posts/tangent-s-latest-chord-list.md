@@ -2,6 +2,7 @@
 title: Tangent's Latest Chord List
 date: 2024-03-14 10:39:04
 updated: 2025-01-16 01:09:49
+categories: [Article,Chord]
 ---
 {% blockquote %}
 :information_source: This chord list is based on my chording ways mentioned in {% post_link tangent-s-usages-of-chording this article %}.

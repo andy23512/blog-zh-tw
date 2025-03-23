@@ -33,6 +33,9 @@ function replaceNoteUrl(
       n.title !== "Tangent's CharaChorder and Forge Notebook" &&
       n.title !== "Tangent's CharaChorder and Forge Note List"
   );
+  const categoryData: Record<string, string[]> = JSON.parse(
+    readFileSync("./res/category-data.json", { encoding: "utf8" })
+  );
   const urlToFileName: Record<string, string> = {};
   for (const note of notes) {
     const url = note.publishLink.replace("https://hackmd.io", "");
@@ -46,6 +49,11 @@ function replaceNoteUrl(
 title: ${note.title}
 date: ${moment(note.createdAt).format("YYYY-MM-DD HH:mm:ss")}
 updated: ${moment(note.lastChangedAt).format("YYYY-MM-DD HH:mm:ss")}
+${
+  categoryData[note.shortId]
+    ? `categories: [${categoryData[note.shortId].join(",")}]`
+    : ""
+}
 ---
 ${replaceNoteUrl(
   note.content

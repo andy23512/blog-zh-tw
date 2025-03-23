@@ -2,6 +2,7 @@
 title: Tangent's suggestions for typing Chinese on CharaChorder One, CharaChorder Two and Master Forge
 date: 2024-07-16 17:53:09
 updated: 2025-02-19 19:27:42
+categories: [Article,Language]
 ---
 
 # TL;DR

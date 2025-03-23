@@ -2,6 +2,7 @@
 title: Tangent's Unofficial CharaChorder and Forge Learning Progress Statistic
 date: 2025-01-19 23:23:56
 updated: 2025-03-07 15:37:47
+categories: [Note,Statistic]
 ---
 {% blockquote %}
    :information_source: [The official CharaChorder Speed Tracker is here.](https://docs.google.com/spreadsheets/d/1LYi3Y6Ombi1V5bWt-75SnHn9ONvl1KOFugYUBTVNgjM/edit?gid=0#gid=0)

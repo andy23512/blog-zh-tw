@@ -2,6 +2,7 @@
 title: Tangent's Bundle Comparison Note of Master Forge
 date: 2024-10-10 18:59:04
 updated: 2025-01-04 20:40:29
+categories: [Note,Comparison]
 ---
 ## Comparison Table
 

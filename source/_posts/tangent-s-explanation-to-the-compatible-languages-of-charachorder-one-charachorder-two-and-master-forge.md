@@ -2,6 +2,7 @@
 title: Tangent's explanation to the compatible languages of CharaChorder One, CharaChorder Two and Master Forge
 date: 2024-10-01 00:20:07
 updated: 2025-03-20 20:09:33
+categories: [Article,Language]
 ---
 
 ## TL;DR

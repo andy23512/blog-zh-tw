@@ -2,6 +2,7 @@
 title: Tangent's Progress for CharaChorder One, CharaChorder Two and Master Forge
 date: 2023-06-03 10:06:21
 updated: 2025-03-08 21:06:38
+categories: [Article,Experience]
 ---
 
 # 1. How I Meet CharaChorder One (CC1)

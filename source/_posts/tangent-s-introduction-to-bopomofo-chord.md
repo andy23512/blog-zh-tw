@@ -2,6 +2,7 @@
 title: Tangent's Introduction to Bopomofo Chord
 date: 2024-09-14 08:50:39
 updated: 2024-11-29 00:05:59
+categories: [Article,Language]
 ---
 
 # Preface

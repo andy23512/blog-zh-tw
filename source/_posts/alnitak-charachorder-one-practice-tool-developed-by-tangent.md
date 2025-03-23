@@ -2,6 +2,7 @@
 title: Alnitak - CharaChorder One practice tool developed by Tangent
 date: 2024-05-01 19:10:38
 updated: 2025-03-01 22:30:19
+categories: [Article,Creation]
 ---
 {% blockquote %}
 :information_source: Disclaimer: This tool is not affiliated, associated, authorized, endorsed by, or in any way officially connected with CharaChorder.

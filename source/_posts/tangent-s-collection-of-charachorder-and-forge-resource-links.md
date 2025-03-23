@@ -2,6 +2,7 @@
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 date: 2023-03-29 21:16:09
 updated: 2025-02-12 19:40:20
+categories: [Note,Resource]
 ---
 {% blockquote %}
   :information_source: [The official list of Web tools is here.](https://discord.com/channels/861730583092658206/1300503878495637624)

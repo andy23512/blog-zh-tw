@@ -2,6 +2,7 @@
 title: Tangent's Master Forge Set-up Record
 date: 2025-03-13 21:24:18
 updated: 2025-03-15 00:19:38
+categories: [Article,Experience]
 ---
 
 # Out of the Box (==Pre-Kickstarter Pre-Order==)

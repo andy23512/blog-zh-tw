@@ -2,6 +2,7 @@
 title: Tangent's layout for using Bopomofo Chinese input method with CharaChorder One
 date: 2023-05-08 00:27:01
 updated: 2025-01-08 00:23:09
+categories: [Article,Layout]
 ---
 {% blockquote %}
 :information_source: For anyone who would like to know what Bopomofo or Zhuyin is, here is [an article](https://speechling.com/blog/the-ultimate-guide-to-zhuyin-bopomofo-and-how-to-learn-it/) with a detailed explanation.

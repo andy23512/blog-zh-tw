@@ -2,6 +2,7 @@
 title: Tangent's progress for finding a Bopomofo solution on Master Forge 
 date: 2024-03-28 23:10:24
 updated: 2025-03-08 21:20:34
+categories: [Article,Layout]
 ---
 
 # (Not used) Approach 1: Adaption from TanChord 41 Bopomofo

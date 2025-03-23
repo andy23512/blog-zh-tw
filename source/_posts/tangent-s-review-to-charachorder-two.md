@@ -2,6 +2,7 @@
 title: Tangent's Review to CharaChorder Two
 date: 2024-12-30 23:33:42
 updated: 2025-03-04 22:02:03
+categories: [Article,Experience]
 ---
 
 ## Preface
