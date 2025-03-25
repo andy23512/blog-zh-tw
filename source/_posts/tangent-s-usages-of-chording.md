@@ -16,20 +16,20 @@ Since the Bopomofo of any Chinese character has at most one consonant, rhyme, an
 All possible combinations of the Bopomofo chord can be looked up in some Chinese dictionaries, like [this Bopomofo index of a Chinese dictionary website](https://www.zdic.net/zd/zy/). It is useful when I want to add a new CC1 chord that does not conflict with Bopomofo chords.
 
 {% blockquote %}
-I have {% post_link tangent-s-introduction-to-bopomofo-chord another article about Bopomofo chords %}.
+I have [another article about Bopomofo chords](/@andy23512/rywyCLGa0).
 {% endblockquote %}
 
 ## CC1 Chord
 
 {% blockquote %}
-I list my CC1 chords in {% post_link tangent-s-latest-chord-list this note %}.
+I list my CC1 chords in [this note](/@andy23512/BJ-I7kx0T).
 {% endblockquote %}
 
 ### CC1 English Chord
 
 The Bopomofo chords are possible to conflict with CC1 chords when they share the same key set. To keep the chording feature working for English and prevent conflict, I discard all built-in chords from CC1 and only add chords that do not conflict with Bopomofo chords. 
 
-An example in [TC41.V5](/@andy23512/HJRUbUH4n#V5-Latest), `e+x -> exit` is not a conflicting CC1 chord, because the corresponding Bopomofo symbols of `e` and `x` are `ㄑ` and `ㄡ`, and `ㄑㄡ` is not a valid Bopomofo combination.
+An example in {% post_link tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one TC41.V5 %}, `e+x -> exit` is not a conflicting CC1 chord, because the corresponding Bopomofo symbols of `e` and `x` are `ㄑ` and `ㄡ`, and `ㄑㄡ` is not a valid Bopomofo combination.
 
 ### CC1 Chinese Chord (Under Bopomofo input method)
 

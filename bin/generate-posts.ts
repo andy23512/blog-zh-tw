@@ -16,7 +16,7 @@ function replaceNoteUrl(
   let result = noteContent;
   Object.entries(urlToFileName).forEach(([url, fileName]) => {
     result = result.replace(
-      new RegExp(`\\[([^\\]]+)\\]\\(${url}\\)`, "g"),
+      new RegExp(`\\[([^\\]]+)\\]\\(${url}#([^)]+)\\)`, "g"),
       `{% post_link ${fileName} $1 %}`
     );
   });

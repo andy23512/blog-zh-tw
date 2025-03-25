@@ -26,7 +26,7 @@ CC and Forge devices runs on CCOS, which currently supports 3 layers. However, h
 ### Compatible languages 
 
 Short answer: CC and Forge devices work with other languages just like any other keyboard.
-Long answer: You could check out {% post_link tangent-s-explanation-to-the-compatible-languages-of-charachorder-one-charachorder-two-and-master-forge my article about the compatible languages of CC1 and M4G %}.
+Long answer: You could check out [my article about the compatible languages of CC1 and M4G](/@andy23512/B116kIdAC).
 
 ## Master Forge
 
@@ -36,7 +36,7 @@ Users can order from the product page of [Master Forge](https://forgekeyboard.co
 
 ### Changes of Bundle Between pre Kickstarter, Kickstarter and post Kickstarter
 
-See {% post_link tangent-s-bundle-comparison-note-of-master-forge my bundle comparison note of M4G %}.
+See [my bundle comparison note of M4G](/@andy23512/BkZKQVrJ1l).
 
 ### Content of VIP Membership
 
@@ -69,7 +69,7 @@ Planning to use the new cap shown in [this video](https://youtu.be/8px7PLQuOkA?f
 
 ### Spec
 
-This video shows a spec comparison between M4G (Master Forge), CC1 and market-leading keyboard. https://youtu.be/x2swE9URxeA?feature=shared you could also check out {% post_link tangent-s-unofficial-spec-comparison-note-of-charachorder-devices-master-forge-and-svalboard my spec comparison note %}.
+This video shows a spec comparison between M4G (Master Forge), CC1 and market-leading keyboard. https://youtu.be/x2swE9URxeA?feature=shared you could also check out [my spec comparison note](/@andy23512/rJTf2dzlJl).
 
 ### Meaning of M4G
 
@@ -79,7 +79,7 @@ M4G is the community chosen abbreviation for Master Forge.
 
 ### Differences from CharaChorder One
 
-Their spec differences are shown in this video  https://youtu.be/x2swE9URxeA?feature=shared&t=609 , or you could check out {% post_link tangent-s-unofficial-spec-comparison-note-of-charachorder-devices-master-forge-and-svalboard my spec comparison note %}.
+Their spec differences are shown in this video  https://youtu.be/x2swE9URxeA?feature=shared&t=609 , or you could check out [my spec comparison note](/@andy23512/rJTf2dzlJl).
 
 Some other noteworthy points that Master Forge is much better than CC1 are:
 

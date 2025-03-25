@@ -9,7 +9,7 @@ categories: [Article,Layout]
 
 Master Forge (M4G), the successor of CC1, will not have the thumb3 switches, so it's impossible to directly use TanChord 41 Bopomofo on M4G. And to have all the Bopomofo symbols placed on the home row of M4G, some more non-character keys on the home row have to be sacrificed, or we need to use a whole layer (such as the functional layer) for Bopomofo input.
 
-Adapted from the [TC41.V5](/@andy23512/HJRUbUH4n#V5-Latest), here is a possible Bopomofo layout design on M4G.
+Adapted from the {% post_link tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one TC41.V5 %}, here is a possible Bopomofo layout design on M4G.
 
 ![localhost_4200_layouts](https://hackmd.io/_uploads/B16h42R2T.png)
 

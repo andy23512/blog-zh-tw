@@ -5,7 +5,7 @@ updated: 2025-01-16 01:09:49
 categories: [Article,Chord]
 ---
 {% blockquote %}
-:information_source: This chord list is based on my chording ways mentioned in {% post_link tangent-s-usages-of-chording this article %}.
+:information_source: This chord list is based on my chording ways mentioned in [this article](/@andy23512/H1OmcBzfye).
 {% endblockquote %}
 
 P.S. 1: The :no_entry_sign: in the chord output is the [KSC_00] action, which is used to eliminate the auto space.

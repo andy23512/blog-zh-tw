@@ -7,9 +7,9 @@ categories: [Article,Layout]
 
 ## Preface
 
-I wrote two articles about {% post_link tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one how I designed the layout for Bopomofo input method on CC1 %} and {% post_link tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge M4G %}. They are like progress notes for my layout, including what problems I faced and how I solved them.
+I wrote two articles about [how I designed the layout for Bopomofo input method on CC1](/@andy23512/HJRUbUH4n) and [M4G](/@andy23512/r1tvdWQ1R). They are like progress notes for my layout, including what problems I faced and how I solved them.
 
-However, it may be hard to trace the reason behind each remapped keys on my layout in those two articles, so in this article, I would break down my latest layout ([TC36.V2](/@andy23512/r1tvdWQ1R#V2)) and explain why I remap those keys.
+However, it may be hard to trace the reason behind each remapped keys on my layout in those two articles, so in this article, I would break down my latest layout ({% post_link tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge TC36.V2 %}) and explain why I remap those keys.
 
 ## Primary Layer
 
