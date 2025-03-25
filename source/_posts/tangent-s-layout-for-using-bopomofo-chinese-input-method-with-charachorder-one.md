@@ -142,7 +142,7 @@ Device Manager Backup file https://github.com/andy23512/setting-files/blob/maste
 
 ### The Name - TanChord 41 Bopomofo (TC41)
 
-Since I came up with {% post_link tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge another Bopomofo layout for Master Forge %}, to easily distinguish them, I named the layout here as `TanChord 41`. `Tan` is the abbreviation of my name, `Tangent`. `Chord` is because it's mainly designed for using Bopomofo input method and Bopomofo chords on CharaChorder One. `41` is because it uses 41 keys[^41_keys].
+Since I came up with <a href="{% post_path tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge %}#2nd-iteration---TanChord-36-Bopomofo-TC36-V1">another Bopomofo layout for Master Forge</a>, to easily distinguish them, I named the layout here as `TanChord 41`. `Tan` is the abbreviation of my name, `Tangent`. `Chord` is because it's mainly designed for using Bopomofo input method and Bopomofo chords on CharaChorder One. `41` is because it uses 41 keys[^41_keys].
 
 # Side Topics
 
@@ -166,7 +166,7 @@ Then we can use the following key combinations for the punctuations:
 
 ## Chord
 
-(moved to [this article](/@andy23512/H1OmcBzfye))
+(moved to <a href="{% post_path tangent-s-usages-of-chording %}">this article</a>)
 
 ## Bopomofo Password
 
@@ -208,11 +208,11 @@ So the output of `7890` keys should be `1qaz` on the OS layout respectively, whi
 
 ## Custom Keyboard Shortcut
 
-(moved to {% post_link tangent-s-accessories-and-software-applications-used-with-input-devices this article %})
+(moved to <a href="{% post_path tangent-s-accessories-and-software-applications-used-with-input-devices %}#Hammerspoon">this article</a>)
 
 ## Possible Bopomofo Approaches on Master Forge (M4G)
 
-(moved to [this article](/@andy23512/r1tvdWQ1R))
+(moved to <a href="{% post_path tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge %}">this article</a>)
 
 ## Arpeggiate Problem
 
@@ -220,7 +220,7 @@ The arpeggiate feature is a quick single keystroke after a CC chord that can use
 
 I found that CC's punctuation arpeggiate feature is also possible to conflict with Bopomofo chords. 
 
-For example, at my {% post_link tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge TC36.V2 %} layout, when I type `問（ㄨㄣ、）`, I chord `ㄨ+ㄣ`(corresponding keys is `t+d`) and then hit the Tone4 `、`(corresponding key is `;`) immediately after the chord. The `;` keystroke would trigger the punctuation arpeggiate feature, so CC device seemed to emit `Space`, `;`, `Arrow Left`, `Backspace` and `Arrow Right` keys.
+For example, at my <a href="{% post_path tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge %}#V2">TC36.V2</a> layout, when I type `問（ㄨㄣ、）`, I chord `ㄨ+ㄣ`(corresponding keys is `t+d`) and then hit the Tone4 `、`(corresponding key is `;`) immediately after the chord. The `;` keystroke would trigger the punctuation arpeggiate feature, so CC device seemed to emit `Space`, `;`, `Arrow Left`, `Backspace` and `Arrow Right` keys.
 
 ![](https://hackmd.io/_uploads/S1zHh4VVC.gif)
 

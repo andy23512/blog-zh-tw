@@ -16,7 +16,7 @@ categories: [Article,Language]
 
 # Preface
 
-I've taken a lot of effort to design, implement, update and practice [my own Bopomofo input method for CC1](/@andy23512/HJRUbUH4n) and [M4G](/@andy23512/r1tvdWQ1R). But these solutions require modifying either or both of the IME and the device layout.
+I've taken a lot of effort to design, implement, update and practice <a href="{% post_path tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one %}">my own Bopomofo input method for CC1</a> and <a href="{% post_path tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge %}">M4G</a>. But these solutions require modifying either or both of the IME and the device layout.
 
 This makes me curious about some possible conditions. Assuming that a user want to type Chinese on CC1, CC2 or M4G. What if they don't want to or they cannot modify IME and device layout for this? What if they can only use the built-in IME on the OS of the computer?
 

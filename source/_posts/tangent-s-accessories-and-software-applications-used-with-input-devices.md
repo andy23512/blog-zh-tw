@@ -9,7 +9,7 @@ categories: [Article,Other]
 
 ### Hand Protection
 
-As mentioned in {% post_link tangent-s-progress-for-charachorder-one-charachorder-two-and-master-forge my CC1 and CC2 progress article %}, I had some pain problems on my index fingers and wrists, mainly due to the long-term bad typing habit. To reduce the problem, I bought the half-finger gloves, wrist bands, and finger splint from [Copper Compression](https://www.coppercompression.com/). They do a good job of reducing my pain. Even now, I sometimes use my CC2 with those gloves, and my hands feel twice as comfortable.
+As mentioned in <a href="{% post_path tangent-s-progress-for-charachorder-one-charachorder-two-and-master-forge %}#1-How-I-Meet-CharaChorder-One-CC1">my CC1 and CC2 progress article</a>, I had some pain problems on my index fingers and wrists, mainly due to the long-term bad typing habit. To reduce the problem, I bought the half-finger gloves, wrist bands, and finger splint from [Copper Compression](https://www.coppercompression.com/). They do a good job of reducing my pain. Even now, I sometimes use my CC2 with those gloves, and my hands feel twice as comfortable.
 
 ### Keyboard Tray
 

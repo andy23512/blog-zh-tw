@@ -9,7 +9,7 @@ categories: [Article,Experience]
 
 I switched from CC1 to CC2 two days ago (2024/12/28. I started writing this article on 2024/12/30). Though I had only used CC2 briefly, I could sense many improvements in this upgrade, so I decided to start writing a review for CC2.
 
-I had written [a review article for CC1](/@andy23512/rJJQ3D0tA) before. CC2 inherits all the points I wrote about CC1 in that article. Then, in this article, I will focus on the improvements or differences between CC2 and CC1.
+I had written <a href="{% post_path tangent-s-review-to-charachorder-one %}">a review article for CC1</a> before. CC2 inherits all the points I wrote about CC1 in that article. Then, in this article, I will focus on the improvements or differences between CC2 and CC1.
 
 ## Extended USB-C Port
 

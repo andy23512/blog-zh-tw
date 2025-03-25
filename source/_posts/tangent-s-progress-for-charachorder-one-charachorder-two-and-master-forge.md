@@ -33,7 +33,7 @@ During those 10 days, I kept thinking about if there is any improvement space to
 
 For the second problem, I found an open-sourced Bopomofo input method, so I changed the mapping according to the layout image and everything has worked well. Time to write a training website for this Bopomofo layout next!
 
-(I wrote [the detail about the whole design and implementation of my Bopomofo input method in this article](/@andy23512/HJRUbUH4n).)
+(I wrote <a href="{% post_path tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one %}">the detail about the whole design and implementation of my Bopomofo input method in this article</a>.)
 
 # 5. Dealing with Bopomofo Password
 
@@ -65,7 +65,7 @@ Finally, after 166 practices (i.e. 1660 minutes), today (2023/12/21), also my bi
 
 # 8. Take back CC1 chording
 
-Before I fully switched to CC1, I usually turned off the chording feature of CC1, because some CC1's chords conflict with Bopomofo chords and my layout of Bopomofo were under adjustment at that time. And after I got a stable version ({% post_link tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one V5 %}) of Bopomofo layout, I reopened the chording feature of CC1 and added some CC1 chords. They are for some words that I frequently use while working, and their key combinations don't conflict with any Bopomofo chords under Bopomofo layout V5. 
+Before I fully switched to CC1, I usually turned off the chording feature of CC1, because some CC1's chords conflict with Bopomofo chords and my layout of Bopomofo were under adjustment at that time. And after I got a stable version (<a href="{% post_path tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one %}#V5-Latest">V5</a>) of Bopomofo layout, I reopened the chording feature of CC1 and added some CC1 chords. They are for some words that I frequently use while working, and their key combinations don't conflict with any Bopomofo chords under Bopomofo layout V5. 
 
 # 9. Good Bye, Mouse
 
@@ -77,7 +77,7 @@ But for my Chinese input method, the mouse movement and mouse click keys at the 
 
 # 10. A new Bopomofo layout designed for Master Forge (M4G)
 
-When the preview of M4G, the successor of CC1, first came out, I didn't consider switching to M4G because it had too few switches for my usage. (It only had six switches on each side at that time.) But as four more switches had been added to M4G's design, I started to find for solution for my usage (especially for the Bopomofo input method) and came up with a new Bopomofo layout, **TanChord 36**, which only needs 36 keys to type Chinese with Bopomofo and Bopomofo chords on a CC1 or an M4G. (I wrote the details about [the process and the layout in this article](/@andy23512/r1tvdWQ1R).)
+When the preview of M4G, the successor of CC1, first came out, I didn't consider switching to M4G because it had too few switches for my usage. (It only had six switches on each side at that time.) But as four more switches had been added to M4G's design, I started to find for solution for my usage (especially for the Bopomofo input method) and came up with a new Bopomofo layout, **TanChord 36**, which only needs 36 keys to type Chinese with Bopomofo and Bopomofo chords on a CC1 or an M4G. (I wrote the details about <a href="{% post_path tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge %}">the process and the layout in this article</a>.)
 
 And after [a few days of practice](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqARitEkMk4es205yPdTQfpOU6DqhlYL6W9T9pA6mxkFuxGyOVV3WklNUbCfUjW1s0RYGg5MKb6jtZ/pubhtml?gid=629628516&single=true) on CC1, I got 30 WPM, and I thought this speed is enough for me to use. Though there are some other little drawbacks, I feel that using fewer keys has some efficiency benefit.
 
@@ -85,7 +85,7 @@ And after [a few days of practice](https://docs.google.com/spreadsheets/d/e/2PAC
 
 My English and Chinese typing speed on CC1 are enough for me to use. But when programming, I still feel slow when I need to type numbers or symbols. I think I am still unfamiliar with the locations of those keys, and I want a practice tool for practicing them. I also need a good side project to practice some new frontend technologies, syntaxes, and other things I want to try.
 
-As a result, I recently started developing a new practice tool, called [Alnitak](https://andy23512.github.io/alnitak/). At the time of writing, it has already had a basic layout highlight and typing lessons for numbers and letters. About its latest features and details, I will update them in [this article](/@andy23512/SywN7okfC).
+As a result, I recently started developing a new practice tool, called [Alnitak](https://andy23512.github.io/alnitak/). At the time of writing, it has already had a basic layout highlight and typing lessons for numbers and letters. About its latest features and details, I will update them in <a href="{% post_path alnitak-charachorder-one-practice-tool-developed-by-tangent %}">this article</a>.
 
 # 12. Awakening Ambidexterity / Dual Wielding
 
@@ -97,7 +97,7 @@ However, the arrow keys and mouse movement keys on CC1 don't have such limitatio
 
 # 13. From One to Two
 
-This month (December 2024), one of the keys on my second CC1 was broken, and I found that the metal caps on the CC1 are a little cold when used in cold weather. Though I could still use it and had pre-ordered the M4G, I bought a CC2 as my birthday present this year. I received it yesterday and started using it today (2024/12/28). The transition from CC1 to CC2 was perfect, and I got used to CC2 in a short time. I could feel the great improvements, including the quietness, the low actuation force keys, and the new keycaps design when I typed this chapter with CC2. I wrote [my review to CC2 in this article](/@andy23512/BkJDa4xLkg).
+This month (December 2024), one of the keys on my second CC1 was broken, and I found that the metal caps on the CC1 are a little cold when used in cold weather. Though I could still use it and had pre-ordered the M4G, I bought a CC2 as my birthday present this year. I received it yesterday and started using it today (2024/12/28). The transition from CC1 to CC2 was perfect, and I got used to CC2 in a short time. I could feel the great improvements, including the quietness, the low actuation force keys, and the new keycaps design when I typed this chapter with CC2. I wrote <a href="{% post_path tangent-s-review-to-charachorder-two %}">my review to CC2 in this article</a>.
 
 # 14. Master Forge arrived!
 
