@@ -796,9 +796,9 @@ pdf:
 
 # Mermaid tag
 mermaid:
-  enable: false
+  enable: true
   # Available themes: default | dark | forest | neutral
-  theme: forest
+  theme: dark
 
 # ---------------------------------------------------------------
 # Animation Settings

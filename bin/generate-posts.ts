@@ -62,7 +62,11 @@ ${replaceNoteUrl(
     .replace(/:::warning/g, "{% blockquote %}")
     .replace(/:::spoiler( .*)?/g, "{% blockquote %}")
     .replace(/:::/g, "{% endblockquote %}")
-    .replace(/\[^\w+\]/g, " $0"),
+    .replace(/\[^\w+\]/g, " $0")
+    .replace(
+      /```mermaid\n([\S]+)([^`]+)```/g,
+      "{% mermaid $1 %}$2{% endmermaid %}"
+    ),
   urlToFileName
 )}
 `;
