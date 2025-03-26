@@ -58,9 +58,16 @@ ${
 ${replaceNoteUrl(
   note.content
     .replace(/\[TOC\]\n/g, "")
+    .replace(
+      /:::spoiler (.*)\n([\S\s]*?):::/g,
+      '{% collapsecard "$1" %}$2{% endcollapsecard %}'
+    )
+    .replace(
+      /:::spoiler\n([\S\s]*?):::/g,
+      '{% collapsecard "Show Detail" %}$1{% endcollapsecard %}'
+    )
     .replace(/:::info/g, "{% blockquote %}")
     .replace(/:::warning/g, "{% blockquote %}")
-    .replace(/:::spoiler( .*)?/g, "{% blockquote %}")
     .replace(/:::/g, "{% endblockquote %}")
     .replace(/\[^\w+\]/g, " $0")
     .replace(

@@ -1028,6 +1028,11 @@ hexo-symbols-count-time@^0.7.1:
   dependencies:
     hexo-util "1.9.0"
 
+hexo-tag-collapse-spoiler@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/hexo-tag-collapse-spoiler/-/hexo-tag-collapse-spoiler-1.0.1.tgz#8836aeb64db91123abbceb6efb73dec425684488"
+  integrity sha512-WFyS4OEn/UIE6WdG6aqptwXjKfMrvmqG3HqumxxcX+VfnTYQAs7KvGO0tK/tE1ToslgKxv7hz/M/E8jZsd/4hg==
+
 hexo-theme-landscape@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/hexo-theme-landscape/-/hexo-theme-landscape-1.1.0.tgz#756335efcc8abd240170f16f36c4af5c4c51c739"

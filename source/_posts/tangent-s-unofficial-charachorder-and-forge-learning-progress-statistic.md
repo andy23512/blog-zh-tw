@@ -15,9 +15,8 @@ Curious about the real learning curve of Charachorder devices, I try to mine dat
 
 ## Learning Curve Chart
 
-{% blockquote %}
-  Here are the power-series trend lines and scatter plots of the typing speed and the days elapsed on each devices. The power-series trend lines can represent average learning progress on each device.
-{% endblockquote %}
+{% collapsecard "Show Detail" %}  Here are the power-series trend lines and scatter plots of the typing speed and the days elapsed on each devices. The power-series trend lines can represent average learning progress on each device.
+{% endcollapsecard %}
 
 [Open in new tab](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-GIGZcyrT2rhcVUUot14X00CK7XrqMDSI4gqKdE_8jQtrFqId4hD9-UvE6TS9RZjpaHkmyjfgEBZ6/pubhtml?gid=385574544&single=true)
 
@@ -25,8 +24,7 @@ Curious about the real learning curve of Charachorder devices, I try to mine dat
 
 ## Speed Achievement Stats
 
-{% blockquote %}
-  Here are the statistics about how long it took users to reach some notable typing speeds. Their statistics metrics, boxplots, and histograms would be shown.
+{% collapsecard "Show Detail" %}  Here are the statistics about how long it took users to reach some notable typing speeds. Their statistics metrics, boxplots, and histograms would be shown.
   
 Notable typing speeds:
 
@@ -37,7 +35,7 @@ Notable typing speeds:
 - (150+ WPM: Supersonic speed)
 - 250 WPM: Speed of thought, i.e. average human reading speed
 - (250+ WPM: Hypercerebral speed) 
-{% endblockquote %}
+{% endcollapsecard %}
 
 [Open in new tab](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-GIGZcyrT2rhcVUUot14X00CK7XrqMDSI4gqKdE_8jQtrFqId4hD9-UvE6TS9RZjpaHkmyjfgEBZ6/pubhtml?gid=644493207&amp;single=true)
 

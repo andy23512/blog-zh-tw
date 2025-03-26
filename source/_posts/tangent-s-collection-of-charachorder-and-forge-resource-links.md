@@ -1,7 +1,7 @@
 ---
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 date: 2023-03-29 21:16:09
-updated: 2025-02-12 19:40:20
+updated: 2025-03-27 00:02:27
 categories: [Note,Resource]
 ---
 {% blockquote %}
@@ -43,35 +43,30 @@ categories: [Note,Resource]
 
 - [ChorderClub Essentials (Playlist)](https://youtube.com/playlist?list=PL5UG1PKtBJF7JQxwee2AwmUA2137eMHXL&feature=shared)
 
-{% blockquote %}
-CharaChorder Essentials 中有 CharaChorder 提供的深度教學影片。這些影片能幫助你充分發揮你的 CharaChorder 裝置的潛力。
-{% endblockquote %}
+{% collapsecard "Show Detail" %}In CharaChorder Essentials, there are in-depth tutorial videos provided by CharaChorder. These videos can help you unlock the full potential of your CharaChorder device.
+{% endcollapsecard %}
 
 ### Others
 
 #### [Try CharaChorder](https://try.charachorder.com/)
 
-{% blockquote %}
-Try CharaChorder is a free CharaChorder emulator that you can try some features of CharaChorder devices directly on your browser with any keyboard. Check [the introduction video of Try CharaChorder](https://youtu.be/ZIzdo_hLbJw?feature=shared) for more detailed explanation and demostration.
-{% endblockquote %}
+{% collapsecard "Show Detail" %}Try CharaChorder is a free CharaChorder emulator that you can try some features of CharaChorder devices directly on your browser with any keyboard. Check [the introduction video of Try CharaChorder](https://youtu.be/ZIzdo_hLbJw?feature=shared) for more detailed explanation and demostration.
+{% endcollapsecard %}
 
 #### [Master Forge Estimator](https://wheresmyforge.charachorder.com/)
 
-{% blockquote %}
-It's a web tool that estimates the fulfillment date for your Master Forge order.
-{% endblockquote %}
+{% collapsecard "Show Detail" %}It's a web tool that estimates the fulfillment date for your Master Forge order.
+{% endcollapsecard %}
 
 #### [VoiceBox](https://voicebox.iq-eq.us/)
 
-{% blockquote %}
-VoiceBox is a live text-to-speech web app. Check [the official release video](https://youtu.be/76W4yvi2eW0?feature=shared) for demostration.
-{% endblockquote %}
+{% collapsecard "Show Detail" %}VoiceBox is a live text-to-speech web app. Check [the official release video](https://youtu.be/76W4yvi2eW0?feature=shared) for demostration.
+{% endcollapsecard %}
 
 #### [CharaChorder/CAD-CAM: CharaChorder's official repository of CAD & CAM files](https://github.com/CharaChorder/CAD-CAM)
 
-{% blockquote %}
-This repository collects the CAD & CAM files of some parts of CharaChorder devices, Forge devices and Forge Bolt-on.
-{% endblockquote %}
+{% collapsecard "Show Detail" %}This repository collects the CAD & CAM files of some parts of CharaChorder devices, Forge devices and Forge Bolt-on.
+{% endcollapsecard %}
 
 #### [CharaChorder/nexus: CharaChorder's logging and analysis desktop app, supporting Linux, Windows, and macOS.](https://github.com/CharaChorder/nexus)
 
@@ -81,55 +76,48 @@ This repository collects the CAD & CAM files of some parts of CharaChorder devic
 
 #### ==(Outdated)== [CCOS Community Wiki](https://docs.google.com/document/u/2/d/1NWgIFE1yl-gQc8hmqbDO00kSV3ETgtKgsIzdntMR_hI/mobilebasic)
 
-{% blockquote %}
-An old community Wiki but not updated for a long time. Recommend to use [the official documentation](https://docs.charachorder.com/) instead.
-{% endblockquote %}
+{% collapsecard "Show Detail" %}An old community Wiki but not updated for a long time. Recommend to use [the official documentation](https://docs.charachorder.com/) instead.
+{% endcollapsecard %}
 
 #### ==(Outdated)== [CharaChorder One Wiki](https://charachorder.notion.site/CharaChorder-One-Wiki-f6f24cdfa4f94df7988d48e9b69fbacc)
 
-{% blockquote %}
-An old community Wiki but not updated for a long time. Recommend to use [the official documentation](https://docs.charachorder.com/) instead.
+{% collapsecard "Show Detail" %}An old community Wiki but not updated for a long time. Recommend to use [the official documentation](https://docs.charachorder.com/) instead.
 
 It seems to me that the "Learn to Type" and "Learn to Chord" sections are still useful.
-{% endblockquote %}
+{% endcollapsecard %}
 
 ### Tool
 
 #### [CharaTyping](https://cctype.app/)
 
-{% blockquote %}
-It's a fork/clone of a typing test app, [Monkeytype](https://monkeytype.com/). 
+{% collapsecard "Show Detail" %}It's a fork/clone of a typing test app, [Monkeytype](https://monkeytype.com/). 
 
 Differences from Monkeytype:
 - The anti-cheat module of Monkeytype is removed.
 - Chording would not affect the accuracy.
 
 GitHub Repo: https://github.com/typing-tech/monkeytype
-{% endblockquote %}
+{% endcollapsecard %}
 
 #### ==(Outdated)== [CharaChorder Config](https://charachorder-config.com/)
 
-{% blockquote %}
-An old community tool to configure your device. Recommend to use [the official device manager](https://manager.charachorder.com/) instead.
-{% endblockquote %}
+{% collapsecard "Show Detail" %}An old community tool to configure your device. Recommend to use [the official device manager](https://manager.charachorder.com/) instead.
+{% endcollapsecard %}
 
 #### [CharaChorder Layout](https://charachorder-layouts.vercel.app/US)
 
-{% blockquote %}
-A web tool that shows the output characters of the default CC1 layout under different OS layout settings.
-{% endblockquote %}
+{% collapsecard "Show Detail" %}A web tool that shows the output characters of the default CC1 layout under different OS layout settings.
+{% endcollapsecard %}
 
 #### [CharaChorder Utilities - Home](https://typing-tech.github.io/CharaChorder-utilities/)
 
-{% blockquote %}
-CharaChorder Utilities contains a collection of tools for CharaChorder users.
-{% endblockquote %}
+{% collapsecard "Show Detail" %}CharaChorder Utilities contains a collection of tools for CharaChorder users.
+{% endcollapsecard %}
 
 #### [CharaChorder Builder (BETA) - Google Spreadsheet](https://docs.google.com/spreadsheets/d/1ZiVmLQewM9AFnHXMyyWmq5UpMn3w8RCFe9kPOmYsC4Y/edit?usp=sharing)
 
-{% blockquote %}
-CharaChorder Builder allows anyone to create computer-generated chord libraries from any word list.
-{% endblockquote %}
+{% collapsecard "Show Detail" %}CharaChorder Builder allows anyone to create computer-generated chord libraries from any word list.
+{% endcollapsecard %}
 
 ### Data
 
