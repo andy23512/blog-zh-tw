@@ -1,7 +1,7 @@
 ---
 title: Tangent's Unofficial Spec Comparison Note of CharaChorder Devices, Master Forge and Svalboard
 date: 2024-10-20 20:48:20
-updated: 2025-03-19 21:55:58
+updated: 2025-04-07 18:53:05
 categories: [Note,Comparison]
 ---
 ## Comparison Table
@@ -46,8 +46,7 @@ Notice:
 |**Baseplate**|3D-printed Plastic[^m4g_base_material]|3D-printed Plastic[^cc2_half_material]|Injection Molded ABS Plastic[^cc1_half_material]|ABS Plastic[^ccl_base_material]|N/A|N/A|???|
 |==**Other**==|==**------M4G------**==|==**------CC2------**==|==**------CC1------**==|==**------CCL------**==|==**------CCX------**==|==**------Sval------**==|==**--------------**==|==**------M4G------**==|==**------CC2------**==|==**------CC1------**==|==**------CCL------**==|==**------CCX------**==|==**------Sval------**==|==**--------------**==|==**------M4G------**==|==**------CC2------**==|==**------CC1------**==|==**------CCL------**==|==**------CCX------**==|==**------Sval------**==|==**--------------**==|
 |**Pointing Device**[^pointing_device]|Trackball / None[^m4g_pointing_device]|Cursor Movement Key|Cursor Movement Key|None|None|Trackball / Touchpad / Trackpoint / None|???|
-
-- **Quietness**: CC2 > CC1 > M4G
+|**Quietness Ranking**|3rd|1st|2nd|???|???|???|???|
 
 ## References
 
