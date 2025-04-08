@@ -1,7 +1,7 @@
 ---
 title: Alnitak - CharaChorder One practice tool developed by Tangent
 date: 2024-05-01 19:10:38
-updated: 2025-03-01 22:30:19
+updated: 2025-04-08 18:57:36
 categories: [Article,Creation]
 ---
 {% blockquote %}
@@ -79,6 +79,7 @@ The color of the meter chunk and the speed number are also changed in the same w
 - CSS Framework: [Tailwind CSS](https://tailwindcss.com/)
 - Chart Library: [Highcharts Angular](https://github.com/highcharts/highcharts-angular)
 - IndexedDB Wrapper: [Dexie.js](https://dexie.org/)
+- Printing Directive: [ngx-print](https://github.com/selemxmn/ngx-print)
 
 # Other References
 
