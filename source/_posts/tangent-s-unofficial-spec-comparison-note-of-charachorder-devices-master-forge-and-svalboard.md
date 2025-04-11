@@ -1,7 +1,7 @@
 ---
 title: Tangent's Unofficial Spec Comparison Note of CharaChorder Devices, Master Forge and Svalboard
 date: 2024-10-20 20:48:20
-updated: 2025-04-07 18:53:05
+updated: 2025-04-11 15:59:31
 categories: [Note,Comparison]
 ---
 ## Comparison Table
@@ -39,7 +39,7 @@ Notice:
 |**Hardware Interface**|Picatinny Railing|Female ¼”-20 Thread|N/A|N/A|N/A|Female M5 and ¼”-20 Thread|N/A|
 |**Switch Durability (cycles each direction)**|20,000,000[^m4g_switch_durability]|1,000,000[^cc2_switch_durability]|200,000[^cc1_switch_durability]|???|N/A[^ccx_dependence]|???|???|
 |**Number of 3D Switches**|16|18|18|N/A|N/A|10 (Key Clusters)|N/A|
-|**Number of Keys on each 3D Switch**|4|5|5|N/A|N/A|5|N/A|
+|**Number of Keys on each 3D Switch**|4[^m4g_keys_per_switch]|5|5|N/A|N/A|5|N/A|
 |**Switch**|[Omron Electronics D2LS-21(20M)](https://eu.mouser.com/ProductDetail/Omron-Electronics/D2LS-2120M?qs=OcgtsXO%2B3gskSBgTf6V7tw%3D%3D)|[Alps Alpine SKRHADE010](https://tech.alpsalpine.com/e/products/detail/SKRHADE010/)|[Alps Alpine SKRHABE010](https://tech.alpsalpine.com/e/products/detail/SKRHABE010/)|Gateron Clear/White|N/A|???|???|
 |==**Material**==|==**------M4G------**==|==**------CC2------**==|==**------CC1------**==|==**------CCL------**==|==**------CCX------**==|==**------Sval------**==|==**--------------**==|
 |**Shell**|5052 Aluminium Alloy[^m4g_shell_material]|Injection Molded ABS Plastic[^cc2_half_material]|Injection Molded ABS Plastic[^cc1_half_material]|ABS Plastic[^ccl_shell_material]|Injection Molded Plastic[^ccx_shell_material]|ABS Plastic|???|
@@ -117,3 +117,5 @@ Notice:
 [^pointing_device]: The default pointing devices on each device are listed. You can remap the cursor movement keys on CC devices, Master Forge, and Svalboard.
 
 [^m4g_pointing_device]: Some tiers of Master Forge bundle don't include the Trackball Bolt-on.
+
+[^m4g_keys_per_switch]: Unlike CC1 and CC2, M4G doesn't have 3D press keys. When you do a 3D press on M4G, you hit all four keys on that switch.
