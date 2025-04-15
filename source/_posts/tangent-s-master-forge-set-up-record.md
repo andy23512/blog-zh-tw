@@ -1,7 +1,7 @@
 ---
 title: Tangent's Master Forge Set-up Record
 date: 2025-03-13 21:24:18
-updated: 2025-03-15 00:19:38
+updated: 2025-04-15 21:21:09
 categories: [Article,Experience]
 ---
 
@@ -45,13 +45,11 @@ This is a closer look at the cleat. It has an allen key on it.
 
 ## Things inside the carrying case
 
-Inside the carring case, there are the device and a V clip[^v_clip].
+Inside the carring case, there are the device and the splitter.
 
-![image](https://hackmd.io/_uploads/BJRQOwx2Jg.png)
+![image](https://hackmd.io/_uploads/SkxBTAjRyg.png)
 
-(The V clip and the device were in seperated state when I opened the box. They might or might not be seperated in your case.)
-
-[^v_clip]: I don't know the official name of this part. The name "V clip" is from a comment in [this video](https://youtu.be/gdPakqb_Jdk?feature=shared).
+(The splitter and the device were in seperated state when I opened the box. They might or might not be seperated in your case.)
 
 # Connect
 
