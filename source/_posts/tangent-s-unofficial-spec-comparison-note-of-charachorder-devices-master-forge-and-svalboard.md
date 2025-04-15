@@ -1,7 +1,7 @@
 ---
 title: Tangent's Unofficial Spec Comparison Note of CharaChorder Devices, Master Forge and Svalboard
 date: 2024-10-20 20:48:20
-updated: 2025-04-11 15:59:31
+updated: 2025-04-15 21:05:52
 categories: [Note,Comparison]
 ---
 ## Comparison Table
@@ -38,7 +38,7 @@ Notice:
 |**Actuation Force (4-direction / press-down for 3-D switch)**| 55-57 gf / N/A [^m4g_actuation_force]|42 gf / 240 gf|70 gf / 240 gf|35 gf[^ccl_switch]|N/A[^ccx_dependence]|20 gf / 20 gf|40-80 gf|
 |**Hardware Interface**|Picatinny Railing|Female ¼”-20 Thread|N/A|N/A|N/A|Female M5 and ¼”-20 Thread|N/A|
 |**Switch Durability (cycles each direction)**|20,000,000[^m4g_switch_durability]|1,000,000[^cc2_switch_durability]|200,000[^cc1_switch_durability]|???|N/A[^ccx_dependence]|???|???|
-|**Number of 3D Switches**|16|18|18|N/A|N/A|10 (Key Clusters)|N/A|
+|**Number of 3D Switches**|16[^m4g_number_of_3d_switches]|18|18|N/A|N/A|10 (Key Clusters)|N/A|
 |**Number of Keys on each 3D Switch**|4[^m4g_keys_per_switch]|5|5|N/A|N/A|5|N/A|
 |**Switch**|[Omron Electronics D2LS-21(20M)](https://eu.mouser.com/ProductDetail/Omron-Electronics/D2LS-2120M?qs=OcgtsXO%2B3gskSBgTf6V7tw%3D%3D)|[Alps Alpine SKRHADE010](https://tech.alpsalpine.com/e/products/detail/SKRHADE010/)|[Alps Alpine SKRHABE010](https://tech.alpsalpine.com/e/products/detail/SKRHABE010/)|Gateron Clear/White|N/A|???|???|
 |==**Material**==|==**------M4G------**==|==**------CC2------**==|==**------CC1------**==|==**------CCL------**==|==**------CCX------**==|==**------Sval------**==|==**--------------**==|
@@ -119,3 +119,5 @@ Notice:
 [^m4g_pointing_device]: Some tiers of Master Forge bundle don't include the Trackball Bolt-on.
 
 [^m4g_keys_per_switch]: Unlike CC1 and CC2, M4G doesn't have 3D press keys. When you do a 3D press on M4G, you hit all four keys on that switch.
+
+[^m4g_number_of_3d_switches]: M4G has two thumb switches fewer than CC1 and CC2. Multiple types of mouse control bolt-ons are planned to be offered on the Forge ecosystem instead of the digital mouse switches on CC1 and CC2. On M4G, the third thumb switch keys have moved to where the digital mouse control keys are.
