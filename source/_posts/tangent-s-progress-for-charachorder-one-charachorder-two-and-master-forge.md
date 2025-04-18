@@ -85,7 +85,7 @@ And after [a few days of practice](https://docs.google.com/spreadsheets/d/e/2PAC
 
 My English and Chinese typing speed on CC1 are enough for me to use. But when programming, I still feel slow when I need to type numbers or symbols. I think I am still unfamiliar with the locations of those keys, and I want a practice tool for practicing them. I also need a good side project to practice some new frontend technologies, syntaxes, and other things I want to try.
 
-As a result, I recently started developing a new practice tool, called [Alnitak](https://andy23512.github.io/alnitak/). At the time of writing, it has already had a basic layout highlight and typing lessons for numbers and letters. About its latest features and details, I will update them in <a href="{% post_path alnitak-charachorder-one-practice-tool-developed-by-tangent %}">this article</a>.
+As a result, I recently started developing a new practice tool, called [Alnitak](https://andy23512.github.io/alnitak/). At the time of writing, it has already had a basic layout highlight and typing lessons for numbers and letters. About its latest features and details, I will update them in <a href="{% post_path alnitak-a-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent %}">this article</a>.
 
 # 12. Awakening Ambidexterity / Dual Wielding
 
