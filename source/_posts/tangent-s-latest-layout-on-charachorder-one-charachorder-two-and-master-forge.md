@@ -1,7 +1,7 @@
 ---
 title: Tangent's Latest Layout on CharaChorder One, CharaChorder Two and Master Forge
 date: 2024-11-03 09:08:44
-updated: 2024-12-29 11:40:31
+updated: 2025-04-26 21:40:42
 categories: [Article,Layout]
 ---
 
@@ -31,7 +31,7 @@ These symbol keys are also useful when programming.
 
 Then I should find places for the non-character keys replaced by symbols. Similar to the default layout of M4G, I place them on the ring middle switches.
 
-`LW` and `RW` are `Left GUI` and `Right GUI` keys. （Windows keys on Windows, or Command keys on Mac） They are actually `Ctrl` keys on my Mac since I use Karabiner to swap the `Ctrl` and `Command` keys on CC1.
+`LW` and `RW` are `Left GUI` and `Right GUI` keys. （Windows keys on Windows, or Command keys on Mac） They are actually `Ctrl` keys on my Mac since I use Karabiner to swap the `Ctrl` and `Command` keys on CC1, CC2 and M4G.
 
 ### Numeric Layer Lock
 
