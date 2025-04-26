@@ -1,7 +1,7 @@
 ---
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 date: 2023-03-29 21:16:09
-updated: 2025-03-27 00:02:27
+updated: 2025-04-26 08:20:41
 categories: [Note,Resource]
 ---
 {% blockquote %}
@@ -180,4 +180,4 @@ GitHub Repo: https://github.com/typing-tech/monkeytype
 
 ### Statistics
 
-- [My Unofficial CharaChorder Speed Statistics (Google Spreadsheet)](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-GIGZcyrT2rhcVUUot14X00CK7XrqMDSI4gqKdE_8jQtrFqId4hD9-UvE6TS9RZjpaHkmyjfgEBZ6/pubhtml?gid=385574544&single=true)
+- [My Unofficial CharaChorder Learning Progress Statistics (Google Spreadsheet)](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-GIGZcyrT2rhcVUUot14X00CK7XrqMDSI4gqKdE_8jQtrFqId4hD9-UvE6TS9RZjpaHkmyjfgEBZ6/pubhtml?gid=385574544&single=true)
