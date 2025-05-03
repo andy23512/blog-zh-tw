@@ -1,7 +1,7 @@
 ---
 title: Alnitak - a practice tool of CharaChorder 3D input devices developed by Tangent
 date: 2024-05-01 19:10:38
-updated: 2025-04-08 18:57:36
+updated: 2025-05-03 09:19:08
 categories: [Article,Creation]
 ---
 {% blockquote %}
@@ -36,6 +36,7 @@ categories: [Article,Creation]
 - Layout Viewer
   - can view the final layout (actual output under the seleced OS keyboard layout) by layers and with/without shift
   - search for a key in the layout
+  - print the final layout (or generate a pdf file of it)
 
 # Side Topics
 
