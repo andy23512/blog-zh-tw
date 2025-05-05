@@ -1,7 +1,7 @@
 ---
 title: Tangent's UNOFFICIAL Playlist of CharaChorder and Forge Update Videos
 date: 2024-07-30 15:30:32
-updated: 2025-04-17 08:05:09
+updated: 2025-05-05 08:27:57
 categories: [Note,Resource]
 ---
 ## YouTube Playlists
@@ -178,7 +178,8 @@ All videos are collected from the sources listed above. NONE of my accounts, my 
 |W62*|[Does Typing Speed REALLY Matter?](https://youtu.be/0ZgvQgh3S7A?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-03-09 14:01:11||
 |W63*|[CC2 Hands on Review - Code to the Moon](https://youtu.be/xQ-udoNzcfw?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-03-16 12:00:31||
 |W67*|[Factory Tour!](https://youtu.be.com/yxbYuho1LZA?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-04-16 15:15:56||
+|W70*|[It's Time to Destroy 3D Printing Stigma](https://youtu.be/IDX6LEFO8jc?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)| 2025-05-04 15:00:06|[YT](https://youtu.be/2MYp9hrVVGM?feature=shared)|
 
 [^serial]: If "Day XX" or "Week XX" is mentioned in the title or the content of the video, that serial number would be used. Otherwise, it would be decided from the uploaded time and the serial number of adjacent video, and it would be postfixed with a `*`. `D` means day and `W` means week.
 [^timezone]: North American Central Time Zone (CST/CDT) is used.
-[^backup]: Same videos from other websites for backup. `FB` means Facebook, `IG` means Instagram, `LI` means LinkedIn and `TT` means TikTok.
+[^backup]: Same videos from other websites for backup. `YT` means YouTube, `FB` means Facebook, `IG` means Instagram, `LI` means LinkedIn and `TT` means TikTok.
