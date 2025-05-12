@@ -11,12 +11,12 @@ categories: [Article,Creation]
 ![截圖 2025-02-19 23.15.27](https://hackmd.io/_uploads/HJR3BOX51l.png)
 
 
-# Links
+## Links
 
 - [Alnitak](https://andy23512.github.io/alnitak/)
 - [Github](https://github.com/andy23512/alnitak)
 
-# Features
+## Features
 
 - Layout Lesson
   - 3~4 keys in a small lesson
@@ -38,9 +38,9 @@ categories: [Article,Creation]
   - search for a key in the layout
   - print the final layout (or generate a pdf file of it)
 
-# Side Topics
+## Side Topics
 
-## Naming and Theme Color
+### Naming and Theme Color
 
 Letting users practice around three things at a time is the first main feature I want this tool to have. (Yes, according to the rule of three.) So about the name, I started with "three" and found a Chinese word, 參. It's the [Financial form](https://en.wikipedia.org/wiki/Chinese_numerals#Ordinary_numerals) of three, and it also can mean "study" with another pronunciation in some contexts.
 
@@ -50,21 +50,21 @@ But this name is too abstract for people who know about neither Chinese nor Japa
 
 Later, I found that a [star mansion](https://en.wikipedia.org/wiki/Star_(Chinese_constellation)) called [參宿 (Three Stars)](https://en.wikipedia.org/wiki/Three_Stars_(Chinese_constellation)), so I decided to name this project as the first star in the Three Stars, [參宿一 (Alnitak)](https://en.wikipedia.org/wiki/Alnitak). 參 can mean study, 宿 can mean place and 一 means one, so 參宿一 can be overtranslated to "**Study** **Place** for CharaChorder **One**" by me. And since the main star of Alnitak is a blue supergiant, I could use this as a theme color in this project, so that's how the theme color of this tool was decided.
 
-## Design Concepts
+### Design Concepts
 
-### Combo Counter
+#### Combo Counter
 
 The combo counter records how many consecutive correct keystrokes have been made til now. Trying to get a higher count can be a different challenge from the typing speed or the accuracy. 
 
 As the number of combo increases, the color of the counter will change in the same way as the [color temperature](https://en.wikipedia.org/wiki/Color_temperature) or the [stellar color](https://en.wikipedia.org/wiki/Stellar_classification), and it pretty fits the name of this project, Alnitak, which is a star name.
 
-### Speedometer
+#### Speedometer
 
 A speedometer is a great way to visualize the current speed. The current design of speedometer is the result after collecting some dashboard or speedometer designs relating to a classic racing car anime, [Future GPX Cyber Formula](https://en.wikipedia.org/wiki/Future_GPX_Cyber_Formula), and simplifying it to make it less distractive. Also, the donut sector shape really matches with the shape of the key on CC1's layout.
 
 The color of the meter chunk and the speed number are also changed in the same way as the color temperature or the stellar color mentioned above.
 
-## Tech Stack
+### Tech Stack
 
 - Build System: [Nx](https://nx.dev/)
 - Frontend Framework: [Angular](https://angular.dev/)
@@ -82,7 +82,7 @@ The color of the meter chunk and the speed number are also changed in the same w
 - IndexedDB Wrapper: [Dexie.js](https://dexie.org/)
 - Printing Directive: [ngx-print](https://github.com/selemxmn/ngx-print)
 
-# Other References
+## Other References
 
 - [Blue Giant Color Palette](https://www.color-hex.com/color-palette/28907)
 - [Algorithm that converts temperature (K) to RGB](https://tannerhelland.com/2012/09/18/convert-temperature-rgb-algorithm-code.html)

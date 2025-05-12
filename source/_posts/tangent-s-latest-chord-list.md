@@ -11,7 +11,7 @@ categories: [Article,Chord]
 P.S. 1: The :no_entry_sign: in the chord output is the [KSC_00] action, which is used to eliminate the auto space.
 P.S. 2: The latest backup file of my chords is at [this url](https://raw.githubusercontent.com/andy23512/setting-files/master/CharaChorder/chords.json).
 
-## English (Programming) chords
+### English (Programming) chords
 
 |Input|Output|Description|
 |-|-|-|
@@ -39,13 +39,13 @@ P.S. 2: The latest backup file of my chords is at [this url](https://raw.githubu
 |s+t|string|[`string`](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#the-primitives-string-number-and-boolean) is a frequently used type in TypeScript|
 |s+u+b|subscribe|[subscribe](https://rxjs.dev/api/index/class/Observable#subscribe) is a frequently used method of Observable in RxJS.|
 
-## Japanese chords
+### Japanese chords
 
 |Input|Output|Description|
 |-|-|-|
 |s+h|寿司:no_entry_sign:|The first Japanese chord I made. [Sushi](https://en.wikipedia.org/wiki/Sushi).|
 
-## Abandoned chords
+### Abandoned chords
 
 (They are abandoned due to confliction with Bopomofo chords on my latest Bopomofo layout.)
 

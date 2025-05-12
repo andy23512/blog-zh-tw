@@ -9,13 +9,13 @@ categories: [Article,Layout]
 {% endblockquote %}
 
 
-# Bopomofo Layout on CharaChorder One (CC1)
+## Bopomofo Layout on CharaChorder One (CC1)
 
 In this section, I will explain some existing Bopomofo layouts and their problems with CC1 first, and then the design, implementation, and updates of my Bopomofo layout.
 
-## Problems of Existing Bopomofo Layouts
+### Problems of Existing Bopomofo Layouts
 
-### Standard Bopomofo (標準注音、大千注音)
+#### Standard Bopomofo (標準注音、大千注音)
 
 Standard Bopomofo is the layout I've used since I started to learn Chinese typing.
 
@@ -23,13 +23,13 @@ On a normal keyboard, symbols are placed in the same way as the Bopomofo table, 
 
 However, since CC1's layout is completely different from a normal keyboard, the Bopomofo symbols are not easy to find and learn. And since some Bopomofo symbols are on the number or symbol keys on a normal keyboard (such as `1` for `ㄅ`, `/` for `ㄥ`), one needs to switch the layer to get those Bopomofo symbols when typing on CC1. So it is impossible to do "Bopomofo chord" for every combination of Bopomofo with this layout on CC1.
 
-### Eten Bopomofo (倚天注音)
+#### Eten Bopomofo (倚天注音)
 
 Eten is another layout that is designed for users that are familiar with English typing. Its rules for mapping symbols are mainly by sound or shape similarity, so it's easier to learn for those who are familiar with English typing on any keyboard (including CC1). Yes, this is a workable and easier solution without any software modification. But still cannot do "Bopomofo chord" due to the same reason as Standard Bopomofo.
 
-## Make a New Bopomofo Layout - TanChord 41 Bopomofo (TC41)
+### Make a New Bopomofo Layout - TanChord 41 Bopomofo (TC41)
 
-### Design (V1)
+#### Design (V1)
 
 As mentioned, there are some problems when using CC1 with existing Bopomofo layouts. To let it both easy to learn (easy to find key) and efficient (can do "Bopomofo chord"), a special Bopomofo layout should be designed for CC1, so I came up with the layout below.
 
@@ -43,11 +43,11 @@ The design rules of this layout are:
 4. Positions of frequently used keys are kept as possible, such as `ctrl` (mapped to `command` in Karabiner on my Mac), `backspace`, `enter`, and `(right) space`.
 5. Frequently used symbols (`ㄐㄑㄒㄓㄔㄕ一ㄨㄩ`) are placed at the switches of the index and middle fingers.
 
-### Implementation (V1)
+#### Implementation (V1)
 
 Two things are required to do for implementing the layout. One is to remap keys on CC1, the other is to modify the mapping rule of a Bopomofo IME.
 
-#### Remapping keys on CC1
+##### Remapping keys on CC1
 
 Bopomofo IME only can map character keys (alphabets, numbers, symbols) to Bopomofo symbols, so I need to replace some non-character keys with character keys if I want those keys to map to Bopomofo symbols in IME. Also considering usage for programming, I replace them with some frequently used symbols in codes. Below is the final CC1 layout after remapping. 
 
@@ -55,7 +55,7 @@ Bopomofo IME only can map character keys (alphabets, numbers, symbols) to Bopomo
 
 And I put the CSV file of my layout here. https://raw.githubusercontent.com/andy23512/setting-files/master/CharaChorder/cc1-layout.csv
 
-#### Modifying Bopomofo IME
+##### Modifying Bopomofo IME
 
 The final step is to change the IME's Bopomofo layout. It is really difficult to modify the built-in IME of OS, so I forked an open-sourced Mac Bopomofo IME and changed its layout according to the CC1 layout and the Bopomofo layout I designed (https://github.com/andy23512/McBopomofo/commit/7446337c8cc54a0700f467d26b3c4289cd55a9?diff=split). 
 
@@ -63,9 +63,9 @@ The final step is to change the IME's Bopomofo layout. It is really difficult to
 
 At this moment, I finally could have a better Bopomofo layout for my Chinese typing.
 
-### Updates
+#### Updates
 
-#### V2
+##### V2
 
 After some time using this layout, I found a few problems so I made a few adjustments to the layout.
 
@@ -82,7 +82,7 @@ The adjustments are:
 New CC1 layout file: https://raw.githubusercontent.com/andy23512/setting-files/master/CharaChorder/cc1-layout-v2.csv
 Update to McBopomofo: https://github.com/andy23512/McBopomofo/commit/14899a112d1032330825fe16f8718d6ecab7021c
 
-#### V3
+##### V3
 
 I found that some keys in shift layer in OS layout (such as `{`) would break Bopomofo chords, so I modified the CC1 layout to solve the problem.
 
@@ -91,7 +91,7 @@ Update to McBopomofo: https://github.com/andy23512/McBopomofo/commit/e33883e3f7d
 
 ![localhost_4200_layouts (1)](https://hackmd.io/_uploads/Hk80ZYEEa.png)
 
-#### V4
+##### V4
 
 After some praticing, I found that putting the Tone2~Tone5 on the right middle switch would make the workload of right middle finger too high. (We always need one tone per Chinese word when typing.) So I try spliting them into two switches to see whether it gets better or not.
 
@@ -100,7 +100,7 @@ Update to McBopomofo: https://github.com/andy23512/McBopomofo/commit/35b7eccbe94
 
 ![image](https://hackmd.io/_uploads/r1sZj6tSp.png)
 
-#### V5 (Latest)
+##### V5 (Latest)
 
 I found that typing ㄌ(`/`) would trigger the slash command at ClickUp, so I change the key to `=` and move `/` to left mouse switch.
 
@@ -109,17 +109,17 @@ Update to McBopomofo: https://github.com/andy23512/McBopomofo/commit/fe53eda0982
 
 ![localhost_4200_layouts](https://hackmd.io/_uploads/S1seckdIp.png)
 
-#### V5.1 (Adjustment for mouse actions)
+##### V5.1 (Adjustment for mouse actions)
 
 Since the mouse switch at primary layer has been remapped to other keys, I decided to use the mouse actions at the numeric layer, so I added a num lock key at right-ring_2-west of primary layer.
 
 `<` and `>` can be typed with `shift+,` and `shift+.` so they can be removed.
 
-##### Primary Layer
+###### Primary Layer
 
 ![localhost_4200_layouts](https://hackmd.io/_uploads/By-7Cw_j6.png)
 
-##### Numeric Layer
+###### Numeric Layer
 
 ![localhost_4200_layouts (1)](https://hackmd.io/_uploads/HkzXE__ia.png)
 
@@ -130,25 +130,25 @@ Since the mouse switch at primary layer has been remapped to other keys, I decid
 
 Device Manager Backup file https://github.com/andy23512/setting-files/blob/master/CharaChorder/backup-ONE-v5.1.json
 
-#### V5.2 (Functional Keys at Numeric Layer)
+##### V5.2 (Functional Keys at Numeric Layer)
 
 To make the functional keys more accessible (for me), I remap some keys at the left side of numeric layer to functional keys.
 
-##### Numeric Layer
+###### Numeric Layer
 
 ![localhost_4200_layouts](https://hackmd.io/_uploads/rkWnAPlyA.png)
 
 Device Manager Backup file https://github.com/andy23512/setting-files/blob/master/CharaChorder/backup-ONE-v5.2.json
 
-### The Name - TanChord 41 Bopomofo (TC41)
+#### The Name - TanChord 41 Bopomofo (TC41)
 
 Since I came up with <a href="{% post_path tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge %}#2nd-iteration---TanChord-36-Bopomofo-TC36-V1">another Bopomofo layout for Master Forge</a>, to easily distinguish them, I named the layout here as `TanChord 41`. `Tan` is the abbreviation of my name, `Tangent`. `Chord` is because it's mainly designed for using Bopomofo input method and Bopomofo chords on CharaChorder One. `41` is because it uses 41 keys[^41_keys].
 
-# Side Topics
+## Side Topics
 
 In this section, there are some side topics related to Chinese typing, Bopomofo, chording, or other setting for CC1.
 
-## Chinese Punctuation
+### Chinese Punctuation
 
 This layout occupies some punctuation keys, such as `[`, `]`, to map to Bomopofo symbols. This would make the corresponding Chinese punctuations unaccessible with these keys. (`[` key for `「`, `]` key for `」`)
 
@@ -164,11 +164,11 @@ Then we can use the following key combinations for the punctuations:
 |`shift+,`(`<`)|`「`|
 |`shift+.`(`>`)|`」`|
 
-## Chord
+### Chord
 
 (moved to <a href="{% post_path tangent-s-usages-of-chording %}">this article</a>)
 
-## Bopomofo Password
+### Bopomofo Password
 
 Bopomofo password is a kind of password that we can make with several Chinese words. It uses the mapping between the standard layout and QWERTY layout. (See [this link](https://www.theverge.com/tldr/2019/3/5/18252150/bad-password-security-data-breach-taiwan-ji32k7au4a83-have-i-been-pwned) for more details if anyone is interested.) So we use the same keystrokes but different input sources (Standard Bopomofo or QWERTY) for typing the Chinese words and the corresponding Bopomofo password.
 
@@ -205,15 +205,15 @@ So the output of `7890` keys should be `1qaz` on the OS layout respectively, whi
 
 ![upload_b72eeab34a7f164d74dcf73a19b18b3c](https://hackmd.io/_uploads/ByoFE7l0p.png)
 
-## Custom Keyboard Shortcut
+### Custom Keyboard Shortcut
 
 (moved to <a href="{% post_path tangent-s-accessories-and-software-applications-used-with-input-devices %}#Hammerspoon">this article</a>)
 
-## Possible Bopomofo Approaches on Master Forge (M4G)
+### Possible Bopomofo Approaches on Master Forge (M4G)
 
 (moved to <a href="{% post_path tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge %}">this article</a>)
 
-## Arpeggiate Problem
+### Arpeggiate Problem
 
 The arpeggiate feature is a quick single keystroke after a CC chord that can use to modify a chord, such as modifing the tense, adding a suffix, a prefix or a punctuation. 
 

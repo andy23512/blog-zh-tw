@@ -5,7 +5,7 @@ updated: 2025-02-19 19:27:42
 categories: [Article,Language]
 ---
 
-# TL;DR
+## TL;DR
 
 - No device layout and IME modification + Built-in[^built_in]
   - Cangjie (倉頡)
@@ -14,7 +14,7 @@ categories: [Article,Language]
   - Boshiamy (嘸蝦米)
   - Eten 26 Bopomofo (倚天26鍵注音) or Hsu Bopomofo (許氏注音)
 
-# Preface
+## Preface
 
 I've taken a lot of effort to design, implement, update and practice <a href="{% post_path tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one %}">my own Bopomofo input method for CC1</a> and <a href="{% post_path tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge %}">M4G</a>. But these solutions require modifying either or both of the IME and the device layout.
 
@@ -27,27 +27,27 @@ Note that:
 2. I am a Traditional Chinese user, so most of the IMEs I know are mainly for Traditional Chinese. But since I would explain the reasons for the suggestions, you could follow the same fashion to find suitable one for other types of Chinese.
 3. Some third-party IME softwares are paid ones, are limited in a certain OS, or may contain malwares, so pay attention to these things and only install from trustworthy websites.
 
-# Introduction for types of Chinese IME
+## Introduction for types of Chinese IME
 
 I think a brief knowledge for the types of Chinese IME is important for one choosing a Chinese IME to learn, so here I will introduce the two types of Chinese IMEs and their pros and cons.
 
-## Phonetic-based
+### Phonetic-based
 
 On this type of IME, user inputs the pronunciation of a Chinese character to type it. So if you already know the phonetic methods (like [Pinyin](https://en.wikipedia.org/wiki/Pinyin) or [Bopomofo](https://en.wikipedia.org/wiki/Bopomofo)) and the pronunciations of enough Chinese character, what you type is actually what you speak. It's generally **easier to learn** than the Shape-based IMEs, but generally **slower** due to choosing between the Chinese characters that share the same pronunciation.
 
 P.S.: For hyper speed Chinese typing, there are some IMEs or steno machines, such as [追音輸入法](https://www.text.tw/chasew) and [亞偉速錄](https://zh.wikipedia.org/zh-tw/%E4%BA%9A%E4%BC%9F%E9%80%9F%E5%BD%95), that are phonetic-based and use chorded input to make typing extremely fast, but they are harder to learn.
 
-## Shape-based
+### Shape-based
 
 On this type of IME, user inputs the corresponding keys of components of a Chinese character to type it. So you need to know the components of a Chinese character (or just memoize the keys of it if it's too complex) to type it. It's generally **faster** than Phonetic-based because less characters share the same keys, but generally **harder to learn**, because you have to learn the rules that deciding the components to choose, and memorize the components that each key can represent. (For example, you can check the keys and the rules in [the wikipedia page of Canjie input method](https://en.wikipedia.org/wiki/Cangjie_input_method).) 
 
-# Suggestions under each condition
+## Suggestions under each condition
 
-## No device layout and IME modification
+### No device layout and IME modification
 
 Since the letter keys and number keys on the default layout of CC1, CC2 and M4G are at different layers, **IMEs that only use letter keys** are better choices under this condition. Some choices would be provided below.
 
-### Cangjie (倉頡) [Shape-based] [Built-in]
+#### Cangjie (倉頡) [Shape-based] [Built-in]
 
 Cangjie is a built-in Chinese IME. The key series (i.e. the Cangjie code) to type a Chinese character are decided by the components of that character.
 
@@ -60,13 +60,13 @@ Here is the keyboard layout of Cangjie on CC1, CC2 and M4G.
 ![localhost_4200_layouts (2)](https://hackmd.io/_uploads/rkwmh3I_0.png)
 
 
-### Pinyin (拼音) [Phonetic-based] [Built-in]
+#### Pinyin (拼音) [Phonetic-based] [Built-in]
 
 Under Pinyin, the sound of a Chinese character is represented with Latin alphabet, so in the most basic form of pinyin input method, user enters the pinyin of a Chinese character to type it.
 
 In most of the modern pinyin input methods, user can choose not specifying the tone (by number key 1~5) by using space key. Since one only need to use number key when specifying tones, I think it is an option for CC1, CC2 and M4G.
 
-### Boshiamy (嘸蝦米) [Shape-based] [Not built-in]
+#### Boshiamy (嘸蝦米) [Shape-based] [Not built-in]
 
 Boshiamy is not a built-in IME. It uses the shape, sound or meaning to link English letters with the corresponding Chinese character components.
 
@@ -78,7 +78,7 @@ Boshiamy code (at most 3 keys) is generally shorter than Cangjie code (at most 5
 
 Note that you probably find few resources in English. It's not a popular IME, but it is still a choice to use on CC1, CC2 and M4G.
 
-### Eten 26 Bopomofo (倚天26鍵注音) or Hsu Bopomofo (許氏注音) [Phonetic-based] [Not built-in]
+#### Eten 26 Bopomofo (倚天26鍵注音) or Hsu Bopomofo (許氏注音) [Phonetic-based] [Not built-in]
 
 On Bopomofo IMEs, user inputs the Bopomofo of a Chinese character to type it.
 
@@ -94,7 +94,7 @@ And below is the Hsu Bopomofo layout on CC1, CC2 or M4G.
 
 ![localhost_4200_layouts (1)](https://hackmd.io/_uploads/rkZvjZ2dC.png)
 
-## Device modification + No IME modification
+### Device modification + No IME modification
 
 If you accept to modify your device layout for the Chinese typing, you can set up a better layout for the IME you use on CC1, CC2 or M4G.
 

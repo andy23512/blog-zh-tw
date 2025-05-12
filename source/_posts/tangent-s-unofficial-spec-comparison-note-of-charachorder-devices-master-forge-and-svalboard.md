@@ -48,9 +48,9 @@ Notice:
 |**Pointing Device**[^pointing_device]|Trackball / None[^m4g_pointing_device]|Cursor Movement Key|Cursor Movement Key|None|None|Trackball / Touchpad / Trackpoint / None|???|
 |**Quietness Ranking**|3rd|1st|2nd|???|???|???|???|
 
-## References
+### References
 
-### CharaChorder and Forge
+#### CharaChorder and Forge
 
 - ["Master Forge: Specs Reveal" Video](https://youtu.be/x2swE9URxeA?feature=shared)
 - [CC2 Product Page](https://www.charachorder.com/products/cc2)
@@ -59,7 +59,7 @@ Notice:
 - [CharaChorder Official Documentation](https://docs.charachorder.com)
 - [CharaChorder Discord Server](https://discord.gg/charachorder)
 
-### Svalboard
+#### Svalboard
 
 - [Svalboard Product Page](https://svalboard.com/products/lightly)
 - [Svalboard Manual](https://docs.google.com/document/d/1Um4EAIK-GLQGw-9xHUFe-aCtHJDENYUSzhcqQi9ppwU/edit?tab=t.0)

@@ -9,11 +9,11 @@ categories: [Note,Statistic]
 {% endblockquote %}
 
 
-## Preface
+### Preface
 
 Curious about the real learning curve of Charachorder devices, I try to mine data from the share-your-progress channel of the CharaChorder Discord server and summarize them into charts and tables below.
 
-## Learning Curve Chart
+### Learning Curve Chart
 
 {% collapsecard "Show Detail" %}  Here are the power-series trend lines and scatter plots of the typing speed and the days elapsed on each devices. The power-series trend lines can represent average learning progress on each device.
 {% endcollapsecard %}
@@ -22,7 +22,7 @@ Curious about the real learning curve of Charachorder devices, I try to mine dat
 
 <iframe width="100%" height="550" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-GIGZcyrT2rhcVUUot14X00CK7XrqMDSI4gqKdE_8jQtrFqId4hD9-UvE6TS9RZjpaHkmyjfgEBZ6/pubhtml?gid=385574544&single=true" frameborder="0"></iframe>
 
-## Speed Achievement Stats
+### Speed Achievement Stats
 
 {% collapsecard "Show Detail" %}  Here are the statistics about how long it took users to reach some notable typing speeds. Their statistics metrics, boxplots, and histograms would be shown.
   
@@ -41,7 +41,7 @@ Notable typing speeds:
 
 <iframe width="100%" height="550" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-GIGZcyrT2rhcVUUot14X00CK7XrqMDSI4gqKdE_8jQtrFqId4hD9-UvE6TS9RZjpaHkmyjfgEBZ6/pubhtml?gid=644493207&single=true" frameborder="0"></iframe>
 
-## Data Collecting Rule
+### Data Collecting Rule
 
 1. When the start date of a user is unknown, their data is not collected.
 2. At most one representative typing speed is selected per day per user. The date is according to the date shown in the chart screenshot or the message date shown in the Discord app, so there may be some inconsistency due to timezone difference. (P.S.: My timezone is UTC+8.)

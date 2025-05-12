@@ -29,7 +29,7 @@ Notice:
 |Master Forge CAD - Unlimited Access|:heavy_check_mark:|:heavy_check_mark:||
 |Forge VIP Membership (2 Years)|:heavy_check_mark:|:heavy_check_mark:||
 
-## References
+### References
 
 - [Screenshot of Master Forge product page (Pre-KS Preorder)](https://discord.com/channels/861730583092658206/1176366370678653010/1278000103965200384)
 - Screenshot of Master Forge product page at 2024/10/10 (Post-KS Preorder)

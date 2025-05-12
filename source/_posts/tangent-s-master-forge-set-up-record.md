@@ -5,7 +5,7 @@ updated: 2025-04-15 21:21:09
 categories: [Article,Experience]
 ---
 
-# Out of the Box (==Pre-Kickstarter Pre-Order==)
+## Out of the Box (==Pre-Kickstarter Pre-Order==)
 
 {% blockquote %}
    :information_source: The parts shown here are the contents of the Master Forge bundle of the ==PRE-KICKSTARTER PRE-ORDER==. If yours is Kickstarter or post-kickstarter order, your contents might be different from this.
@@ -26,7 +26,7 @@ After opening one more layer, I could see the tactical carrying case, deskmat, a
 ![20250308_190441](https://hackmd.io/_uploads/Hkvd1vghye.jpg)
 
 
-## Things outside the carrying case
+### Things outside the carrying case
 
 ![image](https://hackmd.io/_uploads/SykFSwx2Jg.png)
 
@@ -43,7 +43,7 @@ This is a closer look at the cleat. It has an allen key on it.
 ![image](https://hackmd.io/_uploads/SyGB8vgh1l.png)
 
 
-## Things inside the carrying case
+### Things inside the carrying case
 
 Inside the carring case, there are the device and the splitter.
 
@@ -51,13 +51,13 @@ Inside the carring case, there are the device and the splitter.
 
 (The splitter and the device were in seperated state when I opened the box. They might or might not be seperated in your case.)
 
-# Connect
+## Connect
 
 I use the provided USB-C to USB-A cable to connect my M4G to my computer. Please connect the left port on the M4G to the computer.
 
 ![20250308_191638](https://hackmd.io/_uploads/HJUeqPghke.jpg)
 
-# Splitting the Digitizers
+## Splitting the Digitizers
 
 (Please don't split the digitizers when M4G is connecting to the computer.)
 

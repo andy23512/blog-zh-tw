@@ -5,11 +5,11 @@ updated: 2024-11-29 00:05:59
 categories: [Article,Language]
 ---
 
-# Preface
+## Preface
 
 I found that it's quite hard to search things on the internet with English about Bopomofo chord mentioned in my other articles. Maybe there is no official or general translation for this thing, so I decided to write this article to explain Bopomofo chord in detail.
 
-# What is Bopomofo?
+## What is Bopomofo?
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Bopomofo), Bopomofo is a transliteration system for Standard Chinese and other Sinitic languages. It's used to transcribe all possible sounds in Mandarin, i.e., the sound of every Chinese character can be described by Bopomofo.
 
@@ -17,7 +17,7 @@ For example, `你好` (Hello in English) has two Chinese characters. The Bopomof
 
 There are three kinds of Bopomofo symbols, consonants, medials and rhymes. The Bopomofo of a Chinese character has at most one consonant, one medial and one rhyme, and it must have a tone.
 
-# What is Bopomofo input method?
+## What is Bopomofo input method?
 
 We can type Chinese character with Bopomofo input method. For example, we have [all of the Bopomofo symbols and tones on a normal keyboard](https://en.wikipedia.org/wiki/Bopomofo#/media/File:Keyboard_layout_Zhuyin.svg), and can type a Chinese character by inputing the Bopomofo of it to the Bopomofo input method.
 
@@ -25,7 +25,7 @@ For example, this is how `你好` is typed under a Bopomofo input method. The Bo
 
 ![螢幕錄影 2024-09-14 09.43.49](https://hackmd.io/_uploads/BycXswz6C.gif)
 
-# What is Bopomofo chord?
+## What is Bopomofo chord?
 
 Since the Bopomofo of a Chinese character has at most one consonant, one medial and one rhyme, if they are at different key under a Bopomofo layout, the order of inputing them doesn't matter. They can be input simultaneously[^simultaneously] in modern Bopomofo input method.
 

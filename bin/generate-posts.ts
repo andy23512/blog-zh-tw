@@ -58,6 +58,11 @@ ${
 ${replaceNoteUrl(
   note.content
     .replace(/\[TOC\]\n/g, "")
+    .replace(/\n##### /g, "\n###### ")
+    .replace(/\n#### /g, "\n##### ")
+    .replace(/\n### /g, "\n#### ")
+    .replace(/\n## /g, "\n### ")
+    .replace(/\n# /g, "\n## ")
     .replace(
       /:::spoiler (.*)\n([\S\s]*?):::/g,
       '{% collapsecard "$1" %}$2{% endcollapsecard %}'
