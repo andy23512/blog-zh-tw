@@ -1,7 +1,7 @@
 ---
 title: Alnitak - a practice tool of CharaChorder 3D input devices developed by Tangent
 date: 2024-05-01 19:10:38
-updated: 2025-05-03 09:19:08
+updated: 2025-05-17 19:59:58
 categories: [Article,Creation]
 ---
 {% blockquote %}
@@ -81,6 +81,8 @@ The color of the meter chunk and the speed number are also changed in the same w
 - Chart Library: [Highcharts Angular](https://github.com/highcharts/highcharts-angular)
 - IndexedDB Wrapper: [Dexie.js](https://dexie.org/)
 - Printing Directive: [ngx-print](https://github.com/selemxmn/ngx-print)
+- User Agent Parser: [UAParser.js](https://uaparser.dev/)
+- Operating System Logo Icon: [font-logos](https://github.com/lukas-w/font-logos)
 
 ## Other References
 
