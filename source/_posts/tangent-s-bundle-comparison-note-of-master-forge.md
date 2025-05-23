@@ -9,25 +9,25 @@ categories: [Note,Comparison]
 Notice:
 
 1. This comparison table is mainly based on the items listed on the product page or Kickstarter (KS) reward page.
-2. The :heavy_check_mark: means that the item is included in that bundle for sure.
+2. The <div class="check"></div> means that the item is included in that bundle for sure.
 3. You could further confirm the contents of any bundle on the Official CharaChorder Discord server if you have any question.
 
 |Item|Pre-KS Preorder|[KS - Premium](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards#reward-UmV3YXJkLVVtVjNZWEprTFRFd01ETTVNelEx)|[Post-KS Preorder](https://forgekeyboard.com/products/master-forge)|[Post-KS Preorder - Premium](https://forgekeyboard.com/collections/loadouts/products/master-forge-premium)|
 |-|-|-|-|-|
-|Digitizer Anchor-Bodies (Left+Right)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|Inbuilt Platinum CharaChorder Engine Core|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[Mechanical Bridge Bolt-On](https://forgekeyboard.com/collections/bolt-ons%E2%84%A2/products/mechanical-bridge)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|Trackball Bolt-On|:heavy_check_mark: (2)|:heavy_check_mark: (1)||:heavy_check_mark:(1)|
-|[Ergo Bolt-On](https://forgekeyboard.com/collections/bolt-ons%E2%84%A2/products/ergo-bolt-on%E2%84%A2) (4)|:heavy_check_mark: |:heavy_check_mark:||:heavy_check_mark:|
-|Electrical Bridge|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[Forge Cleat](https://forgekeyboard.com/collections/add-ons/products/forge-cleat)|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|
-|Digitizer Custom Keycaps (2 Sets)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|Coiled USB-C -> USB-C Cable[^cable]|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|
-|Braided USB-C -> USB-A Cable[^cable]|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|Tactical Carrying Case|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[Master Forge Deskmat & Reference Guide](https://forgekeyboard.com/collections/add-ons/products/desk-mat)|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|
-|Master Forge CAD - Unlimited Access|:heavy_check_mark:|:heavy_check_mark:||
-|Forge VIP Membership (2 Years)|:heavy_check_mark:|:heavy_check_mark:||
+|Digitizer Anchor-Bodies (Left+Right)|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
+|Inbuilt Platinum CharaChorder Engine Core|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
+|[Mechanical Bridge Bolt-On](https://forgekeyboard.com/collections/bolt-ons%E2%84%A2/products/mechanical-bridge)|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
+|Trackball Bolt-On|<div class="check"></div> (2)|<div class="check"></div> (1)||<div class="check"></div>(1)|
+|[Ergo Bolt-On](https://forgekeyboard.com/collections/bolt-ons%E2%84%A2/products/ergo-bolt-on%E2%84%A2) (4)|<div class="check"></div> |<div class="check"></div>||<div class="check"></div>|
+|Electrical Bridge|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
+|[Forge Cleat](https://forgekeyboard.com/collections/add-ons/products/forge-cleat)|<div class="check"></div>|<div class="check"></div>||<div class="check"></div>|
+|Digitizer Custom Keycaps (2 Sets)|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
+|Coiled USB-C -> USB-C Cable[^cable]|<div class="check"></div>|<div class="check"></div>||<div class="check"></div>|
+|Braided USB-C -> USB-A Cable[^cable]|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
+|Tactical Carrying Case|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
+|[Master Forge Deskmat & Reference Guide](https://forgekeyboard.com/collections/add-ons/products/desk-mat)|<div class="check"></div>|<div class="check"></div>||<div class="check"></div>|
+|Master Forge CAD - Unlimited Access|<div class="check"></div>|<div class="check"></div>||
+|Forge VIP Membership (2 Years)|<div class="check"></div>|<div class="check"></div>||
 
 ### References
 

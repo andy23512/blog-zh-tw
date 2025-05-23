@@ -78,7 +78,8 @@ ${replaceNoteUrl(
     .replace(
       /```mermaid\n([\S]+)([^`]+)```/g,
       "{% mermaid $1 %}$2{% endmermaid %}"
-    ),
+    )
+    .replace(/:heavy_check_mark:/g, '<div class="check"></div>'),
   urlToFileName
 )}
 `;
