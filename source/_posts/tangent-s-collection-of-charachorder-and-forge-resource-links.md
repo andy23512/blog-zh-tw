@@ -1,7 +1,7 @@
 ---
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 date: 2023-03-29 21:16:09
-updated: 2025-04-26 08:20:41
+updated: 2025-05-28 19:36:39
 categories: [Note,Resource]
 ---
 {% blockquote %}
@@ -102,11 +102,6 @@ GitHub Repo: https://github.com/typing-tech/monkeytype
 ##### ==(Outdated)== [CharaChorder Config](https://charachorder-config.com/)
 
 {% collapsecard "Show Detail" %}An old community tool to configure your device. Recommend to use [the official device manager](https://manager.charachorder.com/) instead.
-{% endcollapsecard %}
-
-##### [CharaChorder Layout](https://charachorder-layouts.vercel.app/US)
-
-{% collapsecard "Show Detail" %}A web tool that shows the output characters of the default CC1 layout under different OS layout settings.
 {% endcollapsecard %}
 
 ##### [CharaChorder Utilities - Home](https://typing-tech.github.io/CharaChorder-utilities/)
