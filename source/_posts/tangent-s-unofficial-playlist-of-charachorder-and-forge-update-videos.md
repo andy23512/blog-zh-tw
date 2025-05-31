@@ -1,7 +1,7 @@
 ---
 title: Tangent's UNOFFICIAL Playlist of CharaChorder and Forge Update Videos
 date: 2024-07-30 15:30:32
-updated: 2025-05-18 08:17:58
+updated: 2025-05-31 08:20:10
 categories: [Note,Resource]
 ---
 ## YouTube Playlists
@@ -180,7 +180,8 @@ All videos are collected from the sources listed above. NONE of my accounts, my 
 |W67*|[Factory Tour!](https://youtu.be.com/yxbYuho1LZA?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-04-16 15:15:56||
 |W70*|[It's Time to Destroy 3D Printing Stigma](https://youtu.be/IDX6LEFO8jc?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)| 2025-05-04 15:00:06|[YT](https://youtu.be/2MYp9hrVVGM?feature=shared)|
 |W71*|[Hello! Welcome to our channel 🤠](https://youtu.be/muHCeh7lzyI?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-05-14 12:56:21|[LI](https://www.linkedin.com/posts/rileykeen_hello-taking-a-moment-to-re-introduce-myself-activity-7328529694918660096-Wzrs)|
-|W71*|[Our Elevator Pitch!](https://youtu.be/_hlrekNWBR0?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)| 2025-05-17 15:38:26||
+|W71*|[Our Elevator Pitch!](https://youtu.be/_hlrekNWBR0?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-05-17 15:38:26||
+|W73*|[CCIO Teaser](https://youtu.be/JTaL_3QoEGc?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-05-30 12:00:06||
 
 [^serial]: If "Day XX" or "Week XX" is mentioned in the title or the content of the video, that serial number would be used. Otherwise, it would be decided from the uploaded time and the serial number of adjacent video, and it would be postfixed with a `*`. `D` means day and `W` means week.
 [^timezone]: North American Central Time Zone (CST/CDT) is used.
