@@ -1,7 +1,7 @@
 ---
 title: Tangent's Review to CharaChorder One
 date: 2024-08-05 23:13:26
-updated: 2025-06-17 14:35:57
+updated: 2025-06-17 14:54:05
 categories: [Article,Experience]
 ---
 
@@ -41,7 +41,7 @@ I would say that CC1 makes me think outside the box, not only on the keyboard an
 
 Though the mouse movement feature on CC1 is not favorable by most users as far as I know, CC1 is my mouse replacement.
 
-I've tried many mouse solutions so far and each of them caused some troubles on my hands. Normal mice have caused pain to my index fingers (P.S. I can use a mouse with either left or right hand) and wrists. The trackball reduces the movement of my wrists but with the cost of more finger movements, causing more pain to my fingers. The trackpad gets sticky after I use it for a while and I feel like the skin of my fingers is torn.
+I've tried many mouse solutions so far and each of them caused some troubles for me. Normal mice have caused pain to my index fingers (P.S. I can use a mouse with either left or right hand) and wrists. The trackball reduces the movement of my wrists but with the cost of more finger movements, causing more pain to my fingers. The trackpad gets sticky after I use it for a while and I feel like the skin of my fingers is torn.
 
 So finally I chose to use the mouse feature on CC1. Though it is slower than other solutions, I think it is better for my hands. But yes, if you need the speed, it is not a good choice for you.
 
