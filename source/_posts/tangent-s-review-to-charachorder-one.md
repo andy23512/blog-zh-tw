@@ -1,7 +1,7 @@
 ---
 title: Tangent's Review to CharaChorder One
 date: 2024-08-05 23:13:26
-updated: 2024-12-29 12:21:50
+updated: 2025-06-17 14:35:57
 categories: [Article,Experience]
 ---
 
@@ -43,7 +43,7 @@ Though the mouse movement feature on CC1 is not favorable by most users as far a
 
 I've tried many mouse solutions so far and each of them caused some troubles on my hands. Normal mice have caused pain to my index fingers (P.S. I can use a mouse with either left or right hand) and wrists. The trackball reduces the movement of my wrists but with the cost of more finger movements, causing more pain to my fingers. The trackpad gets sticky after I use it for a while and I feel like the skin of my fingers is torn.
 
-So finally I chose to use the mouse feature on CC1. Though slower than other solutions, I think it is better for my hands. But yes, if you need the speed, it is not a good choice for you.
+So finally I chose to use the mouse feature on CC1. Though it is slower than other solutions, I think it is better for my hands. But yes, if you need the speed, it is not a good choice for you.
 
 ### Surprisingly matching with Bopomofo input method
 
