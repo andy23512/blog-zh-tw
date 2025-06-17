@@ -1,7 +1,7 @@
 ---
 title: Tangent's Review to CharaChorder One
 date: 2024-08-05 23:13:26
-updated: 2025-06-17 14:56:01
+updated: 2025-06-17 17:56:33
 categories: [Article,Experience]
 ---
 
@@ -35,7 +35,7 @@ CC1 has a steep learning curve. As who wants to use CC1 to write English, Chines
 
 ### Thinking Outside-the-box
 
-I would say that CC1 makes me think outside the box, not only on the keyboard and English typing but also on Chinese typing. While finding solutions for Bopomofo input methods on CC1, I studied many existing Bopomofo solutions and learned about Bopomofo chords. I didn't know about Bopomofo chords since I learned the Bopomofo input method at a young age. So meeting CC1 opened a new door for me to faster Chinese typing and more knowledge about Chinese typing. I think it is also possible to make other users rethink and explore new ways about their input methods and languages.
+I would say that CC1 makes me think outside the box, not only on the keyboard and English typing but also on Chinese typing. While finding solutions for Bopomofo input methods on CC1, I studied many existing Bopomofo solutions and learned about Bopomofo chords. So meeting CC1 opened a new door for me to faster Chinese typing and more knowledge about Chinese typing. I think it is also possible to make other users rethink and explore new ways about their input methods and languages.
 
 ### Mouse Replacement
 
