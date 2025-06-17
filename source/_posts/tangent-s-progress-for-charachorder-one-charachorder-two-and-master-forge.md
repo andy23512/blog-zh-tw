@@ -1,7 +1,7 @@
 ---
 title: Tangent's Progress for CharaChorder One, CharaChorder Two and Master Forge
 date: 2023-06-03 10:06:21
-updated: 2025-03-08 21:06:38
+updated: 2025-06-17 16:23:49
 categories: [Article,Experience]
 ---
 
@@ -59,7 +59,7 @@ After the research, I think that the CC1 Bopomofo layout I designed is the best 
 
 Training my Chinese typing on CC1 is the last to-do before I fully switch to CC1. So I started to do some intensive practices for that at 2023/11/06 and recorded my typing speed for each 10-minute practice on [spreadsheet](https://docs.google.com/spreadsheets/d/1TabjAxHYCFnemCBY6yf7dgy4nmKx8K6DbMktckZ-ZwI/edit?usp=sharing). I also did some adjustments to the layout according to the problems I encountered during practice.
 
-After I started to do Chinese typing on CC1, I found that the Bopomofo input method and CC1 are a match made in heaven. The design of CC1 can make the most of the chording nature of Bopomofo input method, and that [each group in Bopomofo symbols](https://zh.wikipedia.org/wiki/%E6%B3%A8%E9%9F%B3%E7%AC%A6%E8%99%9F#%E6%B3%A8%E9%9F%B3%E7%AC%A6%E8%99%9F%E8%A1%A8) has three or four symbols perfectly match with the four-direction switches on CC1. Furthermore, I only need to move a finger to reach the arrow keys to do word choosing. It's a delightful experience for me to type Chinese on CC1.
+After I started to do Chinese typing on CC1, I found that the Bopomofo input method and CC1 are a match made in heaven. The design of CC1 can make the most of the chording nature of Bopomofo input method, and that [each group in Bopomofo symbols](https://zh.wikipedia.org/wiki/%E6%B3%A8%E9%9F%B3%E7%AC%A6%E8%99%9F#%E6%B3%A8%E9%9F%B3%E7%AC%A6%E8%99%9F%E8%A1%A8) has three or four symbols perfectly matches with the four-direction switches on CC1. Furthermore, I only need to move a finger to reach the arrow keys to do word choosing. It's a delightful experience for me to type Chinese on CC1.
 
 Finally, after 166 practices (i.e. 1660 minutes), today (2023/12/21), also my birthday, is the first day on which I fully switch to CC1. I can type a long document in a mix of Chinese and English at work! Really a long way to get here, and my journey with CC1 would keep going.
 
