@@ -1,7 +1,7 @@
 ---
 title: Tangent's Unofficial CharaChorder and Forge Learning Progress Statistic
 date: 2025-01-19 23:23:56
-updated: 2025-03-07 15:37:47
+updated: 2025-07-10 21:34:31
 categories: [Note,Statistic]
 ---
 {% blockquote %}
@@ -30,7 +30,7 @@ Notable typing speeds:
 
 - 40 WPM: Speed of average typist
 - 60 WPM: Speed of professional typist
-- 100 WPM: Speed of top 1% Typist
+- 100 WPM: Speed of top 1% typist
 - 150 WPM: Speed of sound, i.e. average human conversational speed
 - (150+ WPM: Supersonic speed)
 - 250 WPM: Speed of thought, i.e. average human reading speed
@@ -43,7 +43,7 @@ Notable typing speeds:
 
 ### Data Collecting Rule
 
-1. When the start date of a user is unknown, their data is not collected.
+1. When the start date of a user is unknown, their data are not collected.
 2. At most one representative typing speed is selected per day per user. The date is according to the date shown in the chart screenshot or the message date shown in the Discord app, so there may be some inconsistency due to timezone difference. (P.S.: My timezone is UTC+8.)
 3. Some examples of representative typing speed of a day:
    a. the "average typing speed value" mentioned directly in a message at that day (ex: `My average speed is XXX WPM.`)
