@@ -1,7 +1,7 @@
 ---
 title: Tangent's Unofficial CharaChorder and Forge Learning Progress Statistic
 date: 2025-01-19 23:23:56
-updated: 2025-07-10 21:34:31
+updated: 2025-07-10 21:40:43
 categories: [Note,Statistic]
 ---
 {% blockquote %}
@@ -15,7 +15,7 @@ Curious about the real learning curve of Charachorder devices, I try to mine dat
 
 ### Learning Curve Chart
 
-{% collapsecard "Show Detail" %}  Here are the power-series trend lines and scatter plots of the typing speed and the days elapsed on each devices. The power-series trend lines can represent average learning progress on each device.
+{% collapsecard "Show Detail" %}  Here are the power-series trend lines and scatter plots of the typing speed and the days elapsed on each devices. The power-series trend lines can represent average learning curves on each device.
 {% endcollapsecard %}
 
 [Open in new tab](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-GIGZcyrT2rhcVUUot14X00CK7XrqMDSI4gqKdE_8jQtrFqId4hD9-UvE6TS9RZjpaHkmyjfgEBZ6/pubhtml?gid=385574544&single=true)
