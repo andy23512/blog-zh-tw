@@ -1,0 +1,32 @@
+---
+title: Tangent's Review to Key Caps of CharaChorder One and CharaChorder Two
+date: 2025-07-12 17:55:35
+updated: 2025-07-13 10:30:50
+categories: [Article,Experience]
+---
+
+## Preface
+
+Key caps are the parts that we would always touch when using the CharaChorder 3D devices, so they would significantly affect the user experience. Having used CharaChorder One (CC1) with its metal caps and CharaChorder Two (CC2) with its hybrid (plastic + rubber band) caps in both summer and winter weather[^weather], I decided to write a review article for their key caps.
+
+Note that the CC2 I use is in an early version (bought on 2024/11/26), and there have been some updates to the key caps since then. Some defects mentioned below might be fixed.
+
+## Preferences in different weathers
+
+In hot weather, my fingertips get sweaty easily. The sweat on the metal caps can dry quickly through evaporation. However, on the hybrid caps, the sweat would be absorbed by the rubber ring, making it sticky and unpleasant to the touch.
+
+On the other side, in cold weather, the hybrid caps are still at a pleasant temperature. However, the metal caps would be slightly chilly to the touch, but they would warm up after a while. 
+
+If I can swap the two types of key caps on my device in the future, I'd prefer to use the metal caps in the summer and the hybrid key caps in the winter.
+
+## Duability
+
+About durability, the metal caps are undoubtedly better than the hybrid caps.
+
+On my CC2, there were two caps dropped and a rubber band broken. (I used small pieces of tissue paper and the rubber band on a replacement cap to fix them, respectively.) And there are some cracks on the rubber bands.
+
+## Slip resistance
+
+CharaChorder designs the hybrid caps for better slip resistance. And yes, with the friction provided by the rubber band, the hybrid caps are more controllable than metal ones.
+
+[^weather]: The place I live has mild, dry winters (lowest temperature is around 10 °C) and hot, humid summers (highest temperature is around 30 °C).
