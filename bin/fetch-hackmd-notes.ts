@@ -6,12 +6,22 @@ const token: { hackmd: string } = JSON.parse(
   readFileSync("./token.json", { encoding: "utf8" })
 );
 
+function sleep(ms: number) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
 async function callHackMdApi<T>(url: string): Promise<T> {
-  return await fetch(`https://api.hackmd.io/v1${url}`, {
-    headers: {
-      Authorization: "Bearer " + token.hackmd,
-    },
-  }).then((res) => res.json());
+  try {
+    return await fetch(`https://api.hackmd.io/v1${url}`, {
+      headers: {
+        Authorization: "Bearer " + token.hackmd,
+      },
+    }).then((res) => res.json());
+  } catch {
+    console.log("api error, retry in 10s.");
+    await sleep(10000);
+    return await callHackMdApi(url);
+  }
 }
 
 (async () => {

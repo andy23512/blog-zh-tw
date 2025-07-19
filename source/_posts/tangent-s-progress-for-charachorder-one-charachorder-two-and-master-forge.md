@@ -1,7 +1,7 @@
 ---
 title: Tangent's Progress for CharaChorder One, CharaChorder Two and Master Forge
 date: 2023-06-03 10:06:21
-updated: 2025-06-17 16:23:49
+updated: 2025-07-19 19:50:38
 categories: [Article,Experience]
 ---
 
@@ -97,8 +97,8 @@ However, the arrow keys and mouse movement keys on CC1 don't have such limitatio
 
 ## 13. From One to Two
 
-This month (December 2024), one of the keys on my second CC1 was broken, and I found that the metal caps on the CC1 are a little cold when used in cold weather. Though I could still use it and had pre-ordered the M4G, I bought a CC2 as my birthday present this year. I received it yesterday and started using it today (2024/12/28). The transition from CC1 to CC2 was perfect, and I got used to CC2 in a short time. I could feel the great improvements, including the quietness, the low actuation force keys, and the new keycaps design when I typed this chapter with CC2. I wrote <a href="{% post_path tangent-s-review-to-charachorder-two %}">my review to CC2 in this article</a>.
+This month (December 2024), one of the keys on my second CC1 was broken, and I found that the metal caps on the CC1 are a little cold when used in cold weather. Though I could still use it and had pre-ordered the M4G, I bought a CC2 as my birthday present this year. I received it yesterday and started using it today (2024/12/28). The transition from CC1 to CC2 was perfect, and I got used to CC2 in a short time. I could feel the great improvements, including the quietness, the low actuation force keys, and the new keycaps design when I typed this chapter with CC2. I write <a href="{% post_path tangent-s-review-to-charachorder-two %}">my review to CC2 in this article</a>.
 
 ## 14. Master Forge arrived!
 
-After about one year waiting (I pre-ordered in 2024/03/30), my Master Forge arrived a few days ago (2025/03/05), and I started using it today (2025/03/08). The unboxing experience was great, and I can seamlessly move my chords and layout from my CC2 to it. The switches on M4G have a different feeling from the one on CC1 and CC2, they feel much snapper, and louder. The positions of switches are also different from those of CC1 and CC2, so I may need to take some time to get used to it. I will write another article to review M4G in the future.
+After about one year waiting (I pre-ordered in 2024/03/30), my Master Forge arrived a few days ago (2025/03/05), and I started using it today (2025/03/08). The unboxing experience was great, and I can seamlessly move my chords and layout from my CC2 to it. The switches on M4G have a different feeling from the one on CC1 and CC2, they feel much snapper, and louder. The positions of switches are also different from those of CC1 and CC2, so I may need to take some time to get used to it. I write <a href="{% post_path tangent-s-review-to-master-forge %}">my review to M4G in this article</a>.

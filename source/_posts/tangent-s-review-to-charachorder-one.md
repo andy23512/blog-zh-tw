@@ -1,13 +1,13 @@
 ---
 title: Tangent's Review to CharaChorder One
 date: 2024-08-05 23:13:26
-updated: 2025-06-17 17:56:33
+updated: 2025-07-13 12:35:36
 categories: [Article,Experience]
 ---
 
 ### Preface
 
-I received my first CC1 almost two years ago. (2022/09/13. I started to write this article on 2024/08/05.) I've spent much time on CC1, practicing typing and chording, finding solutions for using the Bopomofo input method to type Chinese, and finally working daily with CC1. Since the next device, M4G is coming soon after, I think it's a good time to write a review for CC1.
+I received my first CC1 almost two years ago. (2022/09/13. I started to write this article on 2024/08/05.) I've spent much time on CC1, practicing typing and chording, finding solutions for using the Bopomofo input method to type Chinese, and finally working daily with CC1. Since the next device, M4G is coming soon, I think it's a good time to write a review for CC1.
 
 So in this article, I will review the benefits or drawbacks of CC1 under my near-two-year experiences with CC1, and some of them have been mentioned in my other articles.
 
