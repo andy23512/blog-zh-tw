@@ -1,7 +1,7 @@
 ---
 title: Tangent's explanation to the compatible languages of CharaChorder One, CharaChorder Two and Master Forge
 date: 2024-10-01 00:20:07
-updated: 2025-03-20 20:09:33
+updated: 2025-07-30 19:21:18
 categories: [Article,Language]
 ---
 
@@ -38,7 +38,7 @@ Taking the second column (the column contains the `1` number) of a normal keyboa
 {% collapsecard "Click to show the GIF" %}  ![螢幕錄影 2024-10-01 01.06.52](https://hackmd.io/_uploads/HyYci8dCA.gif)
 {% endcollapsecard %}
 
-And when one switches the OS layout to [QWERTZ](https://en.wikipedia.org/wiki/QWERTZ), as shown in the following GIF, the scan code of that column on the keyboard is unchanged, but the output character of the `1D` scancode becomes `y` instead of `z`, due to the change of OS layout.
+And when one switches the OS layout to [QWERTZ](https://en.wikipedia.org/wiki/QWERTZ), as shown in the following GIF, the scancodes of that column on the keyboard are unchanged, but the output character of the `1D` scancode becomes `y` instead of `z`, due to the change of OS layout.
 
 {% collapsecard "Click to show the GIF" %}  ![螢幕錄影 2024-10-01 08.47.58](https://hackmd.io/_uploads/SkAwv6OA0.gif)
 {% endcollapsecard %}
