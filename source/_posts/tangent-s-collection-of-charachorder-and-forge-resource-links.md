@@ -1,7 +1,7 @@
 ---
 title: Tangent's Collection of CharaChorder and Forge Resource Links
 date: 2023-03-29 21:16:09
-updated: 2025-05-28 19:36:39
+updated: 2025-08-03 10:24:59
 categories: [Note,Resource]
 ---
 {% blockquote %}
@@ -10,6 +10,19 @@ categories: [Note,Resource]
 
 ### Official Resources
 
+#### Platform
+
+##### [CCIO](https://adventure.charachorder.io)
+
+{% collapsecard "Show Detail" %}CCIO is a revolutionary typing game and integrated platform designed for CharaChorder devices. It's a hybrid of an educational tool, MMO, and social network, and also includes the functionalities of the device management tool. Check [the video about the 1st Look at CCIO](https://youtu.be/ONBJlWfzzaQ?feature=shared) for more details.
+{% endcollapsecard %}
+
+#### Home Page
+
+##### [CharaChorder - Type at the speed of thought®](https://www.charachorder.com/)
+
+##### [Forge Keyboard](https://forgekeyboard.com/)
+
 #### Device Manager / Configuration Tool
 
 ##### [charachorder.io](https://charachorder.io/)
@@ -17,12 +30,6 @@ categories: [Note,Resource]
 ##### ==(Outdated)== [CharaChorder Device Manager](https://manager.charachorder.com/)
 
 ##### ==(Outdated)== [CharaChorder Launchpad - Chord Manager](https://launchpad.charachorder.com/#/manager) (Note: This website only supports pre-CCOS devices.)
-
-#### Home Page
-
-##### [CharaChorder - Type at the speed of thought®](https://www.charachorder.com/)
-
-##### [Forge Keyboard](https://forgekeyboard.com/)
 
 #### Kickstarter
 
