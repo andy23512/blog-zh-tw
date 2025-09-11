@@ -1,7 +1,7 @@
 ---
 title: Tangent's suggestions for learning English character entry on CharaChorder 3D input devices
 date: 2025-06-30 19:38:13
-updated: 2025-08-09 18:38:25
+updated: 2025-08-09 19:54:17
 categories: [Article,Language]
 ---
 
