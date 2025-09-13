@@ -3,21 +3,21 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Tangent's Blog
-subtitle: CharaChorder and Forge related articles and notes
-description: 'Contact me with Discord (@andy23512) if you have any suggestions for my notes. / My Gear: CharaChorder Two "Formula" 流弦・貳「方程」'
+title: Tangent 的部落格
+subtitle: 有關 CharaChorder 和 Forge 的筆記和文章
+description: '如果對我的筆記有任何建議，可以用 Discord (@andy23512) 聯繫我。我的打字設備：CharaChorder Two "Formula" 流弦・貳「方程」。'
 keywords:
   - CharaChorder
   - Forge
   - Master Forge
 author: Tangent Chang
-language: en
+language: zh-TW
 timezone: Asia/Taipei
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://andy23512.github.io/blog
-root: /blog/
+url: http://andy23512.github.io/blog-zh-tw/
+root: /blog-zh-tw/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

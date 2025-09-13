@@ -29,9 +29,9 @@ function replaceNoteUrl(
   );
   const notes = rawNotes.filter(
     (n) =>
-      n.title.match(/^[\w\-,' ]+$/) &&
-      n.title !== "Tangent's CharaChorder and Forge Notebook" &&
-      n.title !== "Tangent's CharaChorder and Forge Note List"
+      !n.title.match(/^[\w\-,' ]+$/) &&
+      n.title !== "CharaChorder 和 Forge 筆記本" &&
+      n.title !== "Tangent 的 CharaChorder 和 Forge 筆記清單"
   );
   const categoryData: Record<string, string[]> = JSON.parse(
     readFileSync("./res/category-data.json", { encoding: "utf8" })
@@ -57,7 +57,7 @@ ${
 ---
 ${replaceNoteUrl(
   note.content
-    .replace(/\[TOC\]\n/g, "")
+    .replace(/\[TOC\]\s*\n/g, "")
     .replace(/\n##### /g, "\n###### ")
     .replace(/\n#### /g, "\n##### ")
     .replace(/\n### /g, "\n#### ")
@@ -69,7 +69,7 @@ ${replaceNoteUrl(
     )
     .replace(
       /:::spoiler\n([\S\s]*?):::/g,
-      '{% collapsecard "Show Detail" %}$1{% endcollapsecard %}'
+      '{% collapsecard "詳細" %}$1{% endcollapsecard %}'
     )
     .replace(/:::info/g, "{% blockquote %}")
     .replace(/:::warning/g, "{% blockquote %}")

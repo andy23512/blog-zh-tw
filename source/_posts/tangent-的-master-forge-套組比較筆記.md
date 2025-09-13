@@ -1,18 +1,18 @@
 ---
-title: Tangent's Bundle Comparison Note of Master Forge
-date: 2024-10-10 18:59:04
-updated: 2025-05-24 06:52:12
-categories: [Note,Comparison]
+title: Tangent 的 Master Forge 套組比較筆記
+date: 2024-10-27 13:57:12
+updated: 2025-05-24 06:52:41
+categories: [筆記,比較]
 ---
-## Comparison Table
+## 比較表
 
-Notice:
+註：
 
-1. This comparison table is mainly based on the items listed on the official documentation, the product page or Kickstarter (KS) reward page.
-2. The <div class="check"></div> means that the item is included in that bundle for sure.
-3. You could further confirm the contents of any bundle on the Official CharaChorder Discord server if you have any question.
+1. 這個比較表主要是依據官方文件、產品頁面或 Kickstarter 回報頁面的資訊。
+2. <div class="check"></div> 表示該項目確定會在該套組中。
+3. 如果你有任何疑問，你可以在 CharaChorder Discord 伺服器上進一步確認套組內容。
 
-|Item|Pre-KS Preorder|[KS - Basic](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards#reward-UmV3YXJkLVVtVjNZWEprTFRFd01URXlNRFV5)|[KS - Premium](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards#reward-UmV3YXJkLVVtVjNZWEprTFRFd01ETTVNelEx)|[Post-KS Preorder](https://forgekeyboard.com/products/master-forge)|[Post-KS Preorder - Premium](https://forgekeyboard.com/collections/loadouts/products/master-forge-premium)|
+|項目|KS 前預訂|[KS - Basic](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards#reward-UmV3YXJkLVVtVjNZWEprTFRFd01URXlNRFV5)|[KS - Premium](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards#reward-UmV3YXJkLVVtVjNZWEprTFRFd01ETTVNelEx)|[KS 後預訂](https://forgekeyboard.com/products/master-forge)|[KS 後預訂 - Premium](https://forgekeyboard.com/collections/loadouts/products/master-forge-premium)|
 |-|-|-|-|-|-|
 |Left Digitizer|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |Right Digtitizer|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
@@ -31,18 +31,18 @@ Notice:
 |Unlimited Forge CAD Access|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |VIP Membership (2 Years)|<div class="check"></div>||<div class="check"></div>||
 
-* Additional Things for Super Backer
+* Super Backer 有的額外項目
   * Lifetime VIP Membership
   * GTM Immortalization
   * Digitizer Exoskeleton signed by Riley Keen, Founder and CEO of CharaChorder
 
 ### References
 
-- [Screenshot of Master Forge product page (Pre-KS Preorder)](https://discord.com/channels/861730583092658206/1176366370678653010/1278000103965200384)
-- Screenshot of Master Forge product page at 2024/10/10 (Post-KS Preorder)
+- [Master Forge 產品頁面截圖 (KS 前預訂)](https://discord.com/channels/861730583092658206/1176366370678653010/1278000103965200384)
+- 2024 年 10 月 10 日的 Master Forge 產品頁面截圖 (KS 後預訂)
 ![image](https://hackmd.io/_uploads/r1gfT9Vry1l.png)
-- Screenshot of Master Forge Premium product page at 2024/10/23 (Post-KS Preorder)
+- 2024 年 10 月 23 日的 Master Forge Premium 產品頁面截圖 (KS 後預訂)
 ![image](https://hackmd.io/_uploads/B103PELe1x.png)
-- [Master Forge Kickstarter reward page](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards)
-- [Discord message](https://discord.com/channels/861730583092658206/1282698538144497755/1282699704416735272)
-- [Master Forge Official Documentation](https://docs.charachorder.com/Master%20Forge.html#master-forge-configurations)
+- [Master Forge Kickstarter 回報頁面](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards)
+- [Discord 訊息](https://discord.com/channels/861730583092658206/1282698538144497755/1282699704416735272)
+- [Master Forge 官方文件](https://docs.charachorder.com/Master%20Forge.html#master-forge-configurations)

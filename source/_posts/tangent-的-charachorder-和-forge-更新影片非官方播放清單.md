@@ -1,54 +1,54 @@
 ---
-title: Tangent's UNOFFICIAL Playlist of CharaChorder and Forge Update Videos
-date: 2024-07-30 15:30:32
-updated: 2025-08-02 08:23:35
-categories: [Note,Resource]
+title: Tangent 的 CharaChorder 和 Forge 更新影片非官方播放清單
+date: 2024-10-27 00:14:07
+updated: 2025-08-02 08:24:36
+categories: [筆記,資源]
 ---
-## YouTube Playlists
+## YouTube 播放清單
 
-- My UNOFFICIAL playlist: [CharaChorder / Forge Update (UNOFFICIAL Playlist)](https://youtube.com/playlist?list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn&feature=shared)
-- CharaChorder's official paylist: [FORGE Development](https://youtube.com/playlist?list=PL5UG1PKtBJF6qldRdf6y9rBcPByl_0HS1&feature=shared)
+- 我的非官方播放清單: [CharaChorder / Forge Update (UNOFFICIAL Playlist)](https://youtube.com/playlist?list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn&feature=shared)
+- CharaChorder 的官方播放清單: [FORGE Development](https://youtube.com/playlist?list=PL5UG1PKtBJF6qldRdf6y9rBcPByl_0HS1&feature=shared)
 
-### Notes
+### 說明
 
-- I regard the video [ChorderCon 2023](https://youtu.be/fux9gU3M25E?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn) as #0 update since it's the debut of Forge Keyboard.
-- No video on Day 81, 82 and Week 41. (or I can't find them.)
-- Videos on Day 18, 76, 78, 84 and 85 don't exist on YouTube, but you can still watch them at these links ==outside YouTube==.
-  - Day 18: Day #18 - Raw angel pitch, as promised 🪽
+- 我將 [ChorderCon 2023](https://youtu.be/fux9gU3M25E?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn) 定為第 0 號更新影片。因為它是 Forge 鍵盤的初次亮相。
+- 在第 81、82 日和第 41 週沒有影片。（或是我找不到。）
+- 第 18、76、78、84 和 85 日的影片不在 YouTube 上，但你可以在這些==YouTube 以外的連結==看到它們。
+  - 第 18 日: Day #18 - Raw angel pitch, as promised 🪽
     - [Facebook](https://www.facebook.com/watch/?v=1824975161249318)
     - [Instagram](https://www.instagram.com/p/C2glhm7M2Ty/)
-    - [LinkedIn](https://www.linkedin.com/posts/rileykeen_day-18-raw-angel-pitch-as-promised-activity-7156133695844708352-ASq5/?utm_source=share&utm_medium=member_desktop) 
-  - Day 76: Day #76 - 776 Fellowship Application
+    - [LinkedIn](https://www.linkedin.com/posts/rileykeen_day-18-raw-angel-pitch-as-promised-activity-7156133695844708352-ASq5/?utm_source=share&utm_medium=member_desktop)
+  - 第 76 日: Day #76 - 776 Fellowship Application
     - [LinkedIn](https://www.linkedin.com/posts/rileykeen_day-76-776-fellowship-application-alexis-activity-7186151052801388544-mr4e)
-  - Day 78: Day 78 - Live stream reaction to customer testimonies for Kickstarter!
+  - 第 78 日: Day 78 - Live stream reaction to customer testimonies for Kickstarter!
     - [LinkedIn](https://www.linkedin.com/posts/rileykeen_day-78-live-reactions-to-customer-reviews-activity-7186674959656595456-CiAr?utm_source=share&utm_medium=member_desktop) 
     - [TikTok](https://www.tiktok.com/@rileyfordkeen/video/7359139999436131630)
-  - Day 84: Day 84 - Sneak peak of some test renderings of the M4G PCB by the amazing
+  - 第 84 日: Day 84 - Sneak peak of some test renderings of the M4G PCB by the amazing
     - [Instagram](https://www.instagram.com/p/C6Nu0XyuO24/)
-  - Day 85: Day 85 - 3 Questions to tell if CharaChorder is for you
+  - 第 85 日: Day 85 - 3 Questions to tell if CharaChorder is for you
     - [Instagram](https://www.instagram.com/p/C6ORqCILO68/)
-- Though anything like "This is week xx of CharaChorder / Forge update ..." is not mentioned in the following official launch videos, it seems to me that they are important updates about Master Forge and CharaChorder Two. So I include them in the playlist.
+- 雖然在底下這些產品發布影片中沒有提到這是第幾日或第幾週的 CharaChorder 或 Forge 的更新影片，我覺得它們是 Master Forge 和 CharaChorder Two 的重要更新。所以我把它們也加進播放清單中。
   - [Master Forge: Official Launch Trailer](https://youtu.be/iYjy6l6cdCw?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)
   - [The Master Forge: Official Kickstarter Video](https://youtu.be/nW7FGEtWnqE?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)
   - [CharaChorder Two - Official Launch Video](https://youtu.be/tYLHPH9uBXU?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)
 
-### Sources
+### 來源
 
-- [CharaChorder's YouTube channel](https://www.youtube.com/@CharaChorder)
-- [CharaChorder CEO's YouTube channel](https://www.youtube.com/@crash_often)
-- [CharaChorder's FaceBook](https://www.facebook.com/CharaChorder)
-- [CharaChorder's Instagram](https://www.instagram.com/charachorder/)
-- [CharaChorder CEO's LinkedIn](https://www.linkedin.com/in/rileykeen/)
-- [CharaChorder CEO's TikTok](https://www.tiktok.com/@rileyfordkeen)
-- [CharaChorder's X](https://x.com/CharaChorder/) 
+- [CharaChorder 的 YouTube 頻道](https://www.youtube.com/@CharaChorder)
+- [CharaChorder 執行長的 YouTube 頻道](https://www.youtube.com/@crash_often)
+- [CharaChorder 的 FaceBook](https://www.facebook.com/CharaChorder)
+- [CharaChorder 的 Instagram](https://www.instagram.com/charachorder/)
+- [CharaChorder 執行長的 LinkedIn](https://www.linkedin.com/in/rileykeen/)
+- [CharaChorder 執行長的 TikTok](https://www.tiktok.com/@rileyfordkeen)
+- [CharaChorder 的 X](https://x.com/CharaChorder/) 
 
-### Disclaimer
+### 免責聲明
 
-All videos are collected from the sources listed above. NONE of my accounts, my channel, my playlist is affiliated, associated, authorized, endorsed by, or in any way officially connected with CharaChorder. The official CharaChorder and Forge Keyboard website can be found at https://www.charachorder.com/ and https://forgekeyboard.com/.
+所有影片都搜集自上面列的來源。我的這些帳號、頻道、播放清單與 CharaChorder 公司沒有隸屬、關聯、授權、認可，或任何正式關聯的關係。官方 CharaChorder 和 Forge 鍵盤的網站可以在 https://www.charachorder.com/ 和 https://forgekeyboard.com/ 看到。
 
-### Video List
+### 影片清單
 
-|#[^serial]|YouTube Video|Upload Time[^timezone]|Backup[^backup]|
+|編號[^serial]|YouTube 影片|上傳時間[^timezone]|備份[^backup]|
 |-|-|-|-|
 |0*|[ChorderCon 2023](https://youtu.be/fux9gU3M25E?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2023-11-20 21:33:56||
 |D1|[Forge Development Update #1](https://youtu.be/VNFurkFCjjU?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2024-01-01 17:47:45|[FB](https://www.facebook.com/watch/?v=1395982537688394) / [IG](https://www.instagram.com/p/C1k4yxRLv7k/) / [LI](https://www.linkedin.com/posts/rileykeen_forge-keyboard-update-1-charachorder-activity-7147733628318326784-u_ru?utm_source=share&utm_medium=member_desktop) / [TT](https://www.tiktok.com/@rileyfordkeen/video/7319278199207234847) / [X](https://x.com/CharaChorder/status/1741970753929548232) |
@@ -180,11 +180,11 @@ All videos are collected from the sources listed above. NONE of my accounts, my 
 |W67*|[Factory Tour!](https://youtu.be.com/yxbYuho1LZA?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-04-16 15:15:56||
 |W70*|[It's Time to Destroy 3D Printing Stigma](https://youtu.be/IDX6LEFO8jc?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)| 2025-05-04 15:00:06|[YT](https://youtu.be/2MYp9hrVVGM?feature=shared)|
 |W71*|[Hello! Welcome to our channel 🤠](https://youtu.be/muHCeh7lzyI?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-05-14 12:56:21|[LI](https://www.linkedin.com/posts/rileykeen_hello-taking-a-moment-to-re-introduce-myself-activity-7328529694918660096-Wzrs)|
-|W71*|[Our Elevator Pitch!](https://youtu.be/_hlrekNWBR0?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-05-17 15:38:26||
+|W71*|[Our Elevator Pitch!](https://youtu.be/_hlrekNWBR0?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)| 2025-05-17 15:38:26||
 |W73*|[CCIO Teaser](https://youtu.be/JTaL_3QoEGc?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-05-30 12:00:06||
 |W74*|[The Game Where You Level Up IRL --- CCIO 1st Look!](https://youtu.be/ONBJlWfzzaQ?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-06-07 19:15:41||
 |W77*|[Type 1 Word = Donate 1 Day of Clean Water](https://youtu.be/PvhKvJeRadA?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-08-01 16:39:57||
 
-[^serial]: If "Day XX" or "Week XX" is mentioned in the title or the content of the video, that serial number would be used. Otherwise, it would be decided from the uploaded time and the serial number of adjacent video, and it would be postfixed with a `*`. `D` means day and `W` means week.
-[^timezone]: North American Central Time Zone (CST/CDT) is used.
-[^backup]: Same videos from other websites for backup. `YT` means YouTube, `FB` means Facebook, `IG` means Instagram, `LI` means LinkedIn and `TT` means TikTok.
+[^serial]: 如果影片的標題或內容有提到這是第幾日或第幾週的話，就會使用那個作為編號。否則它會由上傳時間和相鄰影片的編號來決定，其後面會帶有 `*` 號。`D` 開頭為第幾日而 `W` 開頭為第幾週。
+[^timezone]: 使用美國中部時區。
+[^backup]: 來自其他網站的相同影片。`YT` 代表 YouTube、`FB` 代表 Facebook、`IG` 代表 Instagram、`LI` 代表 LinkedIn、`TT` 代表 TikTok。
