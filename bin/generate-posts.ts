@@ -30,7 +30,7 @@ function replaceNoteUrl(
   const notes = rawNotes.filter(
     (n) =>
       !n.title.match(/^[\w\-,' ]+$/) &&
-      n.title !== "CharaChorder 和 Forge 筆記本" &&
+      n.title !== "Tangent 的 CharaChorder 和 Forge 筆記本" &&
       n.title !== "Tangent 的 CharaChorder 和 Forge 筆記清單"
   );
   const categoryData: Record<string, string[]> = JSON.parse(
