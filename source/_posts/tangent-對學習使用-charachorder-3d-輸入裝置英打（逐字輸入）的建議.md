@@ -1,7 +1,7 @@
 ---
 title: Tangent 對學習使用 CharaChorder 3D 輸入裝置英打（逐字輸入）的建議
 date: 2025-07-12 09:16:38
-updated: 2025-08-09 18:39:03
+updated: 2025-09-27 07:42:55
 categories: [文章,語言]
 ---
 # 練習按鍵佈局
@@ -19,6 +19,8 @@ categories: [文章,語言]
 {% collapsecard "解釋" %}CharaChorder 3D 輸入裝置，包含 CharaChorder One、CharaChorder Two 和 Master Forge，不像一般鍵盤有按鍵文字標示，因此學會盲打你將能更好的使用它們。所以首先我們要先熟悉各個按鍵的位置。
 
 官方提供的練習工具，[dot i/o](https://www.iq-eq.io/#/) 和 [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/)，上面有對應的級別可供練習。你可以跟著上面的圖像指引練習所有的英文字母。
+
+Dot i/o 和 CharaChorder LaunchPad 上並不會顯示 M4G 的預設按鍵佈局。但它們支援的按鍵，在 CC1/2 和 M4G 的預設佈局上，大多都在相同位置。因此你還是可以使用它們來練習 M4G。
 
 除此之外，[Alnitak](https://andy23512.github.io/alnitak/) 是一個特別為了練習 CharaChorder 3D 輸入裝置的按鍵佈局所設計的工具。字元鍵，包含數字、字母和符號，被分成數個小課程，使使用者可以一次只專注練習一小部分的按鍵。此外，在使用者達成 20 連擊後，圖像指引會消失，之後打錯字時又會再次顯示。這可以幫助使用者真的記憶按鍵位置，而不是只單純照著圖像指引輸入。
 {% endcollapsecard %}
