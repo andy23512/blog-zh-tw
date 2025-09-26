@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 Master Forge 套組比較筆記
 date: 2024-10-27 13:57:12
-updated: 2025-09-26 12:24:52
+updated: 2025-09-26 12:36:31
 categories: [筆記,比較]
 ---
 ## 比較表
@@ -47,4 +47,4 @@ categories: [筆記,比較]
 - [Discord 訊息](https://discord.com/channels/861730583092658206/1282698538144497755/1282699704416735272)
 - [Master Forge 官方文件](https://docs.charachorder.com/Master%20Forge.html#master-forge-configurations)
 
-[^cable]: 根據 ["How It's Made: The Master Forge" 影片](https://youtu.be/7wb-JlZ2qP0?feature=shared&t=1988)，傳輸線的部分略有調整。現在會使用成本較高且品質較好的絕緣傳輸線，而不是使用編織或盤繞傳輸線。
+[^cable]: 根據 ["How It's Made: The Master Forge" 影片](https://youtu.be/7wb-JlZ2qP0?feature=shared&t=1988)，傳輸線的部分略有調整。現在會使用成本較高且品質較好的絕緣傳輸線，而不是使用編織或彈簧線。
