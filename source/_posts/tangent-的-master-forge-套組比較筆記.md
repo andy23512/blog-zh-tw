@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 Master Forge 套組比較筆記
 date: 2024-10-27 13:57:12
-updated: 2025-09-26 12:36:31
+updated: 2025-09-26 22:15:57
 categories: [筆記,比較]
 ---
 ## 比較表
@@ -21,7 +21,7 @@ categories: [筆記,比較]
 |USB-A to USB-C Power Cable[^cable]|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |USB-C to USB-C Cable[^cable]|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
 |[Ergo Bolt-On](https://forgekeyboard.com/collections/bolt-ons%E2%84%A2/products/ergo-bolt-on%E2%84%A2) (4)|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
-|Forge Trackball Bolt-On|<div class="check"></div> (2)||<div class="check"></div> (1)||<div class="check"></div>(1)|
+|Forge Trackball Bolt-On[^trackball]|<div class="check"></div> (2)||<div class="check"></div> (1)||<div class="check"></div>(1)|
 |Tactical Carrying Case|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |[Forge Cleat](https://forgekeyboard.com/collections/add-ons/products/forge-cleat)|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
 |M3 Allen Wrench|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
@@ -48,3 +48,4 @@ categories: [筆記,比較]
 - [Master Forge 官方文件](https://docs.charachorder.com/Master%20Forge.html#master-forge-configurations)
 
 [^cable]: 根據 ["How It's Made: The Master Forge" 影片](https://youtu.be/7wb-JlZ2qP0?feature=shared&t=1988)，傳輸線的部分略有調整。現在會使用成本較高且品質較好的絕緣傳輸線，而不是使用編織或彈簧線。
+[^trackball]: 根據[官方文件](https://docs.charachorder.com/Master%20Forge.html#forge-website-pre-orders)，截至 2025 年 3 月，Forge 的軌跡球組件的開發還未完成。因此，一些預訂和 Kickstarter 支援者可能暫不會收到軌跡球組件。軌跡球組件將會在之後再另外寄送。
