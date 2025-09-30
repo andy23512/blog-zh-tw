@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 CharaChorder 和 Forge 資源連結收集
 date: 2024-10-27 08:45:43
-updated: 2025-08-03 10:31:24
+updated: 2025-09-30 09:23:16
 categories: [筆記,資源]
 ---
 {% blockquote %}
@@ -22,11 +22,6 @@ categories: [筆記,資源]
 
 ##### [CharaChorder - Type at the speed of thought®](https://www.charachorder.com/)
 
-- [ChorderClub Essentials (播放清單)](https://youtube.com/playlist?list=PL5UG1PKtBJF7JQxwee2AwmUA2137eMHXL&feature=shared)
-
-{% collapsecard "詳細" %}CharaChorder Essentials 是 are in-depth tutorial videos that CharaChorder has created to help you unlock the full potential of your CharaChorder device.
-{% endcollapsecard %}
-
 ##### [Forge Keyboard](https://forgekeyboard.com/)
 
 #### 裝置管理 / 設定工具
@@ -38,6 +33,8 @@ categories: [筆記,資源]
 ##### ==(已過時)== [CharaChorder Launchpad - Chord Manager](https://launchpad.charachorder.com/#/manager) (註：這個網站只支援 CCOS 以前的裝置。)
 
 #### Kickstarter
+
+##### [CharaChorder X - Type at the Speed of Thought.® by CharaChorder — Kickstarter](https://www.kickstarter.com/projects/charachorder/charachorder-x-type-at-the-speed-of-thought)
 
 ##### [The Master Forge: A Keyboard Built for You by CharaChorder — Kickstarter](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards#reward-UmV3YXJkLVVtVjNZWEprTFRFd01ETTVNell3)
 
@@ -53,6 +50,15 @@ categories: [筆記,資源]
 #### 影片
 
 ##### [CharaChorder 的 YouTube 頻道](https://www.youtube.com/@CharaChorder)
+
+- [ChorderClub Essentials (Playlist)](https://youtube.com/playlist?list=PL5UG1PKtBJF7JQxwee2AwmUA2137eMHXL&feature=shared)
+
+{% collapsecard "詳細" %}CharaChorder Essentials 中，包含 CharaChorder 提供的深入教學影片。這些影片可以幫你充分發揮 CharaChorder 輸入裝置的潛力。
+{% endcollapsecard %}
+
+- ChorderCon
+  - [2023](https://youtu.be/fux9gU3M25E?feature=shared)
+  - [ 2024](https://youtu.be/yh5c10bW7z0?feature=shared)
 
 #### 其他
 
