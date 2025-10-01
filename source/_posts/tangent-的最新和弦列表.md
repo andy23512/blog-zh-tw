@@ -1,7 +1,7 @@
 ---
 title: Tangent 的最新和弦列表
 date: 2024-03-27 20:49:00
-updated: 2025-09-25 11:36:30
+updated: 2025-10-01 12:20:21
 categories: [文章,和弦]
 ---
 {% blockquote %}
@@ -40,6 +40,7 @@ categories: [文章,和弦]
 |s+t|string|[`string`](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#the-primitives-string-number-and-boolean) 是在 TypeScript 中常用的型別。|
 |s+u+b|subscribe|[subscribe](https://rxjs.dev/api/index/class/Observable#subscribe) 是在 RxJS 的 Observable 下的常用的一個方法。|
 |u+p|update|"update" 是我寫 git commit 訊息時常用到的字。|
+|v+i|viewer|"viewer" 是我工作上常用到的字。|
 
 ### 日文和弦
 
