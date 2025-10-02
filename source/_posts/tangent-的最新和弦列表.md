@@ -1,7 +1,7 @@
 ---
 title: Tangent 的最新和弦列表
 date: 2024-03-27 20:49:00
-updated: 2025-10-01 12:20:21
+updated: 2025-10-02 18:07:57
 categories: [文章,和弦]
 ---
 {% blockquote %}
@@ -33,6 +33,7 @@ categories: [文章,和弦]
 |i+m|import|`import` 是一個在 [JavaScript/TypeScript](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Statements/import) 和 [Python](https://docs.python.org/zh-tw/3/tutorial/modules.html) 中常用的引入其他模組的宣告。|
 |i+n|interface|[`interface`](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#interfaces) 是一個在 TypeScript 中常用的宣告。|
 |o+b+s|Observable|[`Observable`](https://rxjs.dev/api/index/class/Observable) 是一個在 Angular 中常用的類別或型別。|
+|p+n|preference|"preference" 是我工作上常用的字。|
 |r+m|remove|"remove" 是我寫 git commit 訊息時常用到的字。|
 |r+o|readonly|[`readonly`](https://www.typescriptlang.org/docs/handbook/2/classes.html#readonly) 是一個在 TypeScript 中常用的屬性修飾器。|
 |s+v|service|[Service](https://angular.dev/guide/di/creating-injectable-service) 是在 Angular 中的常用字。|
