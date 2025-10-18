@@ -1,7 +1,7 @@
 ---
 title: Tangent 對學習使用 CharaChorder 3D 輸入裝置英打（逐字輸入）的建議
 date: 2025-07-12 09:16:38
-updated: 2025-09-27 07:42:55
+updated: 2025-10-18 21:04:21
 categories: [文章,語言]
 ---
 # 練習按鍵佈局
@@ -12,9 +12,12 @@ categories: [文章,語言]
   - [dot i/o](https://www.iq-eq.io/#/) 的 Letters 級別
   - [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/) 的 Alphabetic 級別
   - [Alnitak](https://andy23512.github.io/alnitak/) 的 Number, Letter 和 Symbol 課程
+  - [Keybr](https://www.keybr.com/) 的 Guided Lessons（需搭配 [Keybr CC 擴充套件](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) 使用）
+    - 註：建議在這裡將目標速度（Target Speed）設定改為 15。
 - 推薦目標：
   - 在 [dot i/o](https://www.iq-eq.io/#/) 的 Letters 級別或 [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/) 的 Alphabetic 級別達到 13 WPM 速度
   - 在 [Alnitak](https://andy23512.github.io/alnitak/) 的非複習課程中達到 100 連擊和 100 CPM 速度
+  - [Keybr](https://www.keybr.com/) 上所有字母變為綠色
 
 {% collapsecard "解釋" %}CharaChorder 3D 輸入裝置，包含 CharaChorder One、CharaChorder Two 和 Master Forge，不像一般鍵盤有按鍵文字標示，因此學會盲打你將能更好的使用它們。所以首先我們要先熟悉各個按鍵的位置。
 
@@ -23,6 +26,8 @@ categories: [文章,語言]
 Dot i/o 和 CharaChorder LaunchPad 上並不會顯示 M4G 的預設按鍵佈局。但它們支援的按鍵，在 CC1/2 和 M4G 的預設佈局上，大多都在相同位置。因此你還是可以使用它們來練習 M4G。
 
 除此之外，[Alnitak](https://andy23512.github.io/alnitak/) 是一個特別為了練習 CharaChorder 3D 輸入裝置的按鍵佈局所設計的工具。字元鍵，包含數字、字母和符號，被分成數個小課程，使使用者可以一次只專注練習一小部分的按鍵。此外，在使用者達成 20 連擊後，圖像指引會消失，之後打錯字時又會再次顯示。這可以幫助使用者真的記憶按鍵位置，而不是只單純照著圖像指引輸入。
+
+[Keybr](https://www.keybr.com/) 沒有內建 CharaChorder 3D 輸入裝置的圖像指引，但我開發的瀏覽器擴充套件，[Keybr CC Extension](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg)，可以將其加到 Keybr 上。
 {% endcollapsecard %}
 
 ## 深入練習字母
@@ -31,7 +36,7 @@ Dot i/o 和 CharaChorder LaunchPad 上並不會顯示 M4G 的預設按鍵佈局�
 - 推薦英打速度範圍：13～30 WPM
 - 推薦工具：
   - [CCIO](https://adventure.charachorder.io/) 的 Constitution Training/Test 模組
-  - [Keybr](https://www.keybr.com/) 的 Guided Lessons
+  - [Keybr](https://www.keybr.com/) 的 Guided Lessons（在沒有圖像指引下使用）
     - 註：建議將目標速度（Target Speed）設定改為 30。你也可以從更低速度開始，再依照你的學習進度漸漸增加至 30。
 - 推薦目標：
   - 在 [CCIO](https://adventure.charachorder.io/) 的 Constitution Test 模組上的 Novice 級別中取得 S 或 S+ 評分
