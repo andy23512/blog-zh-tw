@@ -1,7 +1,7 @@
 ---
 title: Tangent 對 CharaChorder Two 的評價
 date: 2025-01-03 22:15:24
-updated: 2025-01-04 00:11:00
+updated: 2025-10-19 17:47:40
 categories: [文章,經驗]
 ---
 ## 前言
@@ -19,6 +19,10 @@ categories: [文章,經驗]
 我發現 CC1 的金屬鍵帽，特別是灰色的鍵帽，在天氣較冷時會有點冰。雖然用一陣子就會變暖了。而在 CC2 上就沒有這個問題。這個我覺得很讚，因為在冬天，我的手常常是冰冷的。
 
 另外，橡膠環增加了鍵帽和手指之間的摩擦力。它們使鍵帽變得更好操控。
+
+{% blockquote %}
+:information_source: 我有<a href="{% post_path tangent-對-charachorder-one-和-charachorder-two-的鍵帽的評價 %}">另一篇文章說明我對 CC1 和 CC2 的鍵帽的評價</a>。
+{% endblockquote %}
 
 ### 安靜
 
