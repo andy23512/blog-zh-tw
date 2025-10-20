@@ -1,7 +1,7 @@
 ---
 title: Tangent 對學習使用 CharaChorder 3D 輸入裝置英打（逐字輸入）的建議
 date: 2025-07-12 09:16:38
-updated: 2025-10-18 21:04:21
+updated: 2025-10-20 12:40:40
 categories: [文章,語言]
 ---
 # 練習按鍵佈局
@@ -12,7 +12,7 @@ categories: [文章,語言]
   - [dot i/o](https://www.iq-eq.io/#/) 的 Letters 級別
   - [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/) 的 Alphabetic 級別
   - [Alnitak](https://andy23512.github.io/alnitak/) 的 Number, Letter 和 Symbol 課程
-  - [Keybr](https://www.keybr.com/) 的 Guided Lessons（需搭配 [Keybr CC 擴充套件](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) 使用）
+  - [Keybr](https://www.keybr.com/) 的引導、原始碼和數字課程（需搭配 [Keybr CC 擴充套件](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) 使用）
     - 註：建議在這裡將目標速度（Target Speed）設定改為 15。
 - 推薦目標：
   - 在 [dot i/o](https://www.iq-eq.io/#/) 的 Letters 級別或 [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/) 的 Alphabetic 級別達到 13 WPM 速度
@@ -36,7 +36,7 @@ Dot i/o 和 CharaChorder LaunchPad 上並不會顯示 M4G 的預設按鍵佈局�
 - 推薦英打速度範圍：13～30 WPM
 - 推薦工具：
   - [CCIO](https://adventure.charachorder.io/) 的 Constitution Training/Test 模組
-  - [Keybr](https://www.keybr.com/) 的 Guided Lessons（在沒有圖像指引下使用）
+  - [Keybr](https://www.keybr.com/) 的引導課程（在沒有圖像指引下使用）
     - 註：建議將目標速度（Target Speed）設定改為 30。你也可以從更低速度開始，再依照你的學習進度漸漸增加至 30。
 - 推薦目標：
   - 在 [CCIO](https://adventure.charachorder.io/) 的 Constitution Test 模組上的 Novice 級別中取得 S 或 S+ 評分
