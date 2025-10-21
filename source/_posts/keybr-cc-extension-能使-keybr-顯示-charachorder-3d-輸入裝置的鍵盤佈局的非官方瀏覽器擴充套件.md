@@ -1,7 +1,7 @@
 ---
 title: Keybr CC Extension - 能使 Keybr 顯示 CharaChorder 3D 輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件
 date: 2025-10-19 20:54:51
-updated: 2025-10-19 22:01:31
+updated: 2025-10-21 19:29:31
 
 ---
 {% blockquote %}
@@ -13,6 +13,7 @@ updated: 2025-10-19 22:01:31
 ## 連結
 
 - [Chrome 應用程式商店](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg)
+- [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)
 - [GitHub](https://github.com/andy23512/keybr-cc-extension)
 - [展示影片](https://youtu.be/IQWf4IuekFQ?si=q_DkxyKOvMsdcqV3)
 

@@ -1,7 +1,7 @@
 ---
 title: Tangent 對學習使用 CharaChorder 3D 輸入裝置英打（逐字輸入）的建議
 date: 2025-07-12 09:16:38
-updated: 2025-10-20 12:40:40
+updated: 2025-10-21 19:37:24
 categories: [文章,語言]
 ---
 # 練習按鍵佈局
@@ -12,7 +12,7 @@ categories: [文章,語言]
   - [dot i/o](https://www.iq-eq.io/#/) 的 Letters 級別
   - [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/) 的 Alphabetic 級別
   - [Alnitak](https://andy23512.github.io/alnitak/) 的 Number, Letter 和 Symbol 課程
-  - [Keybr](https://www.keybr.com/) 的引導、原始碼和數字課程（需搭配 [Keybr CC 擴充套件](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) 使用）
+  - [Keybr](https://www.keybr.com/) 的引導、原始碼和數字課程，需搭配 Keybr CC 擴充套件（[Chrome 應用程式商店](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) / [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)）
     - 註：建議在這裡將目標速度（Target Speed）設定改為 15。
 - 推薦目標：
   - 在 [dot i/o](https://www.iq-eq.io/#/) 的 Letters 級別或 [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/) 的 Alphabetic 級別達到 13 WPM 速度
@@ -27,7 +27,7 @@ Dot i/o 和 CharaChorder LaunchPad 上並不會顯示 M4G 的預設按鍵佈局�
 
 除此之外，[Alnitak](https://andy23512.github.io/alnitak/) 是一個特別為了練習 CharaChorder 3D 輸入裝置的按鍵佈局所設計的工具。字元鍵，包含數字、字母和符號，被分成數個小課程，使使用者可以一次只專注練習一小部分的按鍵。此外，在使用者達成 20 連擊後，圖像指引會消失，之後打錯字時又會再次顯示。這可以幫助使用者真的記憶按鍵位置，而不是只單純照著圖像指引輸入。
 
-[Keybr](https://www.keybr.com/) 沒有內建 CharaChorder 3D 輸入裝置的圖像指引，但我開發的瀏覽器擴充套件，[Keybr CC Extension](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg)，可以將其加到 Keybr 上。
+[Keybr](https://www.keybr.com/) 沒有內建 CharaChorder 3D 輸入裝置的圖像指引，但我開發的瀏覽器擴充套件，Keybr CC Extension（[Chrome 應用程式商店](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) / [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)），可以將其加到 Keybr 上。
 {% endcollapsecard %}
 
 ## 深入練習字母
