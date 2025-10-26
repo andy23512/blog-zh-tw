@@ -1,7 +1,7 @@
 ---
 title: Tangent 的最新和弦列表
 date: 2024-03-27 20:49:00
-updated: 2025-10-02 18:07:57
+updated: 2025-10-26 11:48:50
 categories: [文章,和弦]
 ---
 {% blockquote %}
@@ -11,7 +11,7 @@ categories: [文章,和弦]
 註 1：和弦的輸出中的 :no_entry_sign: 為 [KSC_00] 鍵。這個是用來是用來取消和弦的自動字尾加空白的功能。 
 註 3：我最新的和弦備份檔案在[這裡](https://raw.githubusercontent.com/andy23512/setting-files/master/CharaChorder/chords.json)。
 
-## 英文（程式用）和弦
+## 目前的和弦
 
 |輸入|輸出|描述|
 |-|-|-|
@@ -43,15 +43,7 @@ categories: [文章,和弦]
 |u+p|update|"update" 是我寫 git commit 訊息時常用到的字。|
 |v+i|viewer|"viewer" 是我工作上常用到的字。|
 
-### 日文和弦
-
-|輸入|輸出|描述|
-|-|-|-|
-|s+h|寿司:no_entry_sign:|我創造的第一個日文和弦。|
-
 ### 棄用的和弦
-
-（它們因為與我最新的注音佈局上的注音和弦衝突，所以被棄用。）
 
 |輸入|輸出|描述|
 |-|-|-|
@@ -62,4 +54,5 @@ categories: [文章,和弦]
 |a+n|angular|[`Angular`](https://angular.tw/) 是我在全端工程師的工作上所用的前端框架。|
 |ㄎ+ㄧ|可以:no_entry_sign:|一個中文常用詞。|
 |ㄑ+ㄜ|企鵝:no_entry_sign:|我創造的第一個中文和弦。|
+|s+h|寿司:no_entry_sign:|我創造的第一個日文和弦。|
 
