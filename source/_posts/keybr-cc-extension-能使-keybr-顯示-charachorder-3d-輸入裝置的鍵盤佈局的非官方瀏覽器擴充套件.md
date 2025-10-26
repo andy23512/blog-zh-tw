@@ -1,7 +1,7 @@
 ---
 title: Keybr CC Extension - 能使 Keybr 顯示 CharaChorder 3D 輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件
 date: 2025-10-19 20:54:51
-updated: 2025-10-21 19:29:31
+updated: 2025-10-26 09:29:13
 categories: [文章,作品]
 ---
 {% blockquote %}
@@ -17,7 +17,7 @@ categories: [文章,作品]
 - [GitHub](https://github.com/andy23512/keybr-cc-extension)
 - [展示影片](https://youtu.be/IQWf4IuekFQ?si=q_DkxyKOvMsdcqV3)
 
-## （在最新的開發版本的）功能
+## 功能
 
 - 在 [Keybr](https://www.keybr.com/) 上顯示 CharaChorder 3D 輸入裝置的鍵盤佈局
 - 支援上傳使用者自定義的裝置佈局
@@ -25,7 +25,13 @@ categories: [文章,作品]
 
 ## 其他相關主題
 
-### 選擇開發瀏覽器擴充套件的理由
+### 開發這個擴充套件的原因
+
+目前已經有一些可以顯示 CharaChorder 3D 輸入裝置的練習工具，例如 [dot i/o](https://www.iq-eq.io/#/) 和 [Alnitak](https://andy23512.github.io/alnitak/)。它們有不同的佈局學習策略。然而，Keybr 有著傑出且獨特的學習策略，使得很多 CharaChorder 使用者偏好使用它來練習。
+
+因此，為了讓 Keybr 更符合 CharaChorder 使用者的需要，我決定使 Keybr 支援顯示 CharaChorder 3D 輸入裝置的佈局。
+
+### 選擇開發瀏覽器擴充套件的原因
 
 要修改一個如 Keybr 的開源網站有很多方法，包含：
 
