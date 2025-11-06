@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 CharaChorder 和 Forge 資源連結收集
 date: 2024-10-27 08:45:43
-updated: 2025-10-21 19:32:12
+updated: 2025-11-06 08:38:03
 categories: [筆記,資源]
 ---
 {% blockquote %}
@@ -58,7 +58,15 @@ categories: [筆記,資源]
 
 - ChorderCon
   - [2023](https://youtu.be/fux9gU3M25E?feature=shared)
-  - [ 2024](https://youtu.be/yh5c10bW7z0?feature=shared)
+  - [2024](https://youtu.be/yh5c10bW7z0?feature=shared)
+
+#### 開發參考資料
+
+##### [Serial API — CharaChorder Docs v0.1](https://docs.charachorder.com/SerialAPI.html) 
+
+##### [Firmware Meta API](https://github.com/CharaChorder/CCOS-firmware?tab=readme-ov-file#firmware-meta-api)
+
+##### [CCOS Key Remapping Reference Guide - Google 試算表](https://docs.google.com/spreadsheets/d/1--T9bXshCIC-OVly-CY3rK87fgb7AHgJl3IySh7cmHc/edit?gid=0#gid=0)
 
 #### 其他
 

@@ -1,7 +1,7 @@
 ---
 title: Keybr CC Extension - 能使 Keybr 顯示 CharaChorder 3D 輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件
 date: 2025-10-19 20:54:51
-updated: 2025-10-26 09:29:13
+updated: 2025-11-02 20:28:45
 categories: [文章,作品]
 ---
 {% blockquote %}
@@ -55,6 +55,7 @@ categories: [文章,作品]
 - 模組打包器：[webpack](https://webpack.js.org/)
 - 圖標：[Material Icon](https://fonts.google.com/icons)
 - 網頁使用者介面函式庫：[React](https://react.dev/)
+- 元件庫：[MUI](https://mui.com/)
 - CSS 框架：[Tailwind CSS](https://tailwindcss.com/)
 - 瀏覽器 API 填補器：[webextension-polyfill](https://github.com/mozilla/webextension-polyfill)
 - 拖拉移動函式庫：[react-draggable](https://github.com/react-grid-layout/react-draggable)
