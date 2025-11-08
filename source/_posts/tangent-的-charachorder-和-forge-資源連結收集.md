@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 CharaChorder 和 Forge 資源連結收集
 date: 2024-10-27 08:45:43
-updated: 2025-11-08 08:11:52
+updated: 2025-11-08 08:15:10
 categories: [筆記,資源]
 ---
 {% blockquote %}
