@@ -1,7 +1,7 @@
 ---
 title: Keybr CC Extension - 能使 Keybr 顯示 CharaChorder 3D 輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件
 date: 2025-10-19 20:54:51
-updated: 2025-11-08 15:22:56
+updated: 2025-11-08 16:52:46
 categories: [文章,作品]
 ---
 {% blockquote %}
@@ -61,6 +61,18 @@ categories: [文章,作品]
 為了解決這個問題，我設計了第二個，也就是現在使用的標誌。這個新的標誌就只顯示一個搖桿的佈局圖，並點亮它的北、西、南鍵。這樣設計就形成一個 C 形，與 CharaChorder 彼此呼應，在小尺寸時也能夠辨識。
 
 ![icon-128](https://hackmd.io/_uploads/r1QCPP31Zx.png)
+
+### 鍵盤佈局設計
+
+在開發鍵盤佈局元件時，我最初的作法是，把 [Alnitak](https://andy23512.github.io/alnitak/) ——我之前為 CC 3D 輸入裝置開發的練習工具——上的佈局的 SVG 複製過來，做出一個概念驗證版本。下面就是在那個階段時的截圖。在這個版本就已經能偵測 Keybr 上目前的字元並點亮在佈局上的對應按鍵。
+
+![image](https://hackmd.io/_uploads/S11QFOhkZl.png)
+
+由截圖可以發現，鍵盤佈局的樣式與 Keybr 的樣式並不搭。研究過 Keybr 的主題和套用樣式的方式後，我發現它是用 CSS 變數來設定主題顏色和字體的。於是我決定取用這些 CSS 變數並將它們套用到佈局元件上。如此一來就能使佈局元件的樣式能適應不同的 Keybr 主題設定，並使它能夠與 Keybr 上的其他元素搭配。
+
+![screenshot-dark-cc1](https://hackmd.io/_uploads/H1p6TO2yZx.png)
+
+![screenshot-m4g-light](https://hackmd.io/_uploads/Bkj0a_2JZe.png)
 
 ### 技術堆疊
 
