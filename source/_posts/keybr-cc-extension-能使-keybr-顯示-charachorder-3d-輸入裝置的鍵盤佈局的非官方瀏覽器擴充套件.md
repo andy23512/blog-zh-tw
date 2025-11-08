@@ -1,7 +1,7 @@
 ---
 title: Keybr CC Extension - 能使 Keybr 顯示 CharaChorder 3D 輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件
 date: 2025-10-19 20:54:51
-updated: 2025-11-08 16:52:46
+updated: 2025-11-08 21:54:37
 categories: [文章,作品]
 ---
 {% blockquote %}
@@ -73,6 +73,16 @@ categories: [文章,作品]
 ![screenshot-dark-cc1](https://hackmd.io/_uploads/H1p6TO2yZx.png)
 
 ![screenshot-m4g-light](https://hackmd.io/_uploads/Bkj0a_2JZe.png)
+
+### 選擇使用 React 的原因
+
+如果你去觀察我在其他專案使用的技術堆疊，你會發現我主要是用 Angular 這套前端框架。Angular 是我最熟悉的前端框架，我也在我全端工程師的工作中使用它。然而，我還是能夠使用其他選項開發，比如 React 或者 Vue。
+
+在這個擴充套件中，我選擇改用 React，並重寫來自 Alnitak 的鍵盤佈局元件，主要有兩個原因。
+
+第一，Keybr 本身就是用 React 寫的，所以使用一樣的函式庫可以避免使用不同的框架或 UI 函式庫時可能會發生的無法預料的問題。
+
+第二個原因是效能問題。Angular 很適合用在開發如 Alnitak 這種複雜的網頁，但它對於這種只顯示一個鍵盤佈局元件的情況會過於笨重。因此，我偏向在這個擴充套件上使用 React 這種輕量的架構來開發。
 
 ### 技術堆疊
 
