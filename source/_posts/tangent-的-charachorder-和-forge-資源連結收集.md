@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 CharaChorder 和 Forge 資源連結收集
 date: 2024-10-27 08:45:43
-updated: 2025-11-06 08:38:03
+updated: 2025-11-08 08:11:52
 categories: [筆記,資源]
 ---
 {% blockquote %}
@@ -186,9 +186,10 @@ GitHub 代碼庫: https://github.com/typing-tech/monkeytype
 
 ### 我的資源 
 
-#### 筆記
+#### 部落格
 
-- [我的 CharaChorder 和 Forge 筆記清單](https://hackmd.io/@andy23512/ryJT_OfU1e)
+- [我在 HackMD 上的 CharaChorder 和 Forge 筆記清單](https://hackmd.io/@andy23512/ryJT_OfU1e)
+- [我的部落格](https://andy23512.github.io/blog-zh-tw/)（我的 HackMD 筆記的鏡像網站。）
 
 #### 網頁應用和瀏覽器擴充套件
 
@@ -202,3 +203,7 @@ GitHub 代碼庫: https://github.com/typing-tech/monkeytype
 
 - [我的非官方 CC 和 Forge 學習進度統計
  (Google 試算表)](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-GIGZcyrT2rhcVUUot14X00CK7XrqMDSI4gqKdE_8jQtrFqId4hD9-UvE6TS9RZjpaHkmyjfgEBZ6/pubhtml?gid=172953668&single=true)
+ 
+#### 專案追蹤
+
+- [我的 CC 個人專案的 Trello 看板](https://trello.com/b/vU9RCh5P/tangents-board-of-his-charachorder-side-projects)
