@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 CharaChorder 和 Forge 資源連結收集
 date: 2024-10-27 08:45:43
-updated: 2025-11-08 08:15:10
+updated: 2025-11-09 18:26:02
 categories: [筆記,資源]
 ---
 {% blockquote %}
@@ -191,13 +191,18 @@ GitHub 代碼庫: https://github.com/typing-tech/monkeytype
 - [我在 HackMD 上的 CharaChorder 和 Forge 筆記清單](https://hackmd.io/@andy23512/ryJT_OfU1e)
 - [我的部落格](https://andy23512.github.io/blog-zh-tw/)（我的 HackMD 筆記的鏡像網站。）
 
-#### 網頁應用和瀏覽器擴充套件
+#### 網頁應用
 
 - [Alnitak 參宿一：非官方的 CharaChorder 3D 輸入裝置練習工具](https://andy23512.github.io/alnitak/)
 - [Device Comparator：比較 CharaChorder 裝置、Master Forge 和 Svalboard 的規格的非官方網頁。](https://andy23512.github.io/device-comparator/)
+
+#### 瀏覽器擴充套件
+
 - Keybr CC Extension：能使 keybr.com 顯示 CharaChorder 3D 輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件
   - [Chrome 應用程式商店](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg)
   - [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)
+- Monkeytype CC Extension：能使 Monkeytype 顯示 CharaChorder 3D 輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件
+  - [Chrome 應用程式商店](https://chromewebstore.google.com/detail/monkeytype-cc-extension/mhfjhmegecimjbohhdbflkhdfnaadple) 
 
 #### 統計
 
