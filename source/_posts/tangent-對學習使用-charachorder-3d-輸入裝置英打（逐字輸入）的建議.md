@@ -1,14 +1,13 @@
 ---
 title: Tangent 對學習使用 CharaChorder 3D 輸入裝置英打（逐字輸入）的建議
 date: 2025-07-12 09:16:38
-updated: 2025-11-11 06:43:24
-categories: [文章, 語言]
+updated: 2025-11-11 06:48:30
+categories: [文章,語言]
 ---
-
 # 練習按鍵佈局
 
 - 目的：熟悉各個按鍵的位置，直到你不需要圖像輔助你找到你要的按鍵為止。
-- 推薦英打速度範圍：0 ～ 13 WPM
+- 推薦英打速度範圍：0～13 WPM
 - 推薦工具：
   - [dot i/o](https://www.iq-eq.io/#/) 的 Letters 級別
   - [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/) 的 Alphabetic 級別
@@ -38,7 +37,7 @@ Dot i/o 和 CharaChorder LaunchPad 上並不會顯示 M4G 的預設按鍵佈局�
 ## 深入練習字母
 
 - 目的：強化對字母按鍵的肌肉記憶
-- 推薦英打速度範圍：13 ～ 30 WPM
+- 推薦英打速度範圍：13～30 WPM
 - 推薦工具：
   - [CCIO](https://adventure.charachorder.io/) 的 Constitution Training/Test 模組
   - [Keybr](https://www.keybr.com/) 的引導課程（在沒有圖像指引下使用）
@@ -55,7 +54,7 @@ Dot i/o 和 CharaChorder LaunchPad 上並不會顯示 M4G 的預設按鍵佈局�
 ## 練習三元組（Trigram）
 
 - 目的：練習常用的字母組合
-- 推薦英打速度範圍：13 ～ 27 WPM
+- 推薦英打速度範圍：13～27 WPM
 - 推薦工具：
   - [dot i/o](https://www.iq-eq.io/#/) 的 Trigram 級別
   - [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/) 的 Amalgamate 級別
@@ -68,7 +67,7 @@ Dot i/o 和 CharaChorder LaunchPad 上並不會顯示 M4G 的預設按鍵佈局�
 ## 練習單字
 
 - 目的：練習常用單字
-- 推薦英打速度範圍：20 ～ 40 WPM
+- 推薦英打速度範圍：20～40 WPM
 - 推薦工具：
   - [CCIO](https://adventure.charachorder.io/) 的 Dexterity Training/Test 模組
   - [dot i/o](https://www.iq-eq.io/#/) 的 Words 級別

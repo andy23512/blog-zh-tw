@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 CharaChorder 裝置、Master Forge 和 Svalboard 非官方規格比較筆記
 date: 2024-10-27 14:34:17
-updated: 2025-09-11 16:26:50
+updated: 2025-11-12 20:46:25
 categories: [筆記,比較]
 ---
 ## 比較表 
@@ -41,6 +41,7 @@ categories: [筆記,比較]
 |**3D 搖桿數目**|16[^m4g_number_of_3d_switches]|18|18|不適用|不適用|10（按鍵組）|不適用|
 |**每個 3D 搖桿上的按鍵數目**|4[^m4g_keys_per_switch]|5|5|不適用|不適用|5|不適用|
 |**開關元件**|[Omron Electronics D2LS-21(20M)](https://eu.mouser.com/ProductDetail/Omron-Electronics/D2LS-2120M?qs=OcgtsXO%2B3gskSBgTf6V7tw%3D%3D)|[Alps Alpine SKRHADE010](https://tech.alpsalpine.com/e/products/detail/SKRHADE010/)|[Alps Alpine SKRHABE010](https://tech.alpsalpine.com/e/products/detail/SKRHABE010/)|Gateron Clear/White|不適用|???|???|
+|**鍵程 (3D 開關為 四方向 / 下壓)**|0.33 mm（計算值）/ N/A[^m4g_key_travel]|0.73 mm（計算值）/ 0.15 mm[^cc2_key_travel]|0.45 mm（計算值）/ 0.15 mm[^cc1_key_travel]|2 mm actuation, 4 mm total|N/A|2 mm / 1.7 mm|???|
 |==**材料規格**==|==**------M4G------**==|==**------CC2------**==|==**------CC1------**==|==**------CCL------**==|==**------CCX------**==|==**------Sval------**==|==**--------------**==|
 |**外殼**|5052 鋁合金[^m4g_shell_material]|射出成型 ABS 塑膠[^cc2_half_material]|射出成型 ABS 塑膠[^cc1_half_material]|ABS 塑膠[^ccl_shell_material]|射出成型 ABS 塑膠[^ccx_shell_material]|ABS 塑膠|???|
 |**底板**|3D 列印塑膠[^m4g_base_material]|3D 列印塑膠[^cc2_half_material]|射出成型 ABS 塑膠[^cc1_half_material]|ABS 塑膠[^ccl_base_material]|不適用|不適用|???|
@@ -122,3 +123,9 @@ categories: [筆記,比較]
 [^m4g_keys_per_switch]: 不像 CC1 和 CC2，M4G 沒有獨立的 3D 按鍵。當你在 M4G 上將一個搖桿往下壓時，你會觸發那個搖桿上的所有四個鍵。
 
 [^m4g_number_of_3d_switches]: M4G 的拇指搖桿比 CC1 和 CC2 少兩個。在 Forge 產品系中，未來有計畫提供多種滑鼠控制的 Bolt-on 來取代 CC1 和 CC2 上的滑鼠搖桿。在 M4G 上，第三拇指搖桿上的鍵會被移到原本的滑鼠搖桿上。
+
+[^m4g_key_travel]: 四方向的鍵程是用能量守恆的概念求得的。根據規格書，開關元件的峰值力是 61 gf，其行程是 0.3 mm。因此，如果我們在鍵帽上施加量到的峰值力，55 gf，那產生足以啟動開關元件的能量所需的手指移動距離可以計算為 $\frac{61\times0.3}{55}=0.33\ mm$。
+
+[^cc2_key_travel]: 四方向的鍵程是用能量守恆的概念求得的。根據規格書，開關元件的四方向峰值力是 122 gf (1.2 N)，其行程是 0.25 mm。因此，如果我們在鍵帽上施加量到的峰值力，42 gf，那產生足以啟動開關元件的能量所需的手指移動距離可以計算為 $\frac{122\times0.25}{42}=0.73\ mm$。下壓時的鍵程即為在規格書上中央按壓的行程。
+
+[^cc1_key_travel]: 四方向的鍵程是用能量守恆的概念求得的。根據規格書，開關元件的四方向峰值力是 125 gf (1.23 N)，其行程是 0.25 mm。因此，如果我們在鍵帽上施加量到的峰值力，70 gf，那產生足以啟動開關元件的能量所需的手指移動距離可以計算為 $\frac{125\times0.25}{70}=0.45\ mm$。下壓時的鍵程即為在規格書上中央按壓的行程。
