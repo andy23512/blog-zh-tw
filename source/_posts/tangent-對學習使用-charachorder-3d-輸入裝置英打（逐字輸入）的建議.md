@@ -1,7 +1,7 @@
 ---
 title: Tangent 對學習使用 CharaChorder 3D 輸入裝置英打（逐字輸入）的建議
 date: 2025-07-12 09:16:38
-updated: 2025-11-11 06:48:30
+updated: 2025-11-12 21:52:27
 categories: [文章,語言]
 ---
 # 練習按鍵佈局
@@ -14,7 +14,7 @@ categories: [文章,語言]
   - [Alnitak](https://andy23512.github.io/alnitak/) 的 Number, Letter 和 Symbol 課程
   - [Keybr](https://www.keybr.com/) 的引導、原始碼和數字課程，需搭配 Keybr CC 擴充套件（[Chrome 應用程式商店](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) / [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)）
     - 註：建議在這裡將目標速度（Target Speed）設定改為 15。
-  - [Monkeytype](https://monkeytype.com/) 的 English 字集，需搭配 Monkeytype CC 擴充套件（[Chrome 應用程式商店](https://chromewebstore.google.com/detail/mhfjhmegecimjbohhdbflkhdfnaadple)）
+  - [Monkeytype](https://monkeytype.com/) 的 English 字集，需搭配 Monkeytype CC 擴充套件（[Chrome 應用程式商店](https://chromewebstore.google.com/detail/mhfjhmegecimjbohhdbflkhdfnaadple) / [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/monkeytype-cc-extension/)）
 - 推薦目標：
   - 在 [dot i/o](https://www.iq-eq.io/#/) 的 Letters 級別或 [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/) 的 Alphabetic 級別達到 13 WPM 速度
   - 在 [Alnitak](https://andy23512.github.io/alnitak/) 的非複習課程中達到 100 連擊和 100 CPM 速度
@@ -31,7 +31,7 @@ Dot i/o 和 CharaChorder LaunchPad 上並不會顯示 M4G 的預設按鍵佈局�
 
 [Keybr](https://www.keybr.com/) 沒有內建 CharaChorder 3D 輸入裝置的圖像指引，但我開發的瀏覽器擴充套件，Keybr CC Extension（[Chrome 應用程式商店](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) / [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)），可以將其加到 Keybr 上。
 
-如果你偏好用實際的單字來熟悉鍵盤佈局，你可以在 [Monkeytype](https://monkeytype.com/) 上，搭配 Monkeytype CC Extension（[Chrome 應用程式商店](https://chromewebstore.google.com/detail/monkeytype-cc-extension/mhfjhmegecimjbohhdbflkhdfnaadple)）進行練習。這是我開發的另一個類似 Keybr CC Extension 的瀏覽器擴充套件。要留意的地方是 Monkeytype 上預設的 English 字集中只有一個字有字母 j，並且它沒有有字母 q、x 或 z 的字。你可能需要用其他字集或使用自訂文字來練習那些字母。
+如果你偏好用實際的單字來熟悉鍵盤佈局，你可以在 [Monkeytype](https://monkeytype.com/) 上，搭配 Monkeytype CC Extension（[Chrome 應用程式商店](https://chromewebstore.google.com/detail/monkeytype-cc-extension/mhfjhmegecimjbohhdbflkhdfnaadple) / [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/monkeytype-cc-extension/)）進行練習。這是我開發的另一個類似 Keybr CC Extension 的瀏覽器擴充套件。要留意的地方是 Monkeytype 上預設的 English 字集中只有一個字有字母 j，並且它沒有有字母 q、x 或 z 的字。你可能需要用其他字集或使用自訂文字來練習那些字母。
 {% endcollapsecard %}
 
 ## 深入練習字母

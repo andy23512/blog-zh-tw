@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 CharaChorder 和 Forge 資源連結收集
 date: 2024-10-27 08:45:43
-updated: 2025-11-09 18:26:02
+updated: 2025-11-12 21:41:44
 categories: [筆記,資源]
 ---
 {% blockquote %}
@@ -203,6 +203,7 @@ GitHub 代碼庫: https://github.com/typing-tech/monkeytype
   - [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)
 - Monkeytype CC Extension：能使 Monkeytype 顯示 CharaChorder 3D 輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件
   - [Chrome 應用程式商店](https://chromewebstore.google.com/detail/monkeytype-cc-extension/mhfjhmegecimjbohhdbflkhdfnaadple) 
+  - [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/monkeytype-cc-extension/)
 
 #### 統計
 

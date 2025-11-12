@@ -1,7 +1,7 @@
 ---
 title: CC Extensions - 能使打字網站顯示 CharaChorder 3D 輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們
 date: 2025-10-19 20:54:51
-updated: 2025-11-09 19:49:35
+updated: 2025-11-12 21:48:35
 categories: [文章,作品]
 ---
 {% blockquote %}
@@ -20,6 +20,7 @@ categories: [文章,作品]
 ### Monkeytype CC Extension
 
 - [Chrome 應用程式商店](https://chromewebstore.google.com/detail/monkeytype-cc-extension/mhfjhmegecimjbohhdbflkhdfnaadple)
+- [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/monkeytype-cc-extension/)
 - [GitHub](https://github.com/andy23512/monkeytype-cc-extension)
 - [展示影片](https://youtu.be/nwbKUjUmwD4)
 
