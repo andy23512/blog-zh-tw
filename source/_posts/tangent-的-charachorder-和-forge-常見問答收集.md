@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 CharaChorder 和 Forge 常見問答收集
 date: 2024-10-27 12:55:14
-updated: 2025-01-04 20:46:09
+updated: 2025-11-21 19:39:46
 categories: [筆記,資源]
 ---
 註：你也可以查看[CharaChorder 官方文件中的常見問題](https://docs.charachorder.com/FAQs.html)。
@@ -14,7 +14,7 @@ categories: [筆記,資源]
 
 #### 預設佈局的設計
 
-https://docs.charachorder.com/CharaChorder%20One.html#:~:text=Design%20of%20the%20default%20layout
+https://docs.charachorder.com/Layout.html#design-of-the-layout
 
 #### 更多佈局層
 
