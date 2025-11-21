@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 CharaChorder 和 Forge 資源連結收集
 date: 2024-10-27 08:45:43
-updated: 2025-11-12 21:41:44
+updated: 2025-11-21 19:31:45
 categories: [筆記,資源]
 ---
 {% blockquote %}
@@ -40,7 +40,9 @@ categories: [筆記,資源]
 
 #### 文件
 
-##### [CharaChorder Documentation](https://docs.charachorder.com/)
+##### [CharaChorder 官方文件](https://docs.charachorder.com/)
+
+##### [CCOS 支援語言文件](https://docs.google.com/document/d/1bY4uaSF9fzd1VlMMZvBnDtDs0fZ-OLdaL-Bo4djQgAs/edit?tab=t.0)
 
 #### 練習工具
 

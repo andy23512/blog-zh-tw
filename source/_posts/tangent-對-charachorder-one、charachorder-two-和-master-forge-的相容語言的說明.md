@@ -1,7 +1,7 @@
 ---
 title: Tangent 對 CharaChorder One、CharaChorder Two 和 Master Forge 的相容語言的說明
 date: 2024-10-10 00:55:29
-updated: 2025-03-20 20:11:30
+updated: 2025-11-21 19:30:48
 categories: [文章,語言]
 ---
 ## 簡短總結
@@ -175,6 +175,7 @@ categories: [文章,語言]
 - [英文維基百科的鍵盤佈局頁面](https://en.wikipedia.org/wiki/Keyboard_layout)
 - [CC 官方文件的佈局頁面](https://docs.charachorder.com/Layout.html)
 - [HID Usage Tables FOR Universal Serial Bus (USB)](https://usb.org/sites/default/files/hut1_21.pdf)的第十章 "Keyboard/Keypad Page" (PDF 裡的第 83 到第 89 頁)
+- [CC 官方提供的 CCOS 支援語言文件](https://docs.google.com/document/d/1bY4uaSF9fzd1VlMMZvBnDtDs0fZ-OLdaL-Bo4djQgAs/edit?tab=t.0)
 
 [^scancode]: [鍵盤掃描碼集](https://zh.wikipedia.org/zh-tw/%E9%8D%B5%E7%9B%A4%E6%8E%83%E6%8F%8F%E7%A2%BC#%E6%89%AB%E6%8F%8F%E7%A0%81%E9%9B%86)有很多種。在這篇文章中會使用 USB HID 鍵盤掃描碼作為範例。可以在 [HID Usage Tables FOR Universal Serial Bus (USB)](https://usb.org/sites/default/files/hut1_21.pdf) 的第十章 "Keyboard/Keypad Page" (PDF 裡的第 83 到第 89 頁)中看到它們的定義。
 [^os_layout]: 有關作業系統佈局，維基百科中的鍵盤佈局條目中是使用「[功能佈局](https://zh.wikipedia.org/wiki/%E9%94%AE%E7%9B%98%E5%B8%83%E5%B1%80#:~:text=%E7%9A%84%E6%8E%92%E5%88%97%E6%96%B9%E5%BC%8F%E3%80%82-,%E5%8A%9F%E8%83%BD%E4%BD%88%E5%B1%80,-%E6%98%AF%E6%8C%87%E9%8D%B5%E7%9B%A4)」這個名稱。在不同地方會有不同名稱，如鍵盤佈局、輸入法、輸入方式等。在這篇文章中，為了清楚分別輸入裝置上的佈局和作業系統上的鍵盤佈局設定，它們分別被稱作「裝置佈局」和「作業系統佈局」。
