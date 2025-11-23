@@ -1,7 +1,7 @@
 ---
 title: CC Extensions - 能使打字網站顯示 CharaChorder 3D 輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們
 date: 2025-10-19 20:54:51
-updated: 2025-11-12 21:48:35
+updated: 2025-11-23 19:57:01
 categories: [文章,作品]
 ---
 {% blockquote %}
@@ -30,6 +30,7 @@ categories: [文章,作品]
 - 在 [Keybr](https://www.keybr.com/) 或 [Monkeytype](https://monkeytype.com/) 上顯示 CharaChorder 3D 輸入裝置的鍵盤佈局
 - 支援上傳使用者自定義的裝置佈局
 - 鍵盤佈局可拖拉移動
+- 支援作業系統鍵盤佈局選項
 
 ## 其他相關主題
 
