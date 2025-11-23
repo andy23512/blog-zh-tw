@@ -6,7 +6,7 @@ function slugify(input: string): string {
   return input
     .toLowerCase()
     .trim()
-    .replace(/[ '\-,]+/g, "-");
+    .replace(/[ '\-,()]+/g, "-");
 }
 
 function replaceNoteUrl(
@@ -29,7 +29,7 @@ function replaceNoteUrl(
   );
   const notes = rawNotes.filter(
     (n) =>
-      !n.title.match(/^[\w\-,' ]+$/) &&
+      !n.title.match(/^[\w\-,' ()]+$/) &&
       n.title !== "Tangent 的 CharaChorder 和 Forge 筆記本" &&
       n.title !== "Tangent 的 CharaChorder 和 Forge 筆記清單"
   );
