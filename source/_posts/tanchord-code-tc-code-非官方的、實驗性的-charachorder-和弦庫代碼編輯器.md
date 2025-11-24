@@ -1,7 +1,7 @@
 ---
 title: TanChord Code (TC Code) - 非官方的、實驗性的 CharaChorder 和弦庫代碼編輯器
 date: 2025-11-23 16:00:54
-updated: 2025-11-23 16:49:38
+updated: 2025-11-24 22:07:48
 categories: [文章,作品]
 ---
 {% blockquote %}
@@ -14,6 +14,7 @@ categories: [文章,作品]
 
 - [TanChord Code](https://andy23512.github.io/tccode/)
 - [GitHub](https://github.com/andy23512/tccode)
+- <a href="{% post_path tanchord-code-library-tccl-語言參考文件 %}">TanChord Code Library (TCCL) 語言參考文件</a>
 
 ## TCCL 語言
 
