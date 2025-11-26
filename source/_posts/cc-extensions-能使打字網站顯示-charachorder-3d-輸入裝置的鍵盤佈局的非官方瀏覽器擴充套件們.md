@@ -1,7 +1,7 @@
 ---
 title: CC Extensions - 能使打字網站顯示 CharaChorder 3D 輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們
 date: 2025-10-19 20:54:51
-updated: 2025-11-23 19:57:01
+updated: 2025-11-26 19:39:18
 categories: [文章,作品]
 ---
 {% blockquote %}
@@ -29,7 +29,7 @@ categories: [文章,作品]
 
 - 在 [Keybr](https://www.keybr.com/) 或 [Monkeytype](https://monkeytype.com/) 上顯示 CharaChorder 3D 輸入裝置的鍵盤佈局
 - 支援上傳使用者自定義的裝置佈局
-- 鍵盤佈局可拖拉移動
+- 支援改變鍵盤佈局的位置、大小和透明度
 - 支援作業系統鍵盤佈局選項
 
 ## 其他相關主題
@@ -112,6 +112,8 @@ categories: [文章,作品]
 - 網頁使用者介面函式庫：[React](https://react.dev/)
 - 元件庫：[MUI](https://mui.com/)
 - CSS 框架：[Tailwind CSS](https://tailwindcss.com/)
-- 瀏覽器 API 填補器：[webextension-polyfill](https://github.com/mozilla/webextension-polyfill)
-- 拖拉移動函式庫：[react-draggable](https://github.com/react-grid-layout/react-draggable)
+- 瀏覽器擴充套件 API 填補器：[webextension-polyfill](https://github.com/mozilla/webextension-polyfill)
+- 拖拉移動、拉伸調整大小、貼合函式庫：[react-moveable](https://www.npmjs.com/package/react-moveable)
 - Class 名稱公用程式：[classnames](https://www.npmjs.com/package/classnames)
+- 狀態管理：[Zustand](https://zustand-demo.pmnd.rs/)
+- 瀏覽器擴充套件開發命令列工具：[web-ext](https://www.npmjs.com/package/web-ext)
