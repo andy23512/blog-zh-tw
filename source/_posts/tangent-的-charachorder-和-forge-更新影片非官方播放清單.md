@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 CharaChorder 和 Forge 更新影片非官方播放清單
 date: 2024-10-27 00:14:07
-updated: 2025-08-02 08:24:36
+updated: 2025-11-28 19:56:57
 categories: [筆記,資源]
 ---
 ## YouTube 播放清單
@@ -184,6 +184,7 @@ categories: [筆記,資源]
 |W73*|[CCIO Teaser](https://youtu.be/JTaL_3QoEGc?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-05-30 12:00:06||
 |W74*|[The Game Where You Level Up IRL --- CCIO 1st Look!](https://youtu.be/ONBJlWfzzaQ?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-06-07 19:15:41||
 |W77*|[Type 1 Word = Donate 1 Day of Clean Water](https://youtu.be/PvhKvJeRadA?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-08-01 16:39:57||
+|W94*|[Introducing CC2.1](https://youtu.be/geRvMmrd5n0?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-11-28 05:04:16||
 
 [^serial]: 如果影片的標題或內容有提到這是第幾日或第幾週的話，就會使用那個作為編號。否則它會由上傳時間和相鄰影片的編號來決定，其後面會帶有 `*` 號。`D` 開頭為第幾日而 `W` 開頭為第幾週。
 [^timezone]: 使用美國中部時區。
