@@ -1,16 +1,18 @@
 ---
 title: Tangent 的非官方 CharaChorder 和 Forge 學習進度統計
 date: 2025-01-21 18:23:40
-updated: 2025-03-07 15:38:57
+updated: 2025-11-29 11:44:32
 categories: [筆記,統計]
 ---
 {% blockquote %}
    :information_source: [官方的 CharaChorder 打字速度追蹤表在這裡。](https://docs.google.com/spreadsheets/d/1LYi3Y6Ombi1V5bWt-75SnHn9ONvl1KOFugYUBTVNgjM/edit?gid=0#gid=0)
 {% endblockquote %}
 
-### 前言
+## 前言
 
 出於對 CharaChorder 裝置的真實學習曲線的好奇，我試著從 CharaChorder 的 Discord 伺服器中的 share-your-progress 頻道中挖掘資訊，並把那些資訊整理為下面的圖表和表格。
+
+## 以經過天數計
 
 ### 學習曲線圖
 
@@ -52,5 +54,22 @@ categories: [筆記,統計]
    d. 在一天內，[keybr.com](https://www.keybr.com/) 上顯示的最高「平均速度」
 4. 所有速度數值會被四捨五入到整數。[^speed_rounded]
 5. 因為中文打字太過特殊以致於很難包含進這個統計中，所以不會被收集進來。很難決定要怎樣把中文的每分鐘多少字轉換成英文的。
+
+## 以練習時間計
+
+### 學習曲線圖
+
+{% collapsecard "詳細" %}  底下是使用者在各裝置上的打字速度對練習時間的指數趨勢線和散布圖。指數趨勢線可用來代表在各個裝置上的平均學習過程。
+{% endcollapsecard %}
+
+[在新分頁開啟](https://docs.google.com/spreadsheets/d/e/2PACX-1vTTqOB5RQPwZrzacRKAhlL9_BQs6r96KV68tnOot-8DCFae2OwiXv02UmqQu1r7nYlDJkpTukP1AhPS/pubhtml?gid=288920510&single=true)
+
+<iframe width="100%" height="550" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTTqOB5RQPwZrzacRKAhlL9_BQs6r96KV68tnOot-8DCFae2OwiXv02UmqQu1r7nYlDJkpTukP1AhPS/pubhtml?gid=288920510&single=true" frameborder="0"></iframe>
+
+### 資料收集規則 
+
+1. 當在使用者訊息中或 CharaChorder 追蹤表上有提到使用者的打字速度和對應的總練習時間（或者能計算出其總練習時間）時，就會紀錄一筆資料。
+2. 所有速度數值會被四捨五入到整數。[^speed_rounded]
+3. 跟上面一樣，中文的打字紀錄不會被包含。
 
 [^speed_rounded]: MonkeyType (和 CCType) 有個「顯示小數位」設定。如果他設定為關，那顯示的速度會是四捨五入到整數後的結果。因此，一些截圖中的速度會是有小數位的，但一些沒有。所以在這份統計中，所有速度數值都會先四捨五入到整數再被收集。
