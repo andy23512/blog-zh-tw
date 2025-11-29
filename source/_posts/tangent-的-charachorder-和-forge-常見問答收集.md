@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 CharaChorder 和 Forge 常見問答收集
 date: 2024-10-27 12:55:14
-updated: 2025-11-21 19:39:46
+updated: 2025-11-29 13:33:19
 categories: [筆記,資源]
 ---
 註：你也可以查看[CharaChorder 官方文件中的常見問題](https://docs.charachorder.com/FAQs.html)。
@@ -99,3 +99,8 @@ https://docs.charachorder.com/_images/CCEnglish.png
 CC2 只在 https://charachorder.io/ 上被支援。
 
 ==來源:== [Discord 訊息](https://discord.com/channels/861730583092658206/1300831235928621098/1303559373250887720)
+
+### 無線支援
+
+CC1/2 並不是無線的裝置。但是有一款相容的第三方藍牙轉接器可以使用：https://sterlinghawk.com/shop/products/electronics/sterlingkey/.
+
