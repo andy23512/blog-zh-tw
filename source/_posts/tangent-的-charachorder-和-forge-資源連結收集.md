@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 CharaChorder 和 Forge 資源連結收集
 date: 2024-10-27 08:45:43
-updated: 2025-11-30 09:21:18
+updated: 2025-11-30 09:29:48
 categories: [筆記,資源]
 ---
 {% blockquote %}
@@ -211,8 +211,8 @@ GitHub 代碼庫: https://github.com/typing-tech/monkeytype
 
 #### 統計
 
-- [我的非官方 CC 和 Forge 學習進度統計
- (Google 試算表)](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-GIGZcyrT2rhcVUUot14X00CK7XrqMDSI4gqKdE_8jQtrFqId4hD9-UvE6TS9RZjpaHkmyjfgEBZ6/pubhtml?gid=172953668&single=true)
+- [我做的非官方 CC 和 Forge 學習進度統計 (Google 試算表)](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-GIGZcyrT2rhcVUUot14X00CK7XrqMDSI4gqKdE_8jQtrFqId4hD9-UvE6TS9RZjpaHkmyjfgEBZ6/pubhtml?gid=172953668&single=true)
+- [我做的非官方 CC 和 Forge 練習時間統計 (Google 試算表)](https://docs.google.com/spreadsheets/d/e/2PACX-1vTTqOB5RQPwZrzacRKAhlL9_BQs6r96KV68tnOot-8DCFae2OwiXv02UmqQu1r7nYlDJkpTukP1AhPS/pubhtml?gid=288920510&single=true)
  
 #### 專案追蹤
 
