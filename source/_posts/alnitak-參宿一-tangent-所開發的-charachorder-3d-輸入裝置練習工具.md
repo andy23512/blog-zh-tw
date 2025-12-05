@@ -1,7 +1,7 @@
 ---
 title: Alnitak 參宿一 - Tangent 所開發的 CharaChorder 3D 輸入裝置練習工具
 date: 2024-05-01 21:47:10
-updated: 2025-09-27 13:31:54
+updated: 2025-12-05 22:51:33
 categories: [文章,作品]
 ---
 {% blockquote %}
@@ -36,6 +36,8 @@ categories: [文章,作品]
   - 可以檢視在不同層和修飾鍵（Shift 和 Alt Graph 鍵）下最終輸出的佈局（在所選的作業系統佈局下的實際輸出）
   - 在佈局中搜尋按鍵
   - 列印出最終輸出的佈局(或輸出為 PDF 檔)
+- 佈局記憶歌
+  - 一首由 AI 生成的歌曲。能協助你記憶在預設佈局上的字母按鍵
 
 ## 其他相關主題
 
@@ -83,6 +85,12 @@ categories: [文章,作品]
 - User Agent 解析器: [UAParser.js](https://uaparser.dev/)
 - 作業系統 Logo 圖標: [font-logos](https://github.com/lukas-w/font-logos)
 - Tooltip 函式庫: [@webed/angular-tooltip](https://www.npmjs.com/package/@webed/angular-tooltip)
+
+#### 佈局歌曲
+
+- 大型語言模型（用來產生歌詞）：[Kimi K2 Thinking](https://www.kimi.com/)
+- AI 音樂創作：[Suno](https://suno.com/)
+- 歌詞時間戳產生: [Stabilizing Timestamps for Whisper](https://github.com/jianfch/stable-ts)
 
 ### 其他參考資料
 
