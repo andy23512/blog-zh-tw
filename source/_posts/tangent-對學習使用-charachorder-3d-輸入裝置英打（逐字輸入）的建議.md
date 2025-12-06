@@ -1,10 +1,29 @@
 ---
 title: Tangent 對學習使用 CharaChorder 3D 輸入裝置英打（逐字輸入）的建議
 date: 2025-07-12 09:16:38
-updated: 2025-11-12 21:52:27
+updated: 2025-12-06 11:58:41
 categories: [文章,語言]
 ---
-# 練習按鍵佈局
+# 記憶鍵盤佈局（無需輸入裝置）
+
+- 目的：在輸入裝置不在你手邊時，比如它還沒送達時，記憶各個按鍵的位置。
+- 推薦工具：
+  - 用預設裝置佈局圖片（[CC1/2](https://docs.charachorder.com/_images/CCEnglish2.png) 或 [Master Forge](https://docs.charachorder.com/_images/M4-Layout.png)）搭配 [Anki 的影像遮擋](https://docs.ankiweb.net/editing.html?highlight=image#image-occlusion)功能。
+  - 使用 [Alnitak](https://andy23512.github.io/alnitak/) 的 Number, Letter 和 Symbol 課程並開啟隔空模式設定，來進行隔空打字
+  - [Alnitak 的佈局記憶歌](https://andy23512.github.io/alnitak/layout-song)
+- 推薦目標：
+  - 你能在沒有任何圖像輔助的情況下想起每個按鍵的位置。
+
+{% collapsecard "詳細" %}
+Anki 有個[「影像遮擋」](https://docs.ankiweb.net/editing.html?highlight=image#image-occlusion)功能。你可以下載預設的鍵盤佈局圖片（[CC1/2](https://docs.charachorder.com/_images/CCEnglish2.png) 或 [Master Forge](https://docs.charachorder.com/_images/M4-Layout.png)）後，新增「遮擋了按鍵文字」的卡片來幫你記憶它。
+
+隔空打字就是在沒有輸入裝置的情況下，用手指模仿打字手勢，無論是在隔空、桌子上，甚至在你的手或腿上。我開發的練習工具，[Alnitak 參宿一](https://andy23512.github.io/alnitak)，也有一個隔空模式設定。它會自動用你所設定的速度完成按鍵的訓練，讓你可以跟著它，像在真的裝置上打字一樣移動你的手指。
+
+此外，Alnitak 上還有一首由 AI 生成的[佈局記憶歌](https://andy23512.github.io/alnitak/layout-song)。它能幫助你記住預設佈局。
+
+{% endcollapsecard %}
+
+## 練習按鍵佈局
 
 - 目的：熟悉各個按鍵的位置，直到你不需要圖像輔助你找到你要的按鍵為止。
 - 推薦英打速度範圍：0～13 WPM

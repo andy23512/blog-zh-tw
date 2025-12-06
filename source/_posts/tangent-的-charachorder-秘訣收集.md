@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 CharaChorder 秘訣收集
 date: 2025-11-30 18:14:48
-updated: 2025-11-30 21:05:20
+updated: 2025-12-06 12:02:39
 categories: [筆記,資源]
 ---
 # 前言
@@ -12,13 +12,7 @@ categories: [筆記,資源]
 
 ### 在等待你的輸入裝置送達前能做的事情
 
-你可以用 Anki 或者「隔空打字」來協助你記憶預設的鍵盤佈局。
-
-Anki 有個[「影像遮擋」](https://docs.ankiweb.net/editing.html?highlight=image#image-occlusion)功能。你可以下載預設的鍵盤佈局圖片（[CC1/2](https://docs.charachorder.com/_images/CCEnglish2.png) 或 [Master Forge](https://docs.charachorder.com/_images/M4-Layout.png)）後，新增「遮擋了一些按鍵的文字」的卡片來幫你記憶它。
-
-隔空打字就是在沒有輸入裝置的情況下，用手指模仿打字手勢，無論是在隔空、桌子上，甚至在你的手或腿上。
-
-我開發的練習工具，[Alnitak 參宿一](https://andy23512.github.io/alnitak)，也有一個隔空模式設定。它會自動用你所設定的速度完成按鍵的訓練，讓你可以跟著它，像在真的裝置上打字一樣移動你的手指。
+你可以參考<a href="{% post_path tangent-對學習使用-charachorder-3d-輸入裝置英打（逐字輸入）的建議 %}#記憶鍵盤佈局（無需輸入裝置）">我關於學習英打逐字輸入的文章中的「記憶鍵盤佈局（無需輸入裝置）」章節</a>。
 
 ### CC1/2 的使用姿勢
 
