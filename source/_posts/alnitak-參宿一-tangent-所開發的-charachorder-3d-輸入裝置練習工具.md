@@ -1,7 +1,7 @@
 ---
 title: Alnitak 參宿一 - Tangent 所開發的 CharaChorder 3D 輸入裝置練習工具
 date: 2024-05-01 21:47:10
-updated: 2025-12-05 22:51:33
+updated: 2025-12-06 09:15:10
 categories: [文章,作品]
 ---
 {% blockquote %}
@@ -65,6 +65,16 @@ categories: [文章,作品]
 
 分塊和數字的顏色也根據上面提過的色溫或恆星光譜的方式變化。
 
+### 佈局記憶歌
+
+在四天前（2025 年 12 月 2 日），我看了一部影片。那是由 AI 生成的動漫哏台語歌。現在 AI 產生音樂的能力讓我相當驚訝。後來，我有個想法。是不是能用 AI 來產生一個可以協助使用者記憶預設佈局的歌曲？這一定可以上學習更加有趣。因為小時候我們也用歌曲學習了不少東西，比如字母歌、Do-Re-Mi 之歌等。
+
+首先，我從歌詞開始著手。我製作了一張只有字母鍵的佈局圖片後，並將這張圖和提示詞「產生一個能協助我記憶這個 3D 輸入裝置的佈局的歌曲」傳給幾個大型語言模型。我最後選擇了 Kimi K2 Thinking 的結果，因為只有它有用單字把數個鍵串連在一起，比如用 "A Tall Ninja Jumps, Yes Sir!" 串起預設佈局右上的 "A-T-L-N-J-Y-S"。
+
+接著，我將這個歌詞傳給 Suno 來產生歌曲。Suno 同時產生了幾個歌曲，我從中選了最有活力的。
+
+最後，我將歌曲和歌詞加到 Alnitak 的佈局歌曲頁面。另外，那個頁面上也會顯示佈局圖，並會在歌曲提到對應的按鍵時顯示並點亮它們。
+
 ### 技術堆疊
 
 - 編譯系統：[Nx](https://nx.dev/)
@@ -86,7 +96,7 @@ categories: [文章,作品]
 - 作業系統 Logo 圖標: [font-logos](https://github.com/lukas-w/font-logos)
 - Tooltip 函式庫: [@webed/angular-tooltip](https://www.npmjs.com/package/@webed/angular-tooltip)
 
-#### 佈局歌曲
+#### 佈局記憶歌
 
 - 大型語言模型（用來產生歌詞）：[Kimi K2 Thinking](https://www.kimi.com/)
 - AI 音樂創作：[Suno](https://suno.com/)
