@@ -1,7 +1,7 @@
 ---
 title: Tangent 在 CharaChorder One、CharaChorder Two 和 Master Forge 上的最新佈局
 date: 2024-11-03 12:25:53
-updated: 2024-11-26 19:00:43
+updated: 2025-12-12 20:48:23
 categories: [文章,佈局]
 ---
 ## 前言
@@ -41,13 +41,13 @@ categories: [文章,佈局]
 
 #### 將功能鍵放在左半邊
 
-![localhost_4200_layouts (1)](https://hackmd.io/_uploads/B1xuOQ8bkx.png)
+![localhost_4200_layouts (3)](https://hackmd.io/_uploads/B1wp0YtMWg.png)
 
 為了讓功能鍵更好使用，我把功能鍵放在數字層的左半邊。
 
 #### 設定滑鼠動作鍵
 
-![localhost_4200_layouts (2)](https://hackmd.io/_uploads/rJw_uXI-yg.png)
+![localhost_4200_layouts (4)](https://hackmd.io/_uploads/HyMARFtf-g.png)
 
 - M(箭頭): 滑鼠移動
 - S(箭頭): 滑鼠捲動

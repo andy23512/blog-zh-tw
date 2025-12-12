@@ -1,7 +1,7 @@
 ---
 title: Tangent 尋找在 Master Forge 上的注音輸入方式的歷程
 date: 2024-03-28 23:51:48
-updated: 2025-11-25 22:55:31
+updated: 2025-12-12 21:21:12
 categories: [文章,佈局]
 ---
 # （不採用）方向一：從天弦 41 鍵 V5 的佈局修改
@@ -121,6 +121,15 @@ Master Forge (M4G) 是 CC1 的接班人，它將不會有拇指的第三搖桿�
 
 (數字層)
 ![localhost_4200_layouts](https://hackmd.io/_uploads/HyGW_X8-1e.png)
+
+##### V2.4
+
+I swapped the mouse scroll switches and mouse movement switches. I felt that using middle fingers to control the mouse movement is better that using my ring fingers.
+我交換了滑鼠捲動和移動的搖桿的位置。我感覺用中指控制滑鼠移動會比用無名指好。
+
+（數字層）
+
+![localhost_4200_layouts (5)](https://hackmd.io/_uploads/SJhn45Yf-x.png)
 
 ## （不採用）方向三：在 M4G 上使用 3D 按鍵
 
