@@ -1,21 +1,21 @@
 ---
 title: Tangent 對學習使用 CharaChorder 3D 輸入裝置英打（逐字輸入）的建議
 date: 2025-07-12 09:16:38
-updated: 2025-12-06 11:58:41
+updated: 2025-12-14 07:54:30
 categories: [文章,語言]
 ---
 # 記憶鍵盤佈局（無需輸入裝置）
 
 - 目的：在輸入裝置不在你手邊時，比如它還沒送達時，記憶各個按鍵的位置。
 - 推薦工具：
-  - 用預設裝置佈局圖片（[CC1/2](https://docs.charachorder.com/_images/CCEnglish2.png) 或 [Master Forge](https://docs.charachorder.com/_images/M4-Layout.png)）搭配 [Anki 的影像遮擋](https://docs.ankiweb.net/editing.html?highlight=image#image-occlusion)功能。
+  - 我製作的預設裝置佈局的字母鍵的 [Anki](https://apps.ankiweb.net/) 牌組（[點此下載 apkg 檔](https://github.com/andy23512/setting-files/raw/refs/heads/master/CharaChorder/Anki/CharaChorder%203D%20Input%20Device%20-%20Default%20Layout%20-%20Letter%20Keys.apkg)） 
   - 使用 [Alnitak](https://andy23512.github.io/alnitak/) 的 Number, Letter 和 Symbol 課程並開啟隔空模式設定，來進行隔空打字
   - [Alnitak 的佈局記憶歌](https://andy23512.github.io/alnitak/layout-song)
 - 推薦目標：
   - 你能在沒有任何圖像輔助的情況下想起每個按鍵的位置。
 
 {% collapsecard "詳細" %}
-Anki 有個[「影像遮擋」](https://docs.ankiweb.net/editing.html?highlight=image#image-occlusion)功能。你可以下載預設的鍵盤佈局圖片（[CC1/2](https://docs.charachorder.com/_images/CCEnglish2.png) 或 [Master Forge](https://docs.charachorder.com/_images/M4-Layout.png)）後，新增「遮擋了按鍵文字」的卡片來幫你記憶它。
+[Anki](https://apps.ankiweb.net/) 有個[「影像遮擋」](https://docs.ankiweb.net/editing.html?highlight=image#image-occlusion)功能。你可以下載預設的鍵盤佈局圖片（[CC1/2](https://docs.charachorder.com/_images/CCEnglish2.png) 或 [Master Forge](https://docs.charachorder.com/_images/M4-Layout.png)）後，新增「遮擋了按鍵文字」的卡片來幫你記憶它。我也製作了一個預設佈局上的字母鍵的牌組，你可以[點這邊來下載它](https://github.com/andy23512/setting-files/raw/refs/heads/master/CharaChorder/Anki/CharaChorder%203D%20Input%20Device%20-%20Default%20Layout%20-%20Letter%20Keys.apkg)。
 
 隔空打字就是在沒有輸入裝置的情況下，用手指模仿打字手勢，無論是在隔空、桌子上，甚至在你的手或腿上。我開發的練習工具，[Alnitak 參宿一](https://andy23512.github.io/alnitak)，也有一個隔空模式設定。它會自動用你所設定的速度完成按鍵的訓練，讓你可以跟著它，像在真的裝置上打字一樣移動你的手指。
 
