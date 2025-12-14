@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 CharaChorder 秘訣收集
 date: 2025-11-30 18:14:48
-updated: 2025-12-06 12:02:39
+updated: 2025-12-14 16:52:45
 categories: [筆記,資源]
 ---
 # 前言
@@ -87,7 +87,7 @@ CC 裝置中有一些你可以用的功能和弦。這些和弦不在內建的�
 
 1. 使用[和弦時間診斷工具](https://typing-tech.github.io/CharaChorder-utilities/#/chord-tools?tab=3)來檢查你的按哪一些按鍵的時間太慢，並調整你的動作，直到你可以穩定地成功使用那個和弦。
 2. 使用 [Spurring](https://docs.charachorder.com/Device%20Manager.html#spurring) 模式。
-3. 當你覺得一個和弦的按鍵組合對你的手來說太困難，你可以對一樣的輸出，[新增一個較簡單的和弦](https://docs.charachorder.com/Chords.html#how-do-i-make-chords)。
+3. 當你覺得一個和弦的按鍵組合對你的手來說太困難，你可以對一樣的輸出，[新增一個較簡單的和弦](https://docs.charachorder.com/Chords.html#how-do-i-make-chords)。舉例來說，你可以把其中的一個鍵替換成跟它位置對稱的鍵，比如把 c 鍵換成 d 鍵。
 4. 當你對很多和弦都有使用上的困難時，你可以嘗試調高[按壓和放開的容許時間](https://docs.charachorder.com/Device%20Manager.html#chording)。
 
 ### 避免在使用和弦時會刪除一些前面的字元的問題
