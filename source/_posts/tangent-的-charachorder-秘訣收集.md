@@ -2,7 +2,10 @@
 title: Tangent 的 CharaChorder 秘訣收集
 date: 2025-11-30 18:14:48
 updated: 2025-12-14 16:52:45
-categories: [筆記,資源]
+categories: [筆記, 資源]
+otherLanguages:
+  - text: English Version
+    path: https://andy23512.github.io/blog/2025/11/26/tangent-s-collection-of-charachorder-tips/
 ---
 # 前言
 

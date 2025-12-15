@@ -2,7 +2,10 @@
 title: Tangent 對注音和弦的介紹
 date: 2024-09-14 13:53:49
 updated: 2024-11-14 11:55:09
-categories: [文章,語言]
+categories: [文章, 語言]
+otherLanguages:
+  - text: English Version
+    path: https://andy23512.github.io/blog/2024/09/14/tangent-s-introduction-to-bopomofo-chord/
 ---
 (註：注音和弦為我對聲韻並擊的另一種叫法。)
 

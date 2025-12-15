@@ -2,7 +2,10 @@
 title: Tangent 的非官方 CharaChorder 和 Forge 學習進度統計
 date: 2025-01-21 18:23:40
 updated: 2025-11-29 11:44:32
-categories: [筆記,統計]
+categories: [筆記, 統計]
+otherLanguages:
+  - text: English Version
+    path: https://andy23512.github.io/blog/2025/01/19/tangent-s-unofficial-charachorder-and-forge-learning-progress-statistic/
 ---
 {% blockquote %}
    :information_source: [官方的 CharaChorder 打字速度追蹤表在這裡。](https://docs.google.com/spreadsheets/d/1LYi3Y6Ombi1V5bWt-75SnHn9ONvl1KOFugYUBTVNgjM/edit?gid=0#gid=0)

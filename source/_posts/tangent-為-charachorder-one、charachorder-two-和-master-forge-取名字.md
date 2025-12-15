@@ -2,7 +2,10 @@
 title: Tangent 為 CharaChorder One、CharaChorder Two 和 Master Forge 取名字
 date: 2024-07-26 14:13:03
 updated: 2024-11-26 22:43:33
-categories: [文章,作品]
+categories: [文章, 作品]
+otherLanguages:
+  - text: English Version
+    path: https://andy23512.github.io/blog/2024/07/26/tangent-s-giving-chinese-names-and-device-names-to-charachorder-one-charachorder-two-and-master-forge/
 ---
 # 前言
 

@@ -2,7 +2,10 @@
 title: Tangent 對在 CharaChorder One、CharaChorder Two 或 Master Forge 上打中文的建議
 date: 2024-07-24 23:51:51
 updated: 2024-12-28 23:19:20
-categories: [文章,語言]
+categories: [文章, 語言]
+otherLanguages:
+  - text: English Version
+    path: https://andy23512.github.io/blog/2024/07/16/tangent-s-suggestions-for-typing-chinese-on-charachorder-one-charachorder-two-and-master-forge/
 ---
 # 簡短總結
 

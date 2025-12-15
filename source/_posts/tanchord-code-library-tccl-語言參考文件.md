@@ -2,7 +2,10 @@
 title: TanChord Code Library (TCCL) 語言參考文件
 date: 2025-11-24 20:21:45
 updated: 2025-11-25 18:03:10
-categories: [文章,作品]
+categories: [文章, 作品]
+otherLanguages:
+  - text: English Version
+    path: https://andy23512.github.io/blog/2025/11/23/tanchord-code-library-tccl-language-reference/
 ---
 # 前言
 

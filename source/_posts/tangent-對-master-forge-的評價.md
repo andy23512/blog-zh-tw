@@ -2,7 +2,10 @@
 title: Tangent 對 Master Forge 的評價
 date: 2025-07-19 18:05:48
 updated: 2025-12-02 20:43:28
-categories: [文章,經驗]
+categories: [文章, 經驗]
+otherLanguages:
+  - text: English Version
+    path: https://andy23512.github.io/blog/2025/07/13/tangent-s-review-to-master-forge/
 ---
 # Preface
 

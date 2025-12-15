@@ -2,7 +2,10 @@
 title: Tangent 對 CharaChorder One 和 CharaChorder Two 的鍵帽的評價
 date: 2025-07-12 19:52:51
 updated: 2025-11-26 19:19:20
-categories: [文章,經驗]
+categories: [文章, 經驗]
+otherLanguages:
+  - text: English Version
+    path: https://andy23512.github.io/blog/2025/07/12/tangent-s-review-to-key-caps-of-charachorder-one-and-charachorder-two/
 ---
 # 前言
 

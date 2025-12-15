@@ -2,7 +2,10 @@
 title: TanChord Code (TC Code) - 非官方的、實驗性的 CharaChorder 和弦庫代碼編輯器
 date: 2025-11-23 16:00:54
 updated: 2025-11-24 22:07:48
-categories: [文章,作品]
+categories: [文章, 作品]
+otherLanguages:
+  - text: English Version
+    path: https://andy23512.github.io/blog/2025/11/23/tanchord-code-tc-code-an-unofficial-experimental-code-editor-for-the-chord-library-of-charachorder-device/
 ---
 {% blockquote %}
 :information_source: 免責聲明：本編輯器與 CharaChorder 公司沒有隸屬、關聯、授權、認可，或任何正式關聯的關係。

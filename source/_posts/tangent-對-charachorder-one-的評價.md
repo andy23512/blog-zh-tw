@@ -2,7 +2,10 @@
 title: Tangent 對 CharaChorder One 的評價
 date: 2024-08-14 23:22:08
 updated: 2024-12-29 12:22:13
-categories: [文章,經驗]
+categories: [文章, 經驗]
+otherLanguages:
+  - text: English Version
+    path: https://andy23512.github.io/blog/2024/08/05/tangent-s-review-to-charachorder-one/
 ---
 ## 前言
 
@@ -19,7 +22,7 @@ categories: [文章,經驗]
 老實說，我在買 CC1 前完全忘記考慮中文打字，也就是我的母語。我也沒有對在 CC1 上打中文這件事有任何準備，因此花了不少時間去找、實作、練習在 CC1 上的注音輸入方式。感謝 CC1 的佈局的可設定性，使我可以自由的同時設計按鍵佈局和注音佈局，最後找到可以同時適合英打、中打和程式的佈局。
 
 {% blockquote %}
-:information_source: 我有[另一篇文章說明我在 CC1 上所用的最新佈局](/@andy23512/rJrX6HEWJe)。
+:information_source: 我有<a href="{% post_path tangent-s-latest-layout-on-charachorder-one-charachorder-two-and-master-forge %}">另一篇文章說明我在 CC1 上所用的最新佈局</a>。
 {% endblockquote %}
 
 ### 和弦輸入

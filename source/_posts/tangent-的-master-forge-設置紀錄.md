@@ -2,7 +2,10 @@
 title: Tangent 的 Master Forge 設置紀錄
 date: 2025-03-13 23:32:48
 updated: 2025-04-15 21:24:27
-categories: [文章,經驗]
+categories: [文章, 經驗]
+otherLanguages:
+  - text: English Version
+    path: https://andy23512.github.io/blog/2025/03/13/tangent-s-master-forge-set-up-record/
 ---
 # 開箱 (==Kickstarter 之前的預訂==)
 

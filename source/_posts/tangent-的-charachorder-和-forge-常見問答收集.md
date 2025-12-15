@@ -2,7 +2,10 @@
 title: Tangent 的 CharaChorder 和 Forge 常見問答收集
 date: 2024-10-27 12:55:14
 updated: 2025-11-29 13:33:19
-categories: [筆記,資源]
+categories: [筆記, 資源]
+otherLanguages:
+  - text: English Version
+    path: https://andy23512.github.io/blog/2024/10/10/tangent-s-collection-of-charachorder-and-forge-faq/
 ---
 註：你也可以查看[CharaChorder 官方文件中的常見問題](https://docs.charachorder.com/FAQs.html)。
 

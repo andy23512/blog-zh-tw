@@ -2,7 +2,10 @@
 title: CC Extensions - 能使打字網站顯示 CharaChorder 3D 輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們
 date: 2025-10-19 20:54:51
 updated: 2025-11-26 19:39:18
-categories: [文章,作品]
+categories: [文章, 作品]
+otherLanguages:
+  - text: English Version
+    path: https://andy23512.github.io/blog/2025/10/19/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/
 ---
 {% blockquote %}
 :information_source: 免責聲明：本擴充套件與 CharaChorder、Keybr 和Monkeytype 沒有隸屬、關聯、授權、認可，或任何正式關聯的關係。

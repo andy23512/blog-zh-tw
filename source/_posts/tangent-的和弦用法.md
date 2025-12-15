@@ -2,7 +2,10 @@
 title: Tangent 的和弦用法
 date: 2024-11-14 00:34:09
 updated: 2025-03-23 16:46:02
-categories: [文章,和弦]
+categories: [文章, 和弦]
+otherLanguages:
+  - text: English Version
+    path: https://andy23512.github.io/blog/2024/11/13/tangent-s-usages-of-chording/
 ---
 ## 前言
 

@@ -1,6 +1,7 @@
 import { readFileSync, writeFileSync } from "fs";
 import moment from "moment";
-import { Note } from "./hackmd.model";
+import { Note } from "../model/hackmd.model";
+import { NoteTableEntry } from "../model/note-table-entry.model";
 
 function slugify(input: string): string {
   return input
@@ -27,33 +28,50 @@ function replaceNoteUrl(
   const rawNotes: Note[] = JSON.parse(
     readFileSync("./res/hackmd-note-data.json", { encoding: "utf8" })
   );
+  const noteTableData: NoteTableEntry[] = JSON.parse(
+    readFileSync("./res/note-table-data.json", { encoding: "utf8" })
+  );
   const notes = rawNotes.filter(
     (n) =>
       !n.title.match(/^[\w\-,' ()]+$/) &&
       n.title !== "Tangent 的 CharaChorder 和 Forge 筆記本" &&
       n.title !== "Tangent 的 CharaChorder 和 Forge 筆記清單"
   );
-  const categoryData: Record<string, string[]> = JSON.parse(
-    readFileSync("./res/category-data.json", { encoding: "utf8" })
-  );
   const urlToFileName: Record<string, string> = {};
-  for (const note of notes) {
+  for (const note of rawNotes) {
     const url = note.publishLink.replace("https://hackmd.io", "");
     const fileName = slugify(note.title);
     urlToFileName[url] = fileName;
   }
   for (const note of notes) {
     const url = note.publishLink.replace("https://hackmd.io", "");
+    const noteTableEntry = noteTableData.find((entry) =>
+      entry.zhTwNoteUrl.endsWith(url)
+    );
+    if (!noteTableEntry) {
+      console.warn(`No note table entry found for note: ${note.title}`);
+      continue;
+    }
+    const enNote = rawNotes.find(
+      (n) => n.publishLink === noteTableEntry.enNoteUrl
+    );
+    if (!enNote) {
+      console.warn(`No en note found for note: ${note.title}`);
+      continue;
+    }
     const fileName = urlToFileName[url];
     const markdownFileContent = `---
 title: ${note.title}
 date: ${moment(note.createdAt).format("YYYY-MM-DD HH:mm:ss")}
 updated: ${moment(note.lastChangedAt).format("YYYY-MM-DD HH:mm:ss")}
-${
-  categoryData[note.shortId]
-    ? `categories: [${categoryData[note.shortId].join(",")}]`
-    : ""
-}
+categories: [${noteTableEntry.category}, ${noteTableEntry.subCategory}]
+otherLanguages:
+  - text: English Version
+    path: https://andy23512.github.io/blog/${moment(enNote.createdAt).format(
+      "YYYY/MM/DD"
+    )}/${
+      urlToFileName[noteTableEntry.enNoteUrl.replace("https://hackmd.io", "")]
+    }/
 ---
 ${replaceNoteUrl(
   note.content
