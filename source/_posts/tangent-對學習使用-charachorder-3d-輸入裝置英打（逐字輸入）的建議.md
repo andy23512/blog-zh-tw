@@ -1,13 +1,25 @@
 ---
 title: Tangent 對學習使用 CharaChorder 3D 輸入裝置英打（逐字輸入）的建議
 date: 2025-07-12 09:16:38
-updated: 2025-12-14 21:06:43
+updated: 2025-12-20 14:47:07
 categories: [文章, 語言]
 otherLanguages:
   - text: English Version
     path: https://andy23512.github.io/blog/2025/06/30/tangent-s-suggestions-for-learning-english-character-entry-on-charachorder-3d-input-devices/
 ---
-# 記憶鍵盤佈局（無需輸入裝置）
+{% mermaid gantt %}
+    title 各學習階段和它們的建議英打速度範圍
+    dateFormat X
+    axisFormat %s
+    記憶鍵盤佈局（無需輸入裝置）: milestone, 0, 0
+    練習按鍵佈局 : 0, 13
+    深入練習字母: 13, 30
+    練習三元組（Trigram）: 13, 23
+    練習單字: 20, 40
+    實際使用: milestone, 20, 20
+{% endmermaid %}
+
+## 記憶鍵盤佈局（無需輸入裝置）
 
 - 目的：在輸入裝置不在你手邊時，比如它還沒送達時，記憶各個按鍵的位置。
 - 推薦工具：
