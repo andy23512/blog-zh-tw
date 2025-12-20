@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 CharaChorder 秘訣收集
 date: 2025-11-30 18:14:48
-updated: 2025-12-14 16:52:45
+updated: 2025-12-20 19:15:00
 categories: [筆記, 資源]
 otherLanguages:
   - text: English Version
@@ -34,6 +34,78 @@ otherLanguages:
 一些符號可能比較難打出來，因為你需要按住 Num-Shift 和 Shift 鍵。你可以將這些鍵改到比較容易打的位置。舉例來說，你可以把數字層的半邊的數字鍵改成對應的符號鍵。
 
 ![image](https://hackmd.io/_uploads/B11CXHd--e.png)
+
+### 換層和鎖層鍵
+
+每個層有其對應的層動作。你可以將這些動作設定在任何鍵上，以在不同層之間切換。它們經常以帶圓圈的數字來表示，如 ①、②、③。
+
+根據你在目標層上的同一位置設定的動作，這個鍵的行為會有所不同。
+
+底下的範例都假設目標層是 A2。
+
+#### 換層鍵
+
+{% mermaid gantt %}
+    dateFormat X
+    axisFormat %s
+        title 換層鍵 ( A1: ② | A2: ② )
+    section ㅤ
+    按下: milestone, done, 1, 1
+    放開: milestone, done, 2, 2
+    按下: milestone, done, 3, 3
+    放開: milestone, done, 4, 4
+    section ㅤㅤ
+    A1: 0, 1s
+    A2: active, 1, 1s
+    A1: 2, 1s
+    A2: active, 3, 1s
+    A1: 4, 1s
+{% endmermaid %}
+
+第一種是換層鍵。舉例來說，A1 和 A2 層上的這個鍵的設定動作都是 A2 層，即 ②。
+
+在預設佈局上的就是這種。它們的行為類似標準鍵盤上的換檔（Shift）鍵。當你按下它時，裝置會切換到目標層，放開時就會回到主要層。
+
+#### 單向鎖層鍵
+
+{% mermaid gantt %}
+    dateFormat X
+    axisFormat %s
+    title 單向鎖層鍵 ( A1: ② | A2: 除了層動作以外的任何動作 )
+    section ㅤ
+    按下: milestone, done, 1, 1
+    放開: milestone, done, 2, 2
+    按下: milestone, done, 3, 3
+    放開: milestone, done, 4, 4
+        section ㅤㅤ
+    A1: 0, 1
+    A2: active, 1, 5
+{% endmermaid %}
+
+第二種是單向鎖層鍵。舉例來說，這個鍵在 A1 上的動作為 ②，但在 A2 上是層動作以外的任何動作。
+
+這種鍵的行為像是標準鍵盤上的大寫鎖定（Caps Lock）鍵，但是只有單向。當你按下它時，裝置會切換到目標層，但放開或者再次按下它時，並不會切換層。
+
+#### 雙向鎖層鍵
+
+{% mermaid gantt %}
+    dateFormat X
+    axisFormat %s
+    title 雙向鎖層鍵 ( A1: ② | A2: ① )
+    section ㅤ
+    按下: milestone, done, 1, 1
+    放開: milestone, done, 2, 2
+    按下: milestone, done, 3, 3
+    放開: milestone, done, 4, 4
+        section ㅤㅤ
+    A1: 0, 1s
+    A2: active, 1, 2s
+    A1: 3, 2s
+{% endmermaid %}
+
+最後一種是雙向鎖層鍵。舉例來說，這個鍵在 A1 上的動作為 ②、在 A2 上的動作為 ①。
+
+這種鍵的行為像是標準鍵盤上的大寫鎖定（Caps Lock）鍵。當你按下它時，裝置會切換到目標層，再次按下它時，會切回主要層。
 
 ### 實用的快捷鍵
 
