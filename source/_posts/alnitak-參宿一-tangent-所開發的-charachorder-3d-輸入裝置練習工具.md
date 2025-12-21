@@ -1,7 +1,7 @@
 ---
 title: Alnitak 參宿一 - Tangent 所開發的 CharaChorder 3D 輸入裝置練習工具
 date: 2024-05-01 21:47:10
-updated: 2025-12-14 16:04:34
+updated: 2025-12-21 08:30:46
 categories: [文章, 作品]
 otherLanguages:
   - text: English Version
@@ -104,7 +104,7 @@ otherLanguages:
 
 - 大型語言模型（用來產生歌詞）：[Kimi K2 Thinking](https://www.kimi.com/)
 - AI 音樂創作：[Suno](https://suno.com/)
-- 歌詞時間戳產生: [Stabilizing Timestamps for Whisper](https://github.com/jianfch/stable-ts)
+- 歌詞時間戳產生：[Stabilizing Timestamps for Whisper](https://github.com/jianfch/stable-ts)
 
 ### 其他參考資料
 

@@ -178,25 +178,28 @@ CC 裝置管理系統匯出的備份檔：https://github.com/andy23512/setting-f
 
 舉例來說，當在天弦 41 鍵 V5 上打出 `ㄅㄆㄇㄈ...` 時， CC1 實際上是輸出 `7890...`
 
-{% mermaid sequenceDiagram %}
+```mermaid
+sequenceDiagram
 CC1->>天弦 41 鍵 V5: 7890...
 天弦 41 鍵 V5->>輸出: ㄅㄆㄇㄈ...
-{% endmermaid %}
+```
 
 但在標準注音佈局，鍵盤實際上是輸出 `1qaz...`。(這就是 `ㄅㄆㄇㄈ...` 對應的注音密碼)
 
-{% mermaid sequenceDiagram %}
+```mermaid
+sequenceDiagram
 鍵盤->>標準注音佈局: 1qaz...
 標準注音佈局->>輸出: ㄅㄆㄇㄈ...
-{% endmermaid %}
+```
 
 所以我們就需要一個注音密碼佈局來把 CC1 的輸出 `7890...` 來映射為對應的輸出 `1qaz...`。所以在這個佈局上， `7890` 鍵就分別是輸出 `1qaz`。
 
-{% mermaid sequenceDiagram %}
+```mermaid
+sequenceDiagram
 CC1->>天弦 41 鍵 V5: 7890...
 天弦 41 鍵 V5->>(逆向)標準注音佈局: ㄅㄆㄇㄈ...
 (逆向)標準注音佈局->>輸出: 1qaz...(注音密碼)
-{% endmermaid %}
+```
 
 所以在注音密碼佈局上，`7890` 鍵的輸出就應該是 `1qaz`，這就是套用天弦 41 鍵 V5 和逆向的標準注音佈局的結果。
 

@@ -43,12 +43,13 @@ otherLanguages:
 
 然後這是其運作的序列圖。
 
-{% mermaid sequenceDiagram %}
+```mermaid
+sequenceDiagram
     使用者->>CC1: e + 4\n(ㄑ+ㄜ)
     CC1->>天弦41鍵 V5 : eas4n
     天弦41鍵 V5->>注音輸入法: ㄑㄧˋㄜˊ
     注音輸入法->>輸出: 企鵝
-{% endmermaid %}
+```
 
 所以我在 CC1 上加了 `e + 4 -> eas4n[KSC_00]`　和弦。這個在我的天弦 41 鍵 V5 上，即對應到注音的 `ㄑ+ㄜ -> ㄑㄧˋㄜˊ[KSC_00]`，輸出的字詞 `企鵝` 是由注音輸入法的詞庫決定。
 
@@ -72,11 +73,12 @@ otherLanguages:
 
 然後這是其運作的序列圖。
 
-{% mermaid sequenceDiagram %}
+```mermaid
+sequenceDiagram
     使用者->>CC1: s + h
     CC1->>日文輸入法: susi
     日文輸入法->>輸出: 寿司 (或「すし」的同音詞)
-{% endmermaid %}
+```
 
 ##### 限制
 

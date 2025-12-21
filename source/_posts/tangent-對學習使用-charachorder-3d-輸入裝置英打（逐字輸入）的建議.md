@@ -7,7 +7,8 @@ otherLanguages:
   - text: English Version
     path: https://andy23512.github.io/blog/2025/06/30/tangent-s-suggestions-for-learning-english-character-entry-on-charachorder-3d-input-devices/
 ---
-{% mermaid gantt %}
+```mermaid
+gantt
     title 各學習階段和它們的建議英打速度範圍
     dateFormat X
     axisFormat %s
@@ -17,7 +18,7 @@ otherLanguages:
     練習三元組（Trigram）: 13, 23
     練習單字: 20, 40
     實際使用: milestone, 20, 20
-{% endmermaid %}
+```
 
 ## 記憶鍵盤佈局（無需輸入裝置）
 

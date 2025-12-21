@@ -1,7 +1,7 @@
 ---
 title: Tangent 為 CharaChorder One、CharaChorder Two 和 Master Forge 取名字
 date: 2024-07-26 14:13:03
-updated: 2024-11-26 22:43:33
+updated: 2025-12-21 08:22:04
 categories: [文章, 作品]
 otherLanguages:
   - text: English Version
@@ -41,7 +41,7 @@ otherLanguages:
 
 它的中文名字是直接翻譯，「方程」。
 
-![下載](https://hackmd.io/_uploads/rk5f2LXX1e.png)[^semi_cursive_script]
+![下載](https://hackmd.io/_uploads/rk5f2LXX1e.png)[^行書]
 
 ## Master Forge
 

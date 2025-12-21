@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 CharaChorder 秘訣收集
 date: 2025-11-30 18:14:48
-updated: 2025-12-20 19:15:00
+updated: 2025-12-20 19:24:22
 categories: [筆記, 資源]
 otherLanguages:
   - text: English Version
@@ -45,10 +45,15 @@ otherLanguages:
 
 #### 換層鍵
 
-{% mermaid gantt %}
+```mermaid
+---
+displayMode: compact
+---
+gantt
     dateFormat X
     axisFormat %s
-        title 換層鍵 ( A1: ② | A2: ② )
+    tickInterval 1day
+    title 換層鍵 ( A1: ② | A2: ② )
     section ㅤ
     按下: milestone, done, 1, 1
     放開: milestone, done, 2, 2
@@ -60,7 +65,7 @@ otherLanguages:
     A1: 2, 1s
     A2: active, 3, 1s
     A1: 4, 1s
-{% endmermaid %}
+```
 
 第一種是換層鍵。舉例來說，A1 和 A2 層上的這個鍵的設定動作都是 A2 層，即 ②。
 
@@ -68,7 +73,11 @@ otherLanguages:
 
 #### 單向鎖層鍵
 
-{% mermaid gantt %}
+```mermaid
+---
+displayMode: compact
+---
+gantt
     dateFormat X
     axisFormat %s
     title 單向鎖層鍵 ( A1: ② | A2: 除了層動作以外的任何動作 )
@@ -77,10 +86,11 @@ otherLanguages:
     放開: milestone, done, 2, 2
     按下: milestone, done, 3, 3
     放開: milestone, done, 4, 4
-        section ㅤㅤ
+    tickInterval 1day
+    section ㅤㅤ
     A1: 0, 1
     A2: active, 1, 5
-{% endmermaid %}
+```
 
 第二種是單向鎖層鍵。舉例來說，這個鍵在 A1 上的動作為 ②，但在 A2 上是層動作以外的任何動作。
 
@@ -88,7 +98,11 @@ otherLanguages:
 
 #### 雙向鎖層鍵
 
-{% mermaid gantt %}
+```mermaid
+---
+displayMode: compact
+---
+gantt
     dateFormat X
     axisFormat %s
     title 雙向鎖層鍵 ( A1: ② | A2: ① )
@@ -97,11 +111,12 @@ otherLanguages:
     放開: milestone, done, 2, 2
     按下: milestone, done, 3, 3
     放開: milestone, done, 4, 4
-        section ㅤㅤ
+    tickInterval 1day
+    section ㅤㅤ
     A1: 0, 1s
     A2: active, 1, 2s
     A1: 3, 2s
-{% endmermaid %}
+```
 
 最後一種是雙向鎖層鍵。舉例來說，這個鍵在 A1 上的動作為 ②、在 A2 上的動作為 ①。
 
