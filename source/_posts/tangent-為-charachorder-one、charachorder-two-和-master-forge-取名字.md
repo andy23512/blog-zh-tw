@@ -1,7 +1,7 @@
 ---
 title: Tangent 為 CharaChorder One、CharaChorder Two 和 Master Forge 取名字
 date: 2024-07-26 14:13:03
-updated: 2025-12-21 08:22:04
+updated: 2025-12-21 10:00:01
 categories: [文章, 作品]
 otherLanguages:
   - text: English Version
@@ -55,7 +55,7 @@ otherLanguages:
 
 ![下載 (3)](https://hackmd.io/_uploads/B198Jn_ZJg.png)[^行書]
 
-## 特別附送 1: 這些名稱的精靈文(字體)
+## Bonus 1: 這些名稱的精靈文(字體)
 
 (註：是在 2024/11/06 寫這個章節。)
 精靈文字體現在非常流行。你可以在[這個網站](https://justfont.com/justforfun/elf-bpmf)上試用。
@@ -71,7 +71,7 @@ otherLanguages:
 匠鍛 翔空：
 ![elffont (1)](https://hackmd.io/_uploads/H1Bxxiu-yx.png)
 
-## 特別附送 2: 標語
+## Bonus 2: 標語
 
 順帶一提，我會把 CharaChorder 的標語，「Type at the speed of thought」翻譯為「隨想即打」。
 
