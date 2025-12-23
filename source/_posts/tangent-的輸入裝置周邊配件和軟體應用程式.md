@@ -5,7 +5,7 @@ updated: 2025-03-04T03:06:35.832Z
 categories: [文章, 其他]
 otherLanguages:
   - text: English Version
-    path: https://andy23512.github.io/blog/2024/12/25/tangent-s-accessories-and-software-applications-used-with-input-devices/
+    path: https://andy23512.github.io/blog/2024/12/24/tangent-s-accessories-and-software-applications-used-with-input-devices/
 ---
 ## 配件
 

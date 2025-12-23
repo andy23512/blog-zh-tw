@@ -5,7 +5,7 @@ updated: 2025-11-21T11:30:48.481Z
 categories: [文章, 語言]
 otherLanguages:
   - text: English Version
-    path: https://andy23512.github.io/blog/2024/10/01/tangent-s-explanation-to-the-compatible-languages-of-charachorder-one-charachorder-two-and-master-forge/
+    path: https://andy23512.github.io/blog/2024/09/30/tangent-s-explanation-to-the-compatible-languages-of-charachorder-one-charachorder-two-and-master-forge/
 ---
 ## 簡短總結
 
