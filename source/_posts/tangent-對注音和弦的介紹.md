@@ -1,7 +1,7 @@
 ---
 title: Tangent 對注音和弦的介紹
-date: 2024-09-14 13:53:49
-updated: 2024-11-14 11:55:09
+date: 2024-09-14T05:53:49.031Z
+updated: 2024-11-14T03:55:09.237Z
 categories: [文章, 語言]
 otherLanguages:
   - text: English Version

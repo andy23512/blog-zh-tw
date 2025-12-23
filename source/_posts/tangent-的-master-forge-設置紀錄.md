@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 Master Forge 設置紀錄
-date: 2025-03-13 23:32:48
-updated: 2025-04-15 21:24:27
+date: 2025-03-13T15:32:48.594Z
+updated: 2025-04-15T13:24:27.228Z
 categories: [文章, 經驗]
 otherLanguages:
   - text: English Version

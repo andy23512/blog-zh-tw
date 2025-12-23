@@ -1,7 +1,7 @@
 ---
 title: Tangent 為 CharaChorder One、CharaChorder Two 和 Master Forge 取名字
-date: 2024-07-26 14:13:03
-updated: 2025-12-21 10:00:01
+date: 2024-07-26T06:13:03.199Z
+updated: 2025-12-21T02:00:01.101Z
 categories: [文章, 作品]
 otherLanguages:
   - text: English Version

@@ -1,7 +1,7 @@
 ---
 title: Alnitak 參宿一 - Tangent 所開發的 CharaChorder 3D 輸入裝置練習工具
-date: 2024-05-01 21:47:10
-updated: 2025-12-21 08:30:46
+date: 2024-05-01T13:47:10.863Z
+updated: 2025-12-21T00:30:46.900Z
 categories: [文章, 作品]
 otherLanguages:
   - text: English Version

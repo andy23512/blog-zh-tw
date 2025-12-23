@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 CharaChorder 和 Forge 更新影片非官方播放清單
-date: 2024-10-27 00:14:07
-updated: 2025-12-06 06:56:02
+date: 2024-10-26T16:14:07.966Z
+updated: 2025-12-05T22:56:02.812Z
 categories: [筆記, 資源]
 otherLanguages:
   - text: English Version

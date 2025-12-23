@@ -1,7 +1,7 @@
 ---
 title: Tangent 對 CharaChorder Two 的評價
-date: 2025-01-03 22:15:24
-updated: 2025-10-19 17:47:40
+date: 2025-01-03T14:15:24.280Z
+updated: 2025-10-19T09:47:40.737Z
 categories: [文章, 經驗]
 otherLanguages:
   - text: English Version

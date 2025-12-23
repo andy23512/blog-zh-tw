@@ -1,7 +1,7 @@
 ---
 title: Tangent 的最新和弦列表
-date: 2024-03-27 20:49:00
-updated: 2025-12-11 11:11:48
+date: 2024-03-27T12:49:00.801Z
+updated: 2025-12-11T03:11:48.914Z
 categories: [文章, 和弦]
 otherLanguages:
   - text: English Version

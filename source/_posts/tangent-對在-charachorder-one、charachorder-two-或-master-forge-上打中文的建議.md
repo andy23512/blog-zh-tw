@@ -1,7 +1,7 @@
 ---
 title: Tangent 對在 CharaChorder One、CharaChorder Two 或 Master Forge 上打中文的建議
-date: 2024-07-24 23:51:51
-updated: 2024-12-28 23:19:20
+date: 2024-07-24T15:51:51.795Z
+updated: 2024-12-28T15:19:20.775Z
 categories: [文章, 語言]
 otherLanguages:
   - text: English Version

@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 CharaChorder 和 Forge 常見問答收集
-date: 2024-10-27 12:55:14
-updated: 2025-11-29 13:33:19
+date: 2024-10-27T04:55:14.338Z
+updated: 2025-11-29T05:33:19.905Z
 categories: [筆記, 資源]
 otherLanguages:
   - text: English Version

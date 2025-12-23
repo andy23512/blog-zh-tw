@@ -1,7 +1,7 @@
 ---
 title: Tangent 對學習使用 CharaChorder 3D 輸入裝置英打（逐字輸入）的建議
-date: 2025-07-12 09:16:38
-updated: 2025-12-20 14:47:07
+date: 2025-07-12T01:16:38.846Z
+updated: 2025-12-20T06:47:07.896Z
 categories: [文章, 語言]
 otherLanguages:
   - text: English Version

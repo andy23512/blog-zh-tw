@@ -1,7 +1,7 @@
 ---
 title: TanChord Code (TC Code) - 非官方的、實驗性的 CharaChorder 和弦庫代碼編輯器
-date: 2025-11-23 16:00:54
-updated: 2025-11-24 22:07:48
+date: 2025-11-23T08:00:54.183Z
+updated: 2025-11-24T14:07:48.372Z
 categories: [文章, 作品]
 otherLanguages:
   - text: English Version

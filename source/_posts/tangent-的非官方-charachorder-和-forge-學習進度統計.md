@@ -1,7 +1,7 @@
 ---
 title: Tangent 的非官方 CharaChorder 和 Forge 學習進度統計
-date: 2025-01-21 18:23:40
-updated: 2025-11-29 11:44:32
+date: 2025-01-21T10:23:40.068Z
+updated: 2025-11-29T03:44:32.533Z
 categories: [筆記, 統計]
 otherLanguages:
   - text: English Version

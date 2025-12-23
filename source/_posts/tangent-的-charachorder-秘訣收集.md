@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 CharaChorder 秘訣收集
-date: 2025-11-30 18:14:48
-updated: 2025-12-20 19:24:22
+date: 2025-11-30T10:14:48.226Z
+updated: 2025-12-20T11:24:22.879Z
 categories: [筆記, 資源]
 otherLanguages:
   - text: English Version

@@ -1,7 +1,7 @@
 ---
 title: Tangent 對 CharaChorder One 的評價
-date: 2024-08-14 23:22:08
-updated: 2024-12-29 12:22:13
+date: 2024-08-14T15:22:08.365Z
+updated: 2024-12-29T04:22:13.507Z
 categories: [文章, 經驗]
 otherLanguages:
   - text: English Version
