@@ -1,7 +1,7 @@
 ---
 title: Tangent 對學習使用 CharaChorder 3D 輸入裝置英打（逐字輸入）的建議
 date: 2025-07-12T01:16:38.846Z
-updated: 2025-12-20T06:47:07.896Z
+updated: 2025-12-26T12:49:45.474Z
 categories: [文章, 語言]
 alias: /tangent-對學習使用-charachorder-3d-輸入裝置英打（逐字輸入）的建議/
 otherLanguages:
@@ -61,7 +61,7 @@ gantt
 
 官方提供的練習工具，[dot i/o](https://www.iq-eq.io/#/) 和 [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/)，上面有對應的級別可供練習。你可以跟著上面的圖像指引練習所有的英文字母。
 
-Dot i/o 和 CharaChorder LaunchPad 上並不會顯示 M4G 的預設按鍵佈局。但它們支援的按鍵，在 CC1/2 和 M4G 的預設佈局上，大多都在相同位置。因此你還是可以使用它們來練習 M4G。
+Dot i/o 和 CharaChorder LaunchPad 上只有 CC1 和 CCL 的預覽圖。但 CC2 的預設佈局與 CC1 是一樣的。另外它們支援的按鍵，在 CC1/2 和 M4G 的預設佈局上，大多都在相同位置。因此你還是可以使用它們來練習 CC2 或 M4G。
 
 除此之外，[Alnitak](https://andy23512.github.io/alnitak/) 是一個特別為了練習 CharaChorder 3D 輸入裝置的按鍵佈局所設計的工具。字元鍵，包含數字、字母和符號，被分成數個小課程，使使用者可以一次只專注練習一小部分的按鍵。此外，在使用者達成 20 連擊後，圖像指引會消失，之後打錯字時又會再次顯示。這可以幫助使用者真的記憶按鍵位置，而不是只單純照著圖像指引輸入。
 
