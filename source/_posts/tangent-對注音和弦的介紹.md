@@ -3,7 +3,12 @@ title: Tangent 對注音和弦的介紹
 date: 2024-09-14T05:53:49.031Z
 updated: 2024-11-14T03:55:09.237Z
 categories: [文章, 語言]
-alias: /tangent-對注音和弦的介紹/
+alias:
+  - /2024/09/12/tangent-對注音和弦的介紹/
+  - /2024/09/13/tangent-對注音和弦的介紹/
+  - /2024/09/14/tangent-對注音和弦的介紹/
+  - /2024/09/15/tangent-對注音和弦的介紹/
+  - /2024/09/16/tangent-對注音和弦的介紹/
 otherLanguages:
   - text: English Version
     path: https://andy23512.github.io/blog/tangent-s-introduction-to-bopomofo-chord/

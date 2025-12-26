@@ -3,7 +3,12 @@ title: Tangent 的 CharaChorder 裝置、Master Forge 和 Svalboard 非官方規
 date: 2024-10-27T06:34:17.240Z
 updated: 2025-12-25T05:05:35.774Z
 categories: [筆記, 比較]
-alias: /tangent-的-charachorder-裝置、master-forge-和-svalboard-非官方規格比較筆記/
+alias:
+  - /2024/10/25/tangent-的-charachorder-裝置、master-forge-和-svalboard-非官方規格比較筆記/
+  - /2024/10/26/tangent-的-charachorder-裝置、master-forge-和-svalboard-非官方規格比較筆記/
+  - /2024/10/27/tangent-的-charachorder-裝置、master-forge-和-svalboard-非官方規格比較筆記/
+  - /2024/10/28/tangent-的-charachorder-裝置、master-forge-和-svalboard-非官方規格比較筆記/
+  - /2024/10/29/tangent-的-charachorder-裝置、master-forge-和-svalboard-非官方規格比較筆記/
 otherLanguages:
   - text: English Version
     path: https://andy23512.github.io/blog/tangent-s-unofficial-spec-comparison-note-of-charachorder-devices-master-forge-and-svalboard/

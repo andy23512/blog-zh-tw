@@ -3,7 +3,12 @@ title: Tangent 的非官方 Master Forge 訂單履行統計
 date: 2025-01-15T07:59:16.959Z
 updated: 2025-02-17T12:50:36.617Z
 categories: [筆記, 統計]
-alias: /tangent-的非官方-master-forge-訂單履行統計/
+alias:
+  - /2025/01/13/tangent-的非官方-master-forge-訂單履行統計/
+  - /2025/01/14/tangent-的非官方-master-forge-訂單履行統計/
+  - /2025/01/15/tangent-的非官方-master-forge-訂單履行統計/
+  - /2025/01/16/tangent-的非官方-master-forge-訂單履行統計/
+  - /2025/01/17/tangent-的非官方-master-forge-訂單履行統計/
 otherLanguages:
   - text: English Version
     path: https://andy23512.github.io/blog/tangent-s-unofficial-master-forge-fulfillment-statistic/

@@ -3,7 +3,12 @@ title: TanChord Code (TC Code) - 非官方的、實驗性的 CharaChorder 和弦
 date: 2025-11-23T08:00:54.183Z
 updated: 2025-11-24T14:07:48.372Z
 categories: [文章, 作品]
-alias: /tanchord-code-tc-code-非官方的、實驗性的-charachorder-和弦庫代碼編輯器/
+alias:
+  - /2025/11/21/tanchord-code-tc-code-非官方的、實驗性的-charachorder-和弦庫代碼編輯器/
+  - /2025/11/22/tanchord-code-tc-code-非官方的、實驗性的-charachorder-和弦庫代碼編輯器/
+  - /2025/11/23/tanchord-code-tc-code-非官方的、實驗性的-charachorder-和弦庫代碼編輯器/
+  - /2025/11/24/tanchord-code-tc-code-非官方的、實驗性的-charachorder-和弦庫代碼編輯器/
+  - /2025/11/25/tanchord-code-tc-code-非官方的、實驗性的-charachorder-和弦庫代碼編輯器/
 otherLanguages:
   - text: English Version
     path: https://andy23512.github.io/blog/tanchord-code-tc-code-an-unofficial-experimental-code-editor-for-the-chord-library-of-charachorder-device/

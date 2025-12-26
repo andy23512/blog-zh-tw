@@ -3,7 +3,12 @@ title: Tangent 的 CharaChorder 和 Forge 資源連結收集
 date: 2024-10-27T00:45:43.485Z
 updated: 2025-12-14T13:08:02.713Z
 categories: [筆記, 資源]
-alias: /tangent-的-charachorder-和-forge-資源連結收集/
+alias:
+  - /2024/10/25/tangent-的-charachorder-和-forge-資源連結收集/
+  - /2024/10/26/tangent-的-charachorder-和-forge-資源連結收集/
+  - /2024/10/27/tangent-的-charachorder-和-forge-資源連結收集/
+  - /2024/10/28/tangent-的-charachorder-和-forge-資源連結收集/
+  - /2024/10/29/tangent-的-charachorder-和-forge-資源連結收集/
 otherLanguages:
   - text: English Version
     path: https://andy23512.github.io/blog/tangent-s-collection-of-charachorder-and-forge-resource-links/

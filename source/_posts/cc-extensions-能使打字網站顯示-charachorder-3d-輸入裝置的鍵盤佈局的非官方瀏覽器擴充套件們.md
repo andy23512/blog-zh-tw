@@ -3,7 +3,12 @@ title: CC Extensions - 能使打字網站顯示 CharaChorder 3D 輸入裝置的�
 date: 2025-10-19T12:54:51.906Z
 updated: 2025-11-26T11:39:18.426Z
 categories: [文章, 作品]
-alias: /cc-extensions-能使打字網站顯示-charachorder-3d-輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們/
+alias:
+  - /2025/10/17/cc-extensions-能使打字網站顯示-charachorder-3d-輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們/
+  - /2025/10/18/cc-extensions-能使打字網站顯示-charachorder-3d-輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們/
+  - /2025/10/19/cc-extensions-能使打字網站顯示-charachorder-3d-輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們/
+  - /2025/10/20/cc-extensions-能使打字網站顯示-charachorder-3d-輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們/
+  - /2025/10/21/cc-extensions-能使打字網站顯示-charachorder-3d-輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們/
 otherLanguages:
   - text: English Version
     path: https://andy23512.github.io/blog/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/

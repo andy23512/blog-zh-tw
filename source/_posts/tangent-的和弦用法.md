@@ -3,7 +3,12 @@ title: Tangent 的和弦用法
 date: 2024-11-13T16:34:09.666Z
 updated: 2025-03-23T08:46:02.694Z
 categories: [文章, 和弦]
-alias: /tangent-的和弦用法/
+alias:
+  - /2024/11/12/tangent-的和弦用法/
+  - /2024/11/13/tangent-的和弦用法/
+  - /2024/11/14/tangent-的和弦用法/
+  - /2024/11/15/tangent-的和弦用法/
+  - /2024/11/16/tangent-的和弦用法/
 otherLanguages:
   - text: English Version
     path: https://andy23512.github.io/blog/tangent-s-usages-of-chording/

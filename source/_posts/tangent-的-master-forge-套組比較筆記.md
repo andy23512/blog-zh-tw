@@ -3,7 +3,12 @@ title: Tangent 的 Master Forge 套組比較筆記
 date: 2024-10-27T05:57:12.197Z
 updated: 2025-09-26T14:15:57.317Z
 categories: [筆記, 比較]
-alias: /tangent-的-master-forge-套組比較筆記/
+alias:
+  - /2024/10/25/tangent-的-master-forge-套組比較筆記/
+  - /2024/10/26/tangent-的-master-forge-套組比較筆記/
+  - /2024/10/27/tangent-的-master-forge-套組比較筆記/
+  - /2024/10/28/tangent-的-master-forge-套組比較筆記/
+  - /2024/10/29/tangent-的-master-forge-套組比較筆記/
 otherLanguages:
   - text: English Version
     path: https://andy23512.github.io/blog/tangent-s-bundle-comparison-note-of-master-forge/

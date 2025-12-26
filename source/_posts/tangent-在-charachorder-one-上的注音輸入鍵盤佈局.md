@@ -3,7 +3,12 @@ title: Tangent 在 CharaChorder One 上的注音輸入鍵盤佈局
 date: 2024-03-18T14:33:41.922Z
 updated: 2025-10-05T14:09:18.394Z
 categories: [文章, 佈局]
-alias: /tangent-在-charachorder-one-上的注音輸入鍵盤佈局/
+alias:
+  - /2024/03/16/tangent-在-charachorder-one-上的注音輸入鍵盤佈局/
+  - /2024/03/17/tangent-在-charachorder-one-上的注音輸入鍵盤佈局/
+  - /2024/03/18/tangent-在-charachorder-one-上的注音輸入鍵盤佈局/
+  - /2024/03/19/tangent-在-charachorder-one-上的注音輸入鍵盤佈局/
+  - /2024/03/20/tangent-在-charachorder-one-上的注音輸入鍵盤佈局/
 otherLanguages:
   - text: English Version
     path: https://andy23512.github.io/blog/tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one/
