@@ -3,6 +3,7 @@ title: Tangent 的 CharaChorder 秘訣收集
 date: 2025-11-30T10:14:48.226Z
 updated: 2025-12-20T11:24:22.879Z
 categories: [筆記, 資源]
+alias: /tangent-的-charachorder-秘訣收集/
 otherLanguages:
   - text: English Version
     path: https://andy23512.github.io/blog/2025/11/26/tangent-s-collection-of-charachorder-tips/

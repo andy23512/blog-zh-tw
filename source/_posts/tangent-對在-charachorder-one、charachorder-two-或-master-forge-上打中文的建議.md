@@ -3,6 +3,7 @@ title: Tangent 對在 CharaChorder One、CharaChorder Two 或 Master Forge 上�
 date: 2024-07-24T15:51:51.795Z
 updated: 2024-12-28T15:19:20.775Z
 categories: [文章, 語言]
+alias: /tangent-對在-charachorder-one、charachorder-two-或-master-forge-上打中文的建議/
 otherLanguages:
   - text: English Version
     path: https://andy23512.github.io/blog/2024/07/16/tangent-s-suggestions-for-typing-chinese-on-charachorder-one-charachorder-two-and-master-forge/

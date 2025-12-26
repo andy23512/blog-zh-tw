@@ -3,6 +3,7 @@ title: Alnitak 參宿一 - Tangent 所開發的 CharaChorder 3D 輸入裝置練�
 date: 2024-05-01T13:47:10.863Z
 updated: 2025-12-21T00:30:46.900Z
 categories: [文章, 作品]
+alias: /alnitak-參宿一-tangent-所開發的-charachorder-3d-輸入裝置練習工具/
 otherLanguages:
   - text: English Version
     path: https://andy23512.github.io/blog/2024/05/01/alnitak-a-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent/

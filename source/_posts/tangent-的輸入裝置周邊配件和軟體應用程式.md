@@ -3,6 +3,7 @@ title: Tangent 的輸入裝置周邊配件和軟體應用程式
 date: 2025-01-05T10:37:26.568Z
 updated: 2025-03-04T03:06:35.832Z
 categories: [文章, 其他]
+alias: /tangent-的輸入裝置周邊配件和軟體應用程式/
 otherLanguages:
   - text: English Version
     path: https://andy23512.github.io/blog/2024/12/24/tangent-s-accessories-and-software-applications-used-with-input-devices/

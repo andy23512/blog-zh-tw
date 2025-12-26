@@ -69,6 +69,7 @@ title: ${note.title}
 date: ${moment(note.createdAt).toISOString()}
 updated: ${moment(note.lastChangedAt).toISOString()}
 categories: [${noteTableEntry.category}, ${noteTableEntry.subCategory}]
+alias: /${fileName}/
 otherLanguages:
   - text: English Version
     path: https://andy23512.github.io/blog/${moment(enPostSchema.date).format(

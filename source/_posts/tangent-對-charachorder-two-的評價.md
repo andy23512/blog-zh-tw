@@ -3,6 +3,7 @@ title: Tangent 對 CharaChorder Two 的評價
 date: 2025-01-03T14:15:24.280Z
 updated: 2025-10-19T09:47:40.737Z
 categories: [文章, 經驗]
+alias: /tangent-對-charachorder-two-的評價/
 otherLanguages:
   - text: English Version
     path: https://andy23512.github.io/blog/2024/12/30/tangent-s-review-to-charachorder-two/

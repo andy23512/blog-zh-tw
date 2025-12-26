@@ -3,6 +3,7 @@ title: Tangent 對學習使用 CharaChorder 3D 輸入裝置英打（逐字輸入
 date: 2025-07-12T01:16:38.846Z
 updated: 2025-12-20T06:47:07.896Z
 categories: [文章, 語言]
+alias: /tangent-對學習使用-charachorder-3d-輸入裝置英打（逐字輸入）的建議/
 otherLanguages:
   - text: English Version
     path: https://andy23512.github.io/blog/2025/06/30/tangent-s-suggestions-for-learning-english-character-entry-on-charachorder-3d-input-devices/
