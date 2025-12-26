@@ -6,7 +6,7 @@ categories: [文章, 語言]
 alias: /tangent-對注音和弦的介紹/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.github.io/blog/2024/09/14/tangent-s-introduction-to-bopomofo-chord/
+    path: https://andy23512.github.io/blog/tangent-s-introduction-to-bopomofo-chord/
 ---
 (註：注音和弦為我對聲韻並擊的另一種叫法。)
 

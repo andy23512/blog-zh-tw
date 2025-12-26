@@ -6,7 +6,7 @@ categories: [筆記, 資源]
 alias: /tangent-的-charachorder-秘訣收集/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.github.io/blog/2025/11/26/tangent-s-collection-of-charachorder-tips/
+    path: https://andy23512.github.io/blog/tangent-s-collection-of-charachorder-tips/
 ---
 # 前言
 

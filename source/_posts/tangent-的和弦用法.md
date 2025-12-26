@@ -6,7 +6,7 @@ categories: [文章, 和弦]
 alias: /tangent-的和弦用法/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.github.io/blog/2024/11/13/tangent-s-usages-of-chording/
+    path: https://andy23512.github.io/blog/tangent-s-usages-of-chording/
 ---
 ## 前言
 

@@ -6,7 +6,7 @@ categories: [文章, 語言]
 alias: /tangent-對在-charachorder-one、charachorder-two-或-master-forge-上打中文的建議/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.github.io/blog/2024/07/16/tangent-s-suggestions-for-typing-chinese-on-charachorder-one-charachorder-two-and-master-forge/
+    path: https://andy23512.github.io/blog/tangent-s-suggestions-for-typing-chinese-on-charachorder-one-charachorder-two-and-master-forge/
 ---
 # 簡短總結
 

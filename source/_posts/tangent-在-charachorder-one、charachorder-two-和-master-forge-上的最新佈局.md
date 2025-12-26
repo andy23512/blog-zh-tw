@@ -6,7 +6,7 @@ categories: [文章, 佈局]
 alias: /tangent-在-charachorder-one、charachorder-two-和-master-forge-上的最新佈局/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.github.io/blog/2024/11/03/tangent-s-latest-layout-on-charachorder-one-charachorder-two-and-master-forge/
+    path: https://andy23512.github.io/blog/tangent-s-latest-layout-on-charachorder-one-charachorder-two-and-master-forge/
 ---
 ## 前言
 

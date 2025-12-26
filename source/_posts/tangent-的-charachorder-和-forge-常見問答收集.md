@@ -6,7 +6,7 @@ categories: [筆記, 資源]
 alias: /tangent-的-charachorder-和-forge-常見問答收集/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.github.io/blog/2024/10/10/tangent-s-collection-of-charachorder-and-forge-faq/
+    path: https://andy23512.github.io/blog/tangent-s-collection-of-charachorder-and-forge-faq/
 ---
 註：你也可以查看[CharaChorder 官方文件中的常見問題](https://docs.charachorder.com/FAQs.html)。
 

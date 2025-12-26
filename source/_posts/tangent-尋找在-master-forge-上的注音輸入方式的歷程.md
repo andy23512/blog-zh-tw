@@ -6,7 +6,7 @@ categories: [文章, 佈局]
 alias: /tangent-尋找在-master-forge-上的注音輸入方式的歷程/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.github.io/blog/2024/03/28/tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge/
+    path: https://andy23512.github.io/blog/tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge/
 ---
 # （不採用）方向一：從天弦 41 鍵 V5 的佈局修改
 
