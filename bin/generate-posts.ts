@@ -2,7 +2,7 @@ import { readFileSync, writeFileSync } from "fs";
 import moment from "moment";
 import { Note } from "../model/hackmd.model";
 import { NoteTableEntry } from "../model/note-table-entry.model";
-import { slugify } from "../utils/slugify";
+import { slugify } from "../util/slugify";
 
 function replaceNoteUrl(
   noteContent: string,
