@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 CharaChorder 裝置喚醒問題相關資訊收集
 date: 2025-12-29T06:55:56.161Z
-updated: 2025-12-29T07:20:05.389Z
+updated: 2025-12-29T08:17:04.755Z
 categories: [筆記, 資源]
 alias:
   - /2025/12/27/tangent-的-charachorder-裝置喚醒問題相關資訊收集/
@@ -42,6 +42,10 @@ otherLanguages:
 |MacBook Pro|26|CC2|3.0.0-gamma.4|<div class="check"></div>|
 
 ## 相關資訊
+
+### Windows
+
+* [Enable or Disable Device to Wake Computer in Windows 11](https://www.elevenforum.com/t/enable-or-disable-device-to-wake-computer-in-windows-11.6964/)
 
 ### Mac
 
