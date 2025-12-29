@@ -1,7 +1,7 @@
 ---
 title: Tangent 的 CharaChorder 裝置喚醒問題相關資訊收集
 date: 2025-12-29T06:55:56.161Z
-updated: 2025-12-29T08:17:04.755Z
+updated: 2025-12-29T10:07:33.540Z
 categories: [筆記, 資源]
 alias:
   - /2025/12/27/tangent-的-charachorder-裝置喚醒問題相關資訊收集/
@@ -33,13 +33,13 @@ otherLanguages:
 - 我的 MacBook Pro 與 macOS 26 Tahoe，無法被 CC2 配穩定版 CCOS（CCOS 2.1.0）喚醒，但可以被 CC2 配 CCOS gamma 版本喚醒（CCOS 3.0.0-gamma.4）。
 - 現在仍然沒有足夠的樣本證明這個問題可以只透過更新 macOS 或 CCOS 來修正這個問題。
 
-|電腦|macOS|輸入裝置|CCOS|電腦可以被輸入裝置上的鍵擊喚醒?|
-|-|-|-|-|-|
-|Mac Mini|26|CC2|2.1.0|<div class="check"></div>|
-|Mac Pro|25|CC2|2.1.0|:x:|
-|Mac Pro|25|CC1|2.1.0|:x:|
-|MacBook Pro|26|CC2|2.1.0|:x:|
-|MacBook Pro|26|CC2|3.0.0-gamma.4|<div class="check"></div>|
+|電腦|macOS|輸入裝置|CCOS|轉接頭/集線器|電腦可以被輸入裝置上的鍵擊喚醒?|
+|-|-|-|-|-|-|
+|Mac Mini|26|CC2|2.1.0|USB-C 公轉 USB-A 母轉接頭|<div class="check"></div>|
+|Mac Pro|25|CC2|2.1.0|無|:x:|
+|Mac Pro|25|CC1|2.1.0|無|:x:|
+|MacBook Pro|26|CC2|2.1.0|USB-C 集線器|:x:|
+|MacBook Pro|26|CC2|3.0.0-gamma.4|USB-C 集線器|<div class="check"></div>|
 
 ## 相關資訊
 
