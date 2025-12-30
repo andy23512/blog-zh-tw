@@ -1,5 +1,6 @@
 ---
 title: Tangent 對學習使用 CharaChorder 3D 輸入裝置英打（逐字輸入）的建議
+description: Tangent 分享他對學習使用 CharaChorder 3D 輸入裝置（CharaChorder One、CharaChorder Two 和 Master Forge）英打（逐字輸入）的建議。
 date: 2025-07-12T01:16:38.846Z
 updated: 2025-12-26T12:49:45.474Z
 categories: [文章, 語言]

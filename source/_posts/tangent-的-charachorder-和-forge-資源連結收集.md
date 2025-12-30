@@ -1,5 +1,6 @@
 ---
 title: Tangent 的 CharaChorder 和 Forge 資源連結收集
+description: Tangent 在這個筆記中收集了一些有關 CharaChorder 和 Forge 的有用資源連結。
 date: 2024-10-27T00:45:43.485Z
 updated: 2025-12-14T13:08:02.713Z
 categories: [筆記, 資源]

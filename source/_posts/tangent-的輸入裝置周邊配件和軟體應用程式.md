@@ -1,5 +1,6 @@
 ---
 title: Tangent 的輸入裝置周邊配件和軟體應用程式
+description: Tangent 分享他與輸入裝置（包括鍵盤和 CharaChorder 裝置）一起使用的配件和軟體應用程式。
 date: 2025-01-05T10:37:26.568Z
 updated: 2025-03-04T03:06:35.832Z
 categories: [文章, 其他]

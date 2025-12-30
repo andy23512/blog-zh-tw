@@ -1,5 +1,6 @@
 ---
 title: Tangent 的非官方 CharaChorder 和 Forge 學習進度統計
+description: 這篇筆記是關於 Tangent 從 CharaChorder Discord 伺服器中的 share-your-progress 頻道收集的學習進度（打字速度隨時間變化）統計。
 date: 2025-01-21T10:23:40.068Z
 updated: 2025-11-29T03:44:32.533Z
 categories: [筆記, 統計]

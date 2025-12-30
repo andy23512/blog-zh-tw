@@ -1,5 +1,6 @@
 ---
 title: Tangent 在 CharaChorder One 上的注音輸入鍵盤佈局
+description: Tangent 在這篇文章分享了他為了在 CharaChorder One 上使用注音輸入法所設計的鍵盤佈局。
 date: 2024-03-18T14:33:41.922Z
 updated: 2025-10-05T14:09:18.394Z
 categories: [文章, 佈局]

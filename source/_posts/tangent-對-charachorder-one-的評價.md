@@ -1,5 +1,6 @@
 ---
 title: Tangent 對 CharaChorder One 的評價
+description: Tangent 根據他這近兩年使用 CC1 的經驗來評價 CC1 的優缺點。
 date: 2024-08-14T15:22:08.365Z
 updated: 2024-12-29T04:22:13.507Z
 categories: [文章, 經驗]

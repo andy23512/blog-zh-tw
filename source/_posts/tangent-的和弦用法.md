@@ -1,5 +1,6 @@
 ---
 title: Tangent 的和弦用法
+description: 在這篇筆記，Tangent 說明了他的幾種和弦用法，包含注音和弦和 CharaChorder 和弦，並說明他是如何避免它們之間的衝突。
 date: 2024-11-13T16:34:09.666Z
 updated: 2025-03-23T08:46:02.694Z
 categories: [文章, 和弦]

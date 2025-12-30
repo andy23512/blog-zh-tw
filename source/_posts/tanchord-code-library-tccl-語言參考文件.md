@@ -1,5 +1,6 @@
 ---
 title: TanChord Code Library (TCCL) 語言參考文件
+description: 這是 TanChord Code Library (TCCL) 語言的參考文件。TCCL 是一個在 TanChord Code 編輯器中用來描述和弦庫的語言。
 date: 2025-11-24T12:21:45.804Z
 updated: 2025-11-25T10:03:10.371Z
 categories: [文章, 作品]

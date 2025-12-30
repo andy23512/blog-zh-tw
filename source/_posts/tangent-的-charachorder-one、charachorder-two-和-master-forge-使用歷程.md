@@ -1,5 +1,6 @@
 ---
 title: Tangent 的 Charachorder One、CharaChorder Two 和 Master Forge 使用歷程
+description: Tangent 分享他使用 CharaChorder One、CharaChorder Two 和 Master Forge 的經歷和故事。
 date: 2024-03-27T08:53:19.876Z
 updated: 2025-12-21T00:36:15.329Z
 categories: [文章, 經驗]

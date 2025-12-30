@@ -1,5 +1,6 @@
 ---
 title: Tangent 的 Master Forge 套組比較筆記
+description: Tangent 收集並比較各階段的 Master Forge 套組內容。
 date: 2024-10-27T05:57:12.197Z
 updated: 2025-09-26T14:15:57.317Z
 categories: [筆記, 比較]

@@ -1,5 +1,6 @@
 ---
 title: Tangent 的最新和弦列表
+description: Tangent 在這篇文章分享了他最新的和弦列表。
 date: 2024-03-27T12:49:00.801Z
 updated: 2025-12-11T03:11:48.914Z
 categories: [文章, 和弦]

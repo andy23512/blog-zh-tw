@@ -1,5 +1,6 @@
 ---
 title: Tangent 的 CharaChorder 和 Forge 常見問答收集
+description: Tangent 在這個筆記中收集一些 CharaChoder Discord 伺服器上常見的問答。如此會比較容易管理以及複製貼上。
 date: 2024-10-27T04:55:14.338Z
 updated: 2025-11-29T05:33:19.905Z
 categories: [筆記, 資源]

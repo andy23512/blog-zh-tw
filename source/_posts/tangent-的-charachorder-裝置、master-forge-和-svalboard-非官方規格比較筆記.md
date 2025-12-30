@@ -1,5 +1,6 @@
 ---
 title: Tangent 的 CharaChorder 裝置、Master Forge 和 Svalboard 非官方規格比較筆記
+description: Tangent 在這個非官方的筆記中收集和比較了 CharaChorder 裝置、Master Forge 和 Svalboard 的規格。
 date: 2024-10-27T06:34:17.240Z
 updated: 2025-12-25T05:05:35.774Z
 categories: [筆記, 比較]

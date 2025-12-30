@@ -1,5 +1,6 @@
 ---
 title: Tangent 對注音和弦的介紹
+description: Tangent 在這篇文章介紹了什麼是注音和弦。
 date: 2024-09-14T05:53:49.031Z
 updated: 2024-11-14T03:55:09.237Z
 categories: [文章, 語言]

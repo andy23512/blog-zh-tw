@@ -1,5 +1,6 @@
 ---
 title: CC Extensions - 能使打字網站顯示 CharaChorder 3D 輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們
+description: Tangent 介紹他所開發的 CC 非官方瀏覽器擴充套件集。它們可以在 Keybr 或 Monkeytype 上顯示 CharaChorder 3D 輸入裝置的鍵盤佈局。
 date: 2025-10-19T12:54:51.906Z
 updated: 2025-11-26T11:39:18.426Z
 categories: [文章, 作品]

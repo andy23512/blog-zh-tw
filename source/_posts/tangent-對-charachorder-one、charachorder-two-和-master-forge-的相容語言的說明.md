@@ -1,5 +1,6 @@
 ---
 title: Tangent 對 CharaChorder One、CharaChorder Two 和 Master Forge 的相容語言的說明
+description: Tangent 說明了為什麼 CharaChorder One、CharaChorder Two 和 Master Forge 能夠如普通鍵盤一樣支援所有語言。這篇文章也會解釋到為何一個鍵盤可以藉由作業系統上的鍵盤佈局或語言設定來支援多種語言，以及如何在使用「QWERTY - US」以外的佈局下設定 CC1、CC2 和 M4G。
 date: 2024-10-09T16:55:29.566Z
 updated: 2025-11-21T11:30:48.481Z
 categories: [文章, 語言]

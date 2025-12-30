@@ -1,5 +1,6 @@
 ---
 title: TanChord Code (TC Code) - 非官方的、實驗性的 CharaChorder 和弦庫代碼編輯器
+description: 在這篇文章，Tanget 介紹了 TanChord Code (TC Code)。它是一款非官方的實驗性編輯器，能讓你用類似在代碼編輯器中編輯程式碼的方式，來編輯 CharaChorder 輸入裝置的和弦庫。
 date: 2025-11-23T08:00:54.183Z
 updated: 2025-11-24T14:07:48.372Z
 categories: [文章, 作品]

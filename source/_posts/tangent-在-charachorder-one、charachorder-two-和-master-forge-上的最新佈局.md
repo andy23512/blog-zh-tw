@@ -1,5 +1,6 @@
 ---
 title: Tangent 在 CharaChorder One、CharaChorder Two 和 Master Forge 上的最新佈局
+description: Tangent 解釋他在 CharaChorder One、CharaChorder Two 和 Master Forge 上的最新佈局。
 date: 2024-11-03T04:25:53.994Z
 updated: 2025-12-12T12:48:23.343Z
 categories: [文章, 佈局]

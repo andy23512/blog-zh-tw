@@ -1,5 +1,6 @@
 ---
 title: Tangent 對 Master Forge 的評價
+description: Tangent 在這篇文章中分享了他對 Master Forge 的評價。
 date: 2025-07-19T10:05:48.887Z
 updated: 2025-12-02T12:43:28.603Z
 categories: [文章, 經驗]

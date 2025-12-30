@@ -1,5 +1,6 @@
 ---
 title: Tangent 的 CharaChorder 秘訣收集
+description: Tangent 在這篇筆記中收集了來自他自身、CharaChorder Discord 伺服器和其他相關網站來 CharaChorder 秘訣。
 date: 2025-11-30T10:14:48.226Z
 updated: 2025-12-20T11:24:22.879Z
 categories: [筆記, 資源]

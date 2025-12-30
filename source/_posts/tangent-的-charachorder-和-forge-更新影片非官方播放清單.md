@@ -1,5 +1,6 @@
 ---
 title: Tangent 的 CharaChorder 和 Forge 更新影片非官方播放清單
+description: Tangent 為 CharaChorder 和 Forge 的更新影片建立了一個播放清單。這個是那個播放清單的筆記。
 date: 2024-10-26T16:14:07.966Z
 updated: 2025-12-05T22:56:02.812Z
 categories: [筆記, 資源]

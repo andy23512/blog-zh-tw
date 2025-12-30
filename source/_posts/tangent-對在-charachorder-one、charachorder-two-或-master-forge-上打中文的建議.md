@@ -1,5 +1,6 @@
 ---
 title: Tangent 對在 CharaChorder One、CharaChorder Two 或 Master Forge 上打中文的建議
+description: Tangent 分享了他對在 CharaChorder One、CharaChorder Two 或 Master Forge 上打中文的建議。
 date: 2024-07-24T15:51:51.795Z
 updated: 2024-12-28T15:19:20.775Z
 categories: [文章, 語言]
