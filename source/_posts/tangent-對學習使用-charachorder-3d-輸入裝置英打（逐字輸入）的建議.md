@@ -2,7 +2,7 @@
 title: Tangent 對學習使用 CharaChorder 3D 輸入裝置英打（逐字輸入）的建議
 description: Tangent 分享他對學習使用 CharaChorder 3D 輸入裝置（CharaChorder One、CharaChorder Two 和 Master Forge）英打（逐字輸入）的建議。
 date: 2025-07-12T01:16:38.846Z
-updated: 2025-12-26T12:49:45.474Z
+updated: 2026-01-04T13:38:43.301Z
 categories: [文章, 語言]
 alias:
   - /2025/07/10/tangent-對學習使用-charachorder-3d-輸入裝置英打（逐字輸入）的建議/
@@ -88,7 +88,7 @@ Dot i/o 和 CharaChorder LaunchPad 上只有 CC1 和 CCL 的預覽圖。但 CC2 
   - 在 [CCIO](https://adventure.charachorder.io/) 的 Constitution Test 模組上的 Novice 級別中取得 S 或 S+ 評分
   - [Keybr](https://www.keybr.com/) 上所有字母變為綠色
 
-{% collapsecard "解釋" %}[CCIO] 是官方提供的，具革命性意義的打字練習遊戲和整合平台。它的 Constitution 模組能訓練和測試你對鍵盤佈局的熟悉程度。因為它的鍵盤佈局示意圖並不會標示目前的按鍵位置，我建議是在學好上面提到的按鍵佈局之後再來使用這個模組。
+{% collapsecard "解釋" %}[CCIO](https://adventure.charachorder.io/) 是官方提供的，具革命性意義的打字練習遊戲和整合平台。它的 Constitution 模組能訓練和測試你對鍵盤佈局的熟悉程度。因為它的鍵盤佈局示意圖並不會標示目前的按鍵位置，我建議是在學好上面提到的按鍵佈局之後再來使用這個模組。
 
 此外，[Keybr](https://www.keybr.com/) 有助於使用者學習盲打。如果你已經學好上面提到的按鍵佈局，你可以用 Keybr 來進而強化對字母按鍵的肌肉記憶。它預設的目標速度為 35 WPM，但使用者可能要花上數星期來解鎖第七個字母，並花上數個月完成所有字母，所以這邊是建議使用 30。如果還是覺得太困難，你可以從較低的目標速度開始，再依你的學習進度漸漸增加。
 {% endcollapsecard %}
