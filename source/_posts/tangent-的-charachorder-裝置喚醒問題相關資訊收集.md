@@ -2,7 +2,7 @@
 title: Tangent 的 CharaChorder 裝置喚醒問題相關資訊收集
 description: Tangent 在此筆記收集了有關 CharaChorder 裝置的喚醒問題的相關資訊。
 date: 2025-12-29T06:55:56.161Z
-updated: 2026-01-01T11:46:42.634Z
+updated: 2026-01-01T11:49:50.310Z
 categories: [筆記, 資源]
 alias:
   - /2025/12/27/tangent-的-charachorder-裝置喚醒問題相關資訊收集/
