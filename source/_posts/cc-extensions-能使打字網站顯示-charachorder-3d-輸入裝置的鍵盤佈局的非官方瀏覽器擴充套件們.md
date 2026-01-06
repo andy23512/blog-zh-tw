@@ -2,7 +2,7 @@
 title: CC Extensions - 能使打字網站顯示 CharaChorder 3D 輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們
 description: Tangent 介紹他所開發的 CC 非官方瀏覽器擴充套件集。它們可以在 Keybr 或 Monkeytype 上顯示 CharaChorder 3D 輸入裝置的鍵盤佈局。
 date: 2025-10-19T12:54:51.906Z
-updated: 2025-11-26T11:39:18.426Z
+updated: 2026-01-06T00:44:16.441Z
 categories: [文章, 作品]
 alias:
   - /2025/10/17/cc-extensions-能使打字網站顯示-charachorder-3d-輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們/
@@ -105,13 +105,13 @@ otherLanguages:
 
 ### 選擇使用 React 的原因
 
-如果你去觀察我在其他專案使用的技術堆疊，你會發現我主要是用 Angular 這套前端框架。Angular 是我最熟悉的前端框架，我也在我全端工程師的工作中使用它。然而，我還是能夠使用其他選項開發，比如 React 或者 Vue。
+如果你去觀察我在其他專案使用的技術堆疊，你會發現我主要是用 [Angular](https://angular.dev/) 這套前端框架。Angular 是我最熟悉的前端框架，我也在我全端工程師的工作中使用它。然而，我還是能夠使用其他選項開發，比如 [React](https://react.dev/) 或者 [Vue](https://vuejs.org/)。
 
 在這個擴充套件中，我選擇改用 React，並重寫來自 Alnitak 的鍵盤佈局元件，主要有兩個原因。
 
 第一，Keybr 本身就是用 React 寫的，所以使用一樣的函式庫可以避免使用不同的前端框架或 UI 函式庫時可能會發生的無法預料的問題。（Monkeytype 沒有用前端框架或 UI 函式庫。）
 
-第二個原因是效能問題。Angular 很適合用在開發如 Alnitak 這種複雜的網頁，但它對於這種只顯示一個鍵盤佈局元件的情況會過於笨重。因此，我偏向在這個擴充套件上使用 React 這種輕量的架構來開發。
+第二個原因是效能問題。Angular 很適合用在開發如 Alnitak 這種複雜的網頁，但它對於這種只顯示一個鍵盤佈局元件的情況會過於笨重。因此，我偏向在 CC Extensions 上使用 React 這種輕量的架構來開發。
 
 ### 技術堆疊
 
