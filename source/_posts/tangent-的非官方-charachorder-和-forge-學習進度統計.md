@@ -2,7 +2,7 @@
 title: Tangent 的非官方 CharaChorder 和 Forge 學習進度統計
 description: 這篇筆記是關於 Tangent 從 CharaChorder Discord 伺服器中的 share-your-progress 頻道收集的學習進度（打字速度隨時間變化）統計。
 date: 2025-01-21T10:23:40.068Z
-updated: 2025-11-29T03:44:32.533Z
+updated: 2026-01-14T15:05:25.686Z
 categories: [筆記, 統計]
 alias:
   - /2025/01/19/tangent-的非官方-charachorder-和-forge-學習進度統計/
@@ -64,6 +64,7 @@ otherLanguages:
    d. 在一天內，[keybr.com](https://www.keybr.com/) 上顯示的最高「平均速度」
 4. 所有速度數值會被四捨五入到整數。[^speed_rounded]
 5. 因為中文打字太過特殊以致於很難包含進這個統計中，所以不會被收集進來。很難決定要怎樣把中文的每分鐘多少字轉換成英文的。
+6. CC2.1 上的速度紀錄是記在 CC2 底下。
 
 ## 以練習時間計
 
@@ -81,5 +82,6 @@ otherLanguages:
 1. 當在使用者訊息中或 CharaChorder 追蹤表上有提到使用者的打字速度和對應的總練習時間（或者能計算出其總練習時間）時，就會紀錄一筆資料。
 2. 所有速度數值會被四捨五入到整數。[^speed_rounded]
 3. 跟上面一樣，中文的打字紀錄不會被包含。
+4. CC2.1 上的速度紀錄是記在 CC2 底下。
 
 [^speed_rounded]: MonkeyType (和 CCType) 有個「顯示小數位」設定。如果他設定為關，那顯示的速度會是四捨五入到整數後的結果。因此，一些截圖中的速度會是有小數位的，但一些沒有。所以在這份統計中，所有速度數值都會先四捨五入到整數再被收集。
