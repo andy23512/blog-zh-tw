@@ -2,7 +2,7 @@
 title: Tangent 的 CharaChorder 和 Forge 資源連結收集
 description: Tangent 在這個筆記中收集了一些有關 CharaChorder 和 Forge 的有用資源連結。
 date: 2024-10-27T00:45:43.485Z
-updated: 2025-12-14T13:08:02.713Z
+updated: 2026-01-17T09:04:10.489Z
 categories: [筆記, 資源]
 alias:
   - /2024/10/25/tangent-的-charachorder-和-forge-資源連結收集/
@@ -78,7 +78,16 @@ otherLanguages:
 
 ##### [Firmware Meta API](https://github.com/CharaChorder/CCOS-firmware?tab=readme-ov-file#firmware-meta-api)
 
-##### [CCOS Key Remapping Reference Guide - Google 試算表](https://docs.google.com/spreadsheets/d/1--T9bXshCIC-OVly-CY3rK87fgb7AHgJl3IySh7cmHc/edit?gid=0#gid=0)
+##### ==(部分過時)== [CCOS Key Remapping Reference Guide（CCOS 按鍵映射指南） - Google 試算表](https://docs.google.com/spreadsheets/d/1--T9bXshCIC-OVly-CY3rK87fgb7AHgJl3IySh7cmHc/edit?gid=0#gid=0)
+
+{% collapsecard "詳細" %}這個 CCOS 按鍵映射指南包含三個分頁："Action Codes"（操作碼）、"Switch Location Map"（開關位置圖）和 "Hex Parser"（十六進位碼解析器）。
+
+"Action Codes"（操作碼）分頁已經過時。建議改用上面提到的 Firmware Meta API 提供的操作碼資訊。
+
+"Switch Location Map"（開關位置圖）分頁可以用來查詢 CharaChorder 裝置上每個鍵的 ID。
+
+"Hex Parser"（十六進位碼解析器）分頁可以用來理解和弦輸入按鍵和十六進位碼之間的轉換規則。
+{% endcollapsecard %}
 
 #### 其他
 
