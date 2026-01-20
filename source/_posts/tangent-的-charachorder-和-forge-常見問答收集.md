@@ -2,7 +2,7 @@
 title: Tangent 的 CharaChorder 和 Forge 常見問答收集
 description: Tangent 在這個筆記中收集一些 CharaChoder Discord 伺服器上常見的問答。如此會比較容易管理以及複製貼上。
 date: 2024-10-27T04:55:14.338Z
-updated: 2025-11-29T05:33:19.905Z
+updated: 2026-01-20T11:23:51.611Z
 categories: [筆記, 資源]
 alias:
   - /2024/10/25/tangent-的-charachorder-和-forge-常見問答收集/
@@ -114,3 +114,9 @@ CC2 只在 https://charachorder.io/ 上被支援。
 
 CC1/2 並不是無線的裝置。但是有一款相容的第三方藍牙轉接器可以使用：https://sterlinghawk.com/shop/products/electronics/sterlingkey/.
 
+#### 耗電量
+
+- CC2: 每分鐘約 1 mAh（這是我測到的。）
+
+{% collapsecard "詳細" %}我用了一個 USB 檢測器來量測 CC2 的耗電量，發現它大約每分鐘會消耗 1 mAh 的電能。再根據 Steringkey 和 Steringkey lite 有約 3,400-5,330 mAh 的電池容量，可以算出理論的維持運作的時間為 57-89 小時。再乘上估算的 70% 的效率來計入轉換損耗、溫度和實際使用行為等，較接近現實的維持運作時間為 40-62 小時。
+{% endcollapsecard %}
