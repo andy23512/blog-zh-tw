@@ -2,7 +2,7 @@
 title: Tangent 的 CharaChorder 秘訣收集
 description: Tangent 在這篇筆記中收集了來自他自身、CharaChorder Discord 伺服器和其他相關網站來 CharaChorder 秘訣。
 date: 2025-11-30T10:14:48.226Z
-updated: 2026-01-04T12:17:33.064Z
+updated: 2026-01-21T05:48:24.932Z
 categories: [筆記, 資源]
 alias:
   - /2025/11/28/tangent-的-charachorder-秘訣收集/
@@ -42,13 +42,11 @@ otherLanguages:
 
 ![image](https://hackmd.io/_uploads/B11CXHd--e.png)
 
-### 換層和鎖層鍵
+### 換層、鎖層、層輪替鍵
 
 每個層有其對應的層動作。你可以將這些動作設定在任何鍵上，以在不同層之間切換。它們經常以帶圓圈的數字來表示，如 ①、②、③。
 
-根據你在目標層上的同一位置設定的動作，這個鍵的行為會有所不同。
-
-底下的範例都假設目標層是 A2。
+根據你在其他層上的同一位置設定的動作，這個鍵的行為會有所不同。
 
 #### 換層鍵
 
@@ -128,6 +126,34 @@ gantt
 最後一種是雙向鎖層鍵。舉例來說，這個鍵在 A1 上的動作為 ②、在 A2 上的動作為 ①。
 
 這種鍵的行為像是標準鍵盤上的大寫鎖定（Caps Lock）鍵。當你按下它時，裝置會切換到目標層，再次按下它時，會切回主要層。
+
+
+#### 層輪替鍵
+
+```mermaid
+---
+displayMode: compact
+---
+gantt
+    dateFormat X
+    axisFormat %s
+    title 層輪替鍵 ( A1: ② | A2: ③ | A3: ① )
+    section ㅤ
+    按下: milestone, done, 1, 1
+    放開: milestone, done, 2, 2
+    按下: milestone, done, 3, 3
+    放開: milestone, done, 4, 4
+    按下: milestone, done, 5, 5
+    放開: milestone, done, 6, 6
+    tickInterval 1day
+    section ㅤㅤ
+    A1: 0, 1s
+    A2: active, 1, 2s
+    A3: crit, 3, 2s
+    A1: 5, 2s
+```
+
+第四種是層輪替鍵：能將裝置切換到下一層或上一層的鍵。舉例來說，這個鍵在 A1 上的動作為 ②、在 A2 上的動作為 ③、在 A3 上的動作為 ① 。用這樣的設定，你可以只用這個鍵循環切換所有的層。
 
 ### 實用的快捷鍵
 
