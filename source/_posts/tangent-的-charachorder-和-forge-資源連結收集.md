@@ -12,7 +12,7 @@ alias:
   - /2024/10/29/tangent-的-charachorder-和-forge-資源連結收集/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.github.io/blog/tangent-s-collection-of-charachorder-and-forge-resource-links/
+    path: https://andy23512.com/blog/tangent-s-collection-of-charachorder-and-forge-resource-links/
 ---
 {% blockquote %}
   :information_source: [官方的網頁工具清單在這裡。](https://discord.com/channels/861730583092658206/1300503878495637624)
@@ -210,7 +210,7 @@ GitHub 代碼庫: https://github.com/typing-tech/monkeytype
 #### 部落格
 
 - [我在 HackMD 上的 CharaChorder 和 Forge 筆記清單](https://hackmd.io/@andy23512/ryJT_OfU1e)
-- [我的部落格](https://andy23512.github.io/blog-zh-tw/)（我的 HackMD 筆記的鏡像網站。）
+- [我的部落格](https://andy23512.com/blog-zh-tw/)（我的 HackMD 筆記的鏡像網站。）
 
 #### Anki 牌組
 
@@ -218,10 +218,10 @@ GitHub 代碼庫: https://github.com/typing-tech/monkeytype
 
 #### 網頁應用
 
-- [Alnitak 參宿一](https://andy23512.github.io/alnitak/)：非官方的 CharaChorder 3D 輸入裝置練習工具
-- [Device Comparator](https://andy23512.github.io/device-comparator/)：比較 CharaChorder 裝置、Master Forge 和 Svalboard 的規格的非官方網頁
-- [TanChord Cone (TC Code)](https://andy23512.github.io/tccode/)：非官方的實驗性 CharaChorder 和弦庫代碼編輯器
-- [CCOS Meta Viewer](https://andy23512.github.io/ccos-meta-viewer/)：「CharaChorder 官方韌體 Meta 資訊 API」的非官方資料檢視器
+- [Alnitak 參宿一](https://andy23512.com/alnitak/)：非官方的 CharaChorder 3D 輸入裝置練習工具
+- [Device Comparator](https://andy23512.com/device-comparator/)：比較 CharaChorder 裝置、Master Forge 和 Svalboard 的規格的非官方網頁
+- [TanChord Cone (TC Code)](https://andy23512.com/tccode/)：非官方的實驗性 CharaChorder 和弦庫代碼編輯器
+- [CCOS Meta Viewer](https://andy23512.com/ccos-meta-viewer/)：「CharaChorder 官方韌體 Meta 資訊 API」的非官方資料檢視器
 
 #### 瀏覽器擴充套件
 

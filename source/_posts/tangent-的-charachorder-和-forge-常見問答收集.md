@@ -12,7 +12,7 @@ alias:
   - /2024/10/29/tangent-的-charachorder-和-forge-常見問答收集/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.github.io/blog/tangent-s-collection-of-charachorder-and-forge-faq/
+    path: https://andy23512.com/blog/tangent-s-collection-of-charachorder-and-forge-faq/
 ---
 註：你也可以查看[CharaChorder 官方文件中的常見問題](https://docs.charachorder.com/FAQs.html)。
 

@@ -12,7 +12,7 @@ alias:
   - /2025/03/15/tangent-的-master-forge-設置紀錄/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.github.io/blog/tangent-s-master-forge-set-up-record/
+    path: https://andy23512.com/blog/tangent-s-master-forge-set-up-record/
 ---
 # 開箱 (==Kickstarter 之前的預訂==)
 

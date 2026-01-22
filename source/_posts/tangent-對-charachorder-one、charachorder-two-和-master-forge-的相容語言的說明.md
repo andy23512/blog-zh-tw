@@ -12,7 +12,7 @@ alias:
   - /2024/10/12/tangent-對-charachorder-one、charachorder-two-和-master-forge-的相容語言的說明/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.github.io/blog/tangent-s-explanation-to-the-compatible-languages-of-charachorder-one-charachorder-two-and-master-forge/
+    path: https://andy23512.com/blog/tangent-s-explanation-to-the-compatible-languages-of-charachorder-one-charachorder-two-and-master-forge/
 ---
 ## 簡短總結
 

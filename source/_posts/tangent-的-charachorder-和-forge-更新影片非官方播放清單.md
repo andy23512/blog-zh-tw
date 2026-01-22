@@ -12,7 +12,7 @@ alias:
   - /2024/10/29/tangent-的-charachorder-和-forge-更新影片非官方播放清單/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.github.io/blog/tangent-s-unofficial-playlist-of-charachorder-and-forge-update-videos/
+    path: https://andy23512.com/blog/tangent-s-unofficial-playlist-of-charachorder-and-forge-update-videos/
 ---
 ## YouTube 播放清單
 

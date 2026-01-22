@@ -21,10 +21,10 @@ for (const note of rawNotes) {
 for (const note of notes) {
   const url = note.publishLink.replace("https://hackmd.io", "");
   const fileName = urlToFileName[url];
-  urls.push(`https://andy23512.github.io/blog-zh-tw/${fileName}/`);
+  urls.push(`https://andy23512.com/blog-zh-tw/${fileName}/`);
 }
 const bingJson = {
-  siteUrl: "https://andy23512.github.io/blog-zh-tw/",
+  siteUrl: "https://andy23512.com/blog-zh-tw/",
   urlList: urls,
 };
 writeFileSync("./res/bing-seo.json", JSON.stringify(bingJson, null, 2));

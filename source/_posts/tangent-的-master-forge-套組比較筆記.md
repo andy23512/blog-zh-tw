@@ -12,7 +12,7 @@ alias:
   - /2024/10/29/tangent-的-master-forge-套組比較筆記/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.github.io/blog/tangent-s-bundle-comparison-note-of-master-forge/
+    path: https://andy23512.com/blog/tangent-s-bundle-comparison-note-of-master-forge/
 ---
 ## 比較表
 

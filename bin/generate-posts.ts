@@ -75,7 +75,7 @@ ${[-2, -1, 0, 1, 2]
   .join("\n")}
 otherLanguages:
   - text: English Version
-    path: https://andy23512.github.io/blog/${
+    path: https://andy23512.com/blog/${
       urlToFileName[noteTableEntry.enNoteUrl.replace("https://hackmd.io", "")]
     }/
 ---

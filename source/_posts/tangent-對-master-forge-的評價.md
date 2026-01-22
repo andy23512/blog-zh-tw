@@ -12,7 +12,7 @@ alias:
   - /2025/07/21/tangent-對-master-forge-的評價/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.github.io/blog/tangent-s-review-to-master-forge/
+    path: https://andy23512.com/blog/tangent-s-review-to-master-forge/
 ---
 # Preface
 
@@ -88,4 +88,4 @@ CharaChorder 基於 CC1 和 CC2，在 M4G 嘗試了一些變化和改善。其�
 
 ![image (2)](https://hackmd.io/_uploads/ByKBz83bZl.png)
 
-上面的佈局預覽圖是從我所開發的[佈局檢視器](https://andy23512.github.io/alnitak/layout-viewer)來的。在左側邊欄 > `設定`頁面 > `雜項` > `拇指以外的搖桿的旋轉角度` 那邊，你能調整其旋轉角度來使預覽圖與你的手指移動方向一致。
+上面的佈局預覽圖是從我所開發的[佈局檢視器](https://andy23512.com/alnitak/layout-viewer)來的。在左側邊欄 > `設定`頁面 > `雜項` > `拇指以外的搖桿的旋轉角度` 那邊，你能調整其旋轉角度來使預覽圖與你的手指移動方向一致。

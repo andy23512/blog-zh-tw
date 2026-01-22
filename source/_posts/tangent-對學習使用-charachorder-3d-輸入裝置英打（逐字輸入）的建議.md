@@ -12,7 +12,7 @@ alias:
   - /2025/07/14/tangent-對學習使用-charachorder-3d-輸入裝置英打（逐字輸入）的建議/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.github.io/blog/tangent-s-suggestions-for-learning-english-character-entry-on-charachorder-3d-input-devices/
+    path: https://andy23512.com/blog/tangent-s-suggestions-for-learning-english-character-entry-on-charachorder-3d-input-devices/
 ---
 ```mermaid
 gantt
@@ -32,17 +32,17 @@ gantt
 - 目的：在輸入裝置不在你手邊時，比如它還沒送達時，記憶各個按鍵的位置。
 - 推薦工具：
   - [我製作的預設裝置佈局的字母鍵的 Anki 牌組](https://ankiweb.net/shared/info/1396809787)
-  - 使用 [Alnitak](https://andy23512.github.io/alnitak/) 的 Number, Letter 和 Symbol 課程並開啟隔空模式設定，來進行隔空打字
-  - [Alnitak 的佈局記憶歌](https://andy23512.github.io/alnitak/layout-song)
+  - 使用 [Alnitak](https://andy23512.com/alnitak/) 的 Number, Letter 和 Symbol 課程並開啟隔空模式設定，來進行隔空打字
+  - [Alnitak 的佈局記憶歌](https://andy23512.com/alnitak/layout-song)
 - 推薦目標：
   - 你能在沒有任何圖像輔助的情況下想起每個按鍵的位置。
 
 {% collapsecard "詳細" %}
 [Anki](https://apps.ankiweb.net/) 有個[「影像遮擋」](https://docs.ankiweb.net/editing.html?highlight=image#image-occlusion)功能。你可以下載預設的鍵盤佈局圖片（[CC1/2](https://docs.charachorder.com/_images/CCEnglish2.png) 或 [Master Forge](https://docs.charachorder.com/_images/M4-Layout.png)）後，新增「遮擋了按鍵文字」的卡片來幫你記憶它。我也製作了一個預設佈局上的字母鍵的牌組，你可以[在這邊下載到](https://ankiweb.net/shared/info/1396809787)。
 
-隔空打字就是在沒有輸入裝置的情況下，用手指模仿打字手勢，無論是在隔空、桌子上，甚至在你的手或腿上。我開發的練習工具，[Alnitak 參宿一](https://andy23512.github.io/alnitak)，也有一個隔空模式設定。它會自動用你所設定的速度完成按鍵的訓練，讓你可以跟著它，像在真的裝置上打字一樣移動你的手指。
+隔空打字就是在沒有輸入裝置的情況下，用手指模仿打字手勢，無論是在隔空、桌子上，甚至在你的手或腿上。我開發的練習工具，[Alnitak 參宿一](https://andy23512.com/alnitak)，也有一個隔空模式設定。它會自動用你所設定的速度完成按鍵的訓練，讓你可以跟著它，像在真的裝置上打字一樣移動你的手指。
 
-此外，Alnitak 上還有一首由 AI 生成的[佈局記憶歌](https://andy23512.github.io/alnitak/layout-song)。它能幫助你記住預設佈局。
+此外，Alnitak 上還有一首由 AI 生成的[佈局記憶歌](https://andy23512.com/alnitak/layout-song)。它能幫助你記住預設佈局。
 
 {% endcollapsecard %}
 
@@ -53,13 +53,13 @@ gantt
 - 推薦工具：
   - [dot i/o](https://www.iq-eq.io/#/) 的 Letters 級別
   - [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/) 的 Alphabetic 級別
-  - [Alnitak](https://andy23512.github.io/alnitak/) 的 Number, Letter 和 Symbol 課程
+  - [Alnitak](https://andy23512.com/alnitak/) 的 Number, Letter 和 Symbol 課程
   - [Keybr](https://www.keybr.com/) 的引導、原始碼和數字課程，需搭配 Keybr CC 擴充套件（[Chrome 應用程式商店](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) / [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)）
     - 註：建議在這裡將目標速度（Target Speed）設定改為 15。
   - [Monkeytype](https://monkeytype.com/) 的 English 字集，需搭配 Monkeytype CC 擴充套件（[Chrome 應用程式商店](https://chromewebstore.google.com/detail/mhfjhmegecimjbohhdbflkhdfnaadple) / [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/monkeytype-cc-extension/)）
 - 推薦目標：
   - 在 [dot i/o](https://www.iq-eq.io/#/) 的 Letters 級別或 [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/) 的 Alphabetic 級別達到 13 WPM 速度
-  - 在 [Alnitak](https://andy23512.github.io/alnitak/) 的非複習課程中達到 100 連擊和 100 CPM 速度
+  - 在 [Alnitak](https://andy23512.com/alnitak/) 的非複習課程中達到 100 連擊和 100 CPM 速度
   - [Keybr](https://www.keybr.com/) 上所有字母變為綠色
   - 在 [Monkeytype](https://monkeytype.com/) 的 English 字集達到 13 WPM 速度
 
@@ -69,7 +69,7 @@ gantt
 
 Dot i/o 和 CharaChorder LaunchPad 上只有 CC1 和 CCL 的預覽圖。但 CC2 的預設佈局與 CC1 是一樣的。另外它們支援的按鍵，在 CC1/2 和 M4G 的預設佈局上，大多都在相同位置。因此你還是可以使用它們來練習 CC2 或 M4G。
 
-除此之外，[Alnitak](https://andy23512.github.io/alnitak/) 是一個特別為了練習 CharaChorder 3D 輸入裝置的按鍵佈局所設計的工具。字元鍵，包含數字、字母和符號，被分成數個小課程，使使用者可以一次只專注練習一小部分的按鍵。此外，在使用者達成 20 連擊後，圖像指引會消失，之後打錯字時又會再次顯示。這可以幫助使用者真的記憶按鍵位置，而不是只單純照著圖像指引輸入。
+除此之外，[Alnitak](https://andy23512.com/alnitak/) 是一個特別為了練習 CharaChorder 3D 輸入裝置的按鍵佈局所設計的工具。字元鍵，包含數字、字母和符號，被分成數個小課程，使使用者可以一次只專注練習一小部分的按鍵。此外，在使用者達成 20 連擊後，圖像指引會消失，之後打錯字時又會再次顯示。這可以幫助使用者真的記憶按鍵位置，而不是只單純照著圖像指引輸入。
 
 [Keybr](https://www.keybr.com/) 沒有內建 CharaChorder 3D 輸入裝置的圖像指引，但我開發的瀏覽器擴充套件，Keybr CC Extension（[Chrome 應用程式商店](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) / [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)），可以將其加到 Keybr 上。
 

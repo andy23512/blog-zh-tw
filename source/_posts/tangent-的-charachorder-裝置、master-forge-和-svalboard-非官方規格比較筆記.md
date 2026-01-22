@@ -12,7 +12,7 @@ alias:
   - /2024/10/29/tangent-的-charachorder-裝置、master-forge-和-svalboard-非官方規格比較筆記/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.github.io/blog/tangent-s-unofficial-spec-comparison-note-of-charachorder-devices-master-forge-and-svalboard/
+    path: https://andy23512.com/blog/tangent-s-unofficial-spec-comparison-note-of-charachorder-devices-master-forge-and-svalboard/
 ---
 ## 比較表 
 
@@ -23,7 +23,7 @@ otherLanguages:
 3. CCU 和 CC2.1 跟 CC2 用的是一樣的電路板，所以它們的一些規格會跟 CC2 一樣。 
 4. 如果你有任何問題，你可以在他們的 Discord 伺服器上進一步確認規格。
 5. `???` 是我不確定或者找不到資訊的規格，所以如果你知道任何有用的資源的話，請用 Discord 聯絡我 (Tangent Chang, @andy23512)。
-6. [Device Comparator](https://andy23512.github.io/device-comparator/) 是這個比較筆記的網頁應用程式版。（目前僅有英文版。）
+6. [Device Comparator](https://andy23512.com/device-comparator/) 是這個比較筆記的網頁應用程式版。（目前僅有英文版。）
 
 |                                      | [Master Forge (M4G)](https://forgekeyboard.com/products/master-forge)                                                                | [CCU](https://www.charachorder.com/products/ccu)                                    | [CharaChorder Two (CC2.1)](https://www.charachorder.com/products/cc2)    | CharaChorder Two (CC2)                 | CharaChorder One (CC1)                                                              | [CharaChorder Lite (CCL)](https://www.charachorder.com/products/charachorder-lite) | [CharaChorder X (CCX)](https://www.charachorder.com/products/charachorder-x) | [Svalboard (Sval)](https://svalboard.com/) | 市場領先的鍵盤             |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | --- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------ | -------------------------- |

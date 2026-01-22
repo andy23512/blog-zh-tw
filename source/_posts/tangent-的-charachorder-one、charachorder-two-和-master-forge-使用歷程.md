@@ -12,7 +12,7 @@ alias:
   - /2024/03/29/tangent-的-charachorder-one、charachorder-two-和-master-forge-使用歷程/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.github.io/blog/tangent-s-progress-for-charachorder-one-charachorder-two-and-master-forge/
+    path: https://andy23512.com/blog/tangent-s-progress-for-charachorder-one-charachorder-two-and-master-forge/
 ---
 # 1. 我如何遇見 CharaChorder One (CC1)
 
@@ -94,7 +94,7 @@ M4G，也就是 CC1 的後繼者，它的預覽圖剛出來時，我並沒有考
 
 我在 CC1 上的英文和中文打字速度已經足夠我使用。但是在寫程式時，我在打數字或符號時還是會覺得慢。我想我還是不太熟悉那些鍵的位置，所以想要可以練習那些鍵的工具。我也需要一個好的個人專案來練習一些新的前端技術、語法、和一些我想嘗試的東西。
 
-因此，我最近開始開發了一個新的練習工具，其名為 [Alnitak](https://andy23512.github.io/alnitak/)(參宿一)。在寫本文的時間點， 這個工具已經有「在佈局上強調顯示目前要按的鍵」和「英數字練習課程」的功能。它的最新的功能和詳細資訊，我會更新在<a href="{% post_path alnitak-參宿一-tangent-所開發的-charachorder-3d-輸入裝置練習工具 %}">這篇文章</a>。
+因此，我最近開始開發了一個新的練習工具，其名為 [Alnitak](https://andy23512.com/alnitak/)(參宿一)。在寫本文的時間點， 這個工具已經有「在佈局上強調顯示目前要按的鍵」和「英數字練習課程」的功能。它的最新的功能和詳細資訊，我會更新在<a href="{% post_path alnitak-參宿一-tangent-所開發的-charachorder-3d-輸入裝置練習工具 %}">這篇文章</a>。
 
 ## 12. 喚醒「左右開弓/雙持」
 
