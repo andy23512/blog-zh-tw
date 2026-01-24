@@ -22,7 +22,7 @@ otherLanguages:
 
 ## 連結
 
-- [TanChord Code](https://andy23512.com/tccode/)
+- [TanChord Code](https://andy23512.github.io/tccode/)
 - [GitHub](https://github.com/andy23512/tccode)
 - <a href="{% post_path tanchord-code-library-tccl-語言參考文件 %}">TanChord Code Library (TCCL) 語言參考文件</a>
 
@@ -55,7 +55,7 @@ otherLanguages:
 
 ### 標誌設計
 
-![andy23512.com_tccode_](https://hackmd.io/_uploads/r1DYsVgbbx.png)
+![andy23512.github.io_tccode_](https://hackmd.io/_uploads/r1DYsVgbbx.png)
 
 如果你觀察它的描邊，這個圖標是由兩個圓形和一個直線組成。直線是裡面的圓的切線（Tangent），也是外面的圓的弦（Chord）。這與名稱中的「TanChord」互相呼應。
 

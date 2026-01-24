@@ -22,7 +22,7 @@ otherLanguages:
 
 ## 連結
 
-- [Alnitak](https://andy23512.com/alnitak/)
+- [Alnitak](https://andy23512.github.io/alnitak/)
 - [Github](https://github.com/andy23512/alnitak)
 
 ## 功能

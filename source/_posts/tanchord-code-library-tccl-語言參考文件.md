@@ -16,7 +16,7 @@ otherLanguages:
 ---
 # 前言
 
-TanChord Code Library (TCCL) 語言是一個在 [TanChord Code (TC Code)](https://andy23512.com/tccode/) 用來描述和弦庫的語言。這份參考文件將會解釋它的語法。
+TanChord Code Library (TCCL) 語言是一個在 [TanChord Code (TC Code)](https://andy23512.github.io/tccode/) 用來描述和弦庫的語言。這份參考文件將會解釋它的語法。
 
 建議先讀過 [CharaChorder 官方文件中的和弦頁面](https://docs.charachorder.com/Chords.html)並理解其中的和弦、和弦輸入、和弦輸出、及和弦表示法後，再來讀這份參考文件。
 
@@ -28,7 +28,7 @@ TanChord Code Library (TCCL) 語言是一個在 [TanChord Code (TC Code)](https:
 
 在和弦輸出中，空白字元就是右空白鍵，但你不能在和弦輸入使用這個字元。
 
-而其他按鍵或操作，你可以把對應的 [CCOS 操作碼的編號](https://andy23512.com/ccos-meta-viewer/#/?device=two_s3&version=2.1.1&meta=actions.json)，用角括號包起來，來表示它們。舉例來說，`<558>` 就是啟動一個動態和弦庫的操作，而 `<559>` 就是返回基底和弦庫的操作。
+而其他按鍵或操作，你可以把對應的 [CCOS 操作碼的編號](https://andy23512.github.io/ccos-meta-viewer/#/?device=two_s3&version=2.1.1&meta=actions.json)，用角括號包起來，來表示它們。舉例來說，`<558>` 就是啟動一個動態和弦庫的操作，而 `<559>` 就是返回基底和弦庫的操作。
 
 下面表列出這些按鍵，供參考用。
 

@@ -32,7 +32,7 @@ otherLanguages:
 
 ### 搜尋某個按鍵的位置 
 
-你可以用我開發的 [Alnitak 參宿一上的佈局檢視器](https://andy23512.com/alnitak/layout-viewer)來搜尋按鍵。點擊右上角的放大鏡按鈕，輸入按鍵名稱或者字元後，點選其中一個搜尋結果。佈局檢視器會在佈局圖上點亮那個按鍵。
+你可以用我開發的 [Alnitak 參宿一上的佈局檢視器](https://andy23512.github.io/alnitak/layout-viewer)來搜尋按鍵。點擊右上角的放大鏡按鈕，輸入按鍵名稱或者字元後，點選其中一個搜尋結果。佈局檢視器會在佈局圖上點亮那個按鍵。
 
 佈局檢視器預設是顯示 CC1/CC2 上的預設佈局。如果你是用 Master Forge，你可以在設定頁面中變更佈局設定。
 
@@ -255,7 +255,7 @@ CC 裝置有四種滑鼠速度。
 
 如果你想在 QWERTY-US 以外的其他作業系統鍵盤佈局下用 CC 3D 輸入裝置，或是用它來輸入英文以外的語言，你可以參考<a href="{% post_path tangent-對-charachorder-one、charachorder-two-和-master-forge-的相容語言的說明 %}">我寫的相關文章</a>。
 
-我也有開發了一個[佈局檢視器](https://andy23512.com/alnitak/layout-viewer)來檢視 CC 3D  輸入裝置在不同作業系統鍵盤佈局下的最終輸出字元。它預設是顯示 CC1 / CC2 上的預設佈局，你可以在設定頁面改成 Master Forge (M4G) 的預設佈局。
+我也有開發了一個[佈局檢視器](https://andy23512.github.io/alnitak/layout-viewer)來檢視 CC 3D  輸入裝置在不同作業系統鍵盤佈局下的最終輸出字元。它預設是顯示 CC1 / CC2 上的預設佈局，你可以在設定頁面改成 Master Forge (M4G) 的預設佈局。
 
 ## 其他網站上的秘訣清單
 

@@ -2,7 +2,7 @@
 title: Tangent 的 CharaChorder 和 Forge 資源連結收集
 description: Tangent 在這個筆記中收集了一些有關 CharaChorder 和 Forge 的有用資源連結。
 date: 2024-10-27T00:45:43.485Z
-updated: 2026-01-17T09:04:10.489Z
+updated: 2026-01-24T02:00:22.497Z
 categories: [筆記, 資源]
 alias:
   - /2024/10/25/tangent-的-charachorder-和-forge-資源連結收集/
@@ -210,7 +210,7 @@ GitHub 代碼庫: https://github.com/typing-tech/monkeytype
 #### 部落格
 
 - [我在 HackMD 上的 CharaChorder 和 Forge 筆記清單](https://hackmd.io/@andy23512/ryJT_OfU1e)
-- [我的部落格](https://andy23512.com/blog-zh-tw/)（我的 HackMD 筆記的鏡像網站。）
+- [我的部落格](https://andy23512.github.io/blog-zh-tw/)（我的 HackMD 筆記的鏡像網站。）
 
 #### Anki 牌組
 
@@ -218,10 +218,10 @@ GitHub 代碼庫: https://github.com/typing-tech/monkeytype
 
 #### 網頁應用
 
-- [Alnitak 參宿一](https://andy23512.com/alnitak/)：非官方的 CharaChorder 3D 輸入裝置練習工具
-- [Device Comparator](https://andy23512.com/device-comparator/)：比較 CharaChorder 裝置、Master Forge 和 Svalboard 的規格的非官方網頁
-- [TanChord Cone (TC Code)](https://andy23512.com/tccode/)：非官方的實驗性 CharaChorder 和弦庫代碼編輯器
-- [CCOS Meta Viewer](https://andy23512.com/ccos-meta-viewer/)：「CharaChorder 官方韌體 Meta 資訊 API」的非官方資料檢視器
+- [Alnitak 參宿一](https://andy23512.github.io/alnitak/)：非官方的 CharaChorder 3D 輸入裝置練習工具
+- [Device Comparator](https://andy23512.github.io/device-comparator/)：比較 CharaChorder 裝置、Master Forge 和 Svalboard 的規格的非官方網頁
+- [TanChord Cone (TC Code)](https://andy23512.github.io/tccode/)：非官方的實驗性 CharaChorder 和弦庫代碼編輯器
+- [CCOS Meta Viewer](https://andy23512.github.io/ccos-meta-viewer/)：「CharaChorder 官方韌體 Meta 資訊 API」的非官方資料檢視器
 
 #### 瀏覽器擴充套件
 
@@ -236,6 +236,11 @@ GitHub 代碼庫: https://github.com/typing-tech/monkeytype
 
 - [我做的非官方 CC 和 Forge 學習進度統計 (Google 試算表)](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-GIGZcyrT2rhcVUUot14X00CK7XrqMDSI4gqKdE_8jQtrFqId4hD9-UvE6TS9RZjpaHkmyjfgEBZ6/pubhtml?gid=172953668&single=true)
 - [我做的非官方 CC 和 Forge 練習時間統計 (Google 試算表)](https://docs.google.com/spreadsheets/d/e/2PACX-1vTTqOB5RQPwZrzacRKAhlL9_BQs6r96KV68tnOot-8DCFae2OwiXv02UmqQu1r7nYlDJkpTukP1AhPS/pubhtml?gid=288920510&single=true)
+
+#### 問卷調查
+
+- [State of the Chorder (Google 表單)](https://forms.gle/oLw6Wx4tBjFii3N88)
+  - [State of the Chorder (回覆) (Google 試算表)](https://docs.google.com/spreadsheets/d/163hN9T4CpJ9bLHM7K_lch9bTDIxgqr82DkrEfWrnVmk/edit?usp=sharing)
  
 #### 專案追蹤
 

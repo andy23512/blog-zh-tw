@@ -46,7 +46,7 @@ otherLanguages:
 
 ### 開發這個擴充套件的原因
 
-目前已經有一些可以顯示 CharaChorder 3D 輸入裝置的練習工具，例如 [dot i/o](https://www.iq-eq.io/#/) 和 [Alnitak](https://andy23512.com/alnitak/)。它們有不同的佈局學習策略。然而，Keybr 有著傑出且獨特的學習策略，使得很多 CharaChorder 使用者偏好使用它來練習。然而也有些使用者比起 Keybr，更喜歡使用 Monkeytype。
+目前已經有一些可以顯示 CharaChorder 3D 輸入裝置的練習工具，例如 [dot i/o](https://www.iq-eq.io/#/) 和 [Alnitak](https://andy23512.github.io/alnitak/)。它們有不同的佈局學習策略。然而，Keybr 有著傑出且獨特的學習策略，使得很多 CharaChorder 使用者偏好使用它來練習。然而也有些使用者比起 Keybr，更喜歡使用 Monkeytype。
 
 因此，為了讓它們更符合 CharaChorder 使用者的需要，我決定使 Keybr 和 Monkeytype 能支援顯示 CharaChorder 3D 輸入裝置的佈局。
 
@@ -87,7 +87,7 @@ otherLanguages:
 
 ### 鍵盤佈局設計
 
-在開發鍵盤佈局元件時，我最初的作法是，把 [Alnitak](https://andy23512.com/alnitak/) ——我之前為 CC 3D 輸入裝置開發的練習工具——上的佈局的 SVG 複製過來，做出一個概念驗證版本。下面就是在那個階段時的截圖。在這個版本就已經能偵測 Keybr 上目前的字元並點亮在佈局上的對應按鍵。
+在開發鍵盤佈局元件時，我最初的作法是，把 [Alnitak](https://andy23512.github.io/alnitak/) ——我之前為 CC 3D 輸入裝置開發的練習工具——上的佈局的 SVG 複製過來，做出一個概念驗證版本。下面就是在那個階段時的截圖。在這個版本就已經能偵測 Keybr 上目前的字元並點亮在佈局上的對應按鍵。
 
 ![image](https://hackmd.io/_uploads/S11QFOhkZl.png)
 
