@@ -12,7 +12,7 @@ alias:
   - /2024/10/29/tangent-的-charachorder-和-forge-常見問答收集/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.com/blog/tangent-s-collection-of-charachorder-and-forge-faq/
+    path: https://andy23512.github.io/blog/tangent-s-collection-of-charachorder-and-forge-faq/
 ---
 註：你也可以查看[CharaChorder 官方文件中的常見問題](https://docs.charachorder.com/FAQs.html)。
 
@@ -45,7 +45,7 @@ CC 和 Forge 裝置是在 CCOS 上運作。目前只支援 3 層。然而，有�
 
 #### Kickstarter 前中後，Master Forge 套組的變化
 
-可以查看<a href="{% post_path tangent-的-master-forge-套組比較筆記 %}">我的 M4G 套組比較筆記</a>。
+可以查看[我的 M4G 套組比較筆記](/@andy23512/rklH8Lsxkx)。
 
 #### VIP 會員的內容
 

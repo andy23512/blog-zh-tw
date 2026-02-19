@@ -12,7 +12,7 @@ alias:
   - /2025/12/31/tangent-的-charachorder-裝置喚醒問題相關資訊收集/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.com/blog/tangent-s-collection-for-the-information-about-the-waking-problem-of-charachorder-devices/
+    path: https://andy23512.github.io/blog/tangent-s-collection-for-the-information-about-the-waking-problem-of-charachorder-devices/
 ---
 # 簡短總結
 

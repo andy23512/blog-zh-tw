@@ -12,7 +12,7 @@ alias:
   - /2024/03/29/tangent-的最新和弦列表/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.com/blog/tangent-s-latest-chord-list/
+    path: https://andy23512.github.io/blog/tangent-s-latest-chord-list/
 ---
 {% blockquote %}
 :information_source: 這個和弦表是用我在<a href="{% post_path tangent-的和弦用法 %}">這篇文章</a>中提到的和弦使用方式建立。

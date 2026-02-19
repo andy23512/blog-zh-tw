@@ -12,7 +12,7 @@ alias:
   - /2024/08/16/tangent-對-charachorder-one-的評價/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.com/blog/tangent-s-review-to-charachorder-one/
+    path: https://andy23512.github.io/blog/tangent-s-review-to-charachorder-one/
 ---
 ## 前言
 

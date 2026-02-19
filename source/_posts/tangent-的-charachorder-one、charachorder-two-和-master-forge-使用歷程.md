@@ -12,7 +12,7 @@ alias:
   - /2024/03/29/tangent-的-charachorder-one、charachorder-two-和-master-forge-使用歷程/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.com/blog/tangent-s-progress-for-charachorder-one-charachorder-two-and-master-forge/
+    path: https://andy23512.github.io/blog/tangent-s-progress-for-charachorder-one-charachorder-two-and-master-forge/
 ---
 # 1. 我如何遇見 CharaChorder One (CC1)
 

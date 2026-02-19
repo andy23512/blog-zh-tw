@@ -12,7 +12,7 @@ alias:
   - /2024/03/20/tangent-在-charachorder-one-上的注音輸入鍵盤佈局/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.com/blog/tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one/
+    path: https://andy23512.github.io/blog/tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one/
 ---
 # CharaChorder One (CC1) 上的注音鍵盤佈局
 

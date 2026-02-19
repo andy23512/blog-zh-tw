@@ -12,7 +12,7 @@ alias:
   - /2025/01/05/tangent-對-charachorder-two-的評價/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.com/blog/tangent-s-review-to-charachorder-two/
+    path: https://andy23512.github.io/blog/tangent-s-review-to-charachorder-two/
 ---
 ## 前言
 

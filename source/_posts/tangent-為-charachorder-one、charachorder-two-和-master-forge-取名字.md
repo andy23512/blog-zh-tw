@@ -12,7 +12,7 @@ alias:
   - /2024/07/28/tangent-為-charachorder-one、charachorder-two-和-master-forge-取名字/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.com/blog/tangent-s-giving-chinese-names-and-device-names-to-charachorder-one-charachorder-two-and-master-forge/
+    path: https://andy23512.github.io/blog/tangent-s-giving-chinese-names-and-device-names-to-charachorder-one-charachorder-two-and-master-forge/
 ---
 # 前言
 

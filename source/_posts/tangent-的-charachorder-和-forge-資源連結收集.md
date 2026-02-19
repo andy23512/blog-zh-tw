@@ -12,7 +12,7 @@ alias:
   - /2024/10/29/tangent-的-charachorder-和-forge-資源連結收集/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.com/blog/tangent-s-collection-of-charachorder-and-forge-resource-links/
+    path: https://andy23512.github.io/blog/tangent-s-collection-of-charachorder-and-forge-resource-links/
 ---
 {% blockquote %}
   :information_source: [官方的網頁工具清單在這裡。](https://discord.com/channels/861730583092658206/1300503878495637624)
