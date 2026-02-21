@@ -73,35 +73,35 @@ otherLanguages:
 
 因為 Keybr CC Extension 這個擴充套件是在 Keybr 上被使用，我就從 Keybr 的標誌尋找靈感。Keybr 的標誌是顯示傾斜的鍵盤佈局。於是我做的第一個標誌，就是單純把這個擴充套件顯示的佈局傾斜後截圖產生的。
 
-![image](https://hackmd.io/_uploads/S1J5rvnkbe.png)
+![image](/blog/images/S1J5rvnkbe.png)
 
 但是這個標誌顯示在瀏覽器的工具列時，會變很小，也很難辨識，在使用暗色主題的瀏覽器下問題更嚴重。
 
 為了解決這個問題，我設計了第二個，也就是現在使用的標誌。這個新的標誌就只顯示一個搖桿的佈局圖，並點亮它的北、西、南鍵。這樣設計就形成一個 C 形，與 CharaChorder 彼此呼應，在小尺寸時也能夠辨識。
 
-![icon-128](https://hackmd.io/_uploads/r1QCPP31Zx.png)
+![icon-128](/blog/images/r1QCPP31Zx.png)
 
 而 Monkeytype CC Extension 那邊，我就用 Monkeytype 的主題樣式做了一個類似的。
 
-![icon-128](https://hackmd.io/_uploads/SJyL5eRy-e.png)
+![icon-128](/blog/images/SJyL5eRy-e.png)
 
 ### 鍵盤佈局設計
 
 在開發鍵盤佈局元件時，我最初的作法是，把 [Alnitak](https://andy23512.github.io/alnitak/) ——我之前為 CC 3D 輸入裝置開發的練習工具——上的佈局的 SVG 複製過來，做出一個概念驗證版本。下面就是在那個階段時的截圖。在這個版本就已經能偵測 Keybr 上目前的字元並點亮在佈局上的對應按鍵。
 
-![image](https://hackmd.io/_uploads/S11QFOhkZl.png)
+![image](/blog/images/S11QFOhkZl.png)
 
 由截圖可以發現，鍵盤佈局的樣式與 Keybr 的樣式並不搭。研究過 Keybr 的主題和套用樣式的方式後，我發現它是用 CSS 變數來設定主題顏色和字體的。於是我決定取用這些 CSS 變數並將它們套用到佈局元件上。如此一來就能使佈局元件的樣式能適應不同的 Keybr 主題設定，並使它能夠與 Keybr 上的其他元素搭配。
 
-![screenshot-dark-cc1](https://hackmd.io/_uploads/H1p6TO2yZx.png)
+![screenshot-dark-cc1](/blog/images/H1p6TO2yZx.png)
 
-![screenshot-m4g-light](https://hackmd.io/_uploads/Bkj0a_2JZe.png)
+![screenshot-m4g-light](/blog/images/Bkj0a_2JZe.png)
 
 而在 Monkeytype 那邊，因為它也用 CSS 變數來設定主題顏色和字體，所以我也在 Monkeytype CC Extension 中用一樣的方式處理。 
 
-![screenshot-dark-cc1](https://hackmd.io/_uploads/By-ZogCybx.png)
+![screenshot-dark-cc1](/blog/images/By-ZogCybx.png)
 
-![screenshot-light-m4g](https://hackmd.io/_uploads/HyLbix0yWx.png)
+![screenshot-light-m4g](/blog/images/HyLbix0yWx.png)
 
 ### 選擇使用 React 的原因
 

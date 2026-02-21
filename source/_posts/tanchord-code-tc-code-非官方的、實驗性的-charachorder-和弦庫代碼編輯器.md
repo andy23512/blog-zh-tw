@@ -18,7 +18,7 @@ otherLanguages:
 :information_source: 免責聲明：本編輯器與 CharaChorder 公司沒有隸屬、關聯、授權、認可，或任何正式關聯的關係。
 {% endblockquote %}
 
-![localhost_4300_](https://hackmd.io/_uploads/SkO7J4xbZl.png)
+![localhost_4300_](/blog/images/SkO7J4xbZl.png)
 
 ## 連結
 
@@ -55,7 +55,7 @@ otherLanguages:
 
 ### 標誌設計
 
-![andy23512.github.io_tccode_](https://hackmd.io/_uploads/r1DYsVgbbx.png)
+![andy23512.github.io_tccode_](/blog/images/r1DYsVgbbx.png)
 
 如果你觀察它的描邊，這個圖標是由兩個圓形和一個直線組成。直線是裡面的圓的切線（Tangent），也是外面的圓的弦（Chord）。這與名稱中的「TanChord」互相呼應。
 

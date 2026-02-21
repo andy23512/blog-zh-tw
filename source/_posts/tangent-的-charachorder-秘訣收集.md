@@ -40,7 +40,7 @@ otherLanguages:
 
 一些符號可能比較難打出來，因為你需要按住 Num-Shift 和 Shift 鍵。你可以將這些鍵改到比較容易打的位置。舉例來說，你可以把數字層的半邊的數字鍵改成對應的符號鍵。
 
-![image](https://hackmd.io/_uploads/B11CXHd--e.png)
+![image](/blog/images/B11CXHd--e.png)
 
 ### 換層、鎖層、層輪替鍵
 

@@ -46,7 +46,7 @@ otherLanguages:
 
 舉例來說，這是 `ㄑ+ㄜ -> 企鵝` 和弦。
 
-![未命名](https://hackmd.io/_uploads/SkBHwn2_T.gif)
+![未命名](/blog/images/SkBHwn2_T.gif)
 
 然後這是其運作的序列圖。
 
@@ -76,7 +76,7 @@ sequenceDiagram
 
 舉例來說，底下是 `s+h -> すし(寿司)`　和弦。 (跟 CC1 中文和弦一樣，自動字尾空白也要被取消)
 
-![c3c22ac745ad2320](https://hackmd.io/_uploads/HkPjpxeCa.gif)
+![c3c22ac745ad2320](/blog/images/HkPjpxeCa.gif)
 
 然後這是其運作的序列圖。
 

@@ -20,7 +20,7 @@ Master Forge (M4G) 是 CC1 的接班人，它將不會有拇指的第三搖桿�
 
 從<a href="{% post_path tangent-在-charachorder-one-上的注音輸入鍵盤佈局 %}#V5（最新版）">天弦 41 鍵 V5</a> 來改，這就是一個可能的 M4G 注音佈局。
 
-![localhost_4200_layouts](https://hackmd.io/_uploads/B16h42R2T.png)
+![localhost_4200_layouts](/blog/images/B16h42R2T.png)
 
 但是如你所見，一些小指搖桿上的鍵會被注音符號佔據。這就代表 Num-shift、Shift 和鏡像鍵就會不在它原有的位置。這樣會讓這個佈局很難與英文輸入並存。
 
@@ -38,9 +38,9 @@ Master Forge (M4G) 是 CC1 的接班人，它將不會有拇指的第三搖桿�
 
 為了決定要將哪些注音符號放在同一個鍵，我使用[這個中文字典](https://www.zdic.net/zd/zy/)的注音組合清單，並分別計算兩兩聲母和兩兩韻母的組合重複數目。舉例來說，`ㄅ`和`ㄐ`都有與 `ㄧ`、`ㄧㄝ`、`ㄧㄠ`、`ㄧㄢ`、`ㄧㄣ`和`ㄧㄥ`的組合，所以他們的組合重複數目為 6。然後我把這些數目畫成如下的列聯表。
 
-![localhost_5173_](https://hackmd.io/_uploads/H1v5hWQkC.png)
+![localhost_5173_](/blog/images/H1v5hWQkC.png)
 
-![localhost_5173_ (1)](https://hackmd.io/_uploads/BJbjnWQ1R.png)
+![localhost_5173_ (1)](/blog/images/BJbjnWQ1R.png)
 
 ### 佈局設計歷程
 
@@ -54,7 +54,7 @@ Master Forge (M4G) 是 CC1 的接班人，它將不會有拇指的第三搖桿�
 
 因此我把佈局改為如下圖。
 
-![localhost_4200_layouts (1)](https://hackmd.io/_uploads/rk4ygGQJR.png)
+![localhost_4200_layouts (1)](/blog/images/rk4ygGQJR.png)
 
 我試著將在我的 McBopomofo IME 的分叉專案下試著實作這個佈局，如果結果不錯的話，我會重新考慮是否要買 M4G。
 
@@ -62,11 +62,11 @@ Master Forge (M4G) 是 CC1 的接班人，它將不會有拇指的第三搖桿�
 
 在嘗試之後，McBopomofo 似乎在 `ㄛ-ㄜ-ㄝ` 鍵上有問題，可能是因為他們的組合有重疊，因此我再把佈局改為如下圖。
 
-![localhost_4200_layouts (2)](https://hackmd.io/_uploads/BkX_157yR.png)
+![localhost_4200_layouts (2)](/blog/images/BkX_157yR.png)
 
 右鏡像鍵被換成 `/` 鍵。
 
-![localhost_4200_layouts (3)](https://hackmd.io/_uploads/r17pyqX10.png)
+![localhost_4200_layouts (3)](/blog/images/r17pyqX10.png)
 
 經過更多測試後，似乎這個佈局和 McBopomofo 在用聲韻並擊時不太能夠正常運作，可能因為 McBopomofo 預期輸入要是正確的順序才能正確的判斷要用哪個注音組合。所以我修改這個判斷邏輯來讓它們能正常運作。我將這個佈局命名為天弦 36 鍵，以跟<a href="{% post_path tangent-在-charachorder-one-上的注音輸入鍵盤佈局 %}#%E5%89%B5%E9%80%A0%E6%96%B0%E7%9A%84%E6%B3%A8%E9%9F%B3%E4%BD%88%E5%B1%80---%E5%A4%A9%E5%BC%A6-41-%E9%8D%B5">天弦 41 鍵</a>做區別。
 
@@ -98,7 +98,7 @@ Master Forge (M4G) 是 CC1 的接班人，它將不會有拇指的第三搖桿�
 
 經過多次測試之後，我發現 V1 佈局下，`ㄩㄝ` 會較難打，所以我再調整了一下佈局如下。
 
-![localhost_4200_layouts](https://hackmd.io/_uploads/B1tK9B_kA.png)
+![localhost_4200_layouts](/blog/images/B1tK9B_kA.png)
 
 `ㄩ` and `ㄝ` 鍵現在在同一個方向上，所以打 `ㄩㄝ` 會比較容易。我比較少用到有 `ㄧㄛ` 的字，所以 `ㄧ` 和 `ㄛ` 鍵在反方向是可以接受的。
 
@@ -108,8 +108,8 @@ Master Forge (M4G) 是 CC1 的接班人，它將不會有拇指的第三搖桿�
 
 下面兩張圖分別是那個注音佈局以及對應的 A3 層佈局。
 
-![localhost_4200_layouts](https://hackmd.io/_uploads/B16h42R2T.png)
-![localhost_4200_layouts (1)](https://hackmd.io/_uploads/rkWFRZEdA.png)
+![localhost_4200_layouts](/blog/images/B16h42R2T.png)
+![localhost_4200_layouts (1)](/blog/images/rkWFRZEdA.png)
 
 ##### V2.2
 
@@ -117,7 +117,7 @@ Master Forge (M4G) 是 CC1 的接班人，它將不會有拇指的第三搖桿�
 
 底下是變更後的數字層。
 
-![localhost_4200_layouts (1)](https://hackmd.io/_uploads/HJn_mFv0A.png)
+![localhost_4200_layouts (1)](/blog/images/HJn_mFv0A.png)
 
 - ②: 數字層鎖定 / 解除鍵
 - M箭頭: 滑鼠移動
@@ -130,7 +130,7 @@ Master Forge (M4G) 是 CC1 的接班人，它將不會有拇指的第三搖桿�
 2. 我發現可以用原本的 Num-shift 鍵離開數字層，所以我移除在左拇指中搖桿上的數字層鎖定/解除鍵。
 
 (數字層)
-![localhost_4200_layouts](https://hackmd.io/_uploads/HyGW_X8-1e.png)
+![localhost_4200_layouts](/blog/images/HyGW_X8-1e.png)
 
 ##### V2.4
 
@@ -138,7 +138,7 @@ Master Forge (M4G) 是 CC1 的接班人，它將不會有拇指的第三搖桿�
 
 （數字層）
 
-![localhost_4200_layouts (5)](https://hackmd.io/_uploads/SJhn45Yf-x.png)
+![localhost_4200_layouts (5)](/blog/images/SJhn45Yf-x.png)
 
 ## （不採用）方向三：在 M4G 上使用 3D 按鍵
 

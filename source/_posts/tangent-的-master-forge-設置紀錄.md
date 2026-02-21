@@ -28,16 +28,16 @@ otherLanguages:
 
 在紙箱的兩層之中有一張貼紙。
 
-![20250308_190416](https://hackmd.io/_uploads/H12DkDehJx.jpg)
+![20250308_190416](/blog/images/H12DkDehJx.jpg)
 
 再打開下一層之後，我可以看到攜帶箱、桌墊和其他零件。
 
-![20250308_190441](https://hackmd.io/_uploads/Hkvd1vghye.jpg)
+![20250308_190441](/blog/images/Hkvd1vghye.jpg)
 
 
 ### 在便攜箱外的項目
 
-![image](https://hackmd.io/_uploads/SykFSwx2Jg.png)
+![image](/blog/images/SykFSwx2Jg.png)
 
 - Deskmat: 桌墊
 - Sticker: 貼紙
@@ -49,14 +49,14 @@ otherLanguages:
 
 Cleat 的近照如下圖，它上面帶有一個內六角扳手。 
 
-![image](https://hackmd.io/_uploads/SyGB8vgh1l.png)
+![image](/blog/images/SyGB8vgh1l.png)
 
 
 ### 在便攜箱中的項目
 
 在便攜箱中，有裝置本體和隔板（Splitter）。
 
-![image](https://hackmd.io/_uploads/SkxBTAjRyg.png)
+![image](/blog/images/SkxBTAjRyg.png)
 
 (隔板和裝置在我開箱時就是分開的了。在你開箱時，它們可能也可能不會分開。)
 
@@ -64,7 +64,7 @@ Cleat 的近照如下圖，它上面帶有一個內六角扳手。
 
 我用提供的 USB-C 對 USB-A 連接線來連接我的 M4G 到我的電腦。請確認你是將 M4G 的左接口連到你的電腦。
 
-![20250308_191638](https://hackmd.io/_uploads/HJUeqPghke.jpg)
+![20250308_191638](/blog/images/HJUeqPghke.jpg)
 
 ## 將裝置分為兩邊
 
@@ -72,16 +72,16 @@ Cleat 的近照如下圖，它上面帶有一個內六角扳手。
 
 我用提供的內六角板手來轉下兩半裝置之間的橋上的兩個黑色螺絲。
 
-![20250308_192209](https://hackmd.io/_uploads/Bkl6nwxhkx.jpg)
+![20250308_192209](/blog/images/Bkl6nwxhkx.jpg)
 
 接著我小心的拔出中間的黑色部分（它被稱作 Electrical Bridge，電橋）後，就可以將兩半裝置從金屬橋（它被稱作 Mechanical Bridge）上滑出來。
 
 移下的這些零件可以放在夾板上來避免遺失。
 
-![image](https://hackmd.io/_uploads/BymbRPx3ke.png)
+![image](/blog/images/BymbRPx3ke.png)
 
 分離之後，我用提供的 USB-C 對 USB-C 連接線來將右半裝置的==左接口==與左半裝置的==右接口==連在一起。之後就可以再連接到電腦上使用。
 
-![20250308_192831](https://hackmd.io/_uploads/rkSuJOe2yg.jpg)
+![20250308_192831](/blog/images/rkSuJOe2yg.jpg)
 
 

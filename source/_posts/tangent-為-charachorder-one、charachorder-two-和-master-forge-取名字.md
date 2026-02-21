@@ -40,7 +40,7 @@ otherLanguages:
 
 對我來說，這是目前為止我買的第一個特殊鍵盤。我覺得像是我第一次抵達一個特殊的行星上，上面擁有一些打字及和弦輸入的[外星技術](https://youtu.be/A6WvP191mrk?feature=shared)。
 
-![下載 (2)](https://hackmd.io/_uploads/BkkVkh_bye.png)[^行書]
+![下載 (2)](/blog/images/BkkVkh_bye.png)[^行書]
 
 ### 我的 CharaChorder Two 的名字
 
@@ -48,7 +48,7 @@ otherLanguages:
 
 它的中文名字是直接翻譯，「方程」。
 
-![下載](https://hackmd.io/_uploads/rk5f2LXX1e.png)[^行書]
+![下載](/blog/images/rk5f2LXX1e.png)[^行書]
 
 ## Master Forge
 
@@ -60,7 +60,7 @@ otherLanguages:
 
 它的中文名稱為「翔空」。我覺得這個名稱與 "Exelion" 很搭。 
 
-![下載 (3)](https://hackmd.io/_uploads/B198Jn_ZJg.png)[^行書]
+![下載 (3)](/blog/images/B198Jn_ZJg.png)[^行書]
 
 ## Bonus 1: 這些名稱的精靈文(字體)
 
@@ -70,20 +70,20 @@ otherLanguages:
 底下是上面的名稱的精靈文。
 
 流弦·壹 初星：
-![elffont](https://hackmd.io/_uploads/SJIo1idZye.png)
+![elffont](/blog/images/SJIo1idZye.png)
 
 流弦·貳 方程：
-![elffont](https://hackmd.io/_uploads/BJxA3IXm1x.png)
+![elffont](/blog/images/BJxA3IXm1x.png)
 
 匠鍛 翔空：
-![elffont (1)](https://hackmd.io/_uploads/H1Bxxiu-yx.png)
+![elffont (1)](/blog/images/H1Bxxiu-yx.png)
 
 ## Bonus 2: 標語
 
 順帶一提，我會把 CharaChorder 的標語，「Type at the speed of thought」翻譯為「隨想即打」。
 
-![下載 (4)](https://hackmd.io/_uploads/H1IHAR_-1e.png)[^行書]
+![下載 (4)](/blog/images/H1IHAR_-1e.png)[^行書]
 
-![elffont](https://hackmd.io/_uploads/HJ3MRCuZyg.png)
+![elffont](/blog/images/HJ3MRCuZyg.png)
 
 [^行書]: 這個書法字體是行書。這是界在草書和楷書之間的字體。草書的書寫速度最快，但是難以閱讀。而楷書是最常用的一種字體。如果我們將草書比為速錄機、楷書比為一般鍵盤，那行書就好比是 CharaChorder 和 Forge 裝置的位置。這就是我選這個字體的原因。

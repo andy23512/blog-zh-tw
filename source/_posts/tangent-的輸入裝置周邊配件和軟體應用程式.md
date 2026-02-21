@@ -84,7 +84,7 @@ otherLanguages:
 
 當按下 `alt+shift+[1-5]` 時，鼠標將會移動到對應的線上。
 
-![image](https://hackmd.io/_uploads/ryfRjCb06.png)
+![image](/blog/images/ryfRjCb06.png)
 
 ##### 切換應用程式
 

@@ -67,7 +67,7 @@ otherLanguages:
 
 下圖是在 CC1、CC2 和 M4G 上的倉頡鍵盤佈局。
 
-![localhost_4200_layouts (2)](https://hackmd.io/_uploads/rkwmh3I_0.png)
+![localhost_4200_layouts (2)](/blog/images/rkwmh3I_0.png)
 
 #### 拼音 [拼音類] [內建]
 
@@ -97,11 +97,11 @@ otherLanguages:
 
 下面是倚天26鍵注音在 CC1、CC2 或 M4G 上的佈局圖。
 
-![localhost_4200_layouts](https://hackmd.io/_uploads/rySzmWh_0.png)
+![localhost_4200_layouts](/blog/images/rySzmWh_0.png)
 
 另外下面是許氏注音在 CC1、CC2 或 M4G 上的佈局圖。
 
-![localhost_4200_layouts (1)](https://hackmd.io/_uploads/rkZvjZ2dC.png)
+![localhost_4200_layouts (1)](/blog/images/rkZvjZ2dC.png)
 
 ### 需要修改裝置的佈局，而不需要修改輸入法
 

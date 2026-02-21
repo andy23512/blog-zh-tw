@@ -24,10 +24,10 @@ otherLanguages:
 
 #### 將符號鍵放在主列上
 
-![localhost_4200_layouts (3)](https://hackmd.io/_uploads/SJh3sUV-ke.png)
+![localhost_4200_layouts (3)](/blog/images/SJh3sUV-ke.png)
 
 對應的注音佈局：
-![localhost_4200_layouts](https://hackmd.io/_uploads/ByF157m7kx.png)
+![localhost_4200_layouts](/blog/images/ByF157m7kx.png)
 
 注音輸入法僅能將字元鍵（字母、數字和符號）映射為注音符號，所以我將一些非字元鍵改為符號鍵。這些符號鍵並不會帶有 Shift 按鍵效果，所以它們不會影響到和弦的運作（包含 CC 和弦和注音和弦）。
 
@@ -35,7 +35,7 @@ otherLanguages:
 
 #### 擺放被改掉的非字元鍵
 
-![localhost_4200_layouts (2)](https://hackmd.io/_uploads/S1HFjUNbyg.png)
+![localhost_4200_layouts (2)](/blog/images/S1HFjUNbyg.png)
 
 接著我要為那些原本位置被改為符號的非字元鍵找位置。與 M4G 的預設佈局類似，我將它們放在無名指中搖桿上。
 
@@ -43,7 +43,7 @@ otherLanguages:
 
 #### 數字層鎖定鍵
 
-![localhost_4200_layouts (4)](https://hackmd.io/_uploads/HkIfT8E-Jg.png)
+![localhost_4200_layouts (4)](/blog/images/HkIfT8E-Jg.png)
 
 因為主層上的滑鼠搖桿被一些非字元鍵佔據，所以我改成在數字層上使用滑鼠動作。我設定了一個數字層鎖定鍵來將裝置鎖定為數字層。（然後可以用原本的 Num-shift 鍵來解鎖。）
 
@@ -51,13 +51,13 @@ otherLanguages:
 
 #### 將功能鍵放在左半邊
 
-![localhost_4200_layouts (3)](https://hackmd.io/_uploads/B1wp0YtMWg.png)
+![localhost_4200_layouts (3)](/blog/images/B1wp0YtMWg.png)
 
 為了讓功能鍵更好使用，我把功能鍵放在數字層的左半邊。
 
 #### 設定滑鼠動作鍵
 
-![localhost_4200_layouts (4)](https://hackmd.io/_uploads/HyMARFtf-g.png)
+![localhost_4200_layouts (4)](/blog/images/HyMARFtf-g.png)
 
 - M(箭頭): 滑鼠移動
 - S(箭頭): 滑鼠捲動

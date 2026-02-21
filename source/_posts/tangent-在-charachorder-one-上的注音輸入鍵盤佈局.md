@@ -38,7 +38,7 @@ otherLanguages:
 
 如上所述，在 CC1 上使用現有的注音佈局會有一些問題。為了讓其易學（容易找到對應的鍵）且有效率（可使用聲韻並擊），要為了 CC1 特別設計一個注音佈局，所以我設計出下圖的佈局。
 
-![](https://hackmd.io/_uploads/HJ4V6CjNh.png)
+![](/blog/images/HJ4V6CjNh.png)
 
 這個鍵盤佈局的設計原則為：
 
@@ -56,7 +56,7 @@ otherLanguages:
 
 注音輸入法軟體只能映射文字鍵（英文字母、數字、符號）到注音符號，所以在我的注音佈局上的注音符號鍵，在 CC1 上他就一定要是文字鍵。也考慮到我寫程式上的需要，我用一些程式碼上常用的符號鍵去替代一些非文字鍵。最終的 CC1 鍵盤佈局如下圖。
 
-![](https://hackmd.io/_uploads/HJWzu13Nn.png)
+![](/blog/images/HJWzu13Nn.png)
 
 鍵盤佈局的 CSV 檔在此：https://raw.githubusercontent.com/andy23512/setting-files/master/CharaChorder/cc1-layout.csv
 
@@ -74,8 +74,8 @@ otherLanguages:
 
 使用這個佈局一段時間後，我發現了一些問題，所以做了一些調整。
 
-![](https://hackmd.io/_uploads/rywIbxeg6.png)
-![](https://hackmd.io/_uploads/Hk1ktlxxT.png)
+![](/blog/images/rywIbxeg6.png)
+![](/blog/images/Hk1ktlxxT.png)
 
 1. 所有韻母（ㄦ以外[^err]）移到右手的拇指搖桿，以符合注音符號表的分組。（原 Dup 移到左滑鼠鍵搖桿的北鍵。）此改變也讓常用的韻母 `ㄢㄣㄤㄥ` 被放在拇指的第一搖桿。這有助於提升輸入效率。
 2. 所有聲調（一聲以外）移到右手的無名指搖桿。
@@ -91,7 +91,7 @@ otherLanguages:
 新的 CC1 佈局檔： https://raw.githubusercontent.com/andy23512/setting-files/master/CharaChorder/cc1-layout-v3.csv
 小麥注音更新： https://github.com/andy23512/McBopomofo/commit/e33883e3f7d189bf18d339c7a02d0072899848fc
 
-![localhost_4200_layouts (1)](https://hackmd.io/_uploads/Hk80ZYEEa.png)
+![localhost_4200_layouts (1)](/blog/images/Hk80ZYEEa.png)
 
 ##### V4
 
@@ -101,7 +101,7 @@ otherLanguages:
 
 小麥注音更新： https://github.com/andy23512/McBopomofo/commit/35b7eccbe94c184d9edee9d11471076702660ec2
 
-![image](https://hackmd.io/_uploads/r1sZj6tSp.png)
+![image](/blog/images/r1sZj6tSp.png)
 
 ##### V5（最新版）
 
@@ -110,7 +110,7 @@ otherLanguages:
 新的 CC1 佈局檔： https://raw.githubusercontent.com/andy23512/setting-files/master/CharaChorder/cc1-layout-v5.csv
 小麥注音更新： https://github.com/andy23512/McBopomofo/commit/fe53eda098250384d600af04d44e2139dc492fef
 
-![localhost_4200_layouts](https://hackmd.io/_uploads/S1seckdIp.png)
+![localhost_4200_layouts](/blog/images/S1seckdIp.png)
 
 ##### V5.1 (滑鼠鍵調整)
 
@@ -121,11 +121,11 @@ otherLanguages:
 
 ###### 主要層
 
-![localhost_4200_layouts](https://hackmd.io/_uploads/By-7Cw_j6.png)
+![localhost_4200_layouts](/blog/images/By-7Cw_j6.png)
 
 ###### 數字層
 
-![localhost_4200_layouts (1)](https://hackmd.io/_uploads/HkzXE__ia.png)
+![localhost_4200_layouts (1)](/blog/images/HkzXE__ia.png)
 
 - ②: 數字層鎖定 / 解除鍵
 - M箭頭: 滑鼠移動
@@ -140,7 +140,7 @@ CC 裝置管理系統匯出的備份檔： https://github.com/andy23512/setting-
 
 ###### 數字層
 
-![localhost_4200_layouts](https://hackmd.io/_uploads/rkWnAPlyA.png)
+![localhost_4200_layouts](/blog/images/rkWnAPlyA.png)
 
 CC 裝置管理系統匯出的備份檔：https://github.com/andy23512/setting-files/blob/master/CharaChorder/backup-ONE-v5.2.json
 
@@ -179,7 +179,7 @@ CC 裝置管理系統匯出的備份檔：https://github.com/andy23512/setting-f
 因為注音密碼相依於標準鍵盤，我不能直接在我的注音佈局上直接打出來。所以我用 [Ukelele](https://software.sil.org/ukelele/) 製作了一個新的佈局來映射 CC1 的輸出到對應的注音密碼。
 
 對應到天弦 41 鍵 V5 的注音密碼佈局如下圖所示：
-![image](https://hackmd.io/_uploads/HyVN_pdpp.png)
+![image](/blog/images/HyVN_pdpp.png)
 
 看起來很像有人把鍵盤上的鍵隨便亂排之後的結果，但實際上這是我的注音佈局 V5 與標準鍵盤佈局組合後的結果。
 
@@ -210,7 +210,7 @@ CC1->>天弦 41 鍵 V5: 7890...
 
 所以在注音密碼佈局上，`7890` 鍵的輸出就應該是 `1qaz`，這就是套用天弦 41 鍵 V5 和逆向的標準注音佈局的結果。
 
-![upload_b72eeab34a7f164d74dcf73a19b18b3c](https://hackmd.io/_uploads/ByoFE7l0p.png)
+![upload_b72eeab34a7f164d74dcf73a19b18b3c](/blog/images/ByoFE7l0p.png)
 
 ### 自訂快捷鍵
 
@@ -228,7 +228,7 @@ CC1->>天弦 41 鍵 V5: 7890...
 
 舉例來說，在我的<a href="{% post_path tangent-尋找在-master-forge-上的注音輸入方式的歷程 %}#V2">天弦 36 鍵 V2</a> 注音佈局中，當我打「問（ㄨㄣ、）」字時，我用注音和弦輸入「ㄨ+ㄣ」(對應的鍵為`t+d`)後立刻輸入四聲`、`(對應的鍵為`;`)。這個 `;` 鍵就會觸發標點符號琶音功能，因此 CharaChorder 裝置似乎就會輸出空白鍵、`;` 鍵、左方向鍵、退格鍵、右方向鍵。
 
-![](https://hackmd.io/_uploads/S1zHh4VVC.gif)
+![](/blog/images/S1zHh4VVC.gif)
 
 (ㄨㄣ 加上空白鍵即會打出了「溫」字。退格鍵就會刪掉這個「溫」字。
 
