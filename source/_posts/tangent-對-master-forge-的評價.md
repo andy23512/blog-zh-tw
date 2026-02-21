@@ -12,7 +12,7 @@ alias:
   - /2025/07/21/tangent-對-master-forge-的評價/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.com/blog/tangent-s-review-to-master-forge/
+    path: https://andy23512.github.io/blog/tangent-s-review-to-master-forge/
 ---
 # Preface
 
@@ -46,11 +46,11 @@ M4G 的聲音我聽起來像是某種舒壓玩具。
 
 ## 搖桿的方向
 
-![upload_a45280e7fdf4afcba42c893752ed8bda](https://hackmd.io/_uploads/r1XjXCIIZg.jpg)
+![upload_a45280e7fdf4afcba42c893752ed8bda](/blog/images/r1XjXCIIZg.jpg)
 
 CC1 和 CC2 上的搖桿的方向（上面的照片中的紅線），與我對應的手指的方向幾乎一致。這使得它們使用起來相當直覺。
 
-![image (1)](https://hackmd.io/_uploads/r1T6-Uhb-x.png)
+![image (1)](/blog/images/r1T6-Uhb-x.png)
 
 但在 M4G 上，在一些秀出 M4G 的電路板的影片中，例如[這個影片](https://youtu.be/gu8rpQNdFg4?feature=shared)，可以看到拇指以外的搖桿的方向是與 Digitizer（半個 M4G）對齊的，如上面的照片中的紅線所示。
 
@@ -60,7 +60,7 @@ CC1 和 CC2 上的搖桿的方向（上面的照片中的紅線），與我對�
 
 ### 附註
 
-![image (2)](https://hackmd.io/_uploads/ByKBz83bZl.png)
+![image (2)](/blog/images/ByKBz83bZl.png)
 
 上面的佈局預覽圖是從我所開發的[佈局檢視器](https://andy23512.github.io/alnitak/layout-viewer)來的。在左側邊欄 > `設定`頁面 > `雜項` > `拇指以外的搖桿的旋轉角度` 那邊，你能調整其旋轉角度來使預覽圖與你的手指移動方向一致。
 

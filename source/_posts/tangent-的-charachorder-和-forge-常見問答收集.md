@@ -45,7 +45,7 @@ CC 和 Forge 裝置是在 CCOS 上運作。目前只支援 3 層。然而，有�
 
 #### Kickstarter 前中後，Master Forge 套組的變化
 
-可以查看[我的 M4G 套組比較筆記](/@andy23512/rklH8Lsxkx)。
+可以查看<a href="{% post_path tangent-的-master-forge-套組比較筆記 %}">我的 M4G 套組比較筆記</a>。
 
 #### VIP 會員的內容
 
