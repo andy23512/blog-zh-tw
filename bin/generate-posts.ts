@@ -118,7 +118,7 @@ ${replaceNoteUrl(
     .replaceAll(":::", "{% endblockquote %}")
     .replaceAll(/\[^\w+\]/g, " $0")
     .replaceAll(":heavy_check_mark:", '<div class="check"></div>')
-    .replaceAll("https://hackmd.io/_uploads/", "/blog/images/"),
+    .replaceAll("https://hackmd.io/_uploads/", "/blog-zh-tw/images/"),
   urlToFileName,
 )}
 `;

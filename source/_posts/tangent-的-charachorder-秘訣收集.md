@@ -2,7 +2,7 @@
 title: Tangent 的 CharaChorder 秘訣收集
 description: Tangent 在這篇筆記中收集了來自他自身、CharaChorder Discord 伺服器和其他相關網站的 CharaChorder 秘訣。
 date: 2025-11-30T10:14:48.226Z
-updated: 2026-01-21T05:48:24.932Z
+updated: 2026-03-08T13:31:45.291Z
 categories: [筆記, 資源]
 alias:
   - /2025/11/28/tangent-的-charachorder-秘訣收集/
@@ -40,7 +40,7 @@ otherLanguages:
 
 一些符號可能比較難打出來，因為你需要按住 Num-Shift 和 Shift 鍵。你可以將這些鍵改到比較容易打的位置。舉例來說，你可以把數字層的半邊的數字鍵改成對應的符號鍵。
 
-![image](/blog/images/B11CXHd--e.png)
+![image](/blog-zh-tw/images/B11CXHd--e.png)
 
 ### 換層、鎖層、層輪替鍵
 
@@ -123,7 +123,7 @@ gantt
     A1: 3, 2s
 ```
 
-最後一種是雙向鎖層鍵。舉例來說，這個鍵在 A1 上的動作為 ②、在 A2 上的動作為 ①。
+第三種是雙向鎖層鍵。舉例來說，這個鍵在 A1 上的動作為 ②、在 A2 上的動作為 ①。
 
 這種鍵的行為像是標準鍵盤上的大寫鎖定（Caps Lock）鍵。當你按下它時，裝置會切換到目標層，再次按下它時，會切回主要層。
 
