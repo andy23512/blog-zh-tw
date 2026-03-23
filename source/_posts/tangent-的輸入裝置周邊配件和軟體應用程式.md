@@ -2,7 +2,7 @@
 title: Tangent 的輸入裝置周邊配件和軟體應用程式
 description: Tangent 分享他與輸入裝置（包括鍵盤和 CharaChorder 裝置）一起使用的配件和軟體應用程式。
 date: 2025-01-05T10:37:26.568Z
-updated: 2026-01-06T12:13:32.274Z
+updated: 2026-03-23T11:09:13.721Z
 categories: [文章, 其他]
 alias:
   - /2025/01/03/tangent-的輸入裝置周邊配件和軟體應用程式/
@@ -36,11 +36,13 @@ otherLanguages:
 
 ### 軟體應用程式 （MacOS 上）
 
-#### Karabiner
+#### ==（現在不再使用）== Karabiner
 
-[Karabiner](https://karabiner-elements.pqrs.org/) 是我用來在軟體端修改按鍵的應用程式。
+[Karabiner](https://karabiner-elements.pqrs.org/) 是我以前用來在軟體端修改按鍵的應用程式。
 
-我用它來交換 CC2 上的 command 和 ctrl 鍵，以及將一般鍵盤上的右 option 鍵改成 ctrl 鍵。
+我以前用它來交換 CC2 上的 command 和 ctrl 鍵，以及將一般鍵盤上的右 option 鍵改成 ctrl 鍵。
+
+但 Karabiner 與 CCOS 3.0.0 有點功能衝突，它會讓首字大寫和弦修飾器壞掉。因為這個問題，我不再使用 Karabiner，而是改用 CC2 上的 `Command Control 交換` 設定。
 
 #### Hammerspoon
 

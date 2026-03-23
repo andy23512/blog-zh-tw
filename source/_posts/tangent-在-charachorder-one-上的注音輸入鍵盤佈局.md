@@ -2,7 +2,7 @@
 title: Tangent 在 CharaChorder One 上的注音輸入鍵盤佈局
 description: Tangent 在這篇文章分享了他為了在 CharaChorder One 上使用注音輸入法所設計的鍵盤佈局。
 date: 2024-03-18T14:33:41.922Z
-updated: 2025-10-05T14:09:18.394Z
+updated: 2026-03-23T11:13:48.636Z
 categories: [文章, 佈局]
 alias:
   - /2024/03/16/tangent-在-charachorder-one-上的注音輸入鍵盤佈局/
@@ -45,7 +45,7 @@ otherLanguages:
 1. 注音符號盡可能用注音符號表順序排列。
 2. 設計聲母（圖上紅色鍵）、介音（圖上綠色鍵）、韻母（圖上藍色鍵）的位置，使得所有注音組合均可用聲韻並擊。（左手：聲母、右手中指和食指：介音、右手拇指和無名指：韻母）
 3. 保留 Dup 鍵的位置，因為它無法在輸入法軟體中被對應到一個注音符號，並且我不想影響到已經學好的 CC1 英文打字。
-4. 常用鍵盡可能保留位置，例如 ctrl 鍵 (在我的 Mac 上被 Karabiner 重新映射為 command 鍵)、backspace 鍵、enter 鍵、（右）空白鍵。
+4. 常用鍵盡可能保留位置，例如 ctrl 鍵 (使用 CC 裝置的 `Command Control 交換` 設定替換為 command 鍵)、backspace 鍵、enter 鍵、（右）空白鍵。
 5. 常用的注音符號放在食指或中指的搖桿上。
 
 #### 實作（V1）

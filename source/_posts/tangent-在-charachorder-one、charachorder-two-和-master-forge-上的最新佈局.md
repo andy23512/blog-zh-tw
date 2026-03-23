@@ -2,7 +2,7 @@
 title: Tangent 在 CharaChorder One、CharaChorder Two 和 Master Forge 上的最新佈局
 description: Tangent 解釋他在 CharaChorder One、CharaChorder Two 和 Master Forge 上的最新佈局。
 date: 2024-11-03T04:25:53.994Z
-updated: 2025-12-12T12:48:23.343Z
+updated: 2026-03-23T11:11:04.420Z
 categories: [文章, 佈局]
 alias:
   - /2024/11/01/tangent-在-charachorder-one、charachorder-two-和-master-forge-上的最新佈局/
@@ -39,7 +39,7 @@ otherLanguages:
 
 接著我要為那些原本位置被改為符號的非字元鍵找位置。與 M4G 的預設佈局類似，我將它們放在無名指中搖桿上。
 
-`LW` 和 `RW` 是 左和右 GUI 鍵。（Windows 上的 Windows 鍵、Mac 上的 Command 鍵） 它們在我的 Mac 上實際上是 `Ctrl` 鍵。因為我使用了 Karabiner 來交換 CC1 上的 `Ctrl` 和 `Command` 鍵。
+`LW` 和 `RW` 是 左和右 GUI 鍵。（Windows 上的 Windows 鍵、Mac 上的 Command 鍵） 它們在我的 Mac 上實際上是 `Ctrl` 鍵。因為我使用了 CC1、CC2 和 M4G 上的 `Command Control 交換` 設定來交換  `Ctrl` 和 `Command` 鍵。
 
 #### 數字層鎖定鍵
 
