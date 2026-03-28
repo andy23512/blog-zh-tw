@@ -2,7 +2,7 @@
 title: Tangent 為 CharaChorder One、CharaChorder Two 和 Master Forge 取名字
 description: 在這篇文章，Tangent 講解了他為 CharaChorder One、CharaChorder Two 和 Master Forge 取的中文和英文名字。 
 date: 2024-07-26T06:13:03.199Z
-updated: 2025-12-21T02:00:01.101Z
+updated: 2026-03-28T10:50:27.525Z
 categories: [文章, 作品]
 alias:
   - /2024/07/24/tangent-為-charachorder-one、charachorder-two-和-master-forge-取名字/
@@ -85,5 +85,20 @@ otherLanguages:
 ![下載 (4)](/blog-zh-tw/images/H1IHAR_-1e.png)[^行書]
 
 ![elffont](/blog-zh-tw/images/HJ3MRCuZyg.png)
+
+## Bonus 3: CharaChorder Lite、CharaChorder X 和 CCU 的中文名稱
+
+### CharaChorder Lite
+
+我會把 "CharaChorder Lite" 翻譯成「流弦・簡」。因為相較於其他 CC 3D 輸入裝置來說，CC Lite 的學習曲線相對比較緩和。
+
+### CharaChorder X
+
+"CharaChorder X" 被我翻譯成「流弦・容」。因為 CCX 可以與不同的鍵盤相容。
+
+### CCU
+
+我選擇「流弦・由你」作為 "CCU" 的翻譯。「由」與 U 的發音相近。並且「
+由你」相當符合 CCU 的理念。
 
 [^行書]: 這個書法字體是行書。這是界在草書和楷書之間的字體。草書的書寫速度最快，但是難以閱讀。而楷書是最常用的一種字體。如果我們將草書比為速錄機、楷書比為一般鍵盤，那行書就好比是 CharaChorder 和 Forge 裝置的位置。這就是我選這個字體的原因。
