@@ -2,7 +2,7 @@
 title: Tangent 的最新和弦列表
 description: Tangent 在這篇文章分享了他最新的和弦列表。
 date: 2024-03-27T12:49:00.801Z
-updated: 2025-12-11T03:11:48.914Z
+updated: 2026-04-13T13:47:19.910Z
 categories: [文章, 和弦]
 alias:
   - /2024/03/25/tangent-的最新和弦列表/
@@ -26,6 +26,9 @@ otherLanguages:
 |輸入|輸出|描述|
 |-|-|-|
 |`[`+`]`|`- [ ]`|這個是Markdown 擴充格式的[任務清單項目](https://www.markdownguide.org/extended-syntax/#task-lists)。在我的全端工作上很常用。|
+|o+s+a|/opsx-apply|一個常用的 [OpenSpec](https://openspec.dev/) 指令|
+|o+s+p|/opsx-propose|一個常用的 [OpenSpec](https://openspec.dev/) 指令|
+|o+s+x|/opsx-archive|一個常用的 [OpenSpec](https://openspec.dev/) 指令|
 |a+n+o|annotation|"annotation" 是我全端工作上常用到的字。|
 |b+n|backend|Backend 是我在做全端工作時的常用字。|
 |b+l|boolean|`boolean` 是在 TypeScript 常用的型別。|
