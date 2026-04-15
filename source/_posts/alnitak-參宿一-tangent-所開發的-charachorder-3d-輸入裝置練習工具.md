@@ -2,7 +2,7 @@
 title: Alnitak 參宿一 - Tangent 所開發的 CharaChorder 3D 輸入裝置練習工具
 description: Tangent 在這篇文章介紹了 Alnitak 參宿一，他所開發的 CharaChorder One 練習工具。
 date: 2024-05-01T13:47:10.863Z
-updated: 2025-12-21T00:30:46.900Z
+updated: 2026-04-15T14:26:29.682Z
 categories: [文章, 作品]
 alias:
   - /2024/04/29/alnitak-參宿一-tangent-所開發的-charachorder-3d-輸入裝置練習工具/
@@ -106,6 +106,7 @@ otherLanguages:
 - 作業系統 Logo 圖標: [font-logos](https://github.com/lukas-w/font-logos)
 - Tooltip 函式庫: [@webed/angular-tooltip](https://www.npmjs.com/package/@webed/angular-tooltip)
 - 國際化（i18n）函式庫：[ngx-translate](https://ngx-translate.org/)
+- 進度條：[ngx-loading-bar](https://aitboudad.github.io/ngx-loading-bar/)
 
 #### 佈局記憶歌
 
