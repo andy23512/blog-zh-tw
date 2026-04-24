@@ -2,7 +2,7 @@
 title: Alnitak 參宿一 - Tangent 所開發的 CharaChorder 3D 輸入裝置練習工具
 description: Tangent 在這篇文章介紹了 Alnitak 參宿一，他所開發的 CharaChorder One 練習工具。
 date: 2024-05-01T13:47:10.863Z
-updated: 2026-04-15T14:26:29.682Z
+updated: 2026-04-24T10:57:04.074Z
 categories: [文章, 作品]
 alias:
   - /2024/04/29/alnitak-參宿一-tangent-所開發的-charachorder-3d-輸入裝置練習工具/
@@ -33,7 +33,7 @@ otherLanguages:
 - 顯示裝置佈局
   - 只會標示目前課程中的鍵
   - 打出目前的字所需要按的鍵會強調顯示
-  - 能從裝置管理網頁的備份檔案中讀取自訂的裝置佈局
+  - 能用裝置管理網頁的備份檔案或者直接從輸入裝置中讀取自訂的裝置佈局
 - 小工具
   - 連擊計數器，會紀錄連續正確輸入的次數
   - 速度計，會顯示目前的打字速度
