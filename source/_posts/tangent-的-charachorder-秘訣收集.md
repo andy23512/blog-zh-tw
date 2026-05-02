@@ -2,7 +2,7 @@
 title: Tangent 的 CharaChorder 秘訣收集
 description: Tangent 在這篇筆記中收集了來自他自身、CharaChorder Discord 伺服器和其他相關網站的 CharaChorder 秘訣。
 date: 2025-11-30T10:14:48.226Z
-updated: 2026-04-25T05:46:05.441Z
+updated: 2026-05-02T15:40:34.087Z
 categories: [筆記, 資源]
 alias:
   - /2025/11/28/tangent-的-charachorder-秘訣收集/
@@ -266,6 +266,8 @@ CC 裝置有四種滑鼠速度。
 #### 單手佈局
 
 然而，用前面那個方式會很難使用一些組合鍵。對長期需要單手使用的情況，是建議修改裝置佈局。在 CharaChorder 官方 Discord 伺服器上，有[一個 CharaChorder 團隊曾經為一位使用者設計的單手佈局](https://discord.com/channels/861730583092658206/897269135145328650/897270846094188566)。根據這個佈局，我分別作出了[僅用左手](https://raw.githubusercontent.com/andy23512/setting-files/920c4f1bdf7c7d8a9a28b30e6767728c3c6bb426/CharaChorder/cc1-cc2-left-hand-only.json)和[僅用右手](https://raw.githubusercontent.com/andy23512/setting-files/920c4f1bdf7c7d8a9a28b30e6767728c3c6bb426/CharaChorder/cc1-cc2-right-hand-only.json)的佈局檔案。你也可以在 [Alnitak 的佈局檢視器](https://andy23512.github.io/alnitak/layout-viewer) 上看到它們。
+
+（原始的佈局中沒有減號鍵，所以我將食指 3D 按鍵的動作設為那個鍵。）
 
 ## 其他網站上的秘訣清單
 
