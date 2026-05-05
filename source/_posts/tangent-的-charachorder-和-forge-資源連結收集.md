@@ -2,7 +2,7 @@
 title: Tangent 的 CharaChorder 和 Forge 資源連結收集
 description: Tangent 在這個筆記中收集了一些有關 CharaChorder 和 Forge 的有用資源連結。
 date: 2024-10-27T00:45:43.485Z
-updated: 2026-04-16T10:02:04.211Z
+updated: 2026-05-05T10:53:53.515Z
 categories: [筆記, 資源]
 alias:
   - /2024/10/25/tangent-的-charachorder-和-forge-資源連結收集/
@@ -96,9 +96,9 @@ otherLanguages:
 {% collapsecard "詳細" %}Try CharaChorder 是一個免費的 CharaChoder 模擬器。你可以透過瀏覽器及任何的鍵盤，在上面直接試用 CharaChoder 的一些功能。[Try CharaChoder 的介紹影片](https://youtu.be/ZIzdo_hLbJw?feature=shared) 中有更詳細的介紹和展示。
 {% endcollapsecard %}
 
-##### [Master Forge Estimator](https://wheresmyforge.charachorder.com/)
+##### ==(已過時)== [Master Forge Estimator](https://wheresmyforge.charachorder.com/)
 
-{% collapsecard "詳細" %}這是一個能預估你的 Master Forge 訂單的履行日期的網頁工具。
+{% collapsecard "詳細" %}這曾經是一個能預估你的 Master Forge 預訂單和贊助者回饋的履行日期的網頁工具。
 {% endcollapsecard %}
 
 ##### [VoiceBox](https://voicebox.iq-eq.us/)
