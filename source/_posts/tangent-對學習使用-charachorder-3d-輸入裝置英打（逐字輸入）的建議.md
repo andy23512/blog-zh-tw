@@ -2,7 +2,7 @@
 title: Tangent 對學習使用 CharaChorder 3D 輸入裝置英打（逐字輸入）的建議
 description: Tangent 分享他對學習使用 CharaChorder 3D 輸入裝置（CharaChorder One、CharaChorder Two、CCU 和 Master Forge）英打（逐字輸入）的建議。 
 date: 2025-07-12T01:16:38.846Z
-updated: 2026-05-01T14:43:46.835Z
+updated: 2026-05-21T16:19:52.247Z
 categories: [文章, 語言]
 alias:
   - /2025/07/10/tangent-對學習使用-charachorder-3d-輸入裝置英打（逐字輸入）的建議/
@@ -52,6 +52,7 @@ gantt
 - 推薦英打速度範圍：0～13 WPM
 - 推薦工具：
   - [dot i/o](https://www.iq-eq.io/#/) 的 Letters 級別
+    - 註：點擊右下角的 "Show Device" 下拉式選單後選擇 "CharaChorder One" 就能顯示圖像輔助。
   - [CharaChorder LaunchPad](https://launchpad.charachorder.com/#/) 的 Alphabetic 級別
   - [Alnitak](https://andy23512.github.io/alnitak/) 的 Number, Letter 和 Symbol 課程
   - [Keybr](https://www.keybr.com/) 的引導、原始碼和數字課程，需搭配 Keybr CC 擴充套件（[Chrome 應用程式商店](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) / [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)）
