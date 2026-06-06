@@ -2,7 +2,7 @@
 title: Tangent 的 CharaChorder 和 Forge 資源連結收集
 description: Tangent 在這個筆記中收集了一些有關 CharaChorder 和 Forge 的有用資源連結。
 date: 2024-10-27T00:45:43.485Z
-updated: 2026-05-05T10:53:53.515Z
+updated: 2026-06-06T10:12:07.348Z
 categories: [筆記, 資源]
 alias:
   - /2024/10/25/tangent-的-charachorder-和-forge-資源連結收集/
@@ -214,7 +214,7 @@ GitHub 代碼庫: https://github.com/typing-tech/monkeytype
 
 #### Anki 牌組
 
-- [CharaChorder 3D 輸入裝置 - 預設佈局 - 字母鍵](https://ankiweb.net/shared/info/1396809787)
+- [CharaChorder 3D 輸入裝置 - 預設佈局 - 字母鍵](https://github.com/andy23512/setting-files/raw/refs/heads/master/CharaChorder/Anki/CharaChorder%203D%20Input%20Device%20-%20Default%20Layout%20-%20Letter%20Keys.apkg)
 
 #### 網頁應用
 

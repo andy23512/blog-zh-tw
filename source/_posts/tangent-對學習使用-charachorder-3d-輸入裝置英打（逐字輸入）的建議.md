@@ -2,7 +2,7 @@
 title: Tangent 對學習使用 CharaChorder 3D 輸入裝置英打（逐字輸入）的建議
 description: Tangent 分享他對學習使用 CharaChorder 3D 輸入裝置（CharaChorder One、CharaChorder Two、CCU 和 Master Forge）英打（逐字輸入）的建議。 
 date: 2025-07-12T01:16:38.846Z
-updated: 2026-05-21T16:19:52.247Z
+updated: 2026-06-06T10:11:34.353Z
 categories: [文章, 語言]
 alias:
   - /2025/07/10/tangent-對學習使用-charachorder-3d-輸入裝置英打（逐字輸入）的建議/
@@ -31,7 +31,7 @@ gantt
 
 - 目的：在輸入裝置不在你手邊時，比如它還沒送達時，記憶各個按鍵的位置。
 - 推薦工具：
-  - [我製作的預設裝置佈局的字母鍵的 Anki 牌組](https://ankiweb.net/shared/info/1396809787)
+  - [我製作的預設裝置佈局的字母鍵的 Anki 牌組](https://github.com/andy23512/setting-files/raw/refs/heads/master/CharaChorder/Anki/CharaChorder%203D%20Input%20Device%20-%20Default%20Layout%20-%20Letter%20Keys.apkg)
   - 使用 [Alnitak](https://andy23512.github.io/alnitak/) 的 Number, Letter 和 Symbol 課程並開啟隔空模式設定，來進行隔空打字
   - [Alnitak 的佈局記憶歌](https://andy23512.github.io/alnitak/layout-song)
 - 推薦目標：
