@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-collection-of-charachorder-tips/
+hackMDUrl: https://hackmd.io/@andy23512/HkxmY9K-Zx
 ---
 # 前言
 

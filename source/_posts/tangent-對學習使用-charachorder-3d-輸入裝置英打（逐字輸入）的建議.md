@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-suggestions-for-learning-english-character-entry-on-charachorder-3d-input-devices/
+hackMDUrl: https://hackmd.io/@andy23512/Hk1KwVkIxx
 ---
 ```mermaid
 gantt

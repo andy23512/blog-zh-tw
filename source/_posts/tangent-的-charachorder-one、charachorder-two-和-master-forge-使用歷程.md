@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-progress-for-charachorder-one-charachorder-two-and-master-forge/
+hackMDUrl: https://hackmd.io/@andy23512/HJOF0UWyC
 ---
 # 1. 我如何遇見 CharaChorder One (CC1)
 

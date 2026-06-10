@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-accessories-and-software-applications-used-with-input-devices/
+hackMDUrl: https://hackmd.io/@andy23512/H1kg-k_Ikl
 ---
 ## 配件
 

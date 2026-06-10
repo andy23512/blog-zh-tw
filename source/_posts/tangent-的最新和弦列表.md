@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-latest-chord-list/
+hackMDUrl: https://hackmd.io/@andy23512/rJS6r9-J0
 ---
 {% blockquote %}
 :information_source: 這個和弦表是用我在<a href="{% post_path tangent-的和弦用法 %}">這篇文章</a>中提到的和弦使用方式建立。

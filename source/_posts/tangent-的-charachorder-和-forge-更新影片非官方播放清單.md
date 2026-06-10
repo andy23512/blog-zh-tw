@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-unofficial-playlist-of-charachorder-and-forge-update-videos/
+hackMDUrl: https://hackmd.io/@andy23512/rk_Urqcgkg
 ---
 ## YouTube 播放清單
 

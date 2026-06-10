@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one/
+hackMDUrl: https://hackmd.io/@andy23512/ByRaeCBAT
 ---
 # CharaChorder One (CC1) 上的注音鍵盤佈局
 

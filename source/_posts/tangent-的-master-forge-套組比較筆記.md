@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-bundle-comparison-note-of-master-forge/
+hackMDUrl: https://hackmd.io/@andy23512/rklH8Lsxkx
 ---
 ## 比較表
 

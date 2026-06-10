@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-unofficial-spec-comparison-note-of-charachorder-devices-master-forge-and-svalboard/
+hackMDUrl: https://hackmd.io/@andy23512/rJ-gyPjxye
 ---
 ## 比較表 
 

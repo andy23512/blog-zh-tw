@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-latest-layout-on-charachorder-one-charachorder-two-and-master-forge/
+hackMDUrl: https://hackmd.io/@andy23512/H15Uj_Ebyl
 ---
 ## 前言
 

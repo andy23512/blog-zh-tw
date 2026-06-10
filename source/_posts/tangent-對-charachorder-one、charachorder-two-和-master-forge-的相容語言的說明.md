@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-explanation-to-the-compatible-languages-of-charachorder-one-charachorder-two-and-master-forge/
+hackMDUrl: https://hackmd.io/@andy23512/SJ5KSVE1yx
 ---
 ## 簡短總結
 

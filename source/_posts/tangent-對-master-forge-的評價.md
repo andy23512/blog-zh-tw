@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-review-to-master-forge/
+hackMDUrl: https://hackmd.io/@andy23512/HJHZA1FIex
 ---
 # Preface
 

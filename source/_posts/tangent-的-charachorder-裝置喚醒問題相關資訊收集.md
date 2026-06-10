@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-collection-for-the-information-about-the-waking-problem-of-charachorder-devices/
+hackMDUrl: https://hackmd.io/@andy23512/rygE-8s1Nbg
 ---
 # 簡短總結
 

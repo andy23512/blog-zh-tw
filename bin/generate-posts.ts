@@ -96,6 +96,7 @@ otherLanguages:
     path: https://andy23512.gitlab.io/blog/${
       urlToFileName[noteTableEntry.enNoteUrl.replace("https://hackmd.io", "")]
     }/
+hackMDUrl: ${note.publishLink}
 ---
 ${replaceNoteUrl(
   note.content

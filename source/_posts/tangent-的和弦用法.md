@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-usages-of-chording/
+hackMDUrl: https://hackmd.io/@andy23512/SycZrIzM1l
 ---
 ## 前言
 

@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tanchord-code-library-tccl-language-reference/
+hackMDUrl: https://hackmd.io/@andy23512/r1My0aWZ-l
 ---
 # 前言
 

@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-review-to-key-caps-of-charachorder-one-and-charachorder-two/
+hackMDUrl: https://hackmd.io/@andy23512/Bk29n6yUxx
 ---
 # 前言
 

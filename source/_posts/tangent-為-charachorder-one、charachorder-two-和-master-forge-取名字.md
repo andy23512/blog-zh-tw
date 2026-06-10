@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-giving-chinese-names-and-device-names-to-charachorder-one-charachorder-two-and-master-forge/
+hackMDUrl: https://hackmd.io/@andy23512/rJD_0hxt0
 ---
 # 前言
 

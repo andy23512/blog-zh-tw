@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-progress-for-finding-a-bopomofo-solution-on-master-forge/
+hackMDUrl: https://hackmd.io/@andy23512/SJTGGMQkR
 ---
 # （不採用）方向一：從天弦 41 鍵 V5 的佈局修改
 

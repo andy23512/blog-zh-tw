@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/
+hackMDUrl: https://hackmd.io/@andy23512/BJ4oJPfAgx
 ---
 {% blockquote %}
 :information_source: 免責聲明：本擴充套件與 CharaChorder、Keybr 和Monkeytype 沒有隸屬、關聯、授權、認可，或任何正式關聯的關係。

@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tanchord-code-tc-code-an-unofficial-experimental-code-editor-for-the-chord-library-of-charachorder-device/
+hackMDUrl: https://hackmd.io/@andy23512/ByANySg-Wg
 ---
 {% blockquote %}
 :information_source: 免責聲明：本編輯器與 CharaChorder 公司沒有隸屬、關聯、授權、認可，或任何正式關聯的關係。

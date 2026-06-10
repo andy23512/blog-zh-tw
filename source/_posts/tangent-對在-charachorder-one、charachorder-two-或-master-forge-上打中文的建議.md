@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-suggestions-for-typing-chinese-on-charachorder-one-charachorder-two-and-master-forge/
+hackMDUrl: https://hackmd.io/@andy23512/Bye7QsCdR
 ---
 # 簡短總結
 

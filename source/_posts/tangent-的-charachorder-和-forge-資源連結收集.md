@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-collection-of-charachorder-and-forge-resource-links/
+hackMDUrl: https://hackmd.io/@andy23512/rkkSp-jg1g
 ---
 {% blockquote %}
   :information_source: [官方的網頁工具清單在這裡。](https://discord.com/channels/861730583092658206/1300503878495637624)

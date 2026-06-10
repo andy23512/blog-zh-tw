@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-introduction-to-bopomofo-chord/
+hackMDUrl: https://hackmd.io/@andy23512/SJHlrjf6R
 ---
 (註：注音和弦為我對聲韻並擊的另一種叫法。)
 

@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-review-to-charachorder-two/
+hackMDUrl: https://hackmd.io/@andy23512/HyVb-_BUyl
 ---
 ## 前言
 

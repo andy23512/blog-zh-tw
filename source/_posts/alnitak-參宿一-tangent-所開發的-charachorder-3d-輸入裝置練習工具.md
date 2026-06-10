@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/alnitak-a-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent/
+hackMDUrl: https://hackmd.io/@andy23512/BJDyu6kf0
 ---
 {% blockquote %}
 :information_source: 免責聲明：本練習工具與 CharaChorder 公司沒有隸屬、關聯、授權、認可，或任何正式關聯的關係。

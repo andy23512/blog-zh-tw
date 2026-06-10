@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-unofficial-charachorder-and-forge-learning-progress-statistic/
+hackMDUrl: https://hackmd.io/@andy23512/S1NhHlpD1x
 ---
 {% blockquote %}
    :information_source: [官方的 CharaChorder 打字速度追蹤表在這裡。](https://docs.google.com/spreadsheets/d/1LYi3Y6Ombi1V5bWt-75SnHn9ONvl1KOFugYUBTVNgjM/edit?gid=0#gid=0)

@@ -13,6 +13,7 @@ alias:
 otherLanguages:
   - text: English Version
     path: https://andy23512.gitlab.io/blog/tangent-s-master-forge-set-up-record/
+hackMDUrl: https://hackmd.io/@andy23512/rkYjqulnyg
 ---
 # 開箱 (==Kickstarter 之前的預訂==)
 
