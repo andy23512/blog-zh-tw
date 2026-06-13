@@ -2,7 +2,7 @@
 title: CC Extensions - 能使打字網站顯示 CharaChorder 3D 輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們
 description: Tangent 介紹他所開發的 CC 非官方瀏覽器擴充套件集。它們可以在 Keybr 或 Monkeytype 上顯示 CharaChorder 3D 輸入裝置的鍵盤佈局。
 date: 2025-10-19T12:54:51.906Z
-updated: 2026-06-08T02:12:57.545Z
+updated: 2026-06-13T00:57:06.914Z
 categories: [文章, 作品]
 alias:
   - /2025/10/17/cc-extensions-能使打字網站顯示-charachorder-3d-輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們/
@@ -12,7 +12,7 @@ alias:
   - /2025/10/21/cc-extensions-能使打字網站顯示-charachorder-3d-輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.gitlab.io/blog/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/
+    path: https://andy23512.github.io/blog/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/
 hackMDUrl: https://hackmd.io/@andy23512/BJ4oJPfAgx
 ---
 {% blockquote %}
@@ -25,14 +25,14 @@ hackMDUrl: https://hackmd.io/@andy23512/BJ4oJPfAgx
 
 - [Chrome 應用程式商店](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg)
 - [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)
-- [GitLab](https://gitlab.com/andy23512/keybr-cc-extension)
+- [GitHub](https://github.com/andy23512/keybr-cc-extension)
 - [展示影片](https://youtu.be/IQWf4IuekFQ)
 
 ### Monkeytype CC Extension
 
 - [Chrome 應用程式商店](https://chromewebstore.google.com/detail/monkeytype-cc-extension/mhfjhmegecimjbohhdbflkhdfnaadple)
 - [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/monkeytype-cc-extension/)
-- [GitLab](https://gitlab.com/andy23512/monkeytype-cc-extension)
+- [GitHub](https://github.com/andy23512/monkeytype-cc-extension)
 - [展示影片](https://youtu.be/nwbKUjUmwD4)
 
 

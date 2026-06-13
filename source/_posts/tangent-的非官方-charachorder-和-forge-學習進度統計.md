@@ -12,7 +12,7 @@ alias:
   - /2025/01/23/tangent-的非官方-charachorder-和-forge-學習進度統計/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.gitlab.io/blog/tangent-s-unofficial-charachorder-and-forge-learning-progress-statistic/
+    path: https://andy23512.github.io/blog/tangent-s-unofficial-charachorder-and-forge-learning-progress-statistic/
 hackMDUrl: https://hackmd.io/@andy23512/S1NhHlpD1x
 ---
 {% blockquote %}

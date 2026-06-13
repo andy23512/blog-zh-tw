@@ -12,7 +12,7 @@ alias:
   - /2025/01/07/tangent-的輸入裝置周邊配件和軟體應用程式/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.gitlab.io/blog/tangent-s-accessories-and-software-applications-used-with-input-devices/
+    path: https://andy23512.github.io/blog/tangent-s-accessories-and-software-applications-used-with-input-devices/
 hackMDUrl: https://hackmd.io/@andy23512/H1kg-k_Ikl
 ---
 ## 配件

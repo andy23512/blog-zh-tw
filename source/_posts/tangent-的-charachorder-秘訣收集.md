@@ -12,7 +12,7 @@ alias:
   - /2025/12/02/tangent-的-charachorder-秘訣收集/
 otherLanguages:
   - text: English Version
-    path: https://andy23512.gitlab.io/blog/tangent-s-collection-of-charachorder-tips/
+    path: https://andy23512.github.io/blog/tangent-s-collection-of-charachorder-tips/
 hackMDUrl: https://hackmd.io/@andy23512/HkxmY9K-Zx
 ---
 # 前言
