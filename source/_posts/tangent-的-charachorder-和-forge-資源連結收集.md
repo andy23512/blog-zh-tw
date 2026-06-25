@@ -2,7 +2,7 @@
 title: Tangent 的 CharaChorder 和 Forge 資源連結收集
 description: Tangent 在這個筆記中收集了一些有關 CharaChorder 和 Forge 的有用資源連結。
 date: 2024-10-27T00:45:43.485Z
-updated: 2026-06-13T01:00:28.819Z
+updated: 2026-06-22T11:39:00.552Z
 categories: [筆記, 資源]
 alias:
   - /2024/10/25/tangent-的-charachorder-和-forge-資源連結收集/
@@ -224,6 +224,7 @@ GitHub 代碼庫: https://github.com/typing-tech/monkeytype
 - [TanChord Cone (TC Code)](https://andy23512.github.io/tccode/)：非官方的實驗性 CharaChorder 和弦庫代碼編輯器
 - [CCOS Meta Viewer](https://andy23512.github.io/ccos-meta-viewer/)：「CharaChorder 官方韌體 Meta 資訊 API」的非官方資料檢視器
 - [CharaChronus](https://andy23512.github.io/chara-chronus/)：一個非官方的 CharaChorder 編年史
+- [Chara 常陳四](https://andy23512.github.io/chara/)：非官方的 CharaChorder 3D 輸入裝置和弦練習工具
 
 #### 瀏覽器擴充套件
 

@@ -2,7 +2,7 @@
 title: Tangent 的 CharaChorder 秘訣收集
 description: Tangent 在這篇筆記中收集了來自他自身、CharaChorder Discord 伺服器和其他相關網站的 CharaChorder 秘訣。
 date: 2025-11-30T10:14:48.226Z
-updated: 2026-05-02T15:40:34.087Z
+updated: 2026-06-25T00:42:58.478Z
 categories: [筆記, 資源]
 alias:
   - /2025/11/28/tangent-的-charachorder-秘訣收集/
@@ -41,7 +41,8 @@ hackMDUrl: https://hackmd.io/@andy23512/HkxmY9K-Zx
 
 一些符號可能比較難打出來，因為你需要按住 Num-Shift 和 Shift 鍵。你可以將這些鍵改到比較容易打的位置。舉例來說，你可以把數字層的半邊的數字鍵改成對應的符號鍵。
 
-![image](/blog-zh-tw/images/B11CXHd--e.png)
+{% collapsecard "佈局範例" %}  ![image](/blog-zh-tw/images/B11CXHd--e.png)
+{% endcollapsecard %}
 
 ### 換層、鎖層、層輪替鍵
 
