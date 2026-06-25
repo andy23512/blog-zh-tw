@@ -2,7 +2,7 @@
 title: Tangent 對學習使用 Charachorder 輸入裝置英文和弦輸入的建議
 description: Tangent 分享他對學習使用 CharaChorder 輸入裝置英文和弦輸入的建議。
 date: 2026-06-21T11:18:34.473Z
-updated: 2026-06-21T13:54:59.051Z
+updated: 2026-06-25T16:07:37.937Z
 categories: [文章, 和弦]
 alias:
   - /2026/06/19/tangent-對學習使用-charachorder-輸入裝置英文和弦輸入的建議/
@@ -91,6 +91,8 @@ hackMDUrl: https://hackmd.io/@andy23512/Hkz9drrGGl
 在逐字輸入時，你學完所有字母鍵就能打出幾乎所有單字。但和弦輸入不同，你用和弦輸入打的單字或片語的數量會更多，且會持續增加。
 
 因為學習和弦的過程並沒有一個確定的終點，我提出一個稱為「CHARA」的學習循環，來一次只熟悉少許的和弦。
+
+根據這個學習循環，我也開發了一個同名的和弦練習工具。你可以前往[該練習工具](https://andy23512.github.io/chara/)或<a href="{% post_path chara-常陳四-tangent-所開發的-charachorder-3d-輸入裝置和弦練習工具 %}">有關該工具的文章</a>查看詳細資訊。
 
 ### CHARA 循環是什麼？
 
