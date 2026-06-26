@@ -2,7 +2,7 @@
 title: Chara 常陳四 - Tangent 所開發的 CharaChorder 3D 輸入裝置和弦練習工具
 description: Tangent 在這篇文章介紹了 Chara 常陳四，他所開發的 CharaChorder 3D 輸入裝置和弦練習工具。
 date: 2026-06-22T01:56:39.633Z
-updated: 2026-06-26T11:53:42.316Z
+updated: 2026-06-26T13:44:39.263Z
 categories: [文章, 作品]
 alias:
   - /2026/06/20/chara-常陳四-tangent-所開發的-charachorder-3d-輸入裝置和弦練習工具/
@@ -59,6 +59,7 @@ hackMDUrl: https://hackmd.io/@andy23512/H1xwLf8MMe
 - 狀態管理系統：[@ngrx/signal](https://ngrx.io/guide/signals/)
   - SignalStore + Entity Management
   - [@angular-architects/ngrx-toolkit](https://github.com/angular-architects/ngrx-toolkit) 中的 `withDevtools`
+- 快捷鍵函式庫：[@ngneat/hotkeys](https://github.com/ngneat/hotkeys)
 - CSS 框架：[Tailwind CSS](https://tailwindcss.com/)
 - User Agent 解析器: [UAParser.js](https://uaparser.dev/)
 - 作業系統 Logo 圖標: [font-logos](https://github.com/lukas-w/font-logos)
