@@ -2,7 +2,7 @@
 title: Chara 常陳四 - Tangent 所開發的 CharaChorder 3D 輸入裝置和弦練習工具
 description: Tangent 在這篇文章介紹了 Chara 常陳四，他所開發的 CharaChorder 3D 輸入裝置和弦練習工具。
 date: 2026-06-22T01:56:39.633Z
-updated: 2026-06-28T13:54:14.673Z
+updated: 2026-07-04T09:06:24.205Z
 categories: [文章, 作品]
 alias:
   - /2026/06/20/chara-常陳四-tangent-所開發的-charachorder-3d-輸入裝置和弦練習工具/
@@ -35,6 +35,7 @@ hackMDUrl: https://hackmd.io/@andy23512/H1xwLf8MMe
   - 可以對和弦加上書籤，它們就會優先進入練習循環。
   - 可以封鎖和弦，它們就不會出現在各階段之中。
   - 可以選擇數個和弦後，進入自訂練習模式。
+  - 你可以依據各種條件搜尋、篩選和排序和弦。
 - 適應、實現、積累頁面
   - 這些是與 CHARA 循環一致的練習階段。
   - 會自動從你的和弦庫中挑出和弦放進練習循環。
