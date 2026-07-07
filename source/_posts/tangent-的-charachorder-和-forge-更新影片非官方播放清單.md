@@ -2,7 +2,7 @@
 title: Tangent 的 CharaChorder 和 Forge 更新影片非官方播放清單
 description: Tangent 為 CharaChorder 和 Forge 的更新影片建立了一個播放清單。這個是那個播放清單的筆記。
 date: 2024-10-26T16:14:07.966Z
-updated: 2026-06-27T14:10:18.612Z
+updated: 2026-07-07T23:46:45.357Z
 categories: [筆記, 資源]
 alias:
   - /2024/10/25/tangent-的-charachorder-和-forge-更新影片非官方播放清單/
@@ -199,6 +199,7 @@ hackMDUrl: https://hackmd.io/@andy23512/rk_Urqcgkg
 |W95*|[Joe Rogan Reacts to CharaChorder](https://youtu.be/xKtHFAkxX5Q?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2025-12-05 12:01:17||
 |W113*|[Our BIGGEST Announcement Ever - CharaChorder is now community owned.](https://youtu.be/6kwy6dXkLqs?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2026-04-14 12:00:16||
 |W123*|[CharaChorder - Official WeFunder Launch Video](https://youtu.be/hDCfRM3jteQ?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2026-06-26 21:00:28||
+|W125*|[Our 1st Public Shareholder Meeting!](https://youtu.be/YFofVmLQ6AI?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2026-07-07 12:05:06||
 
 [^serial]: 如果影片的標題或內容有提到這是第幾日或第幾週的話，就會使用那個作為編號。否則它會由上傳時間和相鄰影片的編號來決定，其後面會帶有 `*` 號。`D` 開頭為第幾日而 `W` 開頭為第幾週。
 [^timezone]: 使用美國中部時區。
