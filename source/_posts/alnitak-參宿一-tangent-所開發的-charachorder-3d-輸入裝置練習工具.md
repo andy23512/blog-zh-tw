@@ -2,7 +2,7 @@
 title: Alnitak 參宿一 - Tangent 所開發的 CharaChorder 3D 輸入裝置練習工具
 description: Tangent 在這篇文章介紹了 Alnitak 參宿一，他所開發的 CharaChorder 3D 輸入裝置練習工具。
 date: 2024-05-01T13:47:10.863Z
-updated: 2026-04-24T10:57:04.074Z
+updated: 2026-07-11T07:39:21.132Z
 categories: [文章, 作品]
 alias:
   - /2024/04/29/alnitak-參宿一-tangent-所開發的-charachorder-3d-輸入裝置練習工具/
@@ -25,6 +25,11 @@ hackMDUrl: https://hackmd.io/@andy23512/BJDyu6kf0
 
 - [Alnitak](https://andy23512.github.io/alnitak/)
 - [Github](https://github.com/andy23512/alnitak)
+
+### Alnilam 參宿二 - 為 CharaChorder Lite 開發的伴生工具
+
+- [Alnilam](https://andy23512.github.io/alnilam/)
+- [Github](https://github.com/andy23512/alnilam)
 
 ## 功能
 
