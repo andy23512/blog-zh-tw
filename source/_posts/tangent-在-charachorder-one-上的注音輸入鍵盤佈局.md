@@ -16,7 +16,7 @@ otherLanguages:
     path: https://andy23512.github.io/blog/tangent-s-layout-for-using-bopomofo-chinese-input-method-with-charachorder-one/
 hackMDUrl: https://hackmd.io/@andy23512/ByRaeCBAT
 ---
-# CharaChorder One (CC1) 上的注音鍵盤佈局
+## CharaChorder One (CC1) 上的注音鍵盤佈局
 
 在這個段落，我將說明一些現有的注音鍵盤佈局、他們在 CC1 上使用的一些問題、以及我的注音輸入佈局的設計、實作及更新。
 

@@ -22,7 +22,7 @@ hackMDUrl: https://hackmd.io/@andy23512/rJD_0hxt0
 
 所以這在這篇文章，我會解釋我為它們取的英文和中文名字。
 
-### CharaChorder One 和 CharaChorder Two
+## CharaChorder One 和 CharaChorder Two
 
 我把 "CharaChorder" 翻譯成「流弦」。
 
@@ -34,7 +34,7 @@ hackMDUrl: https://hackmd.io/@andy23512/rJD_0hxt0
 
 所以我將 "CharaChorder One" 和 "CharaChorder Two" 整個翻譯成 「流弦・壹」和「流弦・貳」
 
-#### 我的 CharaChorder One 的名字
+### 我的 CharaChorder One 的名字
 
 我的 CC1 的英文名字是 "Estrea"，它的意思是天空中最閃亮的一顆星， 我也 CC1 比喻為這個。 Estrea 也是我最喜歡的動漫中出現的字。
 
@@ -44,7 +44,7 @@ hackMDUrl: https://hackmd.io/@andy23512/rJD_0hxt0
 
 ![下載 (2)](/blog-zh-tw/images/BkkVkh_bye.png)[^行書]
 
-#### 我的 CharaChorder Two 的名字
+### 我的 CharaChorder Two 的名字
 
 雖然在這時我還沒收到我的 CC2，但它的英文名字已被命為 "Formula"。它又是另一個在我最喜歡的動漫中出現的字。我選擇這個名稱，是因為使用這種 3D 輸入裝置，對我來說已經成為標準打字方式。就如同一個已經被證明的科學規則被表示成方程式一般。
 
@@ -52,11 +52,11 @@ hackMDUrl: https://hackmd.io/@andy23512/rJD_0hxt0
 
 ![下載](/blog-zh-tw/images/rk5f2LXX1e.png)[^行書]
 
-### Master Forge
+## Master Forge
 
 我把 "Master Forge" 翻譯成「匠鍛」，基本上是直接翻譯，但我覺得這個名稱已經足夠。
 
-#### 我的 Master Forge 的名字
+### 我的 Master Forge 的名字
 
 雖然在這時我還沒收到我的 M4G，但它的英文名字早已經被決定為 "Exelion"。跟 "Estrea" 一樣，它也是我最喜歡的動漫中出現的字。它也是另一個動漫中的宇宙戰艦的名稱。繼續上面的想像，我想像我操縱著一艘在那個行星上的外星人建造的宇宙飛船「Exelion」，向著數位世界中未知的宇宙航行。[M4G 的一邊](https://youtu.be/M3Xik3drspA?feature=shared&t=548)看起來也像宇宙飛船。
 
@@ -64,7 +64,7 @@ hackMDUrl: https://hackmd.io/@andy23512/rJD_0hxt0
 
 ![下載 (3)](/blog-zh-tw/images/B198Jn_ZJg.png)[^行書]
 
-### Bonus 1: 這些名稱的精靈文(字體)
+## Bonus 1: 這些名稱的精靈文(字體)
 
 (註：是在 2024/11/06 寫這個章節。)
 精靈文字體現在非常流行。你可以在[這個網站](https://justfont.com/justforfun/elf-bpmf)上試用。
@@ -80,7 +80,7 @@ hackMDUrl: https://hackmd.io/@andy23512/rJD_0hxt0
 匠鍛 翔空：
 ![elffont (1)](/blog-zh-tw/images/H1Bxxiu-yx.png)
 
-### Bonus 2: 標語
+## Bonus 2: 標語
 
 順帶一提，我會把 CharaChorder 的標語，「Type at the speed of thought」翻譯為「隨想即打」。
 
@@ -88,17 +88,17 @@ hackMDUrl: https://hackmd.io/@andy23512/rJD_0hxt0
 
 ![elffont](/blog-zh-tw/images/HJ3MRCuZyg.png)
 
-### Bonus 3: CharaChorder Lite、CharaChorder X 和 CCU 的中文名稱
+## Bonus 3: CharaChorder Lite、CharaChorder X 和 CCU 的中文名稱
 
-#### CharaChorder Lite
+### CharaChorder Lite
 
 我會把 "CharaChorder Lite" 翻譯成「流弦・簡」。因為相較於其他 CC 3D 輸入裝置來說，CC Lite 的學習曲線相對比較緩和。
 
-#### CharaChorder X
+### CharaChorder X
 
 "CharaChorder X" 被我翻譯成「流弦・容」。因為 CCX 可以與不同的鍵盤相容。
 
-#### CCU
+### CCU
 
 我選擇「流弦・由你」作為 "CCU" 的翻譯。「由」與 U 的發音相近。並且「
 由你」相當符合 CCU 的理念。

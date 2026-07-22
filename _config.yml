@@ -140,6 +140,10 @@ markdown:
 sitemap:
   path: sitemap.xml
 
+# Strings used by the templates under source/_data
+custom_text:
+  hackmd_note: HackMD 筆記
+
 feed:
   type: atom
   path: atom.xml

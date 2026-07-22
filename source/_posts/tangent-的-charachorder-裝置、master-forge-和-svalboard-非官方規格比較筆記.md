@@ -69,9 +69,9 @@ hackMDUrl: https://hackmd.io/@andy23512/rJ-gyPjxye
 | **安靜程度排名**                     | 第四                                                                                                                                 | 不適用[^ccu_externals_dependence]                                                                                 | 第一    | 第二                                                                                | 第三                                                                                | ???                                                                                | 不適用[^ccx_dependence]                                                                          | ???                                        | ???                        |
 |**LED**|<div class="check"></div>|:x:|:x:|:x:|:x:|<div class="check"></div>|:x:|:x:|???|
 
-### 參考資料
+## 參考資料
 
-#### CharaChorder 和 Forge
+### CharaChorder 和 Forge
 
 - ["Master Forge: Specs Reveal" 影片](https://youtu.be/x2swE9URxeA?feature=shared)
 - [CC2 產品頁面](https://www.charachorder.com/products/cc2)
@@ -80,7 +80,7 @@ hackMDUrl: https://hackmd.io/@andy23512/rJ-gyPjxye
 - [CharaChorder 官方文件](https://docs.charachorder.com)
 - [CharaChorder Discord 伺服器](https://discord.gg/charachorder)
 
-#### Svalboard
+### Svalboard
 
 - [Svalboard 產品頁面](https://svalboard.com/products/lightly)
 - [Svalboard 用戶指南](https://docs.google.com/document/d/1Um4EAIK-GLQGw-9xHUFe-aCtHJDENYUSzhcqQi9ppwU/edit?tab=t.0)

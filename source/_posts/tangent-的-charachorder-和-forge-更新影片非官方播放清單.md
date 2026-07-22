@@ -21,7 +21,7 @@ hackMDUrl: https://hackmd.io/@andy23512/rk_Urqcgkg
 - 我的非官方播放清單: [CharaChorder / Forge Update (UNOFFICIAL Playlist)](https://youtube.com/playlist?list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn&feature=shared)
 - CharaChorder 的官方播放清單: [FORGE Development](https://youtube.com/playlist?list=PL5UG1PKtBJF6qldRdf6y9rBcPByl_0HS1&feature=shared)
 
-### 說明
+## 說明
 
 - 我將 [ChorderCon 2023](https://youtu.be/fux9gU3M25E?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn) 定為第 0 號更新影片。因為它是 Forge 鍵盤的初次亮相。
 - 在第 81、82 日和第 41 週沒有影片。（或是我找不到。）
@@ -44,7 +44,7 @@ hackMDUrl: https://hackmd.io/@andy23512/rk_Urqcgkg
   - [The Master Forge: Official Kickstarter Video](https://youtu.be/nW7FGEtWnqE?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)
   - [CharaChorder Two - Official Launch Video](https://youtu.be/tYLHPH9uBXU?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)
 
-### 來源
+## 來源
 
 - [CharaChorder 的 YouTube 頻道](https://www.youtube.com/@CharaChorder)
 - [CharaChorder 執行長的 YouTube 頻道](https://www.youtube.com/@crash_often)
@@ -54,11 +54,11 @@ hackMDUrl: https://hackmd.io/@andy23512/rk_Urqcgkg
 - [CharaChorder 執行長的 TikTok](https://www.tiktok.com/@rileyfordkeen)
 - [CharaChorder 的 X](https://x.com/CharaChorder/) 
 
-### 免責聲明
+## 免責聲明
 
 所有影片都搜集自上面列的來源。我的這些帳號、頻道、播放清單與 CharaChorder 公司沒有隸屬、關聯、授權、認可，或任何正式關聯的關係。官方 CharaChorder 和 Forge 鍵盤的網站可以在 https://www.charachorder.com/ 和 https://forgekeyboard.com/ 看到。
 
-### 影片清單
+## 影片清單
 
 |編號[^serial]|YouTube 影片|上傳時間[^timezone]|備份[^backup]|
 |-|-|-|-|

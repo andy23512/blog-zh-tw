@@ -3,6 +3,7 @@ import moment from "moment";
 import { existsSync, readFileSync, writeFileSync } from "node:fs";
 import { Note } from "../model/hackmd.model.js";
 import { NoteTableEntry } from "../model/note-table-entry.model.js";
+import { siteConfig } from "../site.config.js";
 import { normalizeHeadings } from "../util/normalize-headings.js";
 import { slugify } from "../util/slugify.js";
 
@@ -26,12 +27,11 @@ const rawNotes: Note[] = JSON.parse(
 const noteTableData: NoteTableEntry[] = JSON.parse(
   readFileSync("./res/note-table-data.json", { encoding: "utf8" }),
 );
-const notes = rawNotes.filter(
-  (n) =>
-    !/^[\w\-,' ()]+$/.exec(n.title) &&
-    n.title !== "Tangent 的 CharaChorder 和 Forge 筆記本" &&
-    n.title !== "Tangent 的 CharaChorder 和 Forge 筆記清單",
-);
+// The note table is the source of truth for which notes belong to this edition.
+// Matching on it also excludes the notebook and note list, which are tagged like
+// the rest but are not posts.
+const selfNoteUrls = new Set(noteTableData.map((entry) => entry.selfNoteUrl));
+const notes = rawNotes.filter((n) => selfNoteUrls.has(n.publishLink));
 const urlToFileName: Record<string, string> = {};
 const imageUrls = new Set<string>();
 for (const note of rawNotes) {
@@ -39,7 +39,6 @@ for (const note of rawNotes) {
   const fileName = slugify(note.title);
   urlToFileName[url] = fileName;
 }
-
 for (const note of notes) {
   const regExp = /!\[.*?\]\((https:\/\/hackmd\.io\/_uploads\/[^)]+)\)/g;
   let match;
@@ -56,6 +55,8 @@ for (const url of imageUrls) {
   const buffer = await response.arrayBuffer();
   writeFileSync(`source/images/${fileName}`, Buffer.from(buffer));
 }
+let written = 0;
+let skipped = 0;
 for (const note of notes) {
   const url = note.publishLink.replace("https://hackmd.io", "");
   const response = await fetch(note.publishLink);
@@ -63,17 +64,21 @@ for (const note of notes) {
   const $ = cheerio.load(html);
   const description = $('meta[name="description"]').attr("content") || "";
   const noteTableEntry = noteTableData.find((entry) =>
-    entry.zhTwNoteUrl.endsWith(url),
+    entry.selfNoteUrl.endsWith(url),
   );
   if (!noteTableEntry) {
     console.warn(`No note table entry found for note: ${note.title}`);
+    skipped++;
     continue;
   }
-  const enNote = rawNotes.find(
-    (n) => n.publishLink === noteTableEntry.enNoteUrl,
+  const otherNote = rawNotes.find(
+    (n) => n.publishLink === noteTableEntry.otherNoteUrl,
   );
-  if (!enNote) {
-    console.warn(`No en note found for note: ${note.title}`);
+  if (!otherNote) {
+    console.warn(
+      `No ${siteConfig.otherLanguage.lang} note found for note: ${note.title}`,
+    );
+    skipped++;
     continue;
   }
   const fileName = urlToFileName[url];
@@ -93,10 +98,10 @@ ${[-2, -1, 0, 1, 2]
   )
   .join("\n")}
 otherLanguages:
-  - text: English Version
-    lang: en
-    path: https://andy23512.github.io/blog/${
-      urlToFileName[noteTableEntry.enNoteUrl.replace("https://hackmd.io", "")]
+  - text: ${siteConfig.otherLanguage.text}
+    lang: ${siteConfig.otherLanguage.lang}
+    path: ${siteConfig.otherLanguage.baseUrl}${
+      urlToFileName[noteTableEntry.otherNoteUrl.replace("https://hackmd.io", "")]
     }/
 hackMDUrl: ${note.publishLink}
 ---
@@ -108,16 +113,18 @@ ${replaceNoteUrl(
     )
     .replaceAll(
       /:::spoiler\n([\S\s]*?):::/g,
-      '{% collapsecard "詳細" %}$1{% endcollapsecard %}',
+      `{% collapsecard "${siteConfig.spoilerFallbackTitle}" %}$1{% endcollapsecard %}`,
     )
     .replaceAll(":::info", "{% blockquote %}")
     .replaceAll(":::warning", "{% blockquote %}")
     .replaceAll(":::", "{% endblockquote %}")
     .replaceAll(/\[^\w+\]/g, " $0")
     .replaceAll(":heavy_check_mark:", '<div class="check"></div>')
-    .replaceAll("https://hackmd.io/_uploads/", "/blog-zh-tw/images/"),
+    .replaceAll("https://hackmd.io/_uploads/", siteConfig.imageBasePath),
   urlToFileName,
 )}
 `;
   writeFileSync(`source/_posts/${fileName}.md`, markdownFileContent);
+  written++;
 }
+console.log(`${written} post(s) written, ${skipped} note(s) skipped.`);

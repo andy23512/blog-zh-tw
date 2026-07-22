@@ -22,9 +22,9 @@ hackMDUrl: https://hackmd.io/@andy23512/H15Uj_Ebyl
 
 然而，在這兩篇文章中可能很難去追溯每個變更按鍵的背後的原因。所以這篇文章中，我會分解我最新的佈局(<a href="{% post_path tangent-尋找在-master-forge-上的注音輸入方式的歷程 %}#V2">TC36.V2</a>)，並解釋為何我變更那些按鍵。
 
-### 主層
+## 主層
 
-#### 將符號鍵放在主列上
+### 將符號鍵放在主列上
 
 ![localhost_4200_layouts (3)](/blog-zh-tw/images/SJh3sUV-ke.png)
 
@@ -35,7 +35,7 @@ hackMDUrl: https://hackmd.io/@andy23512/H15Uj_Ebyl
 
 這些符號鍵在寫程式時也很有用。
 
-#### 擺放被改掉的非字元鍵
+### 擺放被改掉的非字元鍵
 
 ![localhost_4200_layouts (2)](/blog-zh-tw/images/S1HFjUNbyg.png)
 
@@ -43,21 +43,21 @@ hackMDUrl: https://hackmd.io/@andy23512/H15Uj_Ebyl
 
 `LW` 和 `RW` 是 左和右 GUI 鍵。（Windows 上的 Windows 鍵、Mac 上的 Command 鍵） 它們在我的 Mac 上實際上是 `Ctrl` 鍵。因為我使用了 CC1、CC2 和 M4G 上的 `Command Control 交換` 設定來交換  `Ctrl` 和 `Command` 鍵。
 
-#### 數字層鎖定鍵
+### 數字層鎖定鍵
 
 ![localhost_4200_layouts (4)](/blog-zh-tw/images/HkIfT8E-Jg.png)
 
 因為主層上的滑鼠搖桿被一些非字元鍵佔據，所以我改成在數字層上使用滑鼠動作。我設定了一個數字層鎖定鍵來將裝置鎖定為數字層。（然後可以用原本的 Num-shift 鍵來解鎖。）
 
-### 數字層
+## 數字層
 
-#### 將功能鍵放在左半邊
+### 將功能鍵放在左半邊
 
 ![localhost_4200_layouts (3)](/blog-zh-tw/images/B1wp0YtMWg.png)
 
 為了讓功能鍵更好使用，我把功能鍵放在數字層的左半邊。
 
-#### 設定滑鼠動作鍵
+### 設定滑鼠動作鍵
 
 ![localhost_4200_layouts (4)](/blog-zh-tw/images/HyMARFtf-g.png)
 

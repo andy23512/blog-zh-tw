@@ -48,7 +48,7 @@ hackMDUrl: https://hackmd.io/@andy23512/rklH8Lsxkx
   * GTM Immortalization
   * Digitizer Exoskeleton signed by Riley Keen, Founder and CEO of CharaChorder
 
-### References
+## References
 
 - [Master Forge 產品頁面截圖 (KS 前預訂)](https://discord.com/channels/861730583092658206/1176366370678653010/1278000103965200384)
 - 2024 年 10 月 10 日的 Master Forge 產品頁面截圖 (KS 後預訂)

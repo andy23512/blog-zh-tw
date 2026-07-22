@@ -37,7 +37,7 @@ hackMDUrl: https://hackmd.io/@andy23512/rkYjqulnyg
 ![20250308_190441](/blog-zh-tw/images/Hkvd1vghye.jpg)
 
 
-#### 在便攜箱外的項目
+### 在便攜箱外的項目
 
 ![image](/blog-zh-tw/images/SykFSwx2Jg.png)
 
@@ -54,7 +54,7 @@ Cleat 的近照如下圖，它上面帶有一個內六角扳手。
 ![image](/blog-zh-tw/images/SyGB8vgh1l.png)
 
 
-#### 在便攜箱中的項目
+### 在便攜箱中的項目
 
 在便攜箱中，有裝置本體和隔板（Splitter）。
 
@@ -62,13 +62,13 @@ Cleat 的近照如下圖，它上面帶有一個內六角扳手。
 
 (隔板和裝置在我開箱時就是分開的了。在你開箱時，它們可能也可能不會分開。)
 
-### 連接電腦
+## 連接電腦
 
 我用提供的 USB-C 對 USB-A 連接線來連接我的 M4G 到我的電腦。請確認你是將 M4G 的左接口連到你的電腦。
 
 ![20250308_191638](/blog-zh-tw/images/HJUeqPghke.jpg)
 
-### 將裝置分為兩邊
+## 將裝置分為兩邊
 
 （請勿在 M4G 連接到電腦的情況下分離裝置。）
 
