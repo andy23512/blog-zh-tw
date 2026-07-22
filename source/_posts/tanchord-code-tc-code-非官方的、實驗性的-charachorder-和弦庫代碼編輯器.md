@@ -12,6 +12,7 @@ alias:
   - /2025/11/25/tanchord-code-tc-code-非官方的、實驗性的-charachorder-和弦庫代碼編輯器/
 otherLanguages:
   - text: English Version
+    lang: en
     path: https://andy23512.github.io/blog/tanchord-code-tc-code-an-unofficial-experimental-code-editor-for-the-chord-library-of-charachorder-device/
 hackMDUrl: https://hackmd.io/@andy23512/ByANySg-Wg
 ---

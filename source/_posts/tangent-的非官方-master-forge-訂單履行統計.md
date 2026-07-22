@@ -12,6 +12,7 @@ alias:
   - /2025/01/17/tangent-的非官方-master-forge-訂單履行統計/
 otherLanguages:
   - text: English Version
+    lang: en
     path: https://andy23512.com/blog/tangent-s-unofficial-master-forge-fulfillment-statistic/
 ---
 {% blockquote %}

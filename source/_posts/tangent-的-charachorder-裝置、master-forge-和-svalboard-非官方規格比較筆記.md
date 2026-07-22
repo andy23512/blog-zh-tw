@@ -12,6 +12,7 @@ alias:
   - /2024/10/29/tangent-的-charachorder-裝置、master-forge-和-svalboard-非官方規格比較筆記/
 otherLanguages:
   - text: English Version
+    lang: en
     path: https://andy23512.github.io/blog/tangent-s-unofficial-spec-comparison-note-of-charachorder-devices-master-forge-and-svalboard/
 hackMDUrl: https://hackmd.io/@andy23512/rJ-gyPjxye
 ---

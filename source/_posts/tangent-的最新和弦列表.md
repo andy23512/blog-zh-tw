@@ -12,6 +12,7 @@ alias:
   - /2024/03/29/tangent-的最新和弦列表/
 otherLanguages:
   - text: English Version
+    lang: en
     path: https://andy23512.github.io/blog/tangent-s-latest-chord-list/
 hackMDUrl: https://hackmd.io/@andy23512/rJS6r9-J0
 ---

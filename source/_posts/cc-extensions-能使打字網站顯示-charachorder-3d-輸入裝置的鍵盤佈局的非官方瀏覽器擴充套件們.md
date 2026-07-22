@@ -12,6 +12,7 @@ alias:
   - /2025/10/21/cc-extensions-能使打字網站顯示-charachorder-3d-輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們/
 otherLanguages:
   - text: English Version
+    lang: en
     path: https://andy23512.github.io/blog/cc-extensions-unofficial-extensions-that-display-the-layout-of-charachorder-3d-input-devices-on-typing-websites/
 hackMDUrl: https://hackmd.io/@andy23512/BJ4oJPfAgx
 ---

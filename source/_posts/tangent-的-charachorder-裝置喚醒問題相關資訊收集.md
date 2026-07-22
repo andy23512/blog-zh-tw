@@ -12,22 +12,23 @@ alias:
   - /2025/12/31/tangent-的-charachorder-裝置喚醒問題相關資訊收集/
 otherLanguages:
   - text: English Version
+    lang: en
     path: https://andy23512.github.io/blog/tangent-s-collection-for-the-information-about-the-waking-problem-of-charachorder-devices/
 hackMDUrl: https://hackmd.io/@andy23512/rygE-8s1Nbg
 ---
-# 簡短總結
+## 簡短總結
 
 雖然一些作業系統與 CCOS 版本的組合可能不會有這個問題，我覺得如果你不想變更你電腦的作業系統版本或你裝置的 CCOS 版本，也沒有受資安規定限制一定要有睡眠設定的話，現在最好的替代方案就是**關掉你電腦上的睡眠設定**。
 
 我仍在積極的從網路上收集關於這個喚醒問題的相關資訊。如果你有任何有幫助的資訊，特別是 Windows 或 Linux 平台上有效或無效的環境，請用 Discord 聯繫我。（Tangent Chang, @andy23512）
 
-## 其他可以嘗試除錯的方式
+### 其他可以嘗試除錯的方式
 
-### 檢查你電腦上相關的喚醒或電源設定有沒有正確
+#### 檢查你電腦上相關的喚醒或電源設定有沒有正確
 
-#### Windows
+##### Windows
 
-##### 作業系統設定 - 允許這個裝置喚醒電腦
+###### 作業系統設定 - 允許這個裝置喚醒電腦
 
 - **打開裝置管理員**：對「開始按鈕」（Windows 圖標）按右鍵，選擇「裝置管理員」。
 - **選擇裝置類型**：展開「鍵盤」類型。
@@ -36,22 +37,22 @@ hackMDUrl: https://hackmd.io/@andy23512/rygE-8s1Nbg
 - **啟用喚醒功能**：勾選「允許這個裝置喚醒電腦」項目。
 - **確認**：點選「確定」以儲存變更。
 
-##### BIOS 設定 - "Wake on USB," "USB Power Delivery," 或 "PCIe Devices Power On"
+###### BIOS 設定 - "Wake on USB," "USB Power Delivery," 或 "PCIe Devices Power On"
 
-### 更新作業系統版本
-### 更新 CCOS 版本（也可以試試看 Beta / Gamma 版等）
-### 試試別的 USB 接口或集線器
-### (Mac) 重置 SMC
+#### 更新作業系統版本
+#### 更新 CCOS 版本（也可以試試看 Beta / Gamma 版等）
+#### 試試別的 USB 接口或集線器
+#### (Mac) 重置 SMC
 
-## 我的試驗
+### 我的試驗
 
-### Windows
+#### Windows
 
 - Windows PC (Windows 10 22H2) 與我的 CC2（CCOS 3.0.0-gamma.4）
   - 在 CC2 上的任何鍵擊無法喚醒睡眠中的電腦。
   - 在電腦被喚醒之後，CC2 沒有一起被喚醒，拔出來重新連接之後才能使用。
 
-### Mac
+#### Mac
 
 - 在我的 Mac Mini 與最新的 macOS 26 Tahoe 作業系統上，當電腦在睡眠中時，在我 CC2 上的一個鍵擊可以成功喚醒電腦。
 - 之前，在我的 Mac Pro 與前代的 macOS（<= 25），電腦無法被我的 CC1 或 CC2 的任何鍵擊喚醒。
@@ -66,13 +67,13 @@ hackMDUrl: https://hackmd.io/@andy23512/rygE-8s1Nbg
 |MacBook Pro|26|CC2|2.1.0|USB-C 集線器|:x:|
 |MacBook Pro|26|CC2|3.0.0-gamma.4|USB-C 集線器|<div class="check"></div>|
 
-## 相關資訊
+### 相關資訊
 
-### Windows
+#### Windows
 
 * [Enable or Disable Device to Wake Computer in Windows 11](https://www.elevenforum.com/t/enable-or-disable-device-to-wake-computer-in-windows-11.6964/)
 
-### Mac
+#### Mac
 
 * [Power on USB ports after sleeping mode](https://discussions.apple.com/thread/251131637?sortBy=rank)
 * [Fixing USB disconnects on sleep on macOS](https://tosbourn.com/usb-disconnects-macos/)

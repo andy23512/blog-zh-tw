@@ -12,6 +12,7 @@ alias:
   - /2024/11/16/tangent-的和弦用法/
 otherLanguages:
   - text: English Version
+    lang: en
     path: https://andy23512.github.io/blog/tangent-s-usages-of-chording/
 hackMDUrl: https://hackmd.io/@andy23512/SycZrIzM1l
 ---

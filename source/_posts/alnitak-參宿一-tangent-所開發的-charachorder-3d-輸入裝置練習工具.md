@@ -12,6 +12,7 @@ alias:
   - /2024/05/03/alnitak-參宿一-tangent-所開發的-charachorder-3d-輸入裝置練習工具/
 otherLanguages:
   - text: English Version
+    lang: en
     path: https://andy23512.github.io/blog/alnitak-a-practice-tool-of-charachorder-3d-input-devices-developed-by-tangent/
 hackMDUrl: https://hackmd.io/@andy23512/BJDyu6kf0
 ---

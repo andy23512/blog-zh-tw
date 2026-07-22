@@ -12,16 +12,17 @@ alias:
   - /2025/07/14/tangent-對-charachorder-one-和-charachorder-two-的鍵帽的評價/
 otherLanguages:
   - text: English Version
+    lang: en
     path: https://andy23512.github.io/blog/tangent-s-review-to-key-caps-of-charachorder-one-and-charachorder-two/
 hackMDUrl: https://hackmd.io/@andy23512/Bk29n6yUxx
 ---
-# 前言
+## 前言
 
 在使用 CharaChorder 3D 輸入裝置時，我們會一直接觸到它們的鍵帽，所以它們對使用者體驗有很重大的影響。基於我在夏天和冬天[^weather]使用過金屬鍵帽的 CharaChorder One (CC1) 和混材（塑膠+橡膠圈）鍵帽的 CharaChorder Two (CC2) 的經歷，我決定來對它們的鍵帽特別寫一篇評價。
 
 需要注意的點是，我使用的 CC2 是滿早的版本（我在 2024/11/26 買的。），從那時以來 CC2 的鍵帽已經有一些更新。底下提到的一些缺陷可能已經被修正。
 
-## 在不同天氣下的偏好
+### 在不同天氣下的偏好
 
 在天氣熱時，我的指尖很容易出汗。在金屬鍵帽上的汗很快就蒸發掉。但在混材鍵帽上，汗會被橡膠圈吸收，使它變得黏黏的，並有不好的觸感。
 
@@ -29,7 +30,7 @@ hackMDUrl: https://hackmd.io/@andy23512/Bk29n6yUxx
 
 如果未來能在我的裝置上更換這兩種鍵帽的話，我會偏好在夏天使用金屬鍵帽，在冬天使用混材鍵帽。
 
-## 耐用性
+### 耐用性
 
 有關耐用性，金屬鍵帽無疑地比混材鍵帽耐用。
 
@@ -39,7 +40,7 @@ hackMDUrl: https://hackmd.io/@andy23512/Bk29n6yUxx
 
 2025/11/26 更新：CC2.1 改用了模壓紋理橡膠鍵帽。因此不會再有橡膠圈的問題。
 
-## 止滑效果
+### 止滑效果
 
 混材鍵帽是 CharaChorder 為了增加止滑效果所設計的。的確因為有了橡膠圈提供的摩擦力，混材鍵帽比起金屬鍵帽更加好操作。
 

@@ -12,6 +12,7 @@ alias:
   - /2024/08/16/tangent-對-charachorder-one-的評價/
 otherLanguages:
   - text: English Version
+    lang: en
     path: https://andy23512.github.io/blog/tangent-s-review-to-charachorder-one/
 hackMDUrl: https://hackmd.io/@andy23512/BJOjjS95C
 ---

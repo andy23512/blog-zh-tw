@@ -3,6 +3,7 @@ import moment from "moment";
 import { existsSync, readFileSync, writeFileSync } from "node:fs";
 import { Note } from "../model/hackmd.model.js";
 import { NoteTableEntry } from "../model/note-table-entry.model.js";
+import { normalizeHeadings } from "../util/normalize-headings.js";
 import { slugify } from "../util/slugify.js";
 
 function replaceNoteUrl(
@@ -93,19 +94,14 @@ ${[-2, -1, 0, 1, 2]
   .join("\n")}
 otherLanguages:
   - text: English Version
+    lang: en
     path: https://andy23512.github.io/blog/${
       urlToFileName[noteTableEntry.enNoteUrl.replace("https://hackmd.io", "")]
     }/
 hackMDUrl: ${note.publishLink}
 ---
 ${replaceNoteUrl(
-  note.content
-    .replaceAll(/\[TOC\]\s*\n/g, "")
-    .replaceAll("\n##### ", "\n###### ")
-    .replaceAll("\n#### ", "\n##### ")
-    .replaceAll("\n### ", "\n#### ")
-    .replaceAll("\n## ", "\n### ")
-    .replaceAll("\n# ", "\n## ")
+  normalizeHeadings(note.content.replaceAll(/\[TOC\]\s*\n/g, ""))
     .replaceAll(
       /:::spoiler (.*)\n([\S\s]*?):::/g,
       '{% collapsecard "$1" %}$2{% endcollapsecard %}',
