@@ -2,7 +2,7 @@
 title: Tangent 的 Master Forge 套組比較筆記
 description: Tangent 收集並比較各階段的 Master Forge 套組內容。
 date: 2024-10-27T05:57:12.197Z
-updated: 2025-09-26T14:15:57.317Z
+updated: 2026-07-23T11:13:13.287Z
 categories: [筆記, 比較]
 alias:
   - /2024/10/25/tangent-的-master-forge-套組比較筆記/
@@ -24,20 +24,20 @@ hackMDUrl: https://hackmd.io/@andy23512/rklH8Lsxkx
 2. <div class="check"></div> 表示該項目確定會在該套組中。
 3. 如果你有任何疑問，你可以在 CharaChorder Discord 伺服器上進一步確認套組內容。
 
-|項目|KS 前預訂|[KS - Basic](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards#reward-UmV3YXJkLVVtVjNZWEprTFRFd01URXlNRFV5)|[KS - Premium](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards#reward-UmV3YXJkLVVtVjNZWEprTFRFd01ETTVNelEx)|[KS 後預訂](https://forgekeyboard.com/products/master-forge)|[KS 後預訂 - Premium](https://forgekeyboard.com/collections/loadouts/products/master-forge-premium)|
+|項目|KS 前預訂|[KS - Basic](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards#reward-UmV3YXJkLVVtVjNZWEprTFRFd01URXlNRFV5)|[KS - Premium](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards#reward-UmV3YXJkLVVtVjNZWEprTFRFd01ETTVNelEx)|[KS 後 - Basic](https://www.charachorder.com/collections/forge-collection/products/master-forge-1)|[KS 後 - Premium](https://www.charachorder.com/collections/forge-collection/products/master-forge-premium)|
 |-|-|-|-|-|-|
 |Left Digitizer|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |Right Digtitizer|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |Electrical Bridge Connector|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
-|[Mechanical Bridge Bolt-On](https://forgekeyboard.com/collections/bolt-ons%E2%84%A2/products/mechanical-bridge)|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
+|Mechanical Bridge Bolt-On|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |USB-A to USB-C Power Cable[^cable]|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |USB-C to USB-C Cable[^cable]|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
-|[Ergo Bolt-On](https://forgekeyboard.com/collections/bolt-ons%E2%84%A2/products/ergo-bolt-on%E2%84%A2) (4)|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
+|[Ergo Bolt-On](https://www.charachorder.com/collections/forge-collection/products/forge-ergo-bolt-on-set) (4)|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
 |Forge Trackball Bolt-On[^trackball]|<div class="check"></div> (2)||<div class="check"></div> (1)||<div class="check"></div>(1)|
 |Tactical Carrying Case|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
-|[Forge Cleat](https://forgekeyboard.com/collections/add-ons/products/forge-cleat)|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
+|[Forge Cleat](https://www.charachorder.com/collections/forge-collection/products/forge-cleat)|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
 |M3 Allen Wrench|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
-|[Original Backer Deskmat](https://forgekeyboard.com/collections/add-ons/products/desk-mat)|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
+|[Original Backer Deskmat](https://www.charachorder.com/collections/forge-collection/products/master-forge-deskmat-1)|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
 |Inbuilt Platinum CharaChorder Engine Core|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |Digitizer Custom Keycaps (2 Sets)|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |Unlimited Forge CAD Access|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|

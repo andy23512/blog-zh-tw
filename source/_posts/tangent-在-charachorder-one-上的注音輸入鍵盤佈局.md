@@ -2,7 +2,7 @@
 title: Tangent 在 CharaChorder One 上的注音輸入鍵盤佈局
 description: Tangent 在這篇文章分享了他為了在 CharaChorder One 上使用注音輸入法所設計的鍵盤佈局。
 date: 2024-03-18T14:33:41.922Z
-updated: 2026-03-23T11:13:48.636Z
+updated: 2026-07-22T13:18:03.152Z
 categories: [文章, 佈局]
 alias:
   - /2024/03/16/tangent-在-charachorder-one-上的注音輸入鍵盤佈局/
