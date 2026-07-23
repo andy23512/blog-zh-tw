@@ -2,7 +2,7 @@
 title: Tangent 的 CharaChorder 和 Forge 更新影片非官方播放清單
 description: Tangent 為 CharaChorder 和 Forge 的更新影片建立了一個播放清單。這個是那個播放清單的筆記。
 date: 2024-10-26T16:14:07.966Z
-updated: 2026-07-07T23:46:45.357Z
+updated: 2026-07-23T11:52:57.567Z
 categories: [筆記, 資源]
 alias:
   - /2024/10/25/tangent-的-charachorder-和-forge-更新影片非官方播放清單/
@@ -56,7 +56,7 @@ hackMDUrl: https://hackmd.io/@andy23512/rk_Urqcgkg
 
 ## 免責聲明
 
-所有影片都搜集自上面列的來源。我的這些帳號、頻道、播放清單與 CharaChorder 公司沒有隸屬、關聯、授權、認可，或任何正式關聯的關係。官方 CharaChorder 和 Forge 鍵盤的網站可以在 https://www.charachorder.com/ 和 https://forgekeyboard.com/ 看到。
+所有影片都搜集自上面列的來源。我的這些帳號、頻道、播放清單與 CharaChorder 公司沒有隸屬、關聯、授權、認可，或任何正式關聯的關係。官方 CharaChorder 網站可以在 https://www.charachorder.com/ 看到。
 
 ## 影片清單
 
