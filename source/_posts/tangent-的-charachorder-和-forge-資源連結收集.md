@@ -2,7 +2,7 @@
 title: Tangent 的 CharaChorder 和 Forge 資源連結收集
 description: Tangent 在這個筆記中收集了一些有關 CharaChorder 和 Forge 的有用資源連結。
 date: 2024-10-27T00:45:43.485Z
-updated: 2026-07-11T07:49:10.871Z
+updated: 2026-08-04T13:59:44.346Z
 categories: [筆記, 資源]
 alias:
   - /2024/10/25/tangent-的-charachorder-和-forge-資源連結收集/
@@ -227,6 +227,7 @@ GitHub 代碼庫: https://github.com/typing-tech/monkeytype
 - [CCOS Meta Viewer](https://andy23512.github.io/ccos-meta-viewer/)：「CharaChorder 官方韌體 Meta 資訊 API」的非官方資料檢視器
 - [CharaChronus](https://andy23512.github.io/chara-chronus/)：一個非官方的 CharaChorder 編年史
 - [Chara 常陳四](https://andy23512.github.io/chara/)：非官方的 CharaChorder 3D 輸入裝置和弦練習工具
+- [Castor 北河二](https://andy23512.github.io/castor/)：在螢幕上查看 CharaChorder 裝置的真實實體尺寸
 
 ### 瀏覽器擴充套件
 
@@ -236,6 +237,10 @@ GitHub 代碼庫: https://github.com/typing-tech/monkeytype
 - Monkeytype CC Extension：能使 Monkeytype 顯示 CharaChorder 3D 輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件
   - [Chrome 應用程式商店](https://chromewebstore.google.com/detail/monkeytype-cc-extension/mhfjhmegecimjbohhdbflkhdfnaadple) 
   - [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/monkeytype-cc-extension/)
+
+### 桌面應用程式
+
+- [Sirius 天狼星](https://github.com/andy23512/sirius) - 非官方、跨平台、CharaChorder 3D 輸入裝置的佈局檢視暨按鍵測試桌面應用
 
 ### 統計
 
