@@ -2,7 +2,7 @@
 title: Tangent 的 CharaChorder 和 Forge 資源連結收集
 description: Tangent 在這個筆記中收集了一些有關 CharaChorder 和 Forge 的有用資源連結。
 date: 2024-10-27T00:45:43.485Z
-updated: 2026-08-08T11:31:18.702Z
+updated: 2026-08-09T09:43:32.237Z
 categories: [筆記, 資源]
 alias:
   - /2024/10/25/tangent-的-charachorder-和-forge-資源連結收集/
@@ -229,6 +229,7 @@ GitHub 代碼庫: https://github.com/typing-tech/monkeytype
 - [Chara 常陳四](https://andy23512.github.io/chara/)：非官方的 CharaChorder 3D 輸入裝置和弦練習工具
 - [Castor 北河二](https://andy23512.github.io/castor/)：在螢幕上查看 CharaChorder 裝置的真實實體尺寸
 - [Formosa 麗星](https://andy23512.github.io/formosa/)：注音和弦練習工具
+- [Alnasl 箕宿一](https://andy23512.github.io/alnasl/)：一個給 CharaChorder 3D 輸入裝置內建滑鼠使用的非官方練習工具
 
 ### 瀏覽器擴充套件
 
