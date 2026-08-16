@@ -2,7 +2,7 @@
 title: Tangent 的 CharaChorder 和 Forge 資源連結收集
 description: Tangent 在這個筆記中收集了一些有關 CharaChorder 和 Forge 的有用資源連結。
 date: 2024-10-27T00:45:43.485Z
-updated: 2026-08-16T10:39:33.226Z
+updated: 2026-08-16T11:45:38.891Z
 categories: [筆記, 資源]
 alias:
   - /2024/10/25/tangent-的-charachorder-和-forge-資源連結收集/
@@ -209,6 +209,11 @@ GitHub 代碼庫: https://github.com/typing-tech/monkeytype
 
 ## 我的資源 
 
+
+### 入口網站
+
+- [Tangent 的星圖](https://andy23512.github.io)：一個索引頁面，連結到我所有非官方的 CharaChorder 網路工具、應用程式和擴充功能。
+
 ### 部落格
 
 - [我在 HackMD 上的 CharaChorder 和 Forge 筆記清單](https://hackmd.io/@andy23512/ryJT_OfU1e)
@@ -223,7 +228,7 @@ GitHub 代碼庫: https://github.com/typing-tech/monkeytype
 - [Alnasl 箕宿一](https://andy23512.github.io/alnasl/)：一個給 CharaChorder 3D 輸入裝置內建滑鼠使用的非官方練習工具
 - [Alnilam 參宿二](https://andy23512.github.io/alnilam/)：非官方的 CharaChorder Lite 練習工具
 - [Alnitak 參宿一](https://andy23512.github.io/alnitak/)：非官方的 CharaChorder 3D 輸入裝置練習工具
-- [Arcturus 大角星](https://andy23512.github.io/arcturus/) - 一張非官方的「你的生命週數」風格圖表，顯示了你與 CharaChorder 渡過的周數。
+- [Arcturus 大角星](https://andy23512.github.io/arcturus/)：一張非官方的「你的生命週數」風格圖表，顯示了你與 CharaChorder 渡過的周數。
 - [CCOS Meta Viewer](https://andy23512.github.io/ccos-meta-viewer/)：「CharaChorder 官方韌體 Meta 資訊 API」的非官方資料檢視器
 - [Castor 北河二](https://andy23512.github.io/castor/)：在螢幕上查看 CharaChorder 裝置的真實實體尺寸
 - [Chara 常陳四](https://andy23512.github.io/chara/)：非官方的 CharaChorder 3D 輸入裝置和弦練習工具
