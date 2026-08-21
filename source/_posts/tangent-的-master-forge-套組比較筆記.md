@@ -2,7 +2,7 @@
 title: Tangent 的 Master Forge 套組比較筆記
 description: Tangent 收集並比較各階段的 Master Forge 套組內容。
 date: 2024-10-27T05:57:12.197Z
-updated: 2026-07-23T11:13:13.287Z
+updated: 2026-08-21T01:52:50.856Z
 categories: [筆記, 比較]
 alias:
   - /2024/10/25/tangent-的-master-forge-套組比較筆記/
@@ -26,20 +26,18 @@ hackMDUrl: https://hackmd.io/@andy23512/rklH8Lsxkx
 
 |項目|KS 前預訂|[KS - Basic](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards#reward-UmV3YXJkLVVtVjNZWEprTFRFd01URXlNRFV5)|[KS - Premium](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards#reward-UmV3YXJkLVVtVjNZWEprTFRFd01ETTVNelEx)|[KS 後 - Basic](https://www.charachorder.com/collections/forge-collection/products/master-forge-1)|[KS 後 - Premium](https://www.charachorder.com/collections/forge-collection/products/master-forge-premium)|
 |-|-|-|-|-|-|
-|Left Digitizer|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
-|Right Digtitizer|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
+|Left & Right Digitizers with rubberized keycaps|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |Electrical Bridge Connector|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |Mechanical Bridge Bolt-On|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |USB-A to USB-C Power Cable[^cable]|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |USB-C to USB-C Cable[^cable]|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
 |[Ergo Bolt-On](https://www.charachorder.com/collections/forge-collection/products/forge-ergo-bolt-on-set) (4)|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
-|Forge Trackball Bolt-On[^trackball]|<div class="check"></div> (2)||<div class="check"></div> (1)||<div class="check"></div>(1)|
+|Forge Trackball Bolt-On[^trackball]|<div class="check"></div> (2)||<div class="check"></div> (1)|||
 |Tactical Carrying Case|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |[Forge Cleat](https://www.charachorder.com/collections/forge-collection/products/forge-cleat)|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
 |M3 Allen Wrench|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |[Original Backer Deskmat](https://www.charachorder.com/collections/forge-collection/products/master-forge-deskmat-1)|<div class="check"></div>||<div class="check"></div>||<div class="check"></div>|
 |Inbuilt Platinum CharaChorder Engine Core|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
-|Digitizer Custom Keycaps (2 Sets)|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |Unlimited Forge CAD Access|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|<div class="check"></div>|
 |VIP Membership (2 Years)|<div class="check"></div>||<div class="check"></div>||
 
@@ -55,6 +53,8 @@ hackMDUrl: https://hackmd.io/@andy23512/rklH8Lsxkx
 ![image](/blog-zh-tw/images/r1gfT9Vry1l.png)
 - 2024 年 10 月 23 日的 Master Forge Premium 產品頁面截圖 (KS 後預訂)
 ![image](/blog-zh-tw/images/B103PELe1x.png)
+- 2026 年 8 月 21 日的 Master Forge Premium 產品頁面截圖（KS 後預訂，CharaChorder 商店）
+![image](/blog-zh-tw/images/HyMPC7HPGg.png)
 - [Master Forge Kickstarter 回報頁面](https://www.kickstarter.com/projects/charachorder/the-master-forge-a-keyboard-built-for-you/rewards)
 - [Discord 訊息](https://discord.com/channels/861730583092658206/1282698538144497755/1282699704416735272)
 - [Master Forge 官方文件](https://docs.charachorder.com/Master%20Forge.html#master-forge-configurations)
