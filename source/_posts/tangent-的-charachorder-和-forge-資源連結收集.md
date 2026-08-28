@@ -2,7 +2,7 @@
 title: Tangent 的 CharaChorder 和 Forge 資源連結收集
 description: Tangent 在這個筆記中收集了一些有關 CharaChorder 和 Forge 的有用資源連結。
 date: 2024-10-27T00:45:43.485Z
-updated: 2026-08-16T11:45:38.891Z
+updated: 2026-08-28T12:36:25.911Z
 categories: [筆記, 資源]
 alias:
   - /2024/10/25/tangent-的-charachorder-和-forge-資源連結收集/
@@ -222,33 +222,6 @@ GitHub 代碼庫: https://github.com/typing-tech/monkeytype
 ### Anki 牌組
 
 - [CharaChorder 3D 輸入裝置 - 預設佈局 - 字母鍵](https://drive.google.com/drive/folders/1JPRS0mbXw095RJwyFwgCyDRM8DuNusnb?usp=drive_link)
-
-### 網頁應用
-
-- [Alnasl 箕宿一](https://andy23512.github.io/alnasl/)：一個給 CharaChorder 3D 輸入裝置內建滑鼠使用的非官方練習工具
-- [Alnilam 參宿二](https://andy23512.github.io/alnilam/)：非官方的 CharaChorder Lite 練習工具
-- [Alnitak 參宿一](https://andy23512.github.io/alnitak/)：非官方的 CharaChorder 3D 輸入裝置練習工具
-- [Arcturus 大角星](https://andy23512.github.io/arcturus/)：一張非官方的「你的生命週數」風格圖表，顯示了你與 CharaChorder 渡過的周數。
-- [CCOS Meta Viewer](https://andy23512.github.io/ccos-meta-viewer/)：「CharaChorder 官方韌體 Meta 資訊 API」的非官方資料檢視器
-- [Castor 北河二](https://andy23512.github.io/castor/)：在螢幕上查看 CharaChorder 裝置的真實實體尺寸
-- [Chara 常陳四](https://andy23512.github.io/chara/)：非官方的 CharaChorder 3D 輸入裝置和弦練習工具
-- [CharaChronus](https://andy23512.github.io/chara-chronus/)：一個非官方的 CharaChorder 編年史
-- [Device Comparator](https://andy23512.github.io/device-comparator/)：比較 CharaChorder 裝置、Master Forge 和 Svalboard 的規格的非官方網頁
-- [Formosa 麗星](https://andy23512.github.io/formosa/)：注音和弦練習工具
-- [TanChord Cone (TC Code)](https://andy23512.github.io/tccode/)：非官方的實驗性 CharaChorder 和弦庫代碼編輯器
-
-### 瀏覽器擴充套件
-
-- Keybr CC Extension：能使 Keybr 顯示 CharaChorder 3D 輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件
-  - [Chrome 應用程式商店](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg)
-  - [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)
-- Monkeytype CC Extension：能使 Monkeytype 顯示 CharaChorder 3D 輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件
-  - [Chrome 應用程式商店](https://chromewebstore.google.com/detail/monkeytype-cc-extension/mhfjhmegecimjbohhdbflkhdfnaadple) 
-  - [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/monkeytype-cc-extension/)
-
-### 桌面應用程式
-
-- [Sirius 天狼星](https://github.com/andy23512/sirius) - 非官方、跨平台、CharaChorder 3D 輸入裝置的佈局檢視暨按鍵測試桌面應用
 
 ### 統計
 
