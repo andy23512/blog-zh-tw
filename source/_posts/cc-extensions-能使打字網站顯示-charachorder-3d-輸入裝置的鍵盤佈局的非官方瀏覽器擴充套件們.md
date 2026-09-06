@@ -1,8 +1,8 @@
 ---
 title: CC Extensions - 能使打字網站顯示 CharaChorder 3D 輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們
-description: Tangent 介紹他所開發的 CC 非官方瀏覽器擴充套件集。它們可以在 Keybr 或 Monkeytype 上顯示 CharaChorder 3D 輸入裝置的鍵盤佈局。
+description: Tangent 介紹他所開發的 CC 非官方瀏覽器擴充套件集。它們可以在 Keybr 或 Monkeytype 上顯示 CharaChorder 輸入裝置的鍵盤佈局。
 date: 2025-10-19T12:54:51.906Z
-updated: 2026-06-13T00:57:06.914Z
+updated: 2026-09-06T08:15:30.095Z
 categories: [文章, 作品]
 alias:
   - /2025/10/17/cc-extensions-能使打字網站顯示-charachorder-3d-輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們/
@@ -39,7 +39,7 @@ hackMDUrl: https://hackmd.io/@andy23512/BJ4oJPfAgx
 
 ## 功能
 
-- 在 [Keybr](https://www.keybr.com/) 或 [Monkeytype](https://monkeytype.com/) 上顯示 CharaChorder 3D 輸入裝置的鍵盤佈局
+- 在 [Keybr](https://www.keybr.com/) 或 [Monkeytype](https://monkeytype.com/) 上顯示 CharaChorder 輸入裝置的鍵盤佈局
 - 支援上傳使用者自定義的裝置佈局
 - 支援改變鍵盤佈局的位置、大小和透明度
 - 支援作業系統鍵盤佈局選項
@@ -48,9 +48,9 @@ hackMDUrl: https://hackmd.io/@andy23512/BJ4oJPfAgx
 
 ### 開發這個擴充套件的原因
 
-目前已經有一些可以顯示 CharaChorder 3D 輸入裝置的練習工具，例如 [dot i/o](https://www.iq-eq.io/#/) 和 [Alnitak](https://andy23512.github.io/alnitak/)。它們有不同的佈局學習策略。然而，Keybr 有著傑出且獨特的學習策略，使得很多 CharaChorder 使用者偏好使用它來練習。然而也有些使用者比起 Keybr，更喜歡使用 Monkeytype。
+目前已經有一些可以顯示 CharaChorder 輸入裝置的練習工具，例如 [dot i/o](https://www.iq-eq.io/#/) 和 [Alnitak](https://andy23512.github.io/alnitak/)。它們有不同的佈局學習策略。然而，Keybr 有著傑出且獨特的學習策略，使得很多 CharaChorder 使用者偏好使用它來練習。然而也有些使用者比起 Keybr，更喜歡使用 Monkeytype。
 
-因此，為了讓它們更符合 CharaChorder 使用者的需要，我決定使 Keybr 和 Monkeytype 能支援顯示 CharaChorder 3D 輸入裝置的佈局。
+因此，為了讓它們更符合 CharaChorder 使用者的需要，我決定使 Keybr 和 Monkeytype 能支援顯示 CharaChorder 輸入裝置的佈局。
 
 ### 選擇開發瀏覽器擴充套件的原因
 
@@ -61,7 +61,7 @@ hackMDUrl: https://hackmd.io/@andy23512/BJ4oJPfAgx
 3. 用如 [Tampermonkey](https://www.tampermonkey.net/) 的套件來對網頁注入 JavaScript
 4. 製作一個瀏覽器擴充套件來修改和擴充網頁的功能
 
-有關第一個方式，我曾看過 Keybr 的程式碼。其中的鍵盤圖示繪製邏輯是給 1D 鍵盤用的，就跟你在它的[佈局頁面](https://www.keybr.com/layouts)看到的一樣。讓它直接支援 CharaChorder 3D 輸入裝置將花很多實作和審核的工。更不用提及為了支援客製化的佈局 JSON 檔案，還要處理 CharaChorder 的動作碼。在 Monkeytype 那邊，甚至連鍵盤圖示顯示功能都沒有。
+有關第一個方式，我曾看過 Keybr 的程式碼。其中的鍵盤圖示繪製邏輯是給 1D 鍵盤用的，就跟你在它的[佈局頁面](https://www.keybr.com/layouts)看到的一樣。讓它直接支援 CharaChorder 輸入裝置將花很多實作和審核的工。更不用提及為了支援客製化的佈局 JSON 檔案，還要處理 CharaChorder 的動作碼。在 Monkeytype 那邊，甚至連鍵盤圖示顯示功能都沒有。
 
 第二個方式，除了修改其程式碼的工以外，架設和更新網頁是一個一直持續下去的工作，特別是需要儲存使用者的資訊在伺服器上的網頁。使用者有兩個很像的網頁但有不同的資料，這件事也不太好。
 
