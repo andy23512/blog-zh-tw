@@ -2,7 +2,7 @@
 title: Tangent 在 CharaChorder One、CharaChorder Two 和 Master Forge 上的最新佈局
 description: Tangent 解釋他在 CharaChorder One、CharaChorder Two 和 Master Forge 上的最新佈局。
 date: 2024-11-03T04:25:53.994Z
-updated: 2026-03-23T11:11:04.420Z
+updated: 2026-09-20T07:43:56.398Z
 categories: [文章, 佈局]
 alias:
   - /2024/11/01/tangent-在-charachorder-one、charachorder-two-和-master-forge-上的最新佈局/
@@ -53,9 +53,11 @@ hackMDUrl: https://hackmd.io/@andy23512/H15Uj_Ebyl
 
 ### 將功能鍵放在左半邊
 
-![localhost_4200_layouts (3)](/blog-zh-tw/images/B1wp0YtMWg.png)
+![localhost-layouts](/blog-zh-tw/images/BkAVRZTKfx.png)
 
 為了讓功能鍵更好使用，我把功能鍵放在數字層的左半邊。
+
+我的一個自訂快捷鍵需要用到 F13，所以我也放上去。
 
 ### 設定滑鼠動作鍵
 

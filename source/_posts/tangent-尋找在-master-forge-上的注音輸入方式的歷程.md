@@ -2,7 +2,7 @@
 title: Tangent 尋找在 Master Forge 上的注音輸入方式的歷程
 description: Tangent 分享了他尋找在 Master Forge 上使用注音輸入的方法的過程。
 date: 2024-03-28T15:51:48.814Z
-updated: 2025-12-17T23:59:39.315Z
+updated: 2026-09-20T07:38:29.883Z
 categories: [文章, 佈局]
 alias:
   - /2024/03/26/tangent-尋找在-master-forge-上的注音輸入方式的歷程/
@@ -141,6 +141,12 @@ Master Forge (M4G) 是 CC1 的接班人，它將不會有拇指的第三搖桿�
 （數字層）
 
 ![localhost_4200_layouts (5)](/blog-zh-tw/images/SJhn45Yf-x.png)
+
+##### V2.5
+
+我的一個自訂快捷鍵需要用到 F13，所以我放在一個剩餘的空間，左手拇指第二搖桿的西鍵。
+
+![localhost-layouts](/blog-zh-tw/images/Byf23WaFzx.png)
 
 ## （不採用）方向三：在 M4G 上使用 3D 按鍵
 
