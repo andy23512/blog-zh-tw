@@ -2,7 +2,7 @@
 title: Tangent 對學習使用 CharaChorder 3D 輸入裝置英打（逐字輸入）的建議
 description: Tangent 分享他對學習使用 CharaChorder 3D 輸入裝置（CharaChorder One、CharaChorder Two、CCU 和 Master Forge）英打（逐字輸入）的建議。 
 date: 2025-07-12T01:16:38.846Z
-updated: 2026-06-10T04:26:51.462Z
+updated: 2026-09-20T02:21:50.665Z
 categories: [文章, 語言]
 alias:
   - /2025/07/10/tangent-對學習使用-charachorder-3d-輸入裝置英打（逐字輸入）的建議/
@@ -74,7 +74,7 @@ Dot i/o 和 CharaChorder LaunchPad 上只有 CC1 和 CCL 的預覽圖。但 CC2 
 
 除此之外，[Alnitak](https://andy23512.github.io/alnitak/) 是一個特別為了練習 CharaChorder 3D 輸入裝置的按鍵佈局所設計的工具。字元鍵，包含數字、字母和符號，被分成數個小課程，使使用者可以一次只專注練習一小部分的按鍵。此外，在使用者達成 20 連擊後，圖像指引會消失，之後打錯字時又會再次顯示。這可以幫助使用者真的記憶按鍵位置，而不是只單純照著圖像指引輸入。
 
-[Keybr](https://www.keybr.com/) 沒有內建 CharaChorder 3D 輸入裝置的圖像指引，但我開發的瀏覽器擴充套件，Keybr CC Extension（[Chrome 應用程式商店](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) / [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)），可以將其加到 Keybr 上。
+[Keybr](https://www.keybr.com/) 沒有內建 CharaChorder 3D 輸入裝置的圖像指引，但我開發的瀏覽器擴充套件，Keybr CC Extension（[Chrome 應用程式商店](https://chromewebstore.google.com/detail/keybr-cc-extension/fdofhfbipdhkkhhdjlfjnjfnkibpbdpg) / [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/keybr-cc-extension/)），可以將其加到 Keybr 上。按下 Keybr 頁面右上角的齒輪按鈕就可以調整課程和其他設定。在這個階段，我會建議使用「引導課程」，並將目標速度設定為 15 WPM 來練習字母、使用「原始碼」課程來練習符號、使用「數字」課程來練習數字。
 
 如果你偏好用實際的單字來熟悉鍵盤佈局，你可以在 [Monkeytype](https://monkeytype.com/) 上，搭配 Monkeytype CC Extension（[Chrome 應用程式商店](https://chromewebstore.google.com/detail/monkeytype-cc-extension/mhfjhmegecimjbohhdbflkhdfnaadple) / [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/monkeytype-cc-extension/)）進行練習。這是我開發的另一個類似 Keybr CC Extension 的瀏覽器擴充套件。要留意的地方是 Monkeytype 上預設的 English 字集中只有一個字有字母 j，並且它沒有有字母 q、x 或 z 的字。你可能需要用其他字集或使用自訂文字來練習那些字母。
 {% endcollapsecard %}
