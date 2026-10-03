@@ -2,7 +2,7 @@
 title: Chara 常陳四 - Tangent 所開發的 CharaChorder 3D 輸入裝置和弦練習工具
 description: Tangent 在這篇文章介紹了 Chara 常陳四，他所開發的 CharaChorder 3D 輸入裝置和弦練習工具。
 date: 2026-06-22T01:56:39.633Z
-updated: 2026-07-04T09:06:24.205Z
+updated: 2026-10-03T10:21:23.119Z
 categories: [文章, 作品]
 alias:
   - /2026/06/20/chara-常陳四-tangent-所開發的-charachorder-3d-輸入裝置和弦練習工具/
@@ -27,6 +27,11 @@ hackMDUrl: https://hackmd.io/@andy23512/H1xwLf8MMe
 - [Chara](https://andy23512.github.io/chara/)
 - [GitHub](https://github.com/andy23512/chara)
 - <a href="{% post_path tangent-對學習使用-charachorder-輸入裝置英文和弦輸入的建議 %}#CHARA-循環是什麼？">CHARA 循環</a>
+
+### Chara Lite 常陳四・簡 - 為 CharaChorder Lite 開發的伴生工具
+
+- [Chara Lite](https://andy23512.github.io/chara-lite/)
+- [Github](https://github.com/andy23512/chara-lite)
 
 ## 功能
 
