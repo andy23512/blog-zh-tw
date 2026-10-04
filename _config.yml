@@ -105,6 +105,11 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: next
 
+# Server
+## Docs: https://hexo.io/docs/server
+server:
+  port: 4001
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
