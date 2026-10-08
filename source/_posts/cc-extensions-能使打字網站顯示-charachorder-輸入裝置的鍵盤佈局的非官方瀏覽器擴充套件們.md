@@ -2,7 +2,7 @@
 title: CC Extensions - 能使打字網站顯示 CharaChorder 輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們
 description: Tangent 介紹他所開發的 CC 非官方瀏覽器擴充套件集。它們可以在 Keybr、Monkeytype 和 10FastFingers 上顯示 CharaChorder 輸入裝置的鍵盤佈局。
 date: 2025-10-19T12:54:51.906Z
-updated: 2026-10-04T07:14:30.569Z
+updated: 2026-10-08T00:32:59.711Z
 categories: [文章, 作品]
 alias:
   - /2025/10/17/cc-extensions-能使打字網站顯示-charachorder-輸入裝置的鍵盤佈局的非官方瀏覽器擴充套件們/
@@ -40,6 +40,7 @@ hackMDUrl: https://hackmd.io/@andy23512/BJ4oJPfAgx
 ### 10FastFingers CC Extension
 
 - [Chrome 應用程式商店](https://chromewebstore.google.com/detail/10fastfingers-cc-extensio/ijoddmekpnccpinjpfhgedbdplgdggli)
+- [Firefox 附加元件站](https://addons.mozilla.org/en-US/firefox/addon/10fastfingers-cc-extension/)
 - [GitHub](https://github.com/andy23512/10fastfingers-cc-extension)
 - [展示影片](https://youtu.be/C4Pv2ujm76A)
 
