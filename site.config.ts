@@ -26,7 +26,7 @@ export const siteConfig = {
     kicker: "TANGENT CHANG · 🐰📐",
     title: "Tangent 的部落格",
     titleSize: 78,
-    subtitle: ["有關 CharaChorder 和 Forge 的", "非官方筆記和文章"],
+    subtitle: ["有關 CharaChorder 的非官方筆記和文章"],
     footer: "andy23512.github.io/blog-zh-tw",
   },
 };
