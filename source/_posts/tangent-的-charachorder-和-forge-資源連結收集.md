@@ -2,7 +2,7 @@
 title: Tangent 的 CharaChorder 和 Forge 資源連結收集
 description: Tangent 在這個筆記中收集了一些有關 CharaChorder 和 Forge 的有用資源連結。
 date: 2024-10-27T00:45:43.485Z
-updated: 2026-08-28T12:36:25.911Z
+updated: 2026-10-19T10:39:58.607Z
 categories: [筆記, 資源]
 alias:
   - /2024/10/25/tangent-的-charachorder-和-forge-資源連結收集/
@@ -232,8 +232,4 @@ GitHub 代碼庫: https://github.com/typing-tech/monkeytype
 
 - [State of the Chorder (Google 表單)](https://forms.gle/oLw6Wx4tBjFii3N88)
   - [State of the Chorder (回覆) (Google 試算表)](https://docs.google.com/spreadsheets/d/163hN9T4CpJ9bLHM7K_lch9bTDIxgqr82DkrEfWrnVmk/edit?usp=sharing)
- 
-### 專案追蹤
-
-- [我的 CC 個人專案的 Trello 看板](https://trello.com/b/vU9RCh5P/tangents-board-of-his-charachorder-side-projects)
 
