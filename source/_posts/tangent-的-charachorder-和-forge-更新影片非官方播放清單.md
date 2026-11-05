@@ -2,7 +2,7 @@
 title: Tangent 的 CharaChorder 和 Forge 更新影片非官方播放清單
 description: Tangent 為 CharaChorder 和 Forge 的更新影片建立了一個播放清單。這個是那個播放清單的筆記。
 date: 2024-10-26T16:14:07.966Z
-updated: 2026-07-23T11:52:57.567Z
+updated: 2026-11-05T01:29:40.135Z
 categories: [筆記, 資源]
 alias:
   - /2024/10/25/tangent-的-charachorder-和-forge-更新影片非官方播放清單/
@@ -47,7 +47,7 @@ hackMDUrl: https://hackmd.io/@andy23512/rk_Urqcgkg
 ## 來源
 
 - [CharaChorder 的 YouTube 頻道](https://www.youtube.com/@CharaChorder)
-- [CharaChorder 執行長的 YouTube 頻道](https://www.youtube.com/@crash_often)
+- [CharaChorder 執行長的 YouTube 頻道](https://www.youtube.com/@crash-often)
 - [CharaChorder 的 FaceBook](https://www.facebook.com/CharaChorder)
 - [CharaChorder 的 Instagram](https://www.instagram.com/charachorder/)
 - [CharaChorder 執行長的 LinkedIn](https://www.linkedin.com/in/rileykeen/)
@@ -201,6 +201,7 @@ hackMDUrl: https://hackmd.io/@andy23512/rk_Urqcgkg
 |W113*|[Our BIGGEST Announcement Ever - CharaChorder is now community owned.](https://youtu.be/6kwy6dXkLqs?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2026-04-14 12:00:16||
 |W123*|[CharaChorder - Official WeFunder Launch Video](https://youtu.be/hDCfRM3jteQ?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2026-06-26 21:00:28||
 |W125*|[Our 1st Public Shareholder Meeting!](https://youtu.be/YFofVmLQ6AI?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2026-07-07 12:05:06||
+| |[Introducing CC BALL -- Now Shipping](https://youtu.be/fGz3eYDmguY?feature=shared&list=PLYmVskSlsNhzuiJBjZW31MKlpnW94Vehn)|2026-11-04 10:00:00||
 
 [^serial]: 如果影片的標題或內容有提到這是第幾日或第幾週的話，就會使用那個作為編號。否則它會由上傳時間和相鄰影片的編號來決定，其後面會帶有 `*` 號。`D` 開頭為第幾日而 `W` 開頭為第幾週。
 [^timezone]: 使用美國中部時區。
