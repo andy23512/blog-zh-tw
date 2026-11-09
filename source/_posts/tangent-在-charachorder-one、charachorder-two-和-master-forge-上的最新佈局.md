@@ -2,7 +2,7 @@
 title: Tangent 在 CharaChorder One、CharaChorder Two 和 Master Forge 上的最新佈局
 description: Tangent 解釋他在 CharaChorder One、CharaChorder Two 和 Master Forge 上的最新佈局。
 date: 2024-11-03T04:25:53.994Z
-updated: 2026-09-20T07:43:56.398Z
+updated: 2026-11-09T04:06:51.063Z
 categories: [文章, 佈局]
 alias:
   - /2024/11/01/tangent-在-charachorder-one、charachorder-two-和-master-forge-上的最新佈局/
@@ -26,10 +26,10 @@ hackMDUrl: https://hackmd.io/@andy23512/H15Uj_Ebyl
 
 ### 將符號鍵放在主列上
 
-![localhost_4200_layouts (3)](/blog-zh-tw/images/SJh3sUV-ke.png)
+![alhena-1-primary-symbols-on-home-row](/blog-zh-tw/images/ryrWsnATGx.png)
 
-對應的注音佈局：
-![localhost_4200_layouts](/blog-zh-tw/images/ByF157m7kx.png)
+對應的注音佈局：![alhena-2-primary-bopomofo](/blog-zh-tw/images/H1zQo306Mg.png)
+
 
 注音輸入法僅能將字元鍵（字母、數字和符號）映射為注音符號，所以我將一些非字元鍵改為符號鍵。這些符號鍵並不會帶有 Shift 按鍵效果，所以它們不會影響到和弦的運作（包含 CC 和弦和注音和弦）。
 
@@ -37,7 +37,7 @@ hackMDUrl: https://hackmd.io/@andy23512/H15Uj_Ebyl
 
 ### 擺放被改掉的非字元鍵
 
-![localhost_4200_layouts (2)](/blog-zh-tw/images/S1HFjUNbyg.png)
+![alhena-3-primary-replaced-non-character-keys](/blog-zh-tw/images/SJOBi2R6zx.png)
 
 接著我要為那些原本位置被改為符號的非字元鍵找位置。與 M4G 的預設佈局類似，我將它們放在無名指中搖桿上。
 
@@ -45,7 +45,7 @@ hackMDUrl: https://hackmd.io/@andy23512/H15Uj_Ebyl
 
 ### 數字層鎖定鍵
 
-![localhost_4200_layouts (4)](/blog-zh-tw/images/HkIfT8E-Jg.png)
+![alhena-4-primary-numeric-layer-lock](/blog-zh-tw/images/BkILjnRpfe.png)
 
 因為主層上的滑鼠搖桿被一些非字元鍵佔據，所以我改成在數字層上使用滑鼠動作。我設定了一個數字層鎖定鍵來將裝置鎖定為數字層。（然後可以用原本的 Num-shift 鍵來解鎖。）
 
@@ -53,7 +53,7 @@ hackMDUrl: https://hackmd.io/@andy23512/H15Uj_Ebyl
 
 ### 將功能鍵放在左半邊
 
-![localhost-layouts](/blog-zh-tw/images/BkAVRZTKfx.png)
+![alhena-5-numeric-function-keys](/blog-zh-tw/images/r1EwihRTfe.png)
 
 為了讓功能鍵更好使用，我把功能鍵放在數字層的左半邊。
 
@@ -61,7 +61,7 @@ hackMDUrl: https://hackmd.io/@andy23512/H15Uj_Ebyl
 
 ### 設定滑鼠動作鍵
 
-![localhost_4200_layouts (4)](/blog-zh-tw/images/HyMARFtf-g.png)
+![alhena-6-numeric-mouse-actions](/blog-zh-tw/images/BykKsnAafe.png)
 
 - M(箭頭): 滑鼠移動
 - S(箭頭): 滑鼠捲動
