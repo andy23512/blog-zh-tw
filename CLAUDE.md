@@ -26,6 +26,15 @@ sibling English-language repo (`blog`, linked as `otherLanguage` in
 - `yarn og` — `tsx bin/generate-og-image.ts`, renders/commits the Open Graph
   image referenced by `site.config.ts` → `ogImage`.
 - `yarn deploy` — `hexo deploy`.
+- `yarn check:sync` — runs `bin/check-sibling-sync.ts`: verifies that the files
+  meant to be identical across `blog` and `blog-zh-tw` (`bin/`, `model/`,
+  `util/`, `scripts/`, `scaffolds/`, `package.json`, `yarn.lock`,
+  `tsconfig.json`, `.eslintrc.js`, `.gitignore`, `.gitlab-ci.yml`, the `.github/`
+  workflow and dependabot config, `_config.landscape.yml`, `LICENSE`) really
+  are; exits 1 and lists the differences otherwise. It compares the working
+  trees of the two sibling directories and does not check `_config.yml`,
+  `_config.next.yml` or `site.config.ts`, which are expected to differ. Run it
+  before committing changes to any of those files.
 - No test script and no `lint` script in `package.json`; `.eslintrc.js`
   exists (`eslint:recommended` + `@typescript-eslint/recommended`) but there
   is no `eslint` devDependency or npm script wired to it, so linting isn't
