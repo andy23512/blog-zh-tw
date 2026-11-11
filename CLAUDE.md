@@ -76,5 +76,5 @@ sibling English-language repo (`blog`, linked as `otherLanguage` in
 - CI: `.github/workflows/pages.yml` runs `corepack enable`, then
   `yarn install --frozen-lockfile` and `yarn build` (so `yarn.lock` is honored),
   and deploys `public/` to GitHub Pages on push to `main`; a separate
-  `.gitlab-ci.yml` still does its GitLab Pages build with `npm install` (not
-  yarn, so it ignores `yarn.lock`).
+  `.gitlab-ci.yml` uses the same yarn steps for GitLab Pages, only as a
+  fallback in case GitHub is unavailable (not test-run).
