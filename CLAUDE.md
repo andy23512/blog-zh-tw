@@ -13,7 +13,7 @@ sibling English-language repo (`blog`, linked as `otherLanguage` in
 
 - Hexo 7 static site generator (theme: `hexo-theme-next`), TypeScript tooling
   run via `tsx`, Yarn 1 as the package manager (`packageManager` pinned in
-  `package.json`), Node 20 (per `.gitlab-ci.yml` / `.github/workflows/pages.yml`).
+  `package.json`), Node 22 (per `.gitlab-ci.yml` / `.github/workflows/pages.yml`).
 
 ## Key commands
 
@@ -73,6 +73,8 @@ sibling English-language repo (`blog`, linked as `otherLanguage` in
 - Site is deployed to `https://andy23512.github.io/blog-zh-tw/` with
   `root: /blog-zh-tw/` set in `_config.yml` — it's served from a subpath, not
   domain root.
-- CI: `.github/workflows/pages.yml` builds with `npm install && npm run build`
+- CI: `.github/workflows/pages.yml` runs `corepack enable`, then
+  `yarn install --frozen-lockfile` and `yarn build` (so `yarn.lock` is honored),
   and deploys `public/` to GitHub Pages on push to `main`; a separate
-  `.gitlab-ci.yml` does an equivalent GitLab Pages build using npm (not yarn).
+  `.gitlab-ci.yml` still does its GitLab Pages build with `npm install` (not
+  yarn, so it ignores `yarn.lock`).
