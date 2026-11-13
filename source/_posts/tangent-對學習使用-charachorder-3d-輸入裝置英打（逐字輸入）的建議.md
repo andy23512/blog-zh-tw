@@ -2,7 +2,7 @@
 title: Tangent 對學習使用 CharaChorder 3D 輸入裝置英打（逐字輸入）的建議
 description: Tangent 分享他對學習使用 CharaChorder 3D 輸入裝置（CharaChorder One、CharaChorder Two、CCU 和 Master Forge）英打（逐字輸入）的建議。 
 date: 2025-07-12T01:16:38.846Z
-updated: 2026-11-13T12:57:53.399Z
+updated: 2026-11-13T13:27:19.209Z
 categories: [文章, 語言]
 alias:
   - /2025/07/10/tangent-對學習使用-charachorder-3d-輸入裝置英打（逐字輸入）的建議/
@@ -35,6 +35,17 @@ hackMDUrl: https://hackmd.io/@andy23512/Hk1KwVkIxx
 
 此外，Alnitak 上還有一首由 AI 生成的[佈局記憶歌](https://andy23512.github.io/alnitak/layout-song)。它能幫助你記住預設佈局。
 
+{% endcollapsecard %}
+
+## 跟著教學做
+
+- 目的：透過教學了解裝置和基本功能
+- 推薦工具：
+  - [Capella](https://andy23512.github.io/capella/) 
+- 推薦目標：
+  - 完成所有章節和練習
+
+{% collapsecard "詳細" %}[Capella](https://andy23512.github.io/capella/) 是一個非官方的 CharaChorder 3D 輸入設備教學網站。它會引導你了解裝置運作以及如何實際使用包括標準鍵、CharaChorder 特殊鍵和基本和弦等功能。
 {% endcollapsecard %}
 
 ## 練習按鍵佈局
