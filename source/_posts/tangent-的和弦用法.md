@@ -2,7 +2,7 @@
 title: Tangent 的和弦用法
 description: 在這篇筆記，Tangent 說明了他的幾種和弦用法，包含注音和弦和 CharaChorder 和弦，並說明他是如何避免它們之間的衝突。
 date: 2024-11-13T16:34:09.666Z
-updated: 2025-03-23T08:46:02.694Z
+updated: 2026-11-13T12:58:59.950Z
 categories: [文章, 和弦]
 alias:
   - /2024/11/12/tangent-的和弦用法/
@@ -52,13 +52,7 @@ hackMDUrl: https://hackmd.io/@andy23512/SycZrIzM1l
 
 然後這是其運作的序列圖。
 
-```mermaid
-sequenceDiagram
-    使用者->>CC1: e + 4\n(ㄑ+ㄜ)
-    CC1->>天弦41鍵 V5 : eas4n
-    天弦41鍵 V5->>注音輸入法: ㄑㄧˋㄜˊ
-    注音輸入法->>輸出: 企鵝
-```
+![chording-example-penguin](/blog-zh-tw/images/rJxYYKNAMg.png)
 
 所以我在 CC1 上加了 `e + 4 -> eas4n[KSC_00]`　和弦。這個在我的天弦 41 鍵 V5 上，即對應到注音的 `ㄑ+ㄜ -> ㄑㄧˋㄜˊ[KSC_00]`，輸出的字詞 `企鵝` 是由注音輸入法的詞庫決定。
 
@@ -82,12 +76,7 @@ sequenceDiagram
 
 然後這是其運作的序列圖。
 
-```mermaid
-sequenceDiagram
-    使用者->>CC1: s + h
-    CC1->>日文輸入法: susi
-    日文輸入法->>輸出: 寿司 (或「すし」的同音詞)
-```
+![chording-example-sushi](/blog-zh-tw/images/H1v5tFNAMl.png)
 
 #### 限制
 

@@ -2,7 +2,7 @@
 title: Tangent 的 CharaChorder 秘訣收集
 description: Tangent 在這篇筆記中收集了來自他自身、CharaChorder Discord 伺服器和其他相關網站的 CharaChorder 秘訣。
 date: 2025-11-30T10:14:48.226Z
-updated: 2026-06-25T00:42:58.478Z
+updated: 2026-11-13T12:54:25.642Z
 categories: [筆記, 資源]
 alias:
   - /2025/11/28/tangent-的-charachorder-秘訣收集/
@@ -53,27 +53,7 @@ hackMDUrl: https://hackmd.io/@andy23512/HkxmY9K-Zx
 
 #### 換層鍵
 
-```mermaid
----
-displayMode: compact
----
-gantt
-    dateFormat X
-    axisFormat %s
-    tickInterval 1day
-    title 換層鍵 ( A1: ② | A2: ② )
-    section ㅤ
-    按下: milestone, done, 1, 1
-    放開: milestone, done, 2, 2
-    按下: milestone, done, 3, 3
-    放開: milestone, done, 4, 4
-    section ㅤㅤ
-    A1: 0, 1s
-    A2: active, 1, 1s
-    A1: 2, 1s
-    A2: active, 3, 1s
-    A1: 4, 1s
-```
+![layer-shift](/blog-zh-tw/images/ryyBOFE0Ge.png)
 
 第一種是換層鍵。舉例來說，A1 和 A2 層上的這個鍵的設定動作都是 A2 層，即 ②。
 
@@ -81,24 +61,7 @@ gantt
 
 #### 單向鎖層鍵
 
-```mermaid
----
-displayMode: compact
----
-gantt
-    dateFormat X
-    axisFormat %s
-    title 單向鎖層鍵 ( A1: ② | A2: 除了層動作以外的任何動作 )
-    section ㅤ
-    按下: milestone, done, 1, 1
-    放開: milestone, done, 2, 2
-    按下: milestone, done, 3, 3
-    放開: milestone, done, 4, 4
-    tickInterval 1day
-    section ㅤㅤ
-    A1: 0, 1
-    A2: active, 1, 5
-```
+![one-way-layer-lock](/blog-zh-tw/images/HJF8OY40zg.png)
 
 第二種是單向鎖層鍵。舉例來說，這個鍵在 A1 上的動作為 ②，但在 A2 上是層動作以外的任何動作。
 
@@ -106,25 +69,7 @@ gantt
 
 #### 雙向鎖層鍵
 
-```mermaid
----
-displayMode: compact
----
-gantt
-    dateFormat X
-    axisFormat %s
-    title 雙向鎖層鍵 ( A1: ② | A2: ① )
-    section ㅤ
-    按下: milestone, done, 1, 1
-    放開: milestone, done, 2, 2
-    按下: milestone, done, 3, 3
-    放開: milestone, done, 4, 4
-    tickInterval 1day
-    section ㅤㅤ
-    A1: 0, 1s
-    A2: active, 1, 2s
-    A1: 3, 2s
-```
+![two-way-layer-lock](/blog-zh-tw/images/SyTP_YNAze.png)
 
 第三種是雙向鎖層鍵。舉例來說，這個鍵在 A1 上的動作為 ②、在 A2 上的動作為 ①。
 
@@ -133,28 +78,7 @@ gantt
 
 #### 層輪替鍵
 
-```mermaid
----
-displayMode: compact
----
-gantt
-    dateFormat X
-    axisFormat %s
-    title 層輪替鍵 ( A1: ② | A2: ③ | A3: ① )
-    section ㅤ
-    按下: milestone, done, 1, 1
-    放開: milestone, done, 2, 2
-    按下: milestone, done, 3, 3
-    放開: milestone, done, 4, 4
-    按下: milestone, done, 5, 5
-    放開: milestone, done, 6, 6
-    tickInterval 1day
-    section ㅤㅤ
-    A1: 0, 1s
-    A2: active, 1, 2s
-    A3: crit, 3, 2s
-    A1: 5, 2s
-```
+![layer-rotator](/blog-zh-tw/images/B1A__FVAMg.png)
 
 第四種是層輪替鍵：能將裝置切換到下一層或上一層的鍵。舉例來說，這個鍵在 A1 上的動作為 ②、在 A2 上的動作為 ③、在 A3 上的動作為 ① 。用這樣的設定，你可以只用這個鍵循環切換所有的層。
 

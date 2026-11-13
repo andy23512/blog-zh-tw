@@ -2,7 +2,7 @@
 title: Tangent 在 CharaChorder One 上的注音輸入鍵盤佈局
 description: Tangent 在這篇文章分享了他為了在 CharaChorder One 上使用注音輸入法所設計的鍵盤佈局。
 date: 2024-03-18T14:33:41.922Z
-updated: 2026-07-22T13:18:03.152Z
+updated: 2026-11-13T12:56:27.862Z
 categories: [文章, 佈局]
 alias:
   - /2024/03/16/tangent-在-charachorder-one-上的注音輸入鍵盤佈局/
@@ -187,28 +187,15 @@ CC 裝置管理系統匯出的備份檔：https://github.com/andy23512/setting-f
 
 舉例來說，當在天弦 41 鍵 V5 上打出 `ㄅㄆㄇㄈ...` 時， CC1 實際上是輸出 `7890...`
 
-```mermaid
-sequenceDiagram
-CC1->>天弦 41 鍵 V5: 7890...
-天弦 41 鍵 V5->>輸出: ㄅㄆㄇㄈ...
-```
+![bpmf-tc41-v5-mapping](/blog-zh-tw/images/Hkj2OYVCMl.png)
 
 但在標準注音佈局，鍵盤實際上是輸出 `1qaz...`。(這就是 `ㄅㄆㄇㄈ...` 對應的注音密碼)
 
-```mermaid
-sequenceDiagram
-鍵盤->>標準注音佈局: 1qaz...
-標準注音佈局->>輸出: ㄅㄆㄇㄈ...
-```
+![bpmf-standard-layout](/blog-zh-tw/images/Hygf1FFVCzl.png)
 
 所以我們就需要一個注音密碼佈局來把 CC1 的輸出 `7890...` 來映射為對應的輸出 `1qaz...`。所以在這個佈局上， `7890` 鍵就分別是輸出 `1qaz`。
 
-```mermaid
-sequenceDiagram
-CC1->>天弦 41 鍵 V5: 7890...
-天弦 41 鍵 V5->>(逆向)標準注音佈局: ㄅㄆㄇㄈ...
-(逆向)標準注音佈局->>輸出: 1qaz...(注音密碼)
-```
+![bpmf-reversed-standard-layout](/blog-zh-tw/images/Hkaltt4AMe.png)
 
 所以在注音密碼佈局上，`7890` 鍵的輸出就應該是 `1qaz`，這就是套用天弦 41 鍵 V5 和逆向的標準注音佈局的結果。
 

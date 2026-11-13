@@ -2,7 +2,7 @@
 title: Tangent 對學習使用 CharaChorder 3D 輸入裝置英打（逐字輸入）的建議
 description: Tangent 分享他對學習使用 CharaChorder 3D 輸入裝置（CharaChorder One、CharaChorder Two、CCU 和 Master Forge）英打（逐字輸入）的建議。 
 date: 2025-07-12T01:16:38.846Z
-updated: 2026-09-20T02:21:50.665Z
+updated: 2026-11-13T12:57:53.399Z
 categories: [文章, 語言]
 alias:
   - /2025/07/10/tangent-對學習使用-charachorder-3d-輸入裝置英打（逐字輸入）的建議/
@@ -16,18 +16,7 @@ otherLanguages:
     path: https://andy23512.github.io/blog/tangent-s-suggestions-for-learning-english-character-entry-on-charachorder-3d-input-devices/
 hackMDUrl: https://hackmd.io/@andy23512/Hk1KwVkIxx
 ---
-```mermaid
-gantt
-    title 各學習階段和它們的建議英打速度範圍
-    dateFormat X
-    axisFormat %s
-    記憶鍵盤佈局（無需輸入裝置）: milestone, 0, 0
-    練習按鍵佈局 : 0, 13
-    深入練習字母: 13, 30
-    練習三元組（Trigram）: 13, 23
-    練習單字: 20, 40
-    實際使用: milestone, 20, 20
-```
+![learning-stages](/blog-zh-tw/images/SJgIKtVAMe.png)
 
 ## 記憶鍵盤佈局（無需輸入裝置）
 

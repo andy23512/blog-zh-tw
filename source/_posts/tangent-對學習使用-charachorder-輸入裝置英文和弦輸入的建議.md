@@ -2,7 +2,7 @@
 title: Tangent 對學習使用 Charachorder 輸入裝置英文和弦輸入的建議
 description: Tangent 分享他對學習使用 CharaChorder 輸入裝置英文和弦輸入的建議。
 date: 2026-06-21T11:18:34.473Z
-updated: 2026-06-25T16:07:37.937Z
+updated: 2026-11-13T12:57:07.548Z
 categories: [文章, 和弦]
 alias:
   - /2026/06/19/tangent-對學習使用-charachorder-輸入裝置英文和弦輸入的建議/
@@ -97,15 +97,7 @@ hackMDUrl: https://hackmd.io/@andy23512/Hkz9drrGGl
 
 ### CHARA 循環是什麼？
 
-```mermaid
-flowchart LR
-    A["CH - 選擇和弦"] <--> B["A - 適應"]
-    A <--> D["A - 積累"]
-    B & D <--> C["R - 實現"]
-    
-    linkStyle 1,3 marker-end:none;
-    linkStyle 0,2 marker-start:none;
-```
+![ch-a-r-cycle](/blog-zh-tw/images/ryD7ttNCfe.png)
 
 CHARA 由 CHoose CHords（選擇和弦）、Adapt（適應）, Realize（實現）、Accumulate（積累）這四個階段組成。
 
