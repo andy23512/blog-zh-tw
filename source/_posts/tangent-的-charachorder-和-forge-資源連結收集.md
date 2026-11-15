@@ -2,7 +2,7 @@
 title: Tangent 的 CharaChorder 和 Forge 資源連結收集
 description: Tangent 在這個筆記中收集了一些有關 CharaChorder 和 Forge 的有用資源連結。
 date: 2024-10-27T00:45:43.485Z
-updated: 2026-10-19T10:39:58.607Z
+updated: 2026-11-15T03:22:14.113Z
 categories: [筆記, 資源]
 alias:
   - /2024/10/25/tangent-的-charachorder-和-forge-資源連結收集/
@@ -33,6 +33,8 @@ hackMDUrl: https://hackmd.io/@andy23512/rkkSp-jg1g
 ### 首頁
 
 #### [CharaChorder - Type at the speed of thought®](https://www.charachorder.com/)
+
+- [Learn - CharaChorder](https://www.charachorder.com/pages/learn)
 
 #### [Forge Keyboard](https://forgekeyboard.com/)
 
