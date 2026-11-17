@@ -2,7 +2,7 @@
 title: Tangent 對學習使用 CharaChorder 3D 輸入裝置英打（逐字輸入）的建議
 description: Tangent 分享他對學習使用 CharaChorder 3D 輸入裝置（CharaChorder One、CharaChorder Two、CCU 和 Master Forge）英打（逐字輸入）的建議。 
 date: 2025-07-12T01:16:38.846Z
-updated: 2026-11-13T13:27:19.209Z
+updated: 2026-11-17T13:54:01.413Z
 categories: [文章, 語言]
 alias:
   - /2025/07/10/tangent-對學習使用-charachorder-3d-輸入裝置英打（逐字輸入）的建議/
@@ -139,3 +139,14 @@ Dot i/o 和 CharaChorder LaunchPad 上只有 CC1 和 CCL 的預覽圖。但 CC2 
 
 舉例來說，你可以寫個小文章或小程式，或做其他會用鍵盤的事情。這過程你可能會發現一些你想調整的按鍵位置或設定。
 {% endcollapsecard %}
+
+## 下一步
+
+在你完成「練習單字」階段的目標後，恭喜你，你已經在練習工具中達到平均 QWERTY 英打速度了。
+
+下一步要學習什麼或嘗試什麼會根據你的需求而定。舉例來說：
+
+1. 如果想再提高速度，你可以開始學習和弦輸入。我有<a href="{% post_path tangent-對學習使用-charachorder-輸入裝置英文和弦輸入的建議 %}">另一篇關於學習英文和弦輸入的文章</a>供你參考。
+2. 你可以在你的使用情境（如寫作、寫程式等）中，再花一些時間熟悉使用並最佳化裝置的設定。以我為例，我依照我的使用情境來設定裝置上的佈局。包含中文打字、寫程式和滑鼠操作。你如果有興趣了解，可以在<a href="{% post_path tangent-在-charachorder-one、charachorder-two-和-master-forge-上的最新佈局 %}">這篇文章看到我最新的佈局設定</a>。
+3. 如果你需要打其他語言，你可能需要個別學習該語言的輸入，或可能需要調整裝置的佈局和設定等。我的話，我設計了幾個版本的佈局來支援我的中打，並且持續練習，直到達到速度能接受為止。
+
