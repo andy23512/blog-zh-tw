@@ -116,31 +116,16 @@ deploy:
   type: ""
   ignore_hidden: false
 
-# Markdown-it config
-## Docs: https://github.com/celsomiranda/hexo-renderer-markdown-it/wiki
-markdown:
-  render:
-    html: true
-    xhtmlOut: false
-    breaks: true
-    linkify: true
-    typographer: true
-    quotes: "“”‘’"
-  plugins:
-    - markdown-it-abbr
-    - markdown-it-footnote
-    - markdown-it-ins
-    - markdown-it-sub
-    - markdown-it-sup
-    - markdown-it-container
-    - markdown-it-mark
-    - markdown-it-emoji
-  anchors:
-    level: 2
-    collisionSuffix: "v"
-    permalink: true
-    permalinkClass: header-anchor
-    permalinkSymbol: ¶
+# Markdown (hexo-renderer-marked)
+## Docs: https://github.com/hexojs/hexo-renderer-marked
+## Extra syntax (footnote, ==mark==, :emoji:, ...) is added in scripts/marked-extensions.js
+marked:
+  gfm: true
+  breaks: true
+  smartypants: true
+  prependRoot: false
+  autolink: true
+  quotes: "“”‘’"
 
 sitemap:
   path: sitemap.xml
