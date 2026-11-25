@@ -221,16 +221,40 @@ function smartQuotes(inlineTokens, quotes) {
   }
 }
 
-// Apply smartQuotes to every block that holds inline tokens.
+// marked cuts plain text at every '!' (it may start an image), while markdown-it
+// sees the whole run. Join neighbouring plain text so rules that span such a
+// cut (the '!!!!' -> '!!!' replacement and the quote logic) behave the same.
+function mergeText(tokens) {
+  for (let i = 0; i < tokens.length; i++) {
+    const t = tokens[i];
+    if (t.type === 'text' && !t.tokens) {
+      while (tokens[i + 1] && tokens[i + 1].type === 'text' && !tokens[i + 1].tokens) {
+        t.raw += tokens[i + 1].raw;
+        t.text += tokens[i + 1].text;
+        tokens.splice(i + 1, 1);
+      }
+      t.text = t.text.replace(/([?!]){4,}/g, '$1$1$1');
+    } else if (Array.isArray(t.tokens)) {
+      mergeText(t.tokens);
+    }
+  }
+}
+
+function inlineBlock(tokens, quotes) {
+  mergeText(tokens);
+  smartQuotes(tokens, quotes);
+}
+
+// Apply the inline rules to every block that holds inline tokens.
 function walkBlocks(tokens, quotes) {
   for (const t of tokens) {
     if (t.type === 'paragraph' || t.type === 'heading' || (t.type === 'text' && Array.isArray(t.tokens))) {
-      smartQuotes(t.tokens, quotes);
+      inlineBlock(t.tokens, quotes);
       continue;
     }
     if (t.type === 'table') {
-      t.header.forEach((c) => smartQuotes(c.tokens, quotes));
-      t.rows.forEach((row) => row.forEach((c) => smartQuotes(c.tokens, quotes)));
+      t.header.forEach((c) => inlineBlock(c.tokens, quotes));
+      t.rows.forEach((row) => row.forEach((c) => inlineBlock(c.tokens, quotes)));
       continue;
     }
     for (const key of ['tokens', 'items', 'content']) {
