@@ -13,7 +13,8 @@ alias:
 otherLanguages:
   - text: English Version
     lang: en
-    path: https://andy23512.com/blog/tangent-s-unofficial-master-forge-fulfillment-statistic/
+    path: https://andy23512.github.io/blog/tangent-s-unofficial-master-forge-fulfillment-statistic/
+hackMDUrl: https://hackmd.io/@andy23512/HyaAc1SwJe
 ---
 {% blockquote %}
   :information_source: [官方的 M4G 進度追蹤表在這裡]( https://docs.google.com/spreadsheets/d/1Uy-42ZnZtAp04t60u5HdqckIBhLyHd3evKrT8vPyewI/edit?gid=0#gid=0)，另外[官方的 M4G 訂單履行日期預測器在這裡](https://wheresmyforge.charachorder.com/)。
